@@ -2,20 +2,19 @@
 
 
 ## Overview
-
-### Dscription
+### Description
 #### Introduction
 본 대회는 구글 코리아가 후원하고, 캐글 코리아(비영리 페이스북 온라인 커뮤니티)가 진행하는 데이터 사이언스 대회입니다. Academic 목적이며, 대한민국 누구나 참여하실 수 있습니다.
 
 #### Competition background
 내 집 마련의 꿈은 누구나 가지고 있습니다. 하지만 집의 가격은 누구나 알고 있지는 않죠. 집의 가격은 주거 공간의 면적, 위치, 경관, 건물의 연식 등 여러 가지 복잡한 요인의 조합에 의해 결정됩니다. 이번에 분석하실 데이터는 20개의 변수를 가지고 있으며, 어떤 조건을 가진 집의 가격이 높고 낮은지를 예측하는 모델을 만드는 것을 목표로 합니다. 이번 대회는 리더보드 점수뿐만 아니라 캐글의 공유 정신의 기본인 커널 작성을 장려하는 목표를 가지고 있습니다.
 
-## Evaluation
-### RMSE
+### Evaluation
+#### RMSE
 이번 대회의 평가 방식은 Root Mean Squared Error 입니다.
 $$ {\sqrt{ {1 \over N} \sum{(yt - y{pr})}^2}} $$
 
-## Prize
+### Prize
 2019 ML month 2nd의 Prize는 세가지 Prize Track으로 구성되어 있습니다.
 
 - 상위 리더보드 100명 (대회가 마무리된 후 사용한 소스코드를 커널 항목에 공개 의무가 있습니다.)
@@ -23,7 +22,7 @@ $$ {\sqrt{ {1 \over N} \sum{(yt - y{pr})}^2}} $$
 - 튜터들이 뽑은 좋은 분석이 담긴 커널을 만든 10팀
 - 총 120팀
 
-## Timeline
+### Timeline
 대회 일정 UTC time 기준
 - Start Date : 2019/03/11 00:00
 - Entry Deadline : None
@@ -31,7 +30,6 @@ $$ {\sqrt{ {1 \over N} \sum{(yt - y{pr})}^2}} $$
 
 
 ## Data
-
 ### Data Description
 #### File descriptions
 - train.csv - 예측 모델을 만들기 위해 사용하는 학습 데이터입니다. 집의 정보와 예측할 변수인 가격(Price) 변수를 가지고 있습니다.
