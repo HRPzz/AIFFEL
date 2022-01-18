@@ -1,6 +1,6 @@
 # [2019 2nd ML month with KaKR 캐글 코리아와 함께하는 2nd ML 대회 - House Price Prediction](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr/overview)
 
-
+---
 ## Overview
 ### Description
 #### Introduction
@@ -12,7 +12,7 @@
 ### Evaluation
 #### RMSE
 이번 대회의 평가 방식은 Root Mean Squared Error 입니다.
-$$ {\sqrt{ {1 \over N} \sum{(yt - y{pr})}^2}} $$
+$${\sqrt{ {1 \over N} \sum{(yt - y{pr})}^2}}$$
 
 ### Prize
 2019 ML month 2nd의 Prize는 세가지 Prize Track으로 구성되어 있습니다.
@@ -28,7 +28,7 @@ $$ {\sqrt{ {1 \over N} \sum{(yt - y{pr})}^2}} $$
 - Entry Deadline : None
 - End Date : 2019/04/22 23:59
 
-
+---
 ## Data
 ### Data Description
 #### File descriptions
@@ -59,6 +59,7 @@ $$ {\sqrt{ {1 \over N} \sum{(yt - y{pr})}^2}} $$
 20. sqft_living15 : 2015년 기준 주거 공간의 평방 피트(면적, 집을 재건축했다면, 변화가 있을 수 있음)
 21. sqft_lot15 : 2015년 기준 부지의 평방 피트(면적, 집을 재건축했다면, 변화가 있을 수 있음)
 
+---
 ## Rulse
 ### 유의 사항
 본 컴퍼티션은 ML을 공부하고, 즐기기 위한 시작을 알리는 컴퍼티션 입니다.
