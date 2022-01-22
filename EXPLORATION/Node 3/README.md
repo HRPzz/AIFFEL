@@ -19,17 +19,14 @@
 데이터에 어떤 정보가 담겨있는지, feature는 무엇이고 label은 무엇인지 확인
 
 - Step 1. 스티커 구하기 or 만들기
-![](https://cdn-icons-png.flaticon.com/512/24/24674.png)
-
+  - ![](https://cdn-icons-png.flaticon.com/512/24/24674.png)
   - (1) 고양이 수염 이미지를 다운로드
   - (2) 셀카 이미지도 촬영
-
 - Step 2. 얼굴 검출 & 랜드마크 검출 하기
   - 라이브러리 dlib 사용
   - 얼굴의 bounding box 위치와 landmark의 위치 찾기
 - Step 3. 스티커 적용 위치 확인하기
-![](https://d3s0tskafalll9.cloudfront.net/media/original_images/E-8-8.png)
-
+  - ![](https://d3s0tskafalll9.cloudfront.net/media/original_images/E-8-8.png)
 - Step 4. 스티커 적용하기
   - (1) np.where 를 사용해서 스티커 적용
   - (2) 스티커 뒤로 원본 이미지가 같이 보이게 만들기: opencv 의 cv2.addWeighted() 사용
