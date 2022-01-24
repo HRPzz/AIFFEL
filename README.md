@@ -9,7 +9,7 @@
 |3|[카메라 스티커앱 만들기 첫걸음](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%203/%5BE-03%5D%20camera_sticker_app.ipynb)|✔|2022.01.15|
 |4|[작사가 인공지능 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%204/%5BE-04%5D%20AI%20Lyricist.ipynb)|✔|2022.01.14|
 |5|나의 첫 번째 캐글 경진대회, 무작정 따라해보기|-|2022.01.XX|
-|6|영화리뷰 텍스트 감성분석하기|-|2022.01.XX|
+|6|[영화리뷰 텍스트 감성분석하기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%206/%5BE-06%5D%20Naver%20movie%20sentiment%20analysis.ipynb)|✔|2022.01.24|
 |7|-|-|-|
 |8|-|-|-|
 |9|-|-|-|
@@ -36,7 +36,7 @@
 |16|파이썬으로 이미지 파일 다루기|✔|
 |17|딥러닝과 신경망의 본질|✔|
 |18|딥러닝 들여다보기|✔|
-|19|-|-|
+|19|선형 회귀와 로지스틱 회귀|✔|
 |20|-|-|
 |21|-|-|
 |22|-|-|
