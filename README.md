@@ -2,44 +2,47 @@
 ![](https://aiffel-front-prod-asset.s3.ap-northeast-2.amazonaws.com/img/logo/aiffel_logo.png)
 
 ## EXPLORATION
-|번호|노드 제목|완료 여부|제출 날짜|
-|:---:|:---:|:---:|:---:|
-|1|[인공지능과 가위바위보 하기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%201/%5BE-01%5D%20rock_scissor_paper_classifier.ipynb)|✔|2022.01.05|
-|2|[Iris의 세 가지 품종, 분류해볼 수 있겠어요?](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%202/%5BE-02%5D%20wine_classifier.ipynb)|✔|2022.01.11|
-|3|[카메라 스티커앱 만들기 첫걸음](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%203/%5BE-03%5D%20camera_sticker_app.ipynb)|✔|2022.01.15|
-|4|[작사가 인공지능 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%204/%5BE-04%5D%20AI%20Lyricist.ipynb)|✔|2022.01.14|
-|5|나의 첫 번째 캐글 경진대회, 무작정 따라해보기|-|2022.01.XX|
-|6|[영화리뷰 텍스트 감성분석하기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%206/%5BE-06%5D%20Naver%20movie%20sentiment%20analysis.ipynb)|✔|2022.01.24|
-|7|-|-|-|
-|8|-|-|-|
-|9|-|-|-|
-|10|-|-|-|
+|Num|Node Title|Complete|Week|Submission Date|
+|:---:|:---:|:---:|:---:|:---:|
+|1|[인공지능과 가위바위보 하기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%201/%5BE-01%5D%20rock_scissor_paper_classifier.ipynb)|✔|2|2022.01.05|
+|2|[Iris의 세 가지 품종, 분류해볼 수 있겠어요?](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%202/%5BE-02%5D%20wine_classifier.ipynb)|✔|2|2022.01.11|
+|3|[카메라 스티커앱 만들기 첫걸음](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%203/%5BE-03%5D%20camera_sticker_app.ipynb)|✔|3|2022.01.15|
+|4|[작사가 인공지능 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%204/%5BE-04%5D%20AI%20Lyricist.ipynb)|✔|3|2022.01.14|
+|5|[나의 첫 번째 캐글 경진대회, 무작정 따라해보기]()|-|4|2022.01.XX|
+|6|[영화리뷰 텍스트 감성분석하기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%206/%5BE-06%5D%20Naver%20movie%20sentiment%20analysis.ipynb)|✔|4|2022.01.24|
+|7|[인물사진을 만들어 보자]()|-|5|2022.01.XX|
+|8|-|-|5|2022.01.XX|
+|9|-|-|6|-|
+|10|-|-|6|-|
+|11|-|-|-|-|
+|12|-|-|-|-|
 
 ## FUNDAMENTALS
-|번호|노드 제목|완료 여부|
-|:---:|:---:|:---:|
-|1|Ready to go?|✔|
-|2|인공지능 개발자가 되기 위한 위대한 첫 걸음|✔|
-|3|터미널로 배우는 리눅스 운영체제|✔|
-|4|개발자를 위한 첫 번째 필수 교양|✔|
-|5|날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?|-|
-|6|파이썬으로 코딩 시작하기|✔|
-|7|텍스트의 다양한 변신 (문자열, 파일 다루기)|✔|
-|8|파이썬 잘하는 척 해보자|✔|
-|9|Data 어떻게 표현하면 좋을까? 배열(array)과 표(table)|✔|
-|10|다양한 데이터 전처리 기법|✔|
-|11|데이터를 한눈에! Visualization|✔|
-|12|사이킷런으로 구현해 보는 머신러닝|✔|
-|13|당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기|✔|
-|14|거울아 거울아, 나는 멍멍이 상이니, 아니면 냥이 상이니?|✔|
-|15|🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리|✔|
-|16|파이썬으로 이미지 파일 다루기|✔|
-|17|딥러닝과 신경망의 본질|✔|
-|18|딥러닝 들여다보기|✔|
-|19|선형 회귀와 로지스틱 회귀|✔|
-|20|-|-|
-|21|-|-|
-|22|-|-|
+|Num|Node Title|Complete|Week|
+|:---:|:---:|:---:|:---:|
+|1|Ready to go?|✔|1|
+|2|인공지능 개발자가 되기 위한 위대한 첫 걸음|✔|1|
+|3|터미널로 배우는 리눅스 운영체제|✔|1|
+|4|개발자를 위한 첫 번째 필수 교양|✔|1|
+|5|날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?|-|1|
+|6|파이썬으로 코딩 시작하기|✔|1|
+|7|텍스트의 다양한 변신 (문자열, 파일 다루기)|✔|1|
+|8|파이썬 잘하는 척 해보자|✔|1|
+|9|Data 어떻게 표현하면 좋을까? 배열(array)과 표(table)|✔|1|
+|10|다양한 데이터 전처리 기법|✔|2|
+|11|데이터를 한눈에! Visualization|✔|2|
+|12|사이킷런으로 구현해 보는 머신러닝|✔|2|
+|13|당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기|✔|3|
+|14|거울아 거울아, 나는 멍멍이 상이니, 아니면 냥이 상이니?|✔|3|
+|15|🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리|✔|3|
+|16|파이썬으로 이미지 파일 다루기|✔|4|
+|17|딥러닝과 신경망의 본질|✔|4|
+|18|딥러닝 들여다보기|✔|4|
+|19|선형 회귀와 로지스틱 회귀|✔|5|
+|20|-|-|5|
+|21|-|-|5|
+|22|-|-|-|
+|23|-|-|-|
 
 ---
 ![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F573551f3-d67e-4e77-ad9c-235cf51e1ce4%2FcoverIMG_MASTERPAGE_COVER_(1).png&blockId=b67b7152-c891-47a7-99e4-73797fb3bab5&width=3600)
