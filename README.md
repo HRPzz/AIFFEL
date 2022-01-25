@@ -1,4 +1,4 @@
-# AIFFEL DAEGU 1
+# AIFFEL DAEGU 1 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![](https://aiffel-front-prod-asset.s3.ap-northeast-2.amazonaws.com/img/logo/aiffel_logo.png)
 
 ## EXPLORATION
@@ -24,7 +24,7 @@
 |2|인공지능 개발자가 되기 위한 위대한 첫 걸음|✔|1|
 |3|터미널로 배우는 리눅스 운영체제|✔|1|
 |4|개발자를 위한 첫 번째 필수 교양|✔|1|
-|5|날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?|-|1|
+|5|날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?|-|4|
 |6|파이썬으로 코딩 시작하기|✔|1|
 |7|텍스트의 다양한 변신 (문자열, 파일 다루기)|✔|1|
 |8|파이썬 잘하는 척 해보자|✔|1|
