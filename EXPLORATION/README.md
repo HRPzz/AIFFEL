@@ -9,7 +9,7 @@
 |4|[작사가 인공지능 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%204/%5BE-04%5D%20AI%20Lyricist.ipynb)|✔|3|2022.01.13|2022.01.14|
 |5|[나의 첫 번째 캐글 경진대회, 무작정 따라해보기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%205/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb)|✔|4|2022.01.18|2022.01.25|
 |6|[영화리뷰 텍스트 감성분석하기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%206/%5BE-06%5D%20Naver%20movie%20sentiment%20analysis.ipynb)|✔|4|2022.01.20|2022.01.24|
-|7|인물사진을 만들어 보자|-|5|2022.01.25|2022.01.XX|
+|7|[인물사진을 만들어 보자](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%207/%5BE-07%5D%20make_a_portrait.ipynb)|-|5|2022.01.25|2022.02.01|
 |8|뉴스 요약봇 만들기|-|5|2022.01.27|2022.01.XX|
 |9|-|-|6|2022.02.03|-|
 |10|-|-|-|-|-|
