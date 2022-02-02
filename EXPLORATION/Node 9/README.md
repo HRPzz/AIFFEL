@@ -13,13 +13,13 @@
 
 ---
 ## 9-6. 프로젝트: 폐렴 진단기 성능 개선
-Step 1. 실험환경 Set-up
-Step 2. 데이터 준비하기
-Step 3. 데이터 시각화
-Step 4. CNN 모델링
-Step 5. 데이터 imbalance 처리
-Step 6. 모델 훈련
-Step 7. 결과 확인과 시각화
+- Step 1. 실험환경 Set-up
+- Step 2. 데이터 준비하기
+- Step 3. 데이터 시각화
+- Step 4. CNN 모델링
+- Step 5. 데이터 imbalance 처리
+- Step 6. 모델 훈련
+- Step 7. 결과 확인과 시각화
 
 ---
 >## **루브릭**
