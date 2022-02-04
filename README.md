@@ -53,15 +53,15 @@
 ---
 ## EXPLORATION
 |Num|Node Title|Evaluation|Week|Open Date|Submission Date|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|[인공지능과 가위바위보 하기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%201/%5BE-01%5D%20rock_scissor_paper_classifier.ipynb)|★★☆|2|22.01.04|22.01.05|
-|2|[Iris의 세 가지 품종, 분류해볼 수 있겠어요?](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%202/%5BE-02%5D%20wine_classifier.ipynb)|★★★|2|22.01.06|22.01.11|
-|3|[카메라 스티커앱 만들기 첫걸음](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%203/%5BE-03%5D%20camera_sticker_app.ipynb)|★★★|3|22.01.11|22.01.15|
-|4|[작사가 인공지능 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%204/%5BE-04%5D%20AI%20Lyricist.ipynb)|★★☆|3|22.01.13|22.01.14|
-|5|[나의 첫 번째 캐글 경진대회, 무작정 따라해보기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%205/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb)|★★☆|4|22.01.18|22.01.25|
-|6|[영화리뷰 텍스트 감성분석하기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%206/%5BE-06%5D%20Naver%20movie%20sentiment%20analysis.ipynb)|★★★|4|22.01.20|22.01.24|
-|7|[인물사진을 만들어 보자](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%207/%5BE-07%5D%20make_a_portrait.ipynb)|★★★|5|22.01.25|22.02.01|
-|8|[뉴스 요약봇 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%208/%5BE-08%5D%20news_summary_bot.ipynb)|★★★|5|22.01.27|22.02.03|
+|:---:|---|:---:|:---:|:---:|:---:|
+|1|[인공지능과 가위바위보 하기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%201/%5BE-01%5D%20rock_scissor_paper_classifier.ipynb)|⭐⭐☆|2|22.01.04|22.01.05|
+|2|[Iris의 세 가지 품종, 분류해볼 수 있겠어요?](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%202/%5BE-02%5D%20wine_classifier.ipynb)|⭐⭐⭐|2|22.01.06|22.01.11|
+|3|[카메라 스티커앱 만들기 첫걸음](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%203/%5BE-03%5D%20camera_sticker_app.ipynb)|⭐⭐⭐|3|22.01.11|22.01.15|
+|4|[작사가 인공지능 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%204/%5BE-04%5D%20AI%20Lyricist.ipynb)|⭐⭐☆|3|22.01.13|22.01.14|
+|5|[나의 첫 번째 캐글 경진대회, 무작정 따라해보기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%205/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb)|⭐⭐☆|4|22.01.18|22.01.25|
+|6|[영화리뷰 텍스트 감성분석하기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%206/%5BE-06%5D%20Naver%20movie%20sentiment%20analysis.ipynb)|⭐⭐⭐|4|22.01.20|22.01.24|
+|7|[인물사진을 만들어 보자](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%207/%5BE-07%5D%20make_a_portrait.ipynb)|⭐⭐⭐|5|22.01.25|22.02.01|
+|8|[뉴스 요약봇 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%208/%5BE-08%5D%20news_summary_bot.ipynb)|⭐⭐⭐|5|22.01.27|22.02.03|
 |9|폐렴아 기다려라!|-|6|22.02.03|22.02.xx|
 |10|-|-|7|22.02.08|-|
 |11|-|-|7|22.02.10|-|
@@ -72,30 +72,30 @@
 |16|-|-|-|-|-|
 
 ## FUNDAMENTALS
-|Num|Node Title|Complete|Week|Open Date|
-|:---:|:---:|:---:|:---:|:---:|
-|1|Ready to go?|✔|1|21.12.28|
-|2|인공지능 개발자가 되기 위한 위대한 첫 걸음|✔|1|21.12.28|
-|3|터미널로 배우는 리눅스 운영체제|✔|1|21.12.28|
-|4|개발자를 위한 첫 번째 필수 교양|✔|1|21.12.28|
-|5|날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?|✔|4|21.01.18|
-|6|파이썬으로 코딩 시작하기|✔|1|21.12.28|
-|7|텍스트의 다양한 변신 (문자열, 파일 다루기)|✔|1|21.12.29|
-|8|파이썬 잘하는 척 해보자|✔|1|21.12.30|
-|9|Data 어떻게 표현하면 좋을까? 배열(array)과 표(table)|✔|1|21.12.31|
-|10|다양한 데이터 전처리 기법|✔|2|22.01.03|
-|11|데이터를 한눈에! Visualization|✔|2|22.01.05|
-|12|사이킷런으로 구현해 보는 머신러닝|✔|2|22.01.07|
-|13|당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기|✔|3|22.01.10|
-|14|거울아 거울아, 나는 멍멍이 상이니, 아니면 냥이 상이니?|✔|3|22.01.12|
-|15|🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리|✔|3|22.01.14|
-|16|파이썬으로 이미지 파일 다루기|✔|4|22.01.17|
-|17|딥러닝과 신경망의 본질|✔|4|22.01.19|
-|18|딥러닝 들여다보기|✔|4|22.01.21|
-|19|선형 회귀와 로지스틱 회귀|✔|5|22.01.24|
-|20|비지도학습|✔|5|22.01.26|
-|21|TF2 API 개요|✔|5|22.01.28|
-|22|딥네트워크, 서로 뭐가 다른 거죠?|✔|6|22.02.04|
+|Num|Node Title|Week|Open Date|
+|:---:|---|:---:|:---:|
+|1|Ready to go?|1|21.12.28|
+|2|인공지능 개발자가 되기 위한 위대한 첫 걸음|1|21.12.28|
+|3|터미널로 배우는 리눅스 운영체제|1|21.12.28|
+|4|개발자를 위한 첫 번째 필수 교양|1|21.12.28|
+|5|날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?|4|21.01.18|
+|6|파이썬으로 코딩 시작하기|1|21.12.28|
+|7|텍스트의 다양한 변신 (문자열, 파일 다루기)|1|21.12.29|
+|8|파이썬 잘하는 척 해보자|1|21.12.30|
+|9|Data 어떻게 표현하면 좋을까? 배열(array)과 표(table)|1|21.12.31|
+|10|다양한 데이터 전처리 기법|2|22.01.03|
+|11|데이터를 한눈에! Visualization|2|22.01.05|
+|12|사이킷런으로 구현해 보는 머신러닝|2|22.01.07|
+|13|당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기|3|22.01.10|
+|14|거울아 거울아, 나는 멍멍이 상이니, 아니면 냥이 상이니?|3|22.01.12|
+|15|🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리|3|22.01.14|
+|16|파이썬으로 이미지 파일 다루기|4|22.01.17|
+|17|딥러닝과 신경망의 본질|4|22.01.19|
+|18|딥러닝 들여다보기|4|22.01.21|
+|19|선형 회귀와 로지스틱 회귀|5|22.01.24|
+|20|비지도학습|5|22.01.26|
+|21|TF2 API 개요|5|22.01.28|
+|22|딥네트워크, 서로 뭐가 다른 거죠?|6|22.02.04|
 |23|-|-|7|22.02.07|
 |24|-|-|7|22.02.09|
 |25|-|-|7|22.02.11|
