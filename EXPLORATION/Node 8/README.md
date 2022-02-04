@@ -5,6 +5,21 @@
   - 끊임없이 늘어나는 정보를 쉽고 빠르게 소화하기 위해서 굉장히 중요한 기술
   - 큰 정보들을 소화할 수 있도록 도와줌
 
+- 추출적 요약(Extractive Summarization)
+  - 원문에서 문장들을 추출해서 요약하는 방식
+  - 결과로 나온 문장들 간의 호응이 자연스럽지 않을 수 있다.
+  - 요약문에 들어갈 핵심문장인지 판별한다는 점에서 문장 분류(Text Classification) 문제
+
+- 추상적 요약(Abstractive Summarization)
+  - 원문으로부터 내용이 요약된 새로운 문장을 생성
+    - 결과로 나온 문장이 원문에 원래 없던 문장일 수도 있다.
+  - 자연어 처리 분야 중 자연어 생성(Natural Language Generation, NLG)의 영역
+    - 자연어 생성 기본 신경망: RNN
+
+- 추출적 요약 vs 추상적 요약
+  - 추출적 요약: 문장 분류(Text Classification) 문제
+  - 추상적 요약: 자연어 생성(Natural Language Generation, NLG)의 영역
+
 ---
 ## 학습 목표
 - Extractive/Abstractive summarization 이해하기
