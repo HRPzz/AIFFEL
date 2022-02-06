@@ -53,7 +53,7 @@
 
 ---
 ## EXPLORATION
-|Num|Tag|Node Title|grade|Week|Open|Submit|
+|N|Tag|Node Title|grade|Week|Open|Submit|
 |:---:|---|---|:---:|:---:|:---:|:---:|
 |1|DL|[인공지능과 가위바위보 하기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%201/%5BE-01%5D%20rock_scissor_paper_classifier.ipynb) by 김승일|⭐⭐☆|2|01.04|01.05|
 |2|ML|[Iris의 세 가지 품종, 분류해볼 수 있겠어요?](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%202/%5BE-02%5D%20wine_classifier.ipynb) by 정민정|⭐⭐⭐|2|01.06|01.11|
