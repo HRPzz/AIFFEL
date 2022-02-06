@@ -57,57 +57,57 @@
 ## EXPLORATION
 |Num|Tag|Node Title|Writer|grade|Week|Open|Submit|
 |:---:|---|---|:---:|:---:|:---:|:---:|:---:|
-|1|DL|[인공지능과 가위바위보 하기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%201/%5BE-01%5D%20rock_scissor_paper_classifier.ipynb)|김승일|⭐⭐☆|2|22.01.04|22.01.05|
-|2|ML|[Iris의 세 가지 품종, 분류해볼 수 있겠어요?](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%202/%5BE-02%5D%20wine_classifier.ipynb)|정민정|⭐⭐⭐|2|22.01.06|22.01.11|
-|3|dlib, CV|[카메라 스티커앱 만들기 첫걸음](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%203/%5BE-03%5D%20camera_sticker_app.ipynb)|우태강|⭐⭐⭐|3|22.01.11|22.01.15|
-|4|DL, NLP|[작사가 인공지능 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%204/%5BE-04%5D%20AI%20Lyricist.ipynb)|문성원|⭐⭐☆|3|22.01.13|22.01.14|
-|5|Kaggle, EDA|[나의 첫 번째 캐글 경진대회, 무작정 따라해보기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%205/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb)|정민정|⭐⭐☆|4|22.01.18|22.01.25|
-|6|DL, NLP|[영화리뷰 텍스트 감성분석하기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%206/%5BE-06%5D%20Naver%20movie%20sentiment%20analysis.ipynb)|우지철|⭐⭐⭐|4|22.01.20|22.01.24|
-|7|pixellib, CV|[인물사진을 만들어 보자](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%207/%5BE-07%5D%20make_a_portrait.ipynb)|우태강|⭐⭐⭐|5|22.01.25|22.02.01|
-|8|DL, NLP|[뉴스 요약봇 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%208/%5BE-08%5D%20news_summary_bot.ipynb)|유원준|⭐⭐⭐|5|22.01.27|22.02.03|
-|9|DL, CV, CNN|폐렴아 기다려라!|유원준|-|6|22.02.03|22.02.xx|
-|10|-|-|-|-|7|22.02.08|-|
-|11|-|-|-|-|7|22.02.10|-|
-|12|-|-|-|-|8|22.02.15|-|
-|13|-|-|-|-|8|22.02.17|-|
-|14|-|-|-|-|9|22.02.22|-|
-|15|-|-|-|-|9|22.02.24|-|
+|1|DL|[인공지능과 가위바위보 하기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%201/%5BE-01%5D%20rock_scissor_paper_classifier.ipynb)|김승일|⭐⭐☆|2|01.04|01.05|
+|2|ML|[Iris의 세 가지 품종, 분류해볼 수 있겠어요?](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%202/%5BE-02%5D%20wine_classifier.ipynb)|정민정|⭐⭐⭐|2|01.06|01.11|
+|3|dlib, CV|[카메라 스티커앱 만들기 첫걸음](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%203/%5BE-03%5D%20camera_sticker_app.ipynb)|우태강|⭐⭐⭐|3|01.11|01.15|
+|4|DL, NLP|[작사가 인공지능 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%204/%5BE-04%5D%20AI%20Lyricist.ipynb)|문성원|⭐⭐☆|3|01.13|01.14|
+|5|Kaggle, EDA|[나의 첫 번째 캐글 경진대회, 무작정 따라해보기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%205/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb)|정민정|⭐⭐☆|4|01.18|01.25|
+|6|DL, NLP|[영화리뷰 텍스트 감성분석하기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%206/%5BE-06%5D%20Naver%20movie%20sentiment%20analysis.ipynb)|우지철|⭐⭐⭐|4|01.20|01.24|
+|7|pixellib, CV|[인물사진을 만들어 보자](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%207/%5BE-07%5D%20make_a_portrait.ipynb)|우태강|⭐⭐⭐|5|01.25|02.01|
+|8|DL, NLP|[뉴스 요약봇 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%208/%5BE-08%5D%20news_summary_bot.ipynb)|유원준|⭐⭐⭐|5|01.27|02.03|
+|9|DL, CV, CNN|폐렴아 기다려라!|유원준|-|6|02.03|02.xx|
+|10|-|-|-|-|7|02.08|-|
+|11|-|-|-|-|7|02.10|-|
+|12|-|-|-|-|8|02.15|-|
+|13|-|-|-|-|8|02.17|-|
+|14|-|-|-|-|9|02.22|-|
+|15|-|-|-|-|9|02.24|-|
 |16|-|-|-|-|-|-|-|
 
 ## FUNDAMENTALS
 |Num|Tag|Node Title|Writer|Week|Open|
 |:---:|---|---|:---:|:---:|:---:|
-|1|LMS, Cloud Jupyter|Ready to go?|백병인|1|21.12.28|
-|2|CLI, Anaconda|인공지능 개발자가 되기 위한 위대한 첫 걸음|정민정|1|21.12.28|
-|3|OS, Linux|터미널로 배우는 리눅스 운영체제|오상준|1|21.12.28|
-|4|Git, GitHub|개발자를 위한 첫 번째 필수 교양|정민정|1|21.12.28|
-|5|Kaggle, EDA|날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?|-|4|21.01.18|
-|6|Python|파이썬으로 코딩 시작하기|오상준|1|21.12.28|
-|7|Python|텍스트의 다양한 변신 (문자열, 파일 다루기)|손주영|1|21.12.29|
-|8|Python|파이썬 잘하는 척 해보자|장도영|1|21.12.30|
-|9|Numpy, Pandas|Data 어떻게 표현하면 좋을까? 배열(array)과 표(table)|손주영|1|21.12.31|
-|10|EDA, Data Processing|다양한 데이터 전처리 기법|박윤진|2|22.01.03|
-|11|Matplotlib, Seaborn|데이터를 한눈에! Visualization|손주영|2|22.01.05|
-|12|ML, Scikit-learn|사이킷런으로 구현해 보는 머신러닝|손주영|2|22.01.07|
-|13|Python, OOP|당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기|손주영|3|22.01.10|
-|14|DL, Model, 지도학습, 분류|거울아 거울아, 나는 멍멍이 상이니, 아니면 냥이 상이니?|-|3|22.01.12|
-|15|Kaggle, EDA|🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리|정민정|3|22.01.14|
-|16|pillow, CV|파이썬으로 이미지 파일 다루기|오상준|4|22.01.17|
-|17|DL, NN|딥러닝과 신경망의 본질|정민정|4|22.01.19|
-|18|DL, Numpy|딥러닝 들여다보기|우지철|4|22.01.21|
-|19|ML, 지도학습, 회귀|선형 회귀와 로지스틱 회귀|표정우|5|22.01.24|
-|20|ML, 비지도학습|비지도학습|표정우|5|22.01.26|
-|21|DL, Keras|TF2 API 개요|우지철|5|22.01.28|
-|22|DL, CV, CNN, Models|딥네트워크, 서로 뭐가 다른 거죠?|강상권|6|22.02.04|
-|23|DL, layers|딥러닝 레이어의 이해(1) Linear, Convolution|박윤진|7|22.02.07|
-|24|-|-|-|7|22.02.09|
-|25|-|-|-|7|22.02.11|
-|26|-|-|-|8|22.02.14|
-|27|-|-|-|8|22.02.16|
-|28|-|-|-|8|22.02.18|
-|29|-|-|-|9|22.02.21|
-|30|-|-|-|9|22.02.23|
-|31|-|-|-|9|22.02.25|
+|1|LMS, Cloud Jupyter|Ready to go?|백병인|1|12.28|
+|2|CLI, Anaconda|인공지능 개발자가 되기 위한 위대한 첫 걸음|정민정|1|12.28|
+|3|OS, Linux|터미널로 배우는 리눅스 운영체제|오상준|1|12.28|
+|4|Git, GitHub|개발자를 위한 첫 번째 필수 교양|정민정|1|12.28|
+|5|Kaggle, EDA|날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?|-|4|01.18|
+|6|Python|파이썬으로 코딩 시작하기|오상준|1|12.28|
+|7|Python|텍스트의 다양한 변신 (문자열, 파일 다루기)|손주영|1|12.29|
+|8|Python|파이썬 잘하는 척 해보자|장도영|1|12.30|
+|9|Numpy, Pandas|Data 어떻게 표현하면 좋을까? 배열(array)과 표(table)|손주영|1|12.31|
+|10|EDA, Data Processing|다양한 데이터 전처리 기법|박윤진|2|01.03|
+|11|Matplotlib, Seaborn|데이터를 한눈에! Visualization|손주영|2|01.05|
+|12|ML, Scikit-learn|사이킷런으로 구현해 보는 머신러닝|손주영|2|01.07|
+|13|Python, OOP|당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기|손주영|3|01.10|
+|14|DL, Model, 지도학습, 분류|거울아 거울아, 나는 멍멍이 상이니, 아니면 냥이 상이니?|-|3|01.12|
+|15|Kaggle, EDA|🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리|정민정|3|01.14|
+|16|pillow, CV|파이썬으로 이미지 파일 다루기|오상준|4|01.17|
+|17|DL, NN|딥러닝과 신경망의 본질|정민정|4|01.19|
+|18|DL, Numpy|딥러닝 들여다보기|우지철|4|01.21|
+|19|ML, 지도학습, 회귀|선형 회귀와 로지스틱 회귀|표정우|5|01.24|
+|20|ML, 비지도학습|비지도학습|표정우|5|01.26|
+|21|DL, Keras|TF2 API 개요|우지철|5|01.28|
+|22|DL, CV, CNN, Models|딥네트워크, 서로 뭐가 다른 거죠?|강상권|6|02.04|
+|23|DL, layers|딥러닝 레이어의 이해(1) Linear, Convolution|박윤진|7|02.07|
+|24|-|-|-|7|02.09|
+|25|-|-|-|7|02.11|
+|26|-|-|-|8|02.14|
+|27|-|-|-|8|02.16|
+|28|-|-|-|8|02.18|
+|29|-|-|-|9|02.21|
+|30|-|-|-|9|02.23|
+|31|-|-|-|9|02.25|
 |32|-|-|-|-|-|
 |33|-|-|-|-|-|
 |34|-|-|-|-|-|
