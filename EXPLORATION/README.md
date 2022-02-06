@@ -1,7 +1,7 @@
 # AIFFEL DAEGU 1 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL%2Ftree%2Fmain%2FEXPLORATION&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## EXPLORATION
-|Num|Tag|Node Title|grade|Week|Open|Submit|
+|Num|Tag|Node Title|grade|Week|Open|Done|
 |:---:|---|---|:---:|:---:|:---:|:---:|
 |1|DL|[인공지능과 가위바위보 하기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%201/%5BE-01%5D%20rock_scissor_paper_classifier.ipynb) by 김승일|⭐⭐☆|2|01.04|01.05|
 |2|ML|[Iris의 세 가지 품종, 분류해볼 수 있겠어요?](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%202/%5BE-02%5D%20wine_classifier.ipynb) by 정민정|⭐⭐⭐|2|01.06|01.11|
