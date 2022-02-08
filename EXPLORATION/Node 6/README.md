@@ -16,15 +16,7 @@
 ---
 ## 6-11. 프로젝트 : 네이버 영화리뷰 감성분석 도전하기
 1) 데이터 준비와 확인
-```python
-import pandas as pd
 
-# 데이터를 읽어봅시다. 
-train_data = pd.read_table('~/aiffel/sentiment_classification/data/ratings_train.txt')
-test_data = pd.read_table('~/aiffel/sentiment_classification/data/ratings_test.txt')
-
-train_data.head()
-```
 2) 데이터로더 구성
 - 데이터의 중복 제거
 - NaN 결측치 제거
@@ -43,6 +35,7 @@ train_data.head()
 7) 학습된 Embedding 레이어 분석
 8) 한국어 Word2Vec 임베딩 활용하여 성능 개선
    
+
 한국어 Word2Vec은 다음 경로에서 구할 수 있습니다.
 - [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors)
 
