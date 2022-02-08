@@ -64,7 +64,7 @@
 |7|pixellib, CV|[인물사진을 만들어 보자](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%207/%5BE-07%5D%20make_a_portrait.ipynb) by 우태강|⭐⭐⭐|5|01.25|02.01|
 |8|DL, NLP|[뉴스 요약봇 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%208/%5BE-08%5D%20news_summary_bot.ipynb) by 유원준|⭐⭐⭐|5|01.27|02.03|
 |9|DL, CV, CNN|폐렴아 기다려라! by 유원준|-|6|02.03|02.xx|
-|10|-|-|-|7|02.08|-|
+|10|DL, GAN|인공지능으로 세상에 없던 새로운 패션 만들기 by 정민정|-|7|02.08|-|
 |11|-|-|-|7|02.10|-|
 |12|-|-|-|8|02.15|-|
 |13|-|-|-|8|02.17|-|
