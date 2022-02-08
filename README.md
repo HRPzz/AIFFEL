@@ -17,8 +17,8 @@
 >| **4** | **19** | **20** | **21** | **22** | **23** | **24** | **25** |
 >| **To Do** | - | - | - | - | - | - | - |
 >| **5** | **26** | **27** | **28** | **29** | **30** | **31** | - |
->| **To Do** | - | OT | F6 | F7 | F8 | F9 | - |
->| - | - | - | F1 | F2 | F3 | F4 | - |
+>| **To Do** | - | OT | F-06 | F-07 | F-08 | F-09 | - |
+>| - | - | - | F-01 | F-02 | F-03 | F-04 | - |
 
 ### January 22
 >|Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
@@ -26,29 +26,29 @@
 >| **1** | - | - | - | - | - | - | **1** |
 >| **To Do** | - | - | - | - | - | - | - |
 >| **2** | **2** | **3** | **4** | **5** | **6** | **7** | **8** |
->| **To Do** | - | F10 | [E1](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%201/%5BE-01%5D%20rock_scissor_paper_classifier.ipynb) | F11 | [E2](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%202/%5BE-02%5D%20wine_classifier.ipynb) | F12 | - |
+>| **To Do** | - | F-10 | [E-01](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%201/%5BE-01%5D%20rock_scissor_paper_classifier.ipynb) | F-11 | [E-02](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%202/%5BE-02%5D%20wine_classifier.ipynb) | F-12 | - |
 >| **3** | **9** | **10** | **11** | **12** | **13** | **14** | **15** |
->| **To Do** | - | F13 | [E3](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%203/%5BE-03%5D%20camera_sticker_app.ipynb) | F14 | [E4](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%204/%5BE-04%5D%20AI%20Lyricist.ipynb) | F15 | - |
+>| **To Do** | - | F-13 | [E-03](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%203/%5BE-03%5D%20camera_sticker_app.ipynb) | F-14 | [E-04](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%204/%5BE-04%5D%20AI%20Lyricist.ipynb) | F-15 | - |
 >| **4** | **16** | **17** | **18** | **19** | **20** | **21** | **22** |
->| **To Do** | - | F16 | [E5](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%205/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb) | F17 | [E6](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%206/%5BE-06%5D%20Naver%20movie%20sentiment%20analysis.ipynb) | F18 | - |
+>| **To Do** | - | F-16 | [E-05](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%205/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb) | F-17 | [E-06](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%206/%5BE-06%5D%20Naver%20movie%20sentiment%20analysis.ipynb) | F-18 | - |
 >| **5** | **23** | **24** | **25** | **26** | **27** | **28** | **29** |
->| **To Do** | - | F19 | [E7](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%207/%5BE-07%5D%20make_a_portrait.ipynb) | F20 | [E8](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%208/%5BE-08%5D%20news_summary_bot.ipynb) | F21 | - |
->| **6** | **30** | - | - | - | - | - |
+>| **To Do** | - | F-19 | [E-07](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%207/%5BE-07%5D%20make_a_portrait.ipynb) | F-20 | [E-08](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node%208/%5BE-08%5D%20news_summary_bot.ipynb) | F-21 | - |
+>| **6** | **30** | - | - | - | - | - ||
 >| **To Do** | - | - | - | - | - | - | - |
 
 ### Fabruary 22
 >|Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 >| **1** | - | **1** | **2** | **3** | **4** | **5** | **6** |
->| **To Do** | - | - | - | - | E9 | F22 | - |
->| - | - | - | - | - | F5 | F4 | - |
+>| **To Do** | - | - | - | - | E-09 | F-22 | - |
+>| - | - | - | - | - | F-05 | F-04 | - |
 >| **2** | **7** | **8** | **9** | **10** | **11** | **12** | **13** |
->| **To Do** | - | F23 | E10 | F24 | E11 | F25 | - |
+>| **To Do** | - | F-23 | E-10 | F-24 | E-11 | F-25 | - |
 >| **3** | **14** | **15** | **16** | **17** | **18** | **19** | **20** |
->| **To Do** | - | F26 | E12 | F27 | E13 | F28 | - |
+>| **To Do** | - | F-26 | E-12 | F-27 | E-13 | F-28 | - |
 >| **4** | **21** | **22** | **23** | **24** | **25** | **26** | **27** |
->| **To Do** | - | F29 | E14 | F30 | E15 | F31 | - |
->| **5** | **28** | - | - | - | - | - |
+>| **To Do** | - | F-29 | E-14 | F-30 | E-15 | F-31 | - |
+>| **5** | **28** | - | - | - | - | - ||
 >| **To Do** | - | - | - | - | - | - | - |
 
 ---
