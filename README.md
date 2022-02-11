@@ -33,7 +33,7 @@
 >| **To Do** | - | F-16 | [E-05](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb) | F-17 | [E-06](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb) | F-18 | - |
 >| **5** | **23** | **24** | **25** | **26** | **27** | **28** | **29** |
 >| **To Do** | - | F-19 | [E-07](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_07/%5BE-07%5D%20make_a_portrait.ipynb) | F-20 | [E-08](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_08/%5BE-08%5D%20news_summary_bot.ipynb) | F-21 | - |
->| **6** | **30** | - | - | - | - | - ||
+>| **6** | **30** | **31** | - | - | - | - ||
 >| **To Do** | - | - | - | - | - | - | - |
 
 ### Fabruary 22
