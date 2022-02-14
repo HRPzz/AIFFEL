@@ -14,7 +14,7 @@
 |9|ML, CV, CNN|[폐렴아 기다려라!](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb) by 유원준|-|6|02.03|02.10|
 |10|DL, GAN|인공지능으로 세상에 없던 새로운 패션 만들기 by 정민정|-|7|02.08|-|
 |11|ML, Statistics, ARMIA|어제 오른 내 주식, 과연 내일은? by 김원철|-|7|02.10|-|
-|12|-|-|-|8|02.15|-|
+|12|DL, NLP|트랜스포머로 만드는 대화형 챗봇|-|8|02.15|-|
 |13|-|-|-|8|02.17|-|
 |14|-|-|-|9|02.22|-|
 |15|-|-|-|9|02.24|-|
