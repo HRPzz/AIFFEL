@@ -43,7 +43,7 @@
 >| **To Do** | - | - | - | - | [E-09](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb) | F-22 | - |
 >| - | - | - | - | - | - | F-05 | - |
 >| **2** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
->| **To Do** | - | F-23 | E-10 | F-24 | E-11 | F-25 | - |
+>| **To Do** | - | F-23 | [E-10](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb) | F-24 | E-11 | F-25 | - |
 >| **3** | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
 >| **To Do** | - | F-26 | E-12 | F-27 | E-13 | F-28 | - |
 >| **4** | **20** | **21** | **22** | **23** | **24** | **25** | **26** |
@@ -63,8 +63,8 @@
 |6|DL, NLP|[영화리뷰 텍스트 감성분석하기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb) by 우지철|⭐⭐⭐|4|01.20|01.24|
 |7|pixellib, CV|[인물사진을 만들어 보자](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_07/%5BE-07%5D%20make_a_portrait.ipynb) by 우태강|⭐⭐⭐|5|01.25|02.01|
 |8|DL, NLP|[뉴스 요약봇 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_08/%5BE-08%5D%20news_summary_bot.ipynb) by 유원준|⭐⭐⭐|5|01.27|02.03|
-|9|ML, CV, CNN|[폐렴아 기다려라!](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb) by 유원준|-|6|02.03|02.10|
-|10|DL, GAN|인공지능으로 세상에 없던 새로운 패션 만들기 by 정민정|-|7|02.08|-|
+|9|ML, CV, CNN|[폐렴아 기다려라!](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb) by 유원준|⭐⭐⭐|6|02.03|02.10|
+|10|DL, GAN|[인공지능으로 세상에 없던 새로운 패션 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb) by 정민정|-|7|02.08|-|
 |11|ML, Statistics, ARMIA|어제 오른 내 주식, 과연 내일은? by 김원철|-|7|02.10|-|
 |12|DL, NLP|트랜스포머로 만드는 대화형 챗봇|-|8|02.15|-|
 |13|-|-|-|8|02.17|-|
@@ -100,7 +100,7 @@
 |23|DL, CNN|딥러닝 레이어의 이해(1) Linear, Convolution by 박윤진|7|02.07|
 |24|DL, RNN|딥러닝 레이어의 이해(2) Embedding, Recurrent by 문성원|7|02.09|
 |25|DL, Regularization|Regularization by 박윤경|7|02.11|
-|26|DL, 활성 함수|활성화 함수의 이해|8|02.14|
+|26|DL, 활성 함수|활성화 함수의 이해 by 백승열|8|02.14|
 |27|-|-|8|02.16|
 |28|-|-|8|02.18|
 |29|-|-|9|02.21|
