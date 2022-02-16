@@ -101,7 +101,7 @@
 |24|DL, RNN|딥러닝 레이어의 이해(2) Embedding, Recurrent by 문성원|7|02.09|
 |25|DL, Regularization|Regularization by 박윤경|7|02.11|
 |26|DL, 활성 함수|활성화 함수의 이해 by 백승열|8|02.14|
-|27|-|-|8|02.16|
+|27|ML, Likelihood, MLE, MAP|Likelihood(MLE와 MAP) by 신승연|8|02.16|
 |28|-|-|8|02.18|
 |29|-|-|9|02.21|
 |30|-|-|9|02.23|
