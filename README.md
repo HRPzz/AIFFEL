@@ -6,7 +6,7 @@
 ## CALENDAR (2021.12.27 ~ 2022.06.10)
 
 ### December 21
->|Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+>| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 >| **1** | - | - | - | **1** | **2** | **3** | **4** |
 >| **To Do** | - | - | - | - | - | - | - |
@@ -21,7 +21,7 @@
 >| - | - | - | F-01 | F-02 | F-03 | F-04 | - |
 
 ### January 22
->|Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+>| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 >| **1** | - | - | - | - | - | - | **1** |
 >| **To Do** | - | - | - | - | - | - | - |
@@ -33,11 +33,11 @@
 >| **To Do** | - | F-16 | [E-05](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb) | F-17 | [E-06](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb) | F-18 | - |
 >| **5** | **23** | **24** | **25** | **26** | **27** | **28** | **29** |
 >| **To Do** | - | F-19 | [E-07](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_07/%5BE-07%5D%20make_a_portrait.ipynb) | F-20 | [E-08](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_08/%5BE-08%5D%20news_summary_bot.ipynb) | F-21 | - |
->| **6** | **30** | **31** | - | - | - | - ||
+>| **6** | **30** | **31** | - | - | - | - | - |
 >| **To Do** | - | - | - | - | - | - | - |
 
 ### Fabruary 22
->|Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+>| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 >| **1** | - | - | **1** | **2** | **3** | **4** | **5** |
 >| **To Do** | - | - | - | - | [E-09](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb) | F-22 | - |
@@ -48,8 +48,22 @@
 >| **To Do** | - | F-26 | E-12 | F-27 | E-13 | F-28 | - |
 >| **4** | **20** | **21** | **22** | **23** | **24** | **25** | **26** |
 >| **To Do** | - | F-29 | E-14 | F-30 | E-15 | F-31 | - |
->| **5** | **27** | **28** | - | - | - | - |
+>| **5** | **27** | **28** | - | - | - | - | - |
 >| **To Do** | - | - | - | - | - | - | - |
+
+### March 22
+>| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+>|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+>| **1** | - | - | **1** | **2** | **3** | **4** | **5** |
+>| **To Do** | - | - | - | - | - | - | - |
+>| **2** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
+>| **To Do** | - | H-1 | H-1 | H-1 | H-1 | H-1 | - |
+>| **3** | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
+>| **To Do** | - | F-32 | E-16 | F-33 | E-17 | F-34 | - |
+>| **4** | **20** | **21** | **22** | **23** | **24** | **25** | **26** |
+>| **To Do** | - | GD-1 | GD-2 | GD-3 | GD-4 | GD-5 | - |
+>| **5** | **27** | **28** | **29** | **30** | **31** | - | - |
+>| **To Do** | - | GD-6 | GD-7 | GD-8 | GD-9 | - | - |
 
 ---
 ## EXPLORATION
