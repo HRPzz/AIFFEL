@@ -1,11 +1,13 @@
 # AIFFEL DAEGU 1 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![](https://aiffel-front-prod-asset.s3.ap-northeast-2.amazonaws.com/img/logo/aiffel_logo.png)
+![aiffel_logo_img](https://aiffel-front-prod-asset.s3.ap-northeast-2.amazonaws.com/img/logo/aiffel_logo.png)
 
 ---
+
 ## CALENDAR (2021.12.27 ~ 2022.06.10)
 
-### December, 21
+### December, 21 (5 days)
+
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 >| **1** | - | - | - | **1** | **2** | **3** | **4** |
@@ -20,7 +22,8 @@
 >| **To Do** | - | OT | F-06 | F-07 | F-08 | F-09 | - |
 >| - | - | - | F-01 | F-02 | F-03 | F-04 | - |
 
-### January, 22
+### January, 22 (20 days)
+
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 >| **1** | - | - | - | - | - | - | **1** |
@@ -36,14 +39,15 @@
 >| **6** | **30** | **31** | - | - | - | - | - |
 >| **To Do** | - | - | - | - | - | - | - |
 
-### Fabruary, 22
+### Fabruary, 22 (17 days)
+
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 >| **1** | - | - | **1** | **2** | **3** | **4** | **5** |
 >| **To Do** | - | - | - | - | [E-09](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb) | F-22 | - |
 >| - | - | - | - | - | - | F-05 | - |
 >| **2** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
->| **To Do** | - | F-23 | [E-10](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb) | F-24 | E-11 | F-25 | - |
+>| **To Do** | - | F-23 | [E-10](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb) | F-24 | [E-11](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_11/%5BE-11%5D%20forecast_stock.ipynb) | F-25 | - |
 >| **3** | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
 >| **To Do** | - | F-26 | E-12 | F-27 | E-13 | F-28 | - |
 >| **4** | **20** | **21** | **22** | **23** | **24** | **25** | **26** |
@@ -51,7 +55,8 @@
 >| **5** | **27** | **28** | - | - | - | - | - |
 >| **To Do** | - | - | - | - | - | - | - |
 
-### March, 22
+### March, 22  (19 days)
+
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 >| **1** | - | - | **1** | **2** | **3** | **4** | **5** |
@@ -66,7 +71,9 @@
 >| **To Do** | - | GD-06 | GD-07 | GD-08 | GD-09 | - | - |
 
 ---
+
 ## EXPLORATION
+
 |N|Tag|Node Title|Evaluation|W|Open|Done|
 |:---:|---|---|:---:|:---:|:---:|:---:|
 |1|DL|[인공지능과 가위바위보 하기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_01/%5BE-01%5D%20rock_scissor_paper_classifier.ipynb) by 김승일|⭐⭐☆|2|01.04|01.05|
@@ -78,8 +85,8 @@
 |7|pixellib, CV|[인물사진을 만들어 보자](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_07/%5BE-07%5D%20make_a_portrait.ipynb) by 우태강|⭐⭐⭐|5|01.25|02.01|
 |8|DL, NLP|[뉴스 요약봇 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_08/%5BE-08%5D%20news_summary_bot.ipynb) by 유원준|⭐⭐⭐|5|01.27|02.03|
 |9|ML, CV, CNN|[폐렴아 기다려라!](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb) by 유원준|⭐⭐⭐|6|02.03|02.10|
-|10|DL, GAN|[인공지능으로 세상에 없던 새로운 패션 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb) by 정민정|-|7|02.08|02.15|
-|11|ML, Statistics, ARMIA|어제 오른 내 주식, 과연 내일은? by 김원철|-|7|02.10|02.17|
+|10|DL, GAN, DCGAN|[인공지능으로 세상에 없던 새로운 패션 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb) by 정민정|⭐⭐⭐|7|02.08|02.15|
+|11|ML, Statistics, ARMIA|[어제 오른 내 주식, 과연 내일은?](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_11/%5BE-11%5D%20forecast_stock.ipynb) by 김원철|-|7|02.10|02.17|
 |12|DL, NLP, Transformer, Attention|트랜스포머로 만드는 대화형 챗봇 by 유원준|-|8|02.15|-|
 |13|DL, NLP, BERT|인간보다 퀴즈를 잘푸는 인공지능 by 현청천|-|8|02.17|-|
 |14|-|-|-|9|02.22|-|
@@ -87,6 +94,7 @@
 |16|-|-|-|-|-|-|
 
 ## FUNDAMENTALS
+
 |N|Tag|Node Title|W|Open|
 |:---:|---|---|:---:|:---:|
 |1|LMS, Cloud Jupyter|Ready to go? by 백병인|1|12.28|
@@ -116,7 +124,7 @@
 |25|DL, Regularization|Regularization by 박윤경|7|02.11|
 |26|DL, 활성 함수|활성화 함수의 이해 by 백승열|8|02.14|
 |27|ML, Likelihood, MLE, MAP|Likelihood(MLE와 MAP) by 신승연|8|02.16|
-|28|-|-|8|02.18|
+|28|ML, Information Theory, Entropy, Cross Entropy, KL divergence|정보이론 톺아보기 by 신승연|8|02.18|
 |29|-|-|9|02.21|
 |30|-|-|9|02.23|
 |31|-|-|9|02.25|
@@ -125,34 +133,31 @@
 |34|-|-|-|-|
 
 ---
-![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F573551f3-d67e-4e77-ad9c-235cf51e1ce4%2FcoverIMG_MASTERPAGE_COVER_(1).png&blockId=b67b7152-c891-47a7-99e4-73797fb3bab5&width=3600)
+
+![aiffel_banner](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F573551f3-d67e-4e77-ad9c-235cf51e1ce4%2FcoverIMG_MASTERPAGE_COVER_(1).png&blockId=b67b7152-c891-47a7-99e4-73797fb3bab5&width=3600)
 
 # AIFFEL
-- https://aiffel.oopy.io/
+
+- <https://aiffel.oopy.io/>
 - “아이펠은 `역계단식 인공지능 학습`을 제안합니다. 50가지 살아 있는 프로젝트를 단시간 폭넓게 경험해보세요!”
 - Hello, Real-world!
-    - 현실 속 다양한 재료를 가지고 Learn by Doing!
-    - 앞으로 마주할 각양각색 문제들에 유연히 대처하는 힘을 길러보세요.
+  - 현실 속 다양한 재료를 가지고 Learn by Doing!
+  - 앞으로 마주할 각양각색 문제들에 유연히 대처하는 힘을 길러보세요.
 - Do-it-together
-    - 머리를 맞대어 연구하고 여러번 시도해보세요.
-    - 함께 풀지 못할 문제가 얼마나 있을까요? ¯＼_(ツ)_/¯
+  - 머리를 맞대어 연구하고 여러번 시도해보세요.
+  - 함께 풀지 못할 문제가 얼마나 있을까요? ¯＼_(ツ)_/¯
 - 선발 절차
-![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7df17566-8c20-4459-8cd3-8336eeecd724%2F%E1%84%92%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%A1.png&blockId=e443c8f8-6f63-4cc9-ba64-4fa064a8671c)
+
+![aiffel_pass_process](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7df17566-8c20-4459-8cd3-8336eeecd724%2F%E1%84%92%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%A1.png&blockId=e443c8f8-6f63-4cc9-ba64-4fa064a8671c)
 
 - 시간표 및 커리큘럼
-![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F507b5395-a536-41d1-a14a-463d5be92d66%2F%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8F%E1%85%B2%E1%86%AF%E1%84%85%E1%85%A5%E1%86%B7-%E1%84%8B%E1%85%AD%E1%84%8B%E1%85%A3%E1%86%A8.png&blockId=5c9ef792-a72a-4511-8012-17d2f0deefaa)
 
-![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fac62d84d-47b9-4251-8ec3-498b19409080%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-02.png&blockId=0db75f5e-41c1-407c-bcad-555b353bbac1)
+![aiffel_schedule_and_curriculum_1](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F507b5395-a536-41d1-a14a-463d5be92d66%2F%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8F%E1%85%B2%E1%86%AF%E1%84%85%E1%85%A5%E1%86%B7-%E1%84%8B%E1%85%AD%E1%84%8B%E1%85%A3%E1%86%A8.png&blockId=5c9ef792-a72a-4511-8012-17d2f0deefaa)
 
-![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd219d34d-73b2-40cf-8d09-de0c686b223a%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-03.png&blockId=98b5efc1-816c-4c83-9fa2-c8bad7ab7c69)
+![aiffel_schedule_and_curriculum_2](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fac62d84d-47b9-4251-8ec3-498b19409080%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-02.png&blockId=0db75f5e-41c1-407c-bcad-555b353bbac1)
 
-![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F15030355-3659-42f6-9f4f-3d28f6386667%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-04.png&blockId=74195553-ebd5-4d61-a515-ee005f9912cb)
+![aiffel_schedule_and_curriculum_3](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd219d34d-73b2-40cf-8d09-de0c686b223a%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-03.png&blockId=98b5efc1-816c-4c83-9fa2-c8bad7ab7c69)
 
-![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb50419d4-5cd2-437d-906b-6b965cac8ca7%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-05.png&blockId=a7d14d0e-1191-4dcd-beca-ea60b79f2978)
+![aiffel_schedule_and_curriculum_4](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F15030355-3659-42f6-9f4f-3d28f6386667%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-04.png&blockId=74195553-ebd5-4d61-a515-ee005f9912cb)
 
-
-
-
-
-
-
+![aiffel_schedule_and_curriculum_5](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb50419d4-5cd2-437d-906b-6b965cac8ca7%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-05.png&blockId=a7d14d0e-1191-4dcd-beca-ea60b79f2978)

@@ -1,6 +1,7 @@
 # AIFFEL DAEGU 1 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL%2Ftree%2Fmain%2FEXPLORATION&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## EXPLORATION
+
 |N|Tag|Node Title|Evaluation|W|Open|Done|
 |:---:|---|---|:---:|:---:|:---:|:---:|
 |1|DL|[인공지능과 가위바위보 하기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_01/%5BE-01%5D%20rock_scissor_paper_classifier.ipynb) by 김승일|⭐⭐☆|2|01.04|01.05|
@@ -12,8 +13,8 @@
 |7|pixellib, CV|[인물사진을 만들어 보자](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_07/%5BE-07%5D%20make_a_portrait.ipynb) by 우태강|⭐⭐⭐|5|01.25|02.01|
 |8|DL, NLP|[뉴스 요약봇 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_08/%5BE-08%5D%20news_summary_bot.ipynb) by 유원준|⭐⭐⭐|5|01.27|02.03|
 |9|ML, CV, CNN|[폐렴아 기다려라!](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb) by 유원준|⭐⭐⭐|6|02.03|02.10|
-|10|DL, GAN|[인공지능으로 세상에 없던 새로운 패션 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb) by 정민정|-|7|02.08|02.15|
-|11|ML, Statistics, ARMIA|어제 오른 내 주식, 과연 내일은? by 김원철|-|7|02.10|02.17|
+|10|DL, GAN, DCGAN|[인공지능으로 세상에 없던 새로운 패션 만들기](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb) by 정민정|⭐⭐⭐|7|02.08|02.15|
+|11|ML, Statistics, ARMIA|[어제 오른 내 주식, 과연 내일은?](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_11/%5BE-11%5D%20forecast_stock.ipynb) by 김원철|-|7|02.10|02.17|
 |12|DL, NLP, Transformer, Attention|트랜스포머로 만드는 대화형 챗봇 by 유원준|-|8|02.15|-|
 |13|DL, NLP, BERT|인간보다 퀴즈를 잘푸는 인공지능 by 현청천|-|8|02.17|-|
 |14|-|-|-|9|02.22|-|
