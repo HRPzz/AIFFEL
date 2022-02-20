@@ -22,14 +22,14 @@
 |16|pillow, CV|파이썬으로 이미지 파일 다루기 by 오상준|4|01.17|
 |17|DL, NN|딥러닝과 신경망의 본질 by 정민정|4|01.19|
 |18|DL, Numpy|딥러닝 들여다보기 by 우지철|4|01.21|
-|19|ML, 지도학습, 회귀|선형 회귀와 로지스틱 회귀 by 표정우|5|01.24|
-|20|ML, 비지도학습|비지도학습 by 표정우|5|01.26|
+|19|ML, Supervised Learning, Regression|선형 회귀와 로지스틱 회귀 by 표정우|5|01.24|
+|20|ML, Unsupervised Learning|비지도학습 by 표정우|5|01.26|
 |21|DL, Keras|TF2 API 개요 by 우지철|5|01.28|
 |22|DL, CV, CNN, Models|딥네트워크, 서로 뭐가 다른 거죠? by 강상권|6|02.04|
 |23|DL, CNN|딥러닝 레이어의 이해(1) Linear, Convolution by 박윤진|7|02.07|
 |24|DL, RNN|딥러닝 레이어의 이해(2) Embedding, Recurrent by 문성원|7|02.09|
 |25|DL, Regularization|Regularization by 박윤경|7|02.11|
-|26|DL, 활성 함수|활성화 함수의 이해 by 백승열|8|02.14|
+|26|DL, Activation Functions|활성화 함수의 이해 by 백승열|8|02.14|
 |27|ML, Likelihood, MLE, MAP|Likelihood(MLE와 MAP) by 신승연|8|02.16|
 |28|ML, Information Theory, Entropy, Cross Entropy, KL divergence|정보이론 톺아보기 by 신승연|8|02.18|
 |29|-|-|9|02.21|
