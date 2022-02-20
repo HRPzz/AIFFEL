@@ -112,7 +112,7 @@
 |11|Matplotlib, Seaborn|데이터를 한눈에! Visualization by 손주영|2|01.05|
 |12|ML, Scikit-learn|사이킷런으로 구현해 보는 머신러닝 by 손주영|2|01.07|
 |13|Python, OOP|당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기 by 손주영|3|01.10|
-|14|DL, Model, 지도학습, 분류|거울아 거울아, 나는 멍멍이 상이니, 아니면 냥이 상이니? by ⬛|3|01.12|
+|14|DL, Model, Supervised Learning, Classification|거울아 거울아, 나는 멍멍이 상이니, 아니면 냥이 상이니? by ⬛|3|01.12|
 |15|Kaggle, EDA|🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리 by 정민정|3|01.14|
 |16|pillow, CV|파이썬으로 이미지 파일 다루기 by 오상준|4|01.17|
 |17|DL, NN|딥러닝과 신경망의 본질 by 정민정|4|01.19|
