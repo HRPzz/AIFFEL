@@ -127,7 +127,7 @@
 |26|DL, Activation Functions|활성화 함수의 이해 by 백승열|8|02.14|
 |27|ML, Likelihood, MLE, MAP|Likelihood(MLE와 MAP) by 신승연|8|02.16|
 |28|ML, Information Theory, Entropy, Cross Entropy, KL divergence|정보이론 톺아보기 by 신승연|8|02.18|
-|29|ML/DL, Recommendation System, Scikit-learn|사이킷런을 활용한 추천 시스템 입문|9|02.21|
+|29|ML/DL, Recommendation System, Scikit-learn|사이킷런을 활용한 추천 시스템 입문 by 손주영|9|02.21|
 |30|-|-|9|02.23|
 |31|-|-|9|02.25|
 |32|-|-|-|-|
