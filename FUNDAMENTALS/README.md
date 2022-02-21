@@ -32,7 +32,7 @@
 |26|DL, Activation Functions|활성화 함수의 이해 by 백승열|8|02.14|
 |27|ML, Likelihood, MLE, MAP|Likelihood(MLE와 MAP) by 신승연|8|02.16|
 |28|ML, Information Theory, Entropy, Cross Entropy, KL divergence|정보이론 톺아보기 by 신승연|8|02.18|
-|29|-|-|9|02.21|
+|29|ML/DL, Recommendation System, Scikit-learn, Cosine Similarity, Filtering, SVD, CTR|사이킷런을 활용한 추천 시스템 입문|9|02.21|
 |30|-|-|9|02.23|
 |31|-|-|9|02.25|
 |32|-|-|-|-|
@@ -71,7 +71,7 @@
 |26|활성화 함수의 이해 by 백승열|퍼셉트론에서 선형과 비선형이 가지는 의미 및 비선형함수가 필요한 이유를 파악하고, 다양한 활성화 함수에 대해 알아본다.|
 |27|Likelihood(MLE와 MAP) by 신승연|베이지안 머신 러닝 모델의 prior, posterior, likelihood 개념을 학습하고 MLE(최대 가능도 추론)와 MAP(최대 사후 확률 추정)의 최적해를 구하는 과정과 두 방법의 차이를 이해한다.|
 |28|정보이론 톺아보기 by 신승연|머신러닝의 가장 중요한 이론 중 하나인 정보이론(Information Theory)의 주요 개념인 Entropy, Cross Entropy, KL divergence 등의 개념을 파악하고, 이런 개념들이 머신러닝 이론과 어떻게 연결되는지의 사례를 알아본다.|
-|29|-|-|
+|29|사이킷런을 활용한 추천 시스템 입문|추천 시스템의 기본 개념과 종류에 대해 알아보고, 사이킷런을 활용하여 연습해 봅니다. 기초적인 추천 시스템을 기반으로 실제 사용되는 추천 시스템이 어떻게 동작하는지 생각해 봅니다.|
 |30|-|-|
 |31|-|-|
 |32|-|-|
