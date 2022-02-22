@@ -91,7 +91,7 @@
 |11|ML, Statistics, ARMIA|[어제 오른 내 주식, 과연 내일은?](EXPLORATION/Node_11/%5BE-11%5D%20forecast_stock.ipynb) by 김원철|⭐⭐⭐|7|02.10|02.17|
 |12|DL, NLP, Transformer, Attention|트랜스포머로 만드는 대화형 챗봇 by 유원준|-|8|02.15|-|
 |13|DL, NLP, BERT|인간보다 퀴즈를 잘푸는 인공지능 by 현청천|-|8|02.17|-|
-|14|DL, NLP, Matrix Factorization, ALS|아이유팬이 좋아할 만한 다른 아티스트 찾기 by 박지민|-|9|02.22|-|
+|14|DL, NLP, Matrix Factorization|아이유팬이 좋아할 만한 다른 아티스트 찾기 by 박지민|-|9|02.22|-|
 |15|-|-|-|9|02.24|-|
 |16|-|-|-|-|-|-|
 
