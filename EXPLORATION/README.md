@@ -15,7 +15,7 @@
 |9|ML, CV, CNN|[폐렴아 기다려라!](Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb) by 유원준|⭐⭐⭐|6|02.03|02.10|
 |10|DL, GAN, DCGAN|[인공지능으로 세상에 없던 새로운 패션 만들기](Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb) by 정민정|⭐⭐⭐|7|02.08|02.15|
 |11|ML, Statistics, ARMIA|[어제 오른 내 주식, 과연 내일은?](Node_11/%5BE-11%5D%20forecast_stock.ipynb) by 김원철|⭐⭐⭐|7|02.10|02.17|
-|12|DL, NLP, Transformer, Attention|트랜스포머로 만드는 대화형 챗봇 by 유원준|-|8|02.15|-|
+|12|DL, NLP, Transformer, Attention|[트랜스포머로 만드는 대화형 챗봇](Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb) by 유원준|-|8|02.15|-|
 |13|DL, NLP, BERT|인간보다 퀴즈를 잘푸는 인공지능 by 현청천|-|8|02.17|-|
 |14|DL, NLP, Matrix Factorization|아이유팬이 좋아할 만한 다른 아티스트 찾기 by 박지민|-|9|02.22|-|
 |15|-|-|-|9|02.24|-|
