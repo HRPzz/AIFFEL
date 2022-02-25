@@ -15,8 +15,8 @@
 |9|ML, CV, CNN|[폐렴아 기다려라!](Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb) by 유원준|⭐⭐⭐|6|02.03|02.10|
 |10|DL, GAN, DCGAN|[인공지능으로 세상에 없던 새로운 패션 만들기](Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb) by 정민정|⭐⭐⭐|7|02.08|02.15|
 |11|ML, Statistics, ARMIA|[어제 오른 내 주식, 과연 내일은?](Node_11/%5BE-11%5D%20forecast_stock.ipynb) by 김원철|⭐⭐⭐|7|02.10|02.17|
-|12|DL, NLP, Transformer, Attention|[트랜스포머로 만드는 대화형 챗봇](Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb) by 유원준|-|8|02.15|02.22|
-|13|DL, NLP, BERT|인간보다 퀴즈를 잘푸는 인공지능 by 현청천|-|8|02.17|-|
+|12|DL, NLP, Transformer, Attention|[트랜스포머로 만드는 대화형 챗봇](Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb) by 유원준|⭐⭐⭐|8|02.15|02.22|
+|13|DL, NLP, BERT|[인간보다 퀴즈를 잘푸는 인공지능](Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb) by 현청천|⭐⭐⭐|8|02.17|02.24|
 |14|DL, NLP, Matrix Factorization|아이유팬이 좋아할 만한 다른 아티스트 찾기 by 박지민|-|9|02.22|-|
 |15|DL, CV, OCR|문자를 읽을 수 있는 딥러닝 by 강상권|-|9|02.24|-|
 |16|-|-|-|12|03.15|-|
@@ -42,3 +42,4 @@
 |14|아이유팬이 좋아할 만한 다른 아티스트 찾기 by 박지민|추천시스템의 기본적인 원리와 구성을 파악하고 Last.fm 데이터 및 MovieLens 데이터를 통해 간단하고 효과적인 아티스트 추천시스템과 영화 추천시스템을 구현해 본다.|
 |15|문자를 읽을 수 있는 딥러닝 by 강상권|문자를 읽는 OCR 모델의 구조를 배우고, keras-ocr과 테서랙트 엔진을 써본다.|
 |16|-|-|
+|17|-|-|
