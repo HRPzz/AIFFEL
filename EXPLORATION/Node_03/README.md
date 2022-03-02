@@ -1,4 +1,5 @@
 # 3. 카메라 스티커앱 만들기 첫걸음
+
 **face detection 기술, 이미지 처리기법 등 Computer Vision 분야의 실용적인 기술 활용법을 알아보고, SNOW 같은 재밌는 얼굴 인식 스티커 앱을 만들어봅시다.**
 
 - 일단 한번 만들어 보자!
@@ -6,27 +7,44 @@
   - 각도 변화가 가능하고 거리 변화에 강건한 스티커
 
 ---
+
+|-|목차|⏲ 320분|
+|:---:|---|:---:|
+|3-1| 카메라 스티커앱 만들기 첫걸음 | 5분|
+|3-2| 어떻게 만들까? 사진 준비하기 | 30분|
+|3-3| 얼굴 검출 face detection | 30분|
+|3-4| 얼굴 랜드마크 face landmark | 30분|
+|3-5| 스티커 적용하기 | 45분|
+|3-6| 프로젝트: 고양이 수염 스티커 만들기 | 180분|
+|3-7| 프로젝트 제출|-|
+
+---
+
 ## 학습 목표
+
 - 얼굴인식 카메라의 흐름 이해
 - dlib 라이브러리 사용
 - 이미지 배열의 인덱싱 예외 처리
 
 ## 준비물
+
 ![](https://d3s0tskafalll9.cloudfront.net/media/original_images/E-8-3.png)
 
 ---
+
 ## 3-6. 프로젝트: 고양이 수염 스티커 만들기
+
 데이터에 어떤 정보가 담겨있는지, feature는 무엇이고 label은 무엇인지 확인
 
 - Step 1. 스티커 구하기 or 만들기
-  - ![](https://cdn-icons-png.flaticon.com/512/24/24674.png)
+  - ![sticker_1](https://cdn-icons-png.flaticon.com/512/24/24674.png)
   - (1) 고양이 수염 이미지를 다운로드
   - (2) 셀카 이미지도 촬영
 - Step 2. 얼굴 검출 & 랜드마크 검출 하기
   - 라이브러리 dlib 사용
   - 얼굴의 bounding box 위치와 landmark의 위치 찾기
 - Step 3. 스티커 적용 위치 확인하기
-  - ![](https://d3s0tskafalll9.cloudfront.net/media/original_images/E-8-8.png)
+  - ![sticker_2](https://d3s0tskafalll9.cloudfront.net/media/original_images/E-8-8.png)
 - Step 4. 스티커 적용하기
   - (1) np.where 를 사용해서 스티커 적용
   - (2) 스티커 뒤로 원본 이미지가 같이 보이게 만들기: opencv 의 cv2.addWeighted() 사용
@@ -39,7 +57,9 @@
     - 스티커앱을 만들 때 정확도가 얼마나 중요할까요?
 
 ---
+
 >## **루브릭**
+
 >|번호|평가문항|상세기준|평가결과|
 >|:---:|---|---|:---:|
 >|1|자기만의 카메라앱 기능 구현을 완수하였다.|원본에 스티커 사진이 정상적으로 합성되었다.|⭐|
