@@ -2,9 +2,6 @@
 
 **캐글의 iris 데이터셋을 이용해 기본적인 머신러닝 분류 태스크를 진행하고, 자주 사용되는 모델과 훈련기법을 알아본다.**
 
-- 머신러닝 기법 사용
-- 머신러닝에서 가장 많이 쓰이는 라이브러리: 사이킷런(scikit-learn)
-
 ---
 |-|목차|⏲ 360분|
 |:---:|---|:---:|
@@ -39,6 +36,46 @@
 - scikit-learn에 내장된 분류 모델을 활용해본 적이 없다.
 - 지도학습의 분류 실습을 해 본 적이 없다.
 - 머신러닝 모델을 학습시켜보고, 그 성능을 평가해본 적이 없다.
+
+---
+
+- 머신러닝 기법 사용
+  - 머신러닝에서 가장 많이 쓰이는 라이브러리: 사이킷런(scikit-learn)
+  - 지도학습: 정답이 있는 문제 학습 
+    - 분류(Classification): 입력받은 데이터를 특정 카테고리 중 하나로 분류
+    - 회귀(Regression): 입력받은 데이터에 따라 특정 필드의 수치를 맞히는 문제
+  - 비지도 학습: 정답이 없는 문제 학습
+- 사이킷런 제공 데이터셋: Toy datasets, Real world datasets
+  - 데이터셋을 다루기 전에 데이터 정보를 먼저 확인해야 함!
+  - from sklearn.datasets import load_iris
+  - iris = load_iris()
+    - iris.keys()
+    - iris.data.shape
+    - iris_data[0]
+- 정답지와 문제지
+  - from sklearn.model_selection import train_test_split
+  - X_train, X_test, y_train, y_test = train_test_split()
+  - 정답지 => 라벨(label) == 타겟(target): 머신러닝 모델이 출력해야 하는 정답(변수 y)
+    - iris.target.shape
+    - iris.target_names
+    - iris.DESCR
+  - 문제지 => 특징(feature): 머신러닝 모델에 입력되는 데이터(변수 X)
+    - iris.feature_names
+- pandas: 표 형태(행, 열 있는 2차원) 데이터를 다룰 때 사용
+- 머신러닝 모델
+  - Decision Tree
+    - 결정경계(decision boundary)가 데이터 축에 수직이어서 특정 데이터에만 잘 작동할 가능성이 높다. => 해결: 랜덤포레스트 사용
+    - from sklearn.tree import DecisionTreeClassifier
+    - decision_tree = DecisionTreeClassifier(random_state=32)
+  - SVD
+  - SGD
+- 모델 학습: .fit()
+  - decision_tree.fit(X_train, y_train)
+- 모델 예측
+  - y_pred = decision_tree.predict(X_test)
+- 평가
+  - print(classification_report(y_test, y_pred))
+  - 데이터 불균형할 경우 f1 score, 아니면 accuracy 확인
 
 ---
 
