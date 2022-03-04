@@ -36,17 +36,17 @@
   - 인공지능이 예측하려면 어느 정도는 연관성이 있어야 함
 - 통계 기반 방법으로 문법 익히기
   - 많은 데이터가 곧 좋은 결과를 만듦
-- 순환신경망(RNN)
+- **순환신경망(RNN)**
   - 생성한 단어를 다시 입력으로 사용
   - 필요 문장 데이터
     - 소스 문장(Source Sentence)
       - 모델의 입력이 되는 문장(변수 X_train)
-      - <start> 가 문장의 시작에 더해진 입력 데이터(문제지)
-      - source_sentence = "<start>" + sentence
+      - \<start> 가 문장의 시작에 더해진 입력 데이터(문제지)
+      - source_sentence = "\<start>" + sentence
     - 타겟 문장(Target Sentence)
       - 정답 역할을 하게 될 모델의 출력 문장(y_train)
-      - <end> 가 문장의 끝에 더해진 출력 데이터(답안지)
-      - target_sentence = sentence + "<end>"
+      - \<end> 가 문장의 끝에 더해진 출력 데이터(답안지)
+      - target_sentence = sentence + "\<end>"
   - ![rnn.png](https://d3s0tskafalll9.cloudfront.net/media/images/E-12-RNN2.max-800x600.png)
 - 언어 모델(Language Model)
   - n−1개의 단어 시퀀스가 주어졌을 때, n번째 단어 $w_n$으로 무엇이 올지를 예측하는 확률 모델
@@ -57,13 +57,13 @@
 - 데이터 전처리
   - 연극 대본에서 문장(대사)만 추출
   - 단어 사전 만들기: 토큰화(Tokenize) - 정규표현식(Regex)을 이용한 필터링
-  - 토큰 <start>, <end> 추가
+  - 토큰 \<start>, \<end> 추가
   - 자연어 처리를 위해 tf.keras.preprocessing.text.Tokenizer 패키지 사용
     - 벡터화(vectorize): 정제된 데이터 -> 토큰화 -> 단어 사전 생성 -> 데이터를 숫자로 변환(=텐서)
     - 위 과정을 한 방에 해줌
     - 입출력 데이터 모두 텐서로 변환되어 처리되는 것
-  - 입력 시퀀스 길이보다 출력 문장이 짧을 경우 0 으로 패딩(padding) 채움 => <pad>
-- 데이터 전처리 정리
+  - 입력 시퀀스 길이보다 출력 문장이 짧을 경우 0 으로 패딩(padding) 채움 => \<pad>
+- **데이터 전처리 정리**
   - 정규표현식을 이용한 corpus 생성
   - tf.keras.preprocessing.text.Tokenizer를 이용해 corpus를 텐서로 변환
   - tf.data.Dataset.from_tensor_slices()를 이용해 corpus 텐서를 tf.data.Dataset객체로 변환
@@ -71,19 +71,19 @@
   - scalar: 0차원 배열
   - vector: 1차원 배열
   - matrix: 2차원 배열
-  - n-tensor: 3차원 이상인 배열
+  - **n-tensor: 3차원 이상인 배열**
 - 우리가 만들 모델 구조
   - tf.keras.Model을 Subclassing하는 방식으로 만들 것
   - 모델 구성
     - ![our_model.png](https://d3s0tskafalll9.cloudfront.net/media/images/E-12-4.max-800x600.png)
-    - 1개의 Embedding 레이어
+    - 1개의 **Embedding 레이어**
       - 입력 텐서에 있는 단어 사전의 인덱스 값을 해당 인덱스 번째의 워드 벡터로 변환
         - word vector: 의미 벡터 공간에서 단어의 추상적 표현(representation)으로 사용됨
         - embedding_size
           - 워드 벡터의 차원수 == 단어가 추상적으로 표현되는 크기
           - 값이 커질수록 단어의 추상적인 특징들을 더 잡아냄
           - 충분한 데이터가 주어지지 않으면 오히려 혼란만을 야기
-    - 2개의 LSTM 레이어
+    - 2개의 **LSTM 레이어**
       - hidden_size
         - hidden state 의 차원수
         - 모델에 얼마나 많은 일꾼을 둘 것인가?
@@ -94,7 +94,7 @@
   - 오답률이 감소하면 학습이 잘 진행되고 있다고 해석할 수 있다.
 - 모델 평가 방법
   - 요약/문제 풀이/번역 모델(정량적으로 측정할 대상이 있는 경우): BLEU, ROUGE 등
-  - 작문 모델 평가 방법: 작문을 시켜보고 사람이 평가
+  - **작문 모델 평가 방법: 작문을 시켜보고 사람이 평가**
 
 ---
 
