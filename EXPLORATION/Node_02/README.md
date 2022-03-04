@@ -39,19 +39,20 @@
 
 ---
 
-- 머신러닝 기법 사용
-  - 머신러닝에서 가장 많이 쓰이는 라이브러리: 사이킷런(scikit-learn)
+- **머신러닝**
   - 지도학습 (Supervised Learning): 정답이 있는 문제 학습
     - 분류(Classification): 입력받은 데이터를 특정 카테고리 중 하나로 분류
     - 회귀(Regression): 입력받은 데이터에 따라 특정 필드의 수치를 맞히는 문제
   - 비지도 학습 (Unsupervised Learning): 정답이 없는 문제 학습
-- 사이킷런 제공 데이터셋: Toy datasets, Real world datasets
-  - 데이터셋을 다루기 전에 데이터 정보를 먼저 확인해야 함!
-  - from sklearn.datasets import load_iris
-  - iris = load_iris()
-    - iris.keys()
-    - iris.data.shape
-    - iris_data[0]
+- **사이킷런(scikit-learn)**
+  - 머신러닝에서 가장 많이 쓰이는 라이브러리
+  - 사이킷런 제공 데이터셋: Toy datasets, Real world datasets
+    - 데이터셋을 다루기 전에 데이터 정보를 먼저 확인해야 함!
+    - from sklearn.datasets import load_iris
+    - iris = load_iris()
+      - iris.keys()
+      - iris.data.shape
+      - iris_data[0]
 - 정답지(target == label)와 문제지(feature)
   - from sklearn.model_selection import train_test_split
   - X_train, X_test, y_train, y_test = train_test_split()
@@ -62,7 +63,7 @@
   - 문제지(feature, 변수 X): 머신러닝 모델에 입력되는 데이터
     - iris.feature_names
 - pandas: 표 형태(행, 열 있는 2차원) 데이터를 다룰 때 사용
-- 머신러닝 모델
+- **머신러닝 모델**
   - Decision Tree
     - 결정경계(decision boundary)가 데이터 축에 수직이어서 특정 데이터에만 잘 작동할 가능성이 높다.
     - 단점 극복: Random Forest 사용
@@ -103,7 +104,7 @@
   - y_pred = decision_tree.predict(X_test)
 - 성능 평가
   - print(classification_report(y_test, y_pred))
-  - 척도(지표)
+  - **성능 평가 척도(지표)**
     - 정확도(Accuracy)
       - 전체 개수 중 맞은 것의 개수
       - 데이터가 균형할 경우 accuracy 사용

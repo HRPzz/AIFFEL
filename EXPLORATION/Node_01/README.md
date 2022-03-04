@@ -21,20 +21,20 @@
   - 숫자는 0~9까지 총 10개의 클래스(class)만 인식, Sequential Model 이용
   - 가위바위보는 총 3개의 클래스만 구분
 - 라이브러리
-  - 텐서플로우(TensorFlow)
+  - **텐서플로우(TensorFlow)**
     - 표준 API인 tf.keras의 Sequential API를 이용하여 숫자 손글씨 인식기 제작
     - 구글(Google)에서 오픈소스로 제공
     - 가장 널리 사용되고 있는 머신러닝 라이브러리 중 하나
     - Tensorflow 버전 2.4.0에서 진행
-  - Matplotlib
+  - **Matplotlib**
     - 파이썬에서 제공하는 시각화(Visualization) 패키지
     - 차트(chart), 플롯(plot) 등 다양한 형태로 데이터를 시각화
 - 케라스에서 모델 만드는 방법
-  - Sequential API
+  - **Sequential API**
   - Functional API
   - 밑바닥부터 직접 코딩
 - 교차 검증(cross validation): 쉽게 생각하면 본고사를 치르기 전 모의고사를 여러 번 보는 것
-- 딥러닝 제작 과정: 데이터 준비 → 딥러닝 네트워크 설계 → 학습 → 테스트(평가)
+- **딥러닝 제작 과정: 데이터 준비 → 딥러닝 네트워크 설계 → 학습 → 테스트(평가)**
   - 데이터 준비
     - 데이터 가져오기
       - mnist = keras.datasets.mnist
@@ -83,7 +83,7 @@
     - model 이 추론한 확률분포: model.predict()
       - predicted_result = model.predict(x_test_reshaped)  # model이 추론한 예측확률분포
       - predicted_labels = np.argmax(predicted_result, axis=1)
-- 딥러닝 모델 개선 방법
+- **딥러닝 모델 개선 방법**
   - 하이퍼 파라미터 변경
     - Conv2D 레이어에서 입력 이미지의 특징 수
     - Dense 레이어에서 뉴런 수
