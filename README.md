@@ -51,7 +51,7 @@
 >| **3** | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
 >| **To Do** | - | F-26 | [E-12](EXPLORATION/Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb) | F-27 | [E-13](EXPLORATION/Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb) | F-28 | - |
 >| **4** | **20** | **21** | **22** | **23** | **24** | **25** | **26** |
->| **To Do** | - | F-29 | [E-14](EXPLORATION/Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb) | F-30 | E-15 | F-31 | - |
+>| **To Do** | - | F-29 | [E-14](EXPLORATION/Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb) | F-30 | [E-15](EXPLORATION/Node_15/%5BE-15%5D%20OCR.ipynb) | F-31 | - |
 >| **5** | **27** | **28** | - | - | - | - | - |
 >| **To Do** | - | - | - | - | - | - | - |
 
