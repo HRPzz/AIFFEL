@@ -72,6 +72,16 @@
 
 ---
 
+## Flipped Learning
+
+|N|Title|Link|
+|:---:|---|:---:|
+|1|파이썬 코딩 도장|[🔗](https://dojang.io/course/view.php?id=7)|
+|2|CS231n|[[🔗 Kor]](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5) [[🔗 Eng]](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)|
+|3|-|-|
+
+---
+
 ## LMS
 
 ### EXPLORATION
