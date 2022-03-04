@@ -7,7 +7,7 @@
 |1|DL, Sequential API, LeNet|[인공지능과 가위바위보 하기](Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb) by 김승일|⭐⭐☆|2|01.04|01.05|
 |2|ML, Supervised Learning, Classification, F1 score|[Iris의 세 가지 품종, 분류해볼 수 있겠어요?](Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb) by 정민정|⭐⭐⭐|2|01.06|01.11|
 |3|DL, CV, dlib, HOG, SVM|[카메라 스티커앱 만들기 첫걸음](Node_03/%5BE-03%5D%20Camera_Sticker_App.ipynb) by 우태강|⭐⭐⭐|3|01.11|01.15|
-|4|DL, NLP|[작사가 인공지능 만들기](Node_04/%5BE-04%5D%20AI_Lyricist.ipynb) by 문성원|⭐⭐☆|3|01.13|01.14|
+|4|DL, NLP, RNN, LSTM|[작사가 인공지능 만들기](Node_04/%5BE-04%5D%20AI_Lyricist.ipynb) by 문성원|⭐⭐☆|3|01.13|01.14|
 |5|Kaggle, EDA|[나의 첫 번째 캐글 경진대회, 무작정 따라해보기](Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb) by 정민정|⭐⭐☆|4|01.18|01.25|
 |6|DL, NLP|[영화리뷰 텍스트 감성분석하기](Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb) by 우지철|⭐⭐⭐|4|01.20|01.24|
 |7|pixellib, CV|[인물사진을 만들어 보자](Node_07/%5BE-07%5D%20make_a_portrait.ipynb) by 우태강|⭐⭐⭐|5|01.25|02.01|
@@ -18,7 +18,7 @@
 |12|DL, NLP, Transformer, Attention|[트랜스포머로 만드는 대화형 챗봇](Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb) by 유원준|⭐⭐⭐|8|02.15|02.22|
 |13|DL, NLP, BERT|[인간보다 퀴즈를 잘푸는 인공지능](Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb) by 현청천|⭐⭐⭐|8|02.17|02.24|
 |14|DL, NLP, MF, CSR, ALS|[아이유팬이 좋아할 만한 다른 아티스트 찾기](Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb) by 박지민|-|9|02.22|03.01|
-|15|DL, CV, OCR|문자를 읽을 수 있는 딥러닝 by 강상권|-|9|02.24|-|
+|15|DL, CV, OCR|[문자를 읽을 수 있는 딥러닝](Node_15/%5BE-15%5D%20OCR.ipynb) by 강상권|-|9|02.24|03.03|
 |16|-|-|-|12|03.15|-|
 |17|-|-|-|12|03.17|-|
 
