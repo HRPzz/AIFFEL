@@ -4,8 +4,8 @@
 
 |N|Tag|Node Title|Evaluation|W|Open|Done|
 |:---:|---|---|:---:|:---:|:---:|:---:|
-|1|DL|[인공지능과 가위바위보 하기](Node_01/%5BE-01%5D%20rock_scissor_paper_classifier.ipynb) by 김승일|⭐⭐☆|2|01.04|01.05|
-|2|ML|[Iris의 세 가지 품종, 분류해볼 수 있겠어요?](Node_02/%5BE-02%5D%20digits_classifier.ipynb) by 정민정|⭐⭐⭐|2|01.06|01.11|
+|1|DL|[인공지능과 가위바위보 하기](Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb) by 김승일|⭐⭐☆|2|01.04|01.05|
+|2|ML|[Iris의 세 가지 품종, 분류해볼 수 있겠어요?](Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb) by 정민정|⭐⭐⭐|2|01.06|01.11|
 |3|dlib, CV|[카메라 스티커앱 만들기 첫걸음](Node_03/%5BE-03%5D%20camera_sticker_app.ipynb) by 우태강|⭐⭐⭐|3|01.11|01.15|
 |4|DL, NLP|[작사가 인공지능 만들기](Node_04/%5BE-04%5D%20AI_Lyricist.ipynb) by 문성원|⭐⭐☆|3|01.13|01.14|
 |5|Kaggle, EDA|[나의 첫 번째 캐글 경진대회, 무작정 따라해보기](Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb) by 정민정|⭐⭐☆|4|01.18|01.25|
