@@ -33,6 +33,35 @@
 
 ---
 
+### 학습 목표
+
+- 파이썬을 통해 프로그래밍의 기본 개념들을 이해하고 사용할 수 있다.
+  - 변수(variable)
+  - 함수(function)
+  - 연산자(operator)
+  - 제어문(control statements)
+  - 자료형(data types)
+- 오류 메시지를 읽고 이해할 수 있다.
+- 학습한 개념들을 토대로 코드를 이해하고 수정할 수 있다.
 
 ---
 
+- 함수(function): 불려진 시점에 특정한 작업을 수행하며, 입력값과 출력값(반환값)을 가질 수 있습니다.
+  - 인자(argument): 함수를 호출할 때 전달하는 입력값입니다.
+  - 매개변수(parameter): 함수가 실행될 때 입력값이 들어올 변수입니다.
+  - 반환값(return value): 함수가 종료될 때 호출 지점으로 전달할 출력값입니다.
+- 변수(variable): 값을 가리키는 이름입니다.
+  - 스코프(scope): 변수가 유효한 범위입니다.
+- 연산자(operator): 주어진 값들에 대해 정해진 연산을 수행합니다.
+  - 수리 연산자(mathematical operator): +, -, *, /, //, **
+  - 비교 연산자(comparison operator): ==, !=, <, >, <=, >=, is
+  - 논리 연산자(logical operator): and, or
+  - 소속 연산자(membership operator): in
+- 제어문(control statements): 코드 블록의 흐름(실행 여부, 반복)을 제어합니다.
+  - if: 명제가 참이면 실행합니다.
+  - else: if 명제 이외의 경우에 실행합니다.
+  - elif: if 명제 이외의 경우에 또 다른 명제가 참일 경우에 실행합니다.
+  - while: 명제가 참일 동안 반복합니다.
+  - for: 주어진 값들 하나씩 반복합니다.
+- 자료형(data types): 값들의 종류를 나타냅니다.
+  - 정수(int), 부동소수점 수(float), 불리언(bool), 문자열(str), 튜플(tuple), 리스트(list), 딕셔너리(dict)
