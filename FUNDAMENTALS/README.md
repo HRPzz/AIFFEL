@@ -39,7 +39,7 @@
 |33|-|-|12|03.16|
 |34|-|-|12|03.18|
 
-## FUNDAMENTALS Contents Summary
+## FUNDAMENTALS CONTENTS SUMMARY
 
 |N|Node Title|Contents Summary|
 |:---:|---|---|

@@ -22,7 +22,7 @@
 |16|-|-|-|12|03.15|-|
 |17|-|-|-|12|03.17|-|
 
-## EXPLORATION Contents Summary
+## EXPLORATION CONTENTS SUMMARY
 
 |N|Node Title|Contents Summary|
 |:---:|---|---|
