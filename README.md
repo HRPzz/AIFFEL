@@ -77,8 +77,9 @@
 |N|Title|Link|
 |:---:|---|:---:|
 |1|파이썬 코딩 도장|[🔗](https://dojang.io/course/view.php?id=7)|
-|2|CS231n|[[🔗 Kor]](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5) [[🔗 Eng]](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)|
-|3|-|-|
+|2|Do it! 딥러닝 교과서|[🔗](https://books.google.co.kr/books?id=K5xNEAAAQBAJ&printsec=frontcover&dq=%EB%94%A5%EB%9F%AC%EB%8B%9D+%EA%B5%90%EA%B3%BC%EC%84%9C&hl=ko&sa=X&redir_esc=y#v=onepage&q=%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B5%90%EA%B3%BC%EC%84%9C&f=false)|
+|3|CS231n|[🔗Kor](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5) / [🔗Eng](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)|
+|4|-|-|
 
 ---
 
