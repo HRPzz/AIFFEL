@@ -120,8 +120,8 @@
 |7|Python, String, File, Module|텍스트의 다양한 변신 (문자열, 파일 다루기) by 손주영|1|12.29|
 |8|Python, For Loop, Try-Except, Lambda|파이썬 잘하는 척 해보자 by 장도영|1|12.30|
 |9|Numpy, Pandas|Data 어떻게 표현하면 좋을까? 배열(array)과 표(table) by 손주영|1|12.31|
-|10|EDA, Data Processing|다양한 데이터 전처리 기법 by 박윤진|2|01.03|
-|11|Matplotlib, Seaborn|데이터를 한눈에! Visualization by 손주영|2|01.05|
+|10|EDA, Data Processing, Outlier, Normalization, One-Hot Encoding, Binning|다양한 데이터 전처리 기법 by 박윤진|2|01.03|
+|11|Pandas, Matplotlib, Seaborn|데이터를 한눈에! Visualization by 손주영|2|01.05|
 |12|ML, Scikit-learn|사이킷런으로 구현해 보는 머신러닝 by 손주영|2|01.07|
 |13|Python, OOP|당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기 by 손주영|3|01.10|
 |14|DL, Model, Supervised Learning, Classification|거울아 거울아, 나는 멍멍이 상이니, 아니면 냥이 상이니? by ⬛|3|01.12|
