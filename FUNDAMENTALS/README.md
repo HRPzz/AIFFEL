@@ -13,7 +13,7 @@
 |7|Python|텍스트의 다양한 변신 (문자열, 파일 다루기) by 손주영|1|12.29|
 |8|Python|파이썬 잘하는 척 해보자 by 장도영|1|12.30|
 |9|Numpy, Pandas|Data 어떻게 표현하면 좋을까? 배열(array)과 표(table) by 손주영|1|12.31|
-|10|EDA, Data Processing, Outlier, Normalization, One-Hot Encoding, Binning|다양한 데이터 전처리 기법 by 박윤진|2|01.03|
+|10|EDA, Data Preprocessing, Outlier, Normalization, One-Hot Encoding, Binning|다양한 데이터 전처리 기법 by 박윤진|2|01.03|
 |11|Pandas, Matplotlib, Seaborn|데이터를 한눈에! Visualization by 손주영|2|01.05|
 |12|ML, Scikit-learn|사이킷런으로 구현해 보는 머신러닝 by 손주영|2|01.07|
 |13|Python, OOP|당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기 by 손주영|3|01.10|
@@ -35,9 +35,6 @@
 |29|ML/DL, NLP, Recommendation System, Scikit-learn|사이킷런을 활용한 추천 시스템 입문 by 손주영|9|02.21|
 |30|Python, Multitasking|컴퓨터 파워 UP by 손주영|9|02.23|
 |31|ML, Crawling|뉴스기사 크롤링 및 분류 by ⬛|9|02.25|
-|32|-|-|12|03.14|
-|33|-|-|12|03.16|
-|34|-|-|12|03.18|
 
 ## FUNDAMENTALS CONTENTS SUMMARY
 
@@ -74,6 +71,3 @@
 |29|사이킷런을 활용한 추천 시스템 입문 by 손주영|추천 시스템의 기본 개념과 종류에 대해 알아보고, 사이킷런을 활용하여 연습해 봅니다. 기초적인 추천 시스템을 기반으로 실제 사용되는 추천 시스템이 어떻게 동작하는지 생각해 봅니다.|
 |30|컴퓨터 파워 UP by 손주영|멀티태스킹, 병렬프로그래밍과 동시성에 대해 이해한다. 파이썬으로 멀티스레드와 멀티프로세스를 구현하는 법에 대해 학습한다.|
 |31|뉴스기사 크롤링 및 분류 by ⬛|뉴스기사를 주제/섹션별로 모아서 데이터셋을 구축하고, 이를 기반으로 뉴스기사 주제를 분류하는 텍스트 분류기를 구현해 본다.|
-|32|-|-|
-|33|-|-|
-|34|-|-|
