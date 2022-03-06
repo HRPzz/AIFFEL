@@ -201,9 +201,7 @@
 
 ![aiffel_banner](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F573551f3-d67e-4e77-ad9c-235cf51e1ce4%2FcoverIMG_MASTERPAGE_COVER_(1).png&blockId=b67b7152-c891-47a7-99e4-73797fb3bab5&width=3600)
 
-# AIFFEL
-
-- <https://aiffel.oopy.io/>
+# [AIFFEL](https://aiffel.oopy.io/) by [모두의 연구소](https://modulabs.co.kr/)
 - “아이펠은 `역계단식 인공지능 학습`을 제안합니다. 50가지 살아 있는 프로젝트를 단시간 폭넓게 경험해보세요!”
 - Hello, Real-world!
   - 현실 속 다양한 재료를 가지고 Learn by Doing!
