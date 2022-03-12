@@ -4,21 +4,21 @@
 
 |N|Tag|Node Title|Link|Evaluation|W|Open|Done|
 |:---:|---|---|:---:|:---:|:---:|:---:|:---:|
-|1|DL, Sequential API, LeNet|인공지능과 가위바위보 하기 by 김승일|[📋](EXPLORATION/Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb)|⭐⭐☆|2|01.04|01.05|
-|2|ML, Supervised Learning, Classification, F1 score|Iris의 세 가지 품종, 분류해볼 수 있겠어요? by 정민정|[📋](EXPLORATION/Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb)|⭐⭐⭐|2|01.06|01.11|
-|3|DL, CV, dlib, HOG, SVM|카메라 스티커앱 만들기 첫걸음 by 우태강|[📋](EXPLORATION/Node_03/%5BE-03%5D%20Camera_Sticker_App.ipynb)|⭐⭐⭐|3|01.11|01.15|
-|4|DL, NLP, RNN, LSTM|작사가 인공지능 만들기 by 문성원|[📋](EXPLORATION/Node_04/%5BE-04%5D%20AI_Lyricist.ipynb)|⭐⭐☆|3|01.13|01.14|
-|5|Kaggle, EDA|나의 첫 번째 캐글 경진대회, 무작정 따라해보기 by 정민정|[📋](EXPLORATION/Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb)|⭐⭐☆|4|01.18|01.25|
-|6|DL, NLP|영화리뷰 텍스트 감성분석하기 by 우지철|[📋](EXPLORATION/Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb)|⭐⭐⭐|4|01.20|01.24|
-|7|pixellib, CV|인물사진을 만들어 보자 by 우태강|[📋](EXPLORATION/Node_07/%5BE-07%5D%20make_a_portrait.ipynb)|⭐⭐⭐|5|01.25|02.01|
-|8|DL, NLP|뉴스 요약봇 만들기 by 유원준|[📋](EXPLORATION/Node_08/%5BE-08%5D%20news_summary_bot.ipynb)|⭐⭐⭐|5|01.27|02.03|
-|9|ML, CV, CNN|폐렴아 기다려라! by 유원준|[📋](EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb)|⭐⭐⭐|6|02.03|02.10|
-|10|DL, GAN, DCGAN|인공지능으로 세상에 없던 새로운 패션 만들기 by 정민정|[📋](EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb)|⭐⭐⭐|7|02.08|02.15|
-|11|ML, Statistics, ARMIA|어제 오른 내 주식, 과연 내일은? by 김원철|[📋](EXPLORATION/Node_11/%5BE-11%5D%20forecast_stock.ipynb)|⭐⭐⭐|7|02.10|02.17|
-|12|DL, NLP, Transformer, Attention|트랜스포머로 만드는 대화형 챗봇 by 유원준|[📋](EXPLORATION/Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb)|⭐⭐⭐|8|02.15|02.22|
-|13|DL, NLP, BERT|인간보다 퀴즈를 잘푸는 인공지능 by 현청천|[📋](EXPLORATION/Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb)|⭐⭐⭐|8|02.17|02.24|
-|14|DL, NLP, MF, CSR, ALS|아이유팬이 좋아할 만한 다른 아티스트 찾기 by 박지민|[📋](EXPLORATION/Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb)|⭐⭐⭐|9|02.22|03.01|
-|15|DL, CV, OCR|문자를 읽을 수 있는 딥러닝 by 강상권|[📋](EXPLORATION/Node_15/%5BE-15%5D%20OCR.ipynb)|⭐⭐⭐|9|02.24|03.03|
+|1|DL, Sequential API, LeNet|인공지능과 가위바위보 하기 by 김승일|[📋](Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb)|⭐⭐☆|2|01.04|01.05|
+|2|ML, Supervised Learning, Classification, F1 score|Iris의 세 가지 품종, 분류해볼 수 있겠어요? by 정민정|[📋](Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb)|⭐⭐⭐|2|01.06|01.11|
+|3|DL, CV, dlib, HOG, SVM|카메라 스티커앱 만들기 첫걸음 by 우태강|[📋](Node_03/%5BE-03%5D%20Camera_Sticker_App.ipynb)|⭐⭐⭐|3|01.11|01.15|
+|4|DL, NLP, RNN, LSTM|작사가 인공지능 만들기 by 문성원|[📋](Node_04/%5BE-04%5D%20AI_Lyricist.ipynb)|⭐⭐☆|3|01.13|01.14|
+|5|Kaggle, EDA|나의 첫 번째 캐글 경진대회, 무작정 따라해보기 by 정민정|[📋](Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb)|⭐⭐☆|4|01.18|01.25|
+|6|DL, NLP|영화리뷰 텍스트 감성분석하기 by 우지철|[📋](Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb)|⭐⭐⭐|4|01.20|01.24|
+|7|pixellib, CV|인물사진을 만들어 보자 by 우태강|[📋](Node_07/%5BE-07%5D%20make_a_portrait.ipynb)|⭐⭐⭐|5|01.25|02.01|
+|8|DL, NLP|뉴스 요약봇 만들기 by 유원준|[📋](Node_08/%5BE-08%5D%20news_summary_bot.ipynb)|⭐⭐⭐|5|01.27|02.03|
+|9|ML, CV, CNN|폐렴아 기다려라! by 유원준|[📋](Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb)|⭐⭐⭐|6|02.03|02.10|
+|10|DL, GAN, DCGAN|인공지능으로 세상에 없던 새로운 패션 만들기 by 정민정|[📋](Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb)|⭐⭐⭐|7|02.08|02.15|
+|11|ML, Statistics, ARMIA|어제 오른 내 주식, 과연 내일은? by 김원철|[📋](Node_11/%5BE-11%5D%20forecast_stock.ipynb)|⭐⭐⭐|7|02.10|02.17|
+|12|DL, NLP, Transformer, Attention|트랜스포머로 만드는 대화형 챗봇 by 유원준|[📋](Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb)|⭐⭐⭐|8|02.15|02.22|
+|13|DL, NLP, BERT|인간보다 퀴즈를 잘푸는 인공지능 by 현청천|[📋](Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb)|⭐⭐⭐|8|02.17|02.24|
+|14|DL, NLP, MF, CSR, ALS|아이유팬이 좋아할 만한 다른 아티스트 찾기 by 박지민|[📋](Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb)|⭐⭐⭐|9|02.22|03.01|
+|15|DL, CV, OCR|문자를 읽을 수 있는 딥러닝 by 강상권|[📋](Node_15/%5BE-15%5D%20OCR.ipynb)|⭐⭐⭐|9|02.24|03.03|
 |16|DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k|다음에 볼 영화 예측하기 by 박지민|[📋]()|-|11|03.07|-|
 |17|-|난 스케치를 할 테니 너는 채색을 하거라 by ⬛|[📋]()|-|12|03.14|-|
 
