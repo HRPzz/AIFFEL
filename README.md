@@ -166,7 +166,7 @@
 |11|ML, Statistics, ARMIA|어제 오른 내 주식, 과연 내일은? by 김원철|[📋](EXPLORATION/Node_11/%5BE-11%5D%20forecast_stock.ipynb)|⭐⭐⭐|7|02.10|02.17|
 |12|DL, NLP, Transformer, Attention|트랜스포머로 만드는 대화형 챗봇 by 유원준|[📋](EXPLORATION/Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb)|⭐⭐⭐|8|02.15|02.22|
 |13|DL, NLP, BERT|인간보다 퀴즈를 잘푸는 인공지능 by 현청천|[📋](EXPLORATION/Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb)|⭐⭐⭐|8|02.17|02.24|
-|14|DL, NLP, MF, CSR, ALS|아이유팬이 좋아할 만한 다른 아티스트 찾기 by 박지민|[📋](EXPLORATION/Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb)|⭐⭐⭐|9|02.22|03.01|
+|14|DL, NLP, Recommendation, MF, CSR, ALS|아이유팬이 좋아할 만한 다른 아티스트 찾기 by 박지민|[📋](EXPLORATION/Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb)|⭐⭐⭐|9|02.22|03.01|
 |15|DL, CV, OCR|문자를 읽을 수 있는 딥러닝 by 강상권|[📋](EXPLORATION/Node_15/%5BE-15%5D%20OCR.ipynb)|⭐⭐⭐|9|02.24|03.03|
 |16|DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k|다음에 볼 영화 예측하기 by 박지민|[📋]()|-|11|03.07|-|
 |17|-|난 스케치를 할 테니 너는 채색을 하거라 by ⬛|[📋]()|-|12|03.14|-|
