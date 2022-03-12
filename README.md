@@ -149,7 +149,7 @@
 |1|-|-|-|11|-|
 |2|-|-|-|12|-|
 
-### EXPLORATION
+### EXPLORATION [📁](EXPLORATION)
 
 |N|Tag|Node Title|Link|W|Open|
 |:---:|---|---|:---:|:---:|:---:|
@@ -171,7 +171,7 @@
 |16|DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k|다음에 볼 영화 예측하기 by 박지민|[📋]()|11|03.07|
 |17|-|난 스케치를 할 테니 너는 채색을 하거라 by ⬛|[📋]()|12|03.14|
 
-### FUNDAMENTALS
+### FUNDAMENTALS [📁](FUNDAMENTALS)
 
 |N|Tag|Node Title|Link|W|Open|
 |:---:|---|---|:---:|:---:|:---:|
