@@ -64,10 +64,10 @@
 >| **1** | - | - | **1** | **2** | **3** | **4** | **5** |
 >| **To Do** | - | - | - | - | - | - | - |
 >| **2** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
->| **To Do** | - | E-16 | H-01 | - | H-01 | [H-01](https://github.com/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb) | - |
+>| **To Do** | - | [E-16](EXPLORATION/Node_16/%5BE-16%5D%20Movie_Session_Based_Recommendation.ipynb) | H-01 | - | H-01 | [H-01](https://github.com/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb) | - |
 >| - | - | - | 팀플 진행 | - | 팀플 진행 | 전시 발표 | - |
 >| **3** | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
->| **To Do** | - | E-17 | GD | GD | GD | GD | - |
+>| **To Do** | - | E-17 | GD-01 | GD | GD | GD | - |
 >| **4** | **20** | **21** | **22** | **23** | **24** | **25** | **26** |
 >| **To Do** | - | GD | GD | GD | GD | GD | - |
 >| **5** | **27** | **28** | **29** | **30** | **31** | - | - |
@@ -147,7 +147,7 @@
 
 |N|Tag|Node Title|Link|W|Open|
 |:---:|---|---|:---:|:---:|:---:|
-|1|-|-|-|12|-|
+|1|DL, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet|백본 네트워크 구조 상세분석 by 강상권|[📋](GOING_DEEPER_CV/Node_01/README.md)|12|03.15|
 |2|-|-|-|13|-|
 
 ### EXPLORATION [📁](EXPLORATION)
@@ -169,7 +169,7 @@
 |13|DL, NLP, BERT|인간보다 퀴즈를 잘푸는 인공지능 by 현청천|[📋](EXPLORATION/Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb)|8|02.17|
 |14|DL, NLP, Recommendation, MF, CSR, ALS|아이유팬이 좋아할 만한 다른 아티스트 찾기 by 박지민|[📋](EXPLORATION/Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb)|9|02.22|
 |15|DL, CV, OCR|문자를 읽을 수 있는 딥러닝 by 강상권|[📋](EXPLORATION/Node_15/%5BE-15%5D%20OCR.ipynb)|9|02.24|
-|16|DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k|다음에 볼 영화 예측하기 by 박지민|[📋]()|11|03.07|
+|16|DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k|다음에 볼 영화 예측하기 by 박지민|[📋](EXPLORATION/Node_16/%5BE-16%5D%20Movie_Session_Based_Recommendation.ipynb)|11|03.07|
 |17|DL, GAN, cGAN, Pix2Pix|난 스케치를 할 테니 너는 채색을 하거라 by 정신유|[📋]()|12|03.14|
 
 ### FUNDAMENTALS [📁](FUNDAMENTALS)
