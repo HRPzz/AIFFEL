@@ -126,12 +126,12 @@
 
 ## FLIPPED LEARNING
 
-|N|Title|Site|Book|Youtube|
-|:---:|---|:---:|:---:|:---:|
-|1|파이썬 코딩 도장|[📋](https://dojang.io/course/view.php?id=7)|[📚](https://books.google.co.kr/books?id=G7-CDwAAQBAJ&printsec=frontcover&dq=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EC%BD%94%EB%94%A9+%EB%8F%84%EC%9E%A5&hl=ko&sa=X&redir_esc=y#v=onepage&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%BD%94%EB%94%A9%20%EB%8F%84%EC%9E%A5&f=false)|[🔺](https://www.youtube.com/playlist?list=PLRtkynNyEsXnEkVCeMo7smzK8lqLNAQWk)|
-|2|Do it! 딥러닝 교과서|-|[📚](https://books.google.co.kr/books?id=K5xNEAAAQBAJ&printsec=frontcover&dq=%EB%94%A5%EB%9F%AC%EB%8B%9D+%EA%B5%90%EA%B3%BC%EC%84%9C&hl=ko&sa=X&redir_esc=y#v=onepage&q=%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B5%90%EA%B3%BC%EC%84%9C&f=false)|-|
-|3|CS231n|-|[📚PPT_2016](https://drive.google.com/file/d/1negpJod0dMdch-fvN-RKuys6lM1dLMjO/view?usp=sharing) / [📚PPT_2017](https://drive.google.com/file/d/1VRNhmWaLlBHEXd6PhXRn7NIUyY3mtkn0/view?usp=sharing)|[🔺Kor](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5) / [🔺Eng](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)|
-|4|이것이 코딩테스트다 with 파이썬|-|[📚](https://books.google.co.kr/books?id=vBz-DwAAQBAJ&printsec=frontcover&dq=%EC%9D%B4%EA%B2%83%EC%9D%B4+%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4&hl=ko&sa=X&ved=2ahUKEwijqvmrmsD2AhVQx2EKHeosCXcQ6AF6BAgJEAI#v=onepage&q=%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4&f=false)|[🔺](https://www.youtube.com/playlist?list=PLVsNizTWUw7H9_of5YCB0FmsSc-K44y81)|
+|N|Title|Site|Book|PPT|Youtube|
+|:---:|---|:---:|:---:|:---:|:---:|
+|1|파이썬 코딩 도장|[📋](https://dojang.io/course/view.php?id=7)|[📚](https://books.google.co.kr/books?id=G7-CDwAAQBAJ&printsec=frontcover&dq=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EC%BD%94%EB%94%A9+%EB%8F%84%EC%9E%A5&hl=ko&sa=X&redir_esc=y#v=onepage&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%BD%94%EB%94%A9%20%EB%8F%84%EC%9E%A5&f=false)|-|[🔺](https://www.youtube.com/playlist?list=PLRtkynNyEsXnEkVCeMo7smzK8lqLNAQWk)|
+|2|Do it! 딥러닝 교과서|-|[📚](https://books.google.co.kr/books?id=K5xNEAAAQBAJ&printsec=frontcover&dq=%EB%94%A5%EB%9F%AC%EB%8B%9D+%EA%B5%90%EA%B3%BC%EC%84%9C&hl=ko&sa=X&redir_esc=y#v=onepage&q=%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B5%90%EA%B3%BC%EC%84%9C&f=false)|-|-|
+|3|CS231n|-|-|[📄2016](https://drive.google.com/file/d/1negpJod0dMdch-fvN-RKuys6lM1dLMjO/view?usp=sharing) / [📄2017](https://drive.google.com/file/d/1VRNhmWaLlBHEXd6PhXRn7NIUyY3mtkn0/view?usp=sharing)|[🔺Kor](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5) / [🔺Eng](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)|
+|4|이것이 코딩테스트다 with 파이썬|-|[📚](https://books.google.co.kr/books?id=vBz-DwAAQBAJ&printsec=frontcover&dq=%EC%9D%B4%EA%B2%83%EC%9D%B4+%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4&hl=ko&sa=X&ved=2ahUKEwijqvmrmsD2AhVQx2EKHeosCXcQ6AF6BAgJEAI#v=onepage&q=%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4&f=false)|-|[🔺](https://www.youtube.com/playlist?list=PLVsNizTWUw7H9_of5YCB0FmsSc-K44y81)|
 |5|-|-|-|-|
 
 ---
