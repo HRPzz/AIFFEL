@@ -1,6 +1,6 @@
 # AIFFEL DAEGU 1 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL%2Ftree%2Fmain%2FGOING_DEEPER_CV&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## GOING DEEPER
+## GOING DEEPER CV
 
 |N|Tag|Node Title|Link|Evaluation|W|Open|Done|
 |:---:|---|---|:---:|:---:|:---:|:---:|:---:|
@@ -8,7 +8,7 @@
 |2|DL, ResNet, Alation Study|없다면 어떻게 될까? (ResNet Ablation Study) by 강상권|[📋](Node_02/README.md)|-|12|03.16|-|
 |3|-|-|[📋]()|-|12|-|-|
 
-## GOING DEEPER CONTENTS SUMMARY
+## GOING DEEPER CV CONTENTS SUMMARY
 
 |N|Node Title|Contents Summary|
 |:---:|---|---|
