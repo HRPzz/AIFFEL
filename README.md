@@ -143,69 +143,69 @@
 
 ### GOING DEEPER CV [📁](GOING_DEEPER_CV)
 
-|N|Tag|Node Title|Link|W|Open|
-|:---:|---|---|:---:|:---:|:---:|
-|1|DL, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet|백본 네트워크 구조 상세분석<br>by 강상권|[📋](GOING_DEEPER_CV/Node_01/README.md)|12|03.15|
-|2|DL, ResNet, Ablation Study|없다면 어떻게 될까? (ResNet Ablation Study)<br>by 강상권<br>-|[📋](GOING_DEEPER_CV/Node_02/README.md)|12|03.16|
+|N|Tag|Node Title|Writer|Link|W|Open|
+|:---:|---|---|:---:|:---:|:---:|:---:|
+|1|DL, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet|백본 네트워크 구조 상세분석|강상권|[📋](GOING_DEEPER_CV/Node_01/README.md)|12|03.15|
+|2|DL, ResNet, Ablation Study|없다면 어떻게 될까? (ResNet Ablation Study)|강상권|[📋](GOING_DEEPER_CV/Node_02/README.md)|12|03.16|
 |2|-|-|[📋]()|13|-|
 
 ### EXPLORATION [📁](EXPLORATION)
 
-|N|Tag|Node Title|Link|W|Open|
-|:---:|---|---|:---:|:---:|:---:|
-|1|DL, Sequential API, LeNet|인공지능과 가위바위보 하기<br>by 김승일<br>⭐⭐☆|[📋](EXPLORATION/Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb)|2|01.04|
-|2|ML, Supervised Learning, Classification, F1 score|Iris의 세 가지 품종, 분류해볼 수 있겠어요?<br>by 정민정<br>⭐⭐⭐|[📋](EXPLORATION/Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb)|2|01.06|
-|3|DL, CV, dlib, HOG, SVM|카메라 스티커앱 만들기 첫걸음<br>by 우태강<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_03/%5BE-03%5D%20Camera_Sticker_App.ipynb)|3|01.11|
-|4|DL, NLP, RNN, LSTM|작사가 인공지능 만들기<br>by 문성원<br>⭐⭐☆ / 🏆|[📋](EXPLORATION/Node_04/%5BE-04%5D%20AI_Lyricist.ipynb)|3|01.13|
-|5|Kaggle, EDA|나의 첫 번째 캐글 경진대회, 무작정 따라해보기<br>by 정민정<br>⭐⭐☆ / 🏆|[📋](EXPLORATION/Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb)|4|01.18|
-|6|DL, NLP|영화리뷰 텍스트 감성분석하기<br>by 우지철<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb)|4|01.20|
-|7|pixellib, CV|인물사진을 만들어 보자<br>by 우태강<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_07/%5BE-07%5D%20make_a_portrait.ipynb)|5|01.25|
-|8|DL, NLP|뉴스 요약봇 만들기<br>by 유원준<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_08/%5BE-08%5D%20news_summary_bot.ipynb)|5|01.27|
-|9|ML, CV, CNN|폐렴아 기다려라!<br>by 유원준<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb)|6|02.03|
-|10|DL, GAN, DCGAN|인공지능으로 세상에 없던 새로운 패션 만들기<br>by 정민정<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb)|7|02.08|
-|11|ML, Statistics, ARMIA|어제 오른 내 주식, 과연 내일은?<br>by 김원철<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_11/%5BE-11%5D%20forecast_stock.ipynb)|7|02.10|
-|12|DL, NLP, Transformer, Attention|트랜스포머로 만드는 대화형 챗봇<br>by 유원준<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb)|8|02.15|
-|13|DL, NLP, BERT|인간보다 퀴즈를 잘푸는 인공지능<br>by 현청천<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb)|8|02.17|
-|14|DL, NLP, Recommendation, MF, CSR, ALS|아이유팬이 좋아할 만한 다른 아티스트 찾기<br>by 박지민<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb)|9|02.22|
-|15|DL, CV, OCR|문자를 읽을 수 있는 딥러닝<br>by 강상권<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_15/%5BE-15%5D%20OCR.ipynb)|9|02.24|
-|16|DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k|다음에 볼 영화 예측하기<br>by 박지민<br>⭐⭐⭐|[📋](EXPLORATION/Node_16/%5BE-16%5D%20Movie_Session_Based_Recommendation.ipynb)|11|03.07|
-|17|DL, GAN, cGAN, Pix2Pix|난 스케치를 할 테니 너는 채색을 하거라<br>by 정신유<br>-|[📋]()|12|03.14|
+|N|Tag|Node Title|Writer|Link|W|Open|
+|:---:|---|---|:---:|:---:|:---:|:---:|
+|1|DL, Sequential API, LeNet|인공지능과 가위바위보 하기|김승일<br>⭐⭐☆|[📋](EXPLORATION/Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb)|2|01.04|
+|2|ML, Supervised Learning, Classification, F1 score|Iris의 세 가지 품종, 분류해볼 수 있겠어요?|정민정<br>⭐⭐⭐|[📋](EXPLORATION/Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb)|2|01.06|
+|3|DL, CV, dlib, HOG, SVM|카메라 스티커앱 만들기 첫걸음|우태강<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_03/%5BE-03%5D%20Camera_Sticker_App.ipynb)|3|01.11|
+|4|DL, NLP, RNN, LSTM|작사가 인공지능 만들기|문성원<br>⭐⭐☆ / 🏆|[📋](EXPLORATION/Node_04/%5BE-04%5D%20AI_Lyricist.ipynb)|3|01.13|
+|5|Kaggle, EDA|나의 첫 번째 캐글 경진대회, 무작정 따라해보기|정민정<br>⭐⭐☆ / 🏆|[📋](EXPLORATION/Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb)|4|01.18|
+|6|DL, NLP|영화리뷰 텍스트 감성분석하기|우지철<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb)|4|01.20|
+|7|pixellib, CV|인물사진을 만들어 보자|우태강<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_07/%5BE-07%5D%20make_a_portrait.ipynb)|5|01.25|
+|8|DL, NLP|뉴스 요약봇 만들기|유원준<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_08/%5BE-08%5D%20news_summary_bot.ipynb)|5|01.27|
+|9|ML, CV, CNN|폐렴아 기다려라!|유원준<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb)|6|02.03|
+|10|DL, GAN, DCGAN|인공지능으로 세상에 없던 새로운 패션 만들기|정민정<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb)|7|02.08|
+|11|ML, Statistics, ARMIA|어제 오른 내 주식, 과연 내일은?|김원철<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_11/%5BE-11%5D%20forecast_stock.ipynb)|7|02.10|
+|12|DL, NLP, Transformer, Attention|트랜스포머로 만드는 대화형 챗봇|유원준<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb)|8|02.15|
+|13|DL, NLP, BERT|인간보다 퀴즈를 잘푸는 인공지능|현청천<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb)|8|02.17|
+|14|DL, NLP, Recommendation, MF, CSR, ALS|아이유팬이 좋아할 만한 다른 아티스트 찾기|박지민<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb)|9|02.22|
+|15|DL, CV, OCR|문자를 읽을 수 있는 딥러닝|강상권<br>⭐⭐⭐ / 🏆|[📋](EXPLORATION/Node_15/%5BE-15%5D%20OCR.ipynb)|9|02.24|
+|16|DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k|다음에 볼 영화 예측하기|박지민<br>⭐⭐⭐|[📋](EXPLORATION/Node_16/%5BE-16%5D%20Movie_Session_Based_Recommendation.ipynb)|11|03.07|
+|17|DL, GAN, cGAN, Pix2Pix|난 스케치를 할 테니 너는 채색을 하거라|정신유<br>-|[📋]()|12|03.14|
 
 ### FUNDAMENTALS [📁](FUNDAMENTALS)
 
 |N|Tag|Node Title|Link|W|Open|
 |:---:|---|---|:---:|:---:|:---:|
-|1|LMS, Cloud Jupyter|Ready to go?<br>by 백병인|[📋](FUNDAMENTALS/Node_01/README.md)|1|12.28|
-|2|CLI, Anaconda|인공지능 개발자가 되기 위한 위대한 첫 걸음<br>by 정민정|[📋](FUNDAMENTALS/Node_02/README.md)|1|12.28|
-|3|OS, Linux|터미널로 배우는 리눅스 운영체제<br>by 오상준|[📋](FUNDAMENTALS/Node_03/README.md)|1|12.28|
-|4|Git, GitHub|개발자를 위한 첫 번째 필수 교양<br>by 정민정|[📋](FUNDAMENTALS/Node_04/README.md)|1|12.28|
-|5|Kaggle, EDA|날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?<br>by ⬛|[📋](FUNDAMENTALS/Node_05/README.md)|4|01.18|
-|6|Python, Data Type, Function|파이썬으로 코딩 시작하기<br>by 오상준|[📋](FUNDAMENTALS/Node_06/README.md)|1|12.28|
-|7|Python, String, File, Module|텍스트의 다양한 변신 (문자열, 파일 다루기)<br>by 손주영|[📋](FUNDAMENTALS/Node_07/README.md)|1|12.29|
-|8|Python, For Loop, Try-Except, Lambda|파이썬 잘하는 척 해보자<br>by 장도영|[📋](FUNDAMENTALS/Node_08/README.md)|1|12.30|
-|9|Numpy, Pandas|Data 어떻게 표현하면 좋을까? 배열(array)과 표(table)<br>by 손주영|[📋](FUNDAMENTALS/Node_09/README.md)|1|12.31|
+|1|LMS, Cloud Jupyter|Ready to go?|백병인|[📋](FUNDAMENTALS/Node_01/README.md)|1|12.28|
+|2|CLI, Anaconda|인공지능 개발자가 되기 위한 위대한 첫 걸음|정민정|[📋](FUNDAMENTALS/Node_02/README.md)|1|12.28|
+|3|OS, Linux|터미널로 배우는 리눅스 운영체제|오상준|[📋](FUNDAMENTALS/Node_03/README.md)|1|12.28|
+|4|Git, GitHub|개발자를 위한 첫 번째 필수 교양|정민정|[📋](FUNDAMENTALS/Node_04/README.md)|1|12.28|
+|5|Kaggle, EDA|날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?|⬛|[📋](FUNDAMENTALS/Node_05/README.md)|4|01.18|
+|6|Python, Data Type, Function|파이썬으로 코딩 시작하기|오상준|[📋](FUNDAMENTALS/Node_06/README.md)|1|12.28|
+|7|Python, String, File, Module|텍스트의 다양한 변신 (문자열, 파일 다루기)|손주영|[📋](FUNDAMENTALS/Node_07/README.md)|1|12.29|
+|8|Python, For Loop, Try-Except, Lambda|파이썬 잘하는 척 해보자|장도영|[📋](FUNDAMENTALS/Node_08/README.md)|1|12.30|
+|9|Numpy, Pandas|Data 어떻게 표현하면 좋을까? 배열(array)과 표(table)|손주영|[📋](FUNDAMENTALS/Node_09/README.md)|1|12.31|
 |10|EDA, Data Preprocessing, Outlier, Normalization, One-Hot Encoding, Binning|다양한 데이터 전처리 기법 by 박윤진|[📋](FUNDAMENTALS/Node_10/README.md)|2|01.03|
-|11|Pandas, Matplotlib, Seaborn|데이터를 한눈에! Visualization<br>by 손주영|[📋](FUNDAMENTALS/Node_11/README.md)|2|01.05|
-|12|ML, Scikit-learn|사이킷런으로 구현해 보는 머신러닝<br>by 손주영|[📋](FUNDAMENTALS/Node_12/README.md)|2|01.07|
-|13|Python, OOP|당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기<br>by 손주영|[📋](FUNDAMENTALS/Node_13/README.md)|3|01.10|
-|14|DL, Model, Supervised Learning, Classification|거울아 거울아, 나는 멍멍이 상이니, 아니면 냥이 상이니?<br>by ⬛|[📋](FUNDAMENTALS/Node_14/README.md)|3|01.12|
-|15|Kaggle, EDA|🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리<br>by 정민정|[📋](FUNDAMENTALS/Node_15/README.md)|3|01.14|
-|16|pillow, CV|파이썬으로 이미지 파일 다루기<br>by 오상준|[📋](FUNDAMENTALS/Node_16/README.md)|4|01.17|
-|17|DL, NN|딥러닝과 신경망의 본질<br>by 정민정|[📋](FUNDAMENTALS/Node_17/README.md)|4|01.19|
-|18|DL, Numpy|딥러닝 들여다보기<br>by 우지철|[📋](FUNDAMENTALS/Node_18/README.md)|4|01.21|
-|19|ML, Supervised Learning, Regression|선형 회귀와 로지스틱 회귀<br>by 표정우|[📋](FUNDAMENTALS/Node_19/README.md)|5|01.24|
-|20|ML, Unsupervised Learning|비지도학습<br>by 표정우|[📋](FUNDAMENTALS/Node_20/README.md)|5|01.26|
-|21|DL, Keras|TF2 API 개요<br>by 우지철|[📋](FUNDAMENTALS/Node_21/README.md)|5|01.28|
-|22|DL, CV, CNN, Models|딥네트워크, 서로 뭐가 다른 거죠?<br>by 강상권|[📋](FUNDAMENTALS/Node_22/README.md)|6|02.04|
-|23|DL, CNN|딥러닝 레이어의 이해(1) Linear, Convolution<br>by 박윤진|[📋](FUNDAMENTALS/Node_23/README.md)|7|02.07|
-|24|DL, RNN|딥러닝 레이어의 이해(2) Embedding, Recurrent<br>by 문성원|[📋](FUNDAMENTALS/Node_24/README.md)|7|02.09|
-|25|DL, Regularization|Regularization<br>by 박윤경|[📋](FUNDAMENTALS/Node_25/README.md)|7|02.11|
-|26|DL, Activation Functions|활성화 함수의 이해<br>by 백승열|[📋](FUNDAMENTALS/Node_26/README.md)|8|02.14|
-|27|ML, Likelihood, MLE, MAP|Likelihood(MLE와 MAP)<br>by 신승연|[📋](FUNDAMENTALS/Node_27/README.md)|8|02.16|
-|28|ML, Information Theory, Entropy, Cross Entropy, KL divergence|정보이론 톺아보기<br>by 신승연|[📋](FUNDAMENTALS/Node_28/README.md)|8|02.18|
-|29|ML/DL, NLP, Recommendation System, Scikit-learn|사이킷런을 활용한 추천 시스템 입문<br>by 손주영|[📋](FUNDAMENTALS/Node_29/README.md)|9|02.21|
-|30|Python, Multitasking|컴퓨터 파워 UP<br>by 손주영|[📋](FUNDAMENTALS/Node_30/README.md)|9|02.23|
-|31|ML, Crawling|뉴스기사 크롤링 및 분류<br>by ⬛|[📋](FUNDAMENTALS/Node_31/README.md)|9|02.25|
+|11|Pandas, Matplotlib, Seaborn|데이터를 한눈에! Visualization|손주영|[📋](FUNDAMENTALS/Node_11/README.md)|2|01.05|
+|12|ML, Scikit-learn|사이킷런으로 구현해 보는 머신러닝|손주영|[📋](FUNDAMENTALS/Node_12/README.md)|2|01.07|
+|13|Python, OOP|당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기|손주영|[📋](FUNDAMENTALS/Node_13/README.md)|3|01.10|
+|14|DL, Model, Supervised Learning, Classification|거울아 거울아, 나는 멍멍이 상이니, 아니면 냥이 상이니?|⬛|[📋](FUNDAMENTALS/Node_14/README.md)|3|01.12|
+|15|Kaggle, EDA|🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리|정민정|[📋](FUNDAMENTALS/Node_15/README.md)|3|01.14|
+|16|pillow, CV|파이썬으로 이미지 파일 다루기|오상준|[📋](FUNDAMENTALS/Node_16/README.md)|4|01.17|
+|17|DL, NN|딥러닝과 신경망의 본질|정민정|[📋](FUNDAMENTALS/Node_17/README.md)|4|01.19|
+|18|DL, Numpy|딥러닝 들여다보기|우지철|[📋](FUNDAMENTALS/Node_18/README.md)|4|01.21|
+|19|ML, Supervised Learning, Regression|선형 회귀와 로지스틱 회귀|표정우|[📋](FUNDAMENTALS/Node_19/README.md)|5|01.24|
+|20|ML, Unsupervised Learning|비지도학습|표정우|[📋](FUNDAMENTALS/Node_20/README.md)|5|01.26|
+|21|DL, Keras|TF2 API 개요|우지철|[📋](FUNDAMENTALS/Node_21/README.md)|5|01.28|
+|22|DL, CV, CNN, Models|딥네트워크, 서로 뭐가 다른 거죠?|강상권|[📋](FUNDAMENTALS/Node_22/README.md)|6|02.04|
+|23|DL, CNN|딥러닝 레이어의 이해(1) Linear, Convolution|박윤진|[📋](FUNDAMENTALS/Node_23/README.md)|7|02.07|
+|24|DL, RNN|딥러닝 레이어의 이해(2) Embedding, Recurrent|문성원|[📋](FUNDAMENTALS/Node_24/README.md)|7|02.09|
+|25|DL, Regularization|Regularization|박윤경|[📋](FUNDAMENTALS/Node_25/README.md)|7|02.11|
+|26|DL, Activation Functions|활성화 함수의 이해|백승열|[📋](FUNDAMENTALS/Node_26/README.md)|8|02.14|
+|27|ML, Likelihood, MLE, MAP|Likelihood(MLE와 MAP)|신승연|[📋](FUNDAMENTALS/Node_27/README.md)|8|02.16|
+|28|ML, Information Theory, Entropy, Cross Entropy, KL divergence|정보이론 톺아보기|신승연|[📋](FUNDAMENTALS/Node_28/README.md)|8|02.18|
+|29|ML/DL, NLP, Recommendation System, Scikit-learn|사이킷런을 활용한 추천 시스템 입문|손주영|[📋](FUNDAMENTALS/Node_29/README.md)|9|02.21|
+|30|Python, Multitasking|컴퓨터 파워 UP|손주영|[📋](FUNDAMENTALS/Node_30/README.md)|9|02.23|
+|31|ML, Crawling|뉴스기사 크롤링 및 분류|⬛|[📋](FUNDAMENTALS/Node_31/README.md)|9|02.25|
 
 ---
 
