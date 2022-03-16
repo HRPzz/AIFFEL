@@ -67,7 +67,7 @@
 >| **3** | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
 >| **To Do** | - | E-17 | GD-01 | GD-02 | GD-02 | GD-03 | - |
 >| **4** | **20** | **21** | **22** | **23** | **24** | **25** | **26** |
->| **To Do** | - | GD-03<br>GD-04 | GD-04<br>GD-06 | GD-05 | GD-05 | GD-06 | - |
+>| **To Do** | - | GD-03<br>GD-04 | GD-04 | GD-05 | GD-05<br>GD-06 | GD-06 | - |
 >| **5** | **27** | **28** | **29** | **30** | **31** | - | - |
 >| **To Do** | - | GD-06<br>GD-07 | GD-07<br>GD-08 | GD-08 | GD-08<br>GD-09 | - | - |
 
@@ -132,9 +132,9 @@
 
 ## HACKATHON
 
-|N|Tag|Title|Link|Evaluation|W|Open|Done|
-|:---:|---|---|:---:|:---:|:---:|:---:|:---:|
-|1|EDA|DATATHON|[📁Repository](https://github.com/HRPzz/AIFFEL_HACKATHON_1)<br>[📋Jupyter Notebook](https://github.com/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb)|-|11|03.08|03.11|
+|N|Title|Link|Evaluation|W|Open|Done|
+|:---:|---|:---:|:---:|:---:|:---:|:---:|
+|1|DATATHON<br><br>#Tags: EDA|[📁Repository](https://github.com/HRPzz/AIFFEL_HACKATHON_1)<br>[📋Jupyter Notebook](https://github.com/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb)|2단계 통과|11|03.08|03.11|
 |2|-|-|-|-|-|-|-|
 
 ---
@@ -143,19 +143,20 @@
 
 ### GOING DEEPER CV [📁](GOING_DEEPER_CV)
 
-|N|Tag|Node Title|Writer|Link|W|Open|
-|:---:|---|---|:---:|:---:|:---:|:---:|
-|1|DL, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet|백본 네트워크 구조 상세분석|강상권|[📋](GOING_DEEPER_CV/Node_01/README.md)|12|03.15|
-|2|DL, ResNet, Ablation Study|없다면 어떻게 될까? (ResNet Ablation Study)|강상권|[📋](GOING_DEEPER_CV/Node_02/README.md)|12|03.16|
-|2|-|-|[📋]()|13|-|
+|N|Node Title|Author|Evaluation|Link|W|Open|
+|:---:|---|:---:|:---:|:---:|:---:|:---:|
+|1|백본 네트워크 구조 상세분석<br><br>#Tags: DL, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet|강상권|-|[📋](GOING_DEEPER_CV/Node_01/README.md)|12|03.15|
+|2|없다면 어떻게 될까? (ResNet Ablation Study)<br><br>#Tags: DL, ResNet, Ablation Study|강상권|-|[📋](GOING_DEEPER_CV/Node_02/README.md)|12|03.16|
+|3|-|-|-|[📋]()|12|-|
+|4|-|-|-|[📋]()|13|-|
 
 ### EXPLORATION [📁](EXPLORATION)
 
 |N|Node Title|Author|Evaluation|Link|W|Open|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|
-|1|**인공지능과 가위바위보 하기**<br>#Tags: DL, Sequential API, LeNet|김승일|⭐⭐☆|[📋](EXPLORATION/Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb)|2|01.04|
-|2|**Iris의 세 가지 품종, 분류해볼 수 있겠어요?**<br>#Tags: ML, Supervised Learning, Classification, F1 score|정민정|⭐⭐⭐|[📋](EXPLORATION/Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb)|2|01.06|
-|3|카메라 스티커앱 만들기 첫걸음<br>#Tags: DL, CV, dlib, HOG, SVM|우태강|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_03/%5BE-03%5D%20Camera_Sticker_App.ipynb)|3|01.11|
+|1|인공지능과 가위바위보 하기<br><br>#Tags: DL, Sequential API, LeNet|김승일|⭐⭐☆|[📋](EXPLORATION/Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb)|2|01.04|
+|2|Iris의 세 가지 품종, 분류해볼 수 있겠어요?<br><br>#Tags: ML, Supervised Learning, Classification, F1 score|정민정|⭐⭐⭐|[📋](EXPLORATION/Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb)|2|01.06|
+|3|카메라 스티커앱 만들기 첫걸음<br><br>#Tags: DL, CV, dlib, HOG, SVM|우태강|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_03/%5BE-03%5D%20Camera_Sticker_App.ipynb)|3|01.11|
 |4|작사가 인공지능 만들기<br><br>#Tags: DL, NLP, RNN, LSTM|문성원|⭐⭐☆<br>🏆|[📋](EXPLORATION/Node_04/%5BE-04%5D%20AI_Lyricist.ipynb)|3|01.13|
 |5|나의 첫 번째 캐글 경진대회, 무작정 따라해보기<br><br>#Tags: Kaggle, EDA|정민정|⭐⭐☆<br>🏆|[📋](EXPLORATION/Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb)|4|01.18|
 |6|영화리뷰 텍스트 감성분석하기<br><br>#Tags: DL, NLP|우지철|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb)|4|01.20|
@@ -173,39 +174,39 @@
 
 ### FUNDAMENTALS [📁](FUNDAMENTALS)
 
-|N|Tag|Node Title|Link|W|Open|
-|:---:|---|---|:---:|:---:|:---:|
-|1|LMS, Cloud Jupyter|Ready to go?|백병인|[📋](FUNDAMENTALS/Node_01/README.md)|1|12.28|
-|2|CLI, Anaconda|인공지능 개발자가 되기 위한 위대한 첫 걸음|정민정|[📋](FUNDAMENTALS/Node_02/README.md)|1|12.28|
-|3|OS, Linux|터미널로 배우는 리눅스 운영체제|오상준|[📋](FUNDAMENTALS/Node_03/README.md)|1|12.28|
-|4|Git, GitHub|개발자를 위한 첫 번째 필수 교양|정민정|[📋](FUNDAMENTALS/Node_04/README.md)|1|12.28|
-|5|Kaggle, EDA|날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?|⬛|[📋](FUNDAMENTALS/Node_05/README.md)|4|01.18|
-|6|Python, Data Type, Function|파이썬으로 코딩 시작하기|오상준|[📋](FUNDAMENTALS/Node_06/README.md)|1|12.28|
-|7|Python, String, File, Module|텍스트의 다양한 변신 (문자열, 파일 다루기)|손주영|[📋](FUNDAMENTALS/Node_07/README.md)|1|12.29|
-|8|Python, For Loop, Try-Except, Lambda|파이썬 잘하는 척 해보자|장도영|[📋](FUNDAMENTALS/Node_08/README.md)|1|12.30|
-|9|Numpy, Pandas|Data 어떻게 표현하면 좋을까? 배열(array)과 표(table)|손주영|[📋](FUNDAMENTALS/Node_09/README.md)|1|12.31|
-|10|EDA, Data Preprocessing, Outlier, Normalization, One-Hot Encoding, Binning|다양한 데이터 전처리 기법 by 박윤진|[📋](FUNDAMENTALS/Node_10/README.md)|2|01.03|
-|11|Pandas, Matplotlib, Seaborn|데이터를 한눈에! Visualization|손주영|[📋](FUNDAMENTALS/Node_11/README.md)|2|01.05|
-|12|ML, Scikit-learn|사이킷런으로 구현해 보는 머신러닝|손주영|[📋](FUNDAMENTALS/Node_12/README.md)|2|01.07|
-|13|Python, OOP|당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기|손주영|[📋](FUNDAMENTALS/Node_13/README.md)|3|01.10|
-|14|DL, Model, Supervised Learning, Classification|거울아 거울아, 나는 멍멍이 상이니, 아니면 냥이 상이니?|⬛|[📋](FUNDAMENTALS/Node_14/README.md)|3|01.12|
-|15|Kaggle, EDA|🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리|정민정|[📋](FUNDAMENTALS/Node_15/README.md)|3|01.14|
-|16|pillow, CV|파이썬으로 이미지 파일 다루기|오상준|[📋](FUNDAMENTALS/Node_16/README.md)|4|01.17|
-|17|DL, NN|딥러닝과 신경망의 본질|정민정|[📋](FUNDAMENTALS/Node_17/README.md)|4|01.19|
-|18|DL, Numpy|딥러닝 들여다보기|우지철|[📋](FUNDAMENTALS/Node_18/README.md)|4|01.21|
-|19|ML, Supervised Learning, Regression|선형 회귀와 로지스틱 회귀|표정우|[📋](FUNDAMENTALS/Node_19/README.md)|5|01.24|
-|20|ML, Unsupervised Learning|비지도학습|표정우|[📋](FUNDAMENTALS/Node_20/README.md)|5|01.26|
-|21|DL, Keras|TF2 API 개요|우지철|[📋](FUNDAMENTALS/Node_21/README.md)|5|01.28|
-|22|DL, CV, CNN, Models|딥네트워크, 서로 뭐가 다른 거죠?|강상권|[📋](FUNDAMENTALS/Node_22/README.md)|6|02.04|
-|23|DL, CNN|딥러닝 레이어의 이해(1) Linear, Convolution|박윤진|[📋](FUNDAMENTALS/Node_23/README.md)|7|02.07|
-|24|DL, RNN|딥러닝 레이어의 이해(2) Embedding, Recurrent|문성원|[📋](FUNDAMENTALS/Node_24/README.md)|7|02.09|
-|25|DL, Regularization|Regularization|박윤경|[📋](FUNDAMENTALS/Node_25/README.md)|7|02.11|
-|26|DL, Activation Functions|활성화 함수의 이해|백승열|[📋](FUNDAMENTALS/Node_26/README.md)|8|02.14|
-|27|ML, Likelihood, MLE, MAP|Likelihood(MLE와 MAP)|신승연|[📋](FUNDAMENTALS/Node_27/README.md)|8|02.16|
-|28|ML, Information Theory, Entropy, Cross Entropy, KL divergence|정보이론 톺아보기|신승연|[📋](FUNDAMENTALS/Node_28/README.md)|8|02.18|
-|29|ML/DL, NLP, Recommendation System, Scikit-learn|사이킷런을 활용한 추천 시스템 입문|손주영|[📋](FUNDAMENTALS/Node_29/README.md)|9|02.21|
-|30|Python, Multitasking|컴퓨터 파워 UP|손주영|[📋](FUNDAMENTALS/Node_30/README.md)|9|02.23|
-|31|ML, Crawling|뉴스기사 크롤링 및 분류|⬛|[📋](FUNDAMENTALS/Node_31/README.md)|9|02.25|
+|N|Node Title|Author|Link|W|Open|
+|:---:|---|:---:|:---:|:---:|:---:|
+|1|Ready to go?<br><br>#Tags: LMS, Cloud Jupyter|백병인|[📋](FUNDAMENTALS/Node_01/README.md)|1|12.28|
+|2|인공지능 개발자가 되기 위한 위대한 첫 걸음<br><br>#Tags: CLI, Anaconda|정민정|[📋](FUNDAMENTALS/Node_02/README.md)|1|12.28|
+|3|터미널로 배우는 리눅스 운영체제<br><br>#Tags: OS, Linux|오상준|[📋](FUNDAMENTALS/Node_03/README.md)|1|12.28|
+|4|개발자를 위한 첫 번째 필수 교양<br><br>#Tags: Git, GitHub|정민정|[📋](FUNDAMENTALS/Node_04/README.md)|1|12.28|
+|5|날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?<br><br>#Tags: Kaggle, EDA|⬛|[📋](FUNDAMENTALS/Node_05/README.md)|4|01.18|
+|6|파이썬으로 코딩 시작하기<br><br>#Tags: Python, Data Type, Function|오상준|[📋](FUNDAMENTALS/Node_06/README.md)|1|12.28|
+|7|텍스트의 다양한 변신 (문자열, 파일 다루기)<br><br>#Tags: Python, String, File, Module|손주영|[📋](FUNDAMENTALS/Node_07/README.md)|1|12.29|
+|8|파이썬 잘하는 척 해보자<br><br>#Tags: Python, For Loop, Try-Except, Lambda|장도영|[📋](FUNDAMENTALS/Node_08/README.md)|1|12.30|
+|9|Data 어떻게 표현하면 좋을까? 배열(array)과 표(table)<br><br>#Tags: Numpy, Pandas|손주영|[📋](FUNDAMENTALS/Node_09/README.md)|1|12.31|
+|10|다양한 데이터 전처리 기법<br><br>#Tags: EDA, Data Preprocessing, Outlier, Normalization, One-Hot Encoding, Binning|박윤진|[📋](FUNDAMENTALS/Node_10/README.md)|2|01.03|
+|11|데이터를 한눈에! Visualization<br><br>#Tags: Pandas, Matplotlib, Seaborn|손주영|[📋](FUNDAMENTALS/Node_11/README.md)|2|01.05|
+|12|사이킷런으로 구현해 보는 머신러닝<br><br>#Tags: ML, Scikit-learn|손주영|[📋](FUNDAMENTALS/Node_12/README.md)|2|01.07|
+|13|당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기<br><br>#Tags: Python, OOP|손주영|[📋](FUNDAMENTALS/Node_13/README.md)|3|01.10|
+|14|거울아 거울아, 나는 멍멍이 상이니, 아니면 냥이 상이니?<br><br>#Tags: DL, Model, Supervised Learning, Classification|⬛|[📋](FUNDAMENTALS/Node_14/README.md)|3|01.12|
+|15|🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리<br><br>#Tags: Kaggle, EDA|정민정|[📋](FUNDAMENTALS/Node_15/README.md)|3|01.14|
+|16|파이썬으로 이미지 파일 다루기<br><br>#Tags: pillow, CV|오상준|[📋](FUNDAMENTALS/Node_16/README.md)|4|01.17|
+|17|딥러닝과 신경망의 본질<br><br>#Tags: DL, NN|정민정|[📋](FUNDAMENTALS/Node_17/README.md)|4|01.19|
+|18|딥러닝 들여다보기<br><br>#Tags: DL, Numpy|우지철|[📋](FUNDAMENTALS/Node_18/README.md)|4|01.21|
+|19|선형 회귀와 로지스틱 회귀<br><br>#Tags: ML, Supervised Learning, Regression|표정우|[📋](FUNDAMENTALS/Node_19/README.md)|5|01.24|
+|20|비지도학습<br><br>#Tags: ML, Unsupervised Learning|표정우|[📋](FUNDAMENTALS/Node_20/README.md)|5|01.26|
+|21|TF2 API 개요<br><br>#Tags: DL, Keras|우지철|[📋](FUNDAMENTALS/Node_21/README.md)|5|01.28|
+|22|딥네트워크, 서로 뭐가 다른 거죠?<br><br>#Tags: DL, CV, CNN, Models|강상권|[📋](FUNDAMENTALS/Node_22/README.md)|6|02.04|
+|23|딥러닝 레이어의 이해(1) Linear, Convolution<br><br>#Tags: DL, CNN|박윤진|[📋](FUNDAMENTALS/Node_23/README.md)|7|02.07|
+|24|딥러닝 레이어의 이해(2) Embedding, Recurrent<br><br>#Tags: DL, RNN|문성원|[📋](FUNDAMENTALS/Node_24/README.md)|7|02.09|
+|25|Regularization<br><br>#Tags: DL, Regularization|박윤경|[📋](FUNDAMENTALS/Node_25/README.md)|7|02.11|
+|26|활성화 함수의 이해<br><br>#Tags: DL, Activation Functions|백승열|[📋](FUNDAMENTALS/Node_26/README.md)|8|02.14|
+|27|Likelihood(MLE와 MAP)<br><br>#Tags: ML, Likelihood, MLE, MAP|신승연|[📋](FUNDAMENTALS/Node_27/README.md)|8|02.16|
+|28|정보이론 톺아보기<br><br>#Tags: ML, Information Theory, Entropy, Cross Entropy, KL divergence|신승연|[📋](FUNDAMENTALS/Node_28/README.md)|8|02.18|
+|29|사이킷런을 활용한 추천 시스템 입문<br><br>#Tags: ML/DL, NLP, Recommendation System, Scikit-learn|손주영|[📋](FUNDAMENTALS/Node_29/README.md)|9|02.21|
+|30|컴퓨터 파워 UP<br><br>#Tags: Python, Multitasking|손주영|[📋](FUNDAMENTALS/Node_30/README.md)|9|02.23|
+|31|뉴스기사 크롤링 및 분류<br><br>#Tags: ML, Crawling|⬛|[📋](FUNDAMENTALS/Node_31/README.md)|9|02.25|
 
 ---
 
