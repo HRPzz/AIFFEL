@@ -122,10 +122,10 @@
 
 |N|Title|Site|Book|PPT|Youtube|
 |:---:|---|:---:|:---:|:---:|:---:|
-|1|파이썬 코딩 도장|[📋](https://dojang.io/course/view.php?id=7)|[📚](https://books.google.co.kr/books?id=G7-CDwAAQBAJ&printsec=frontcover&dq=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EC%BD%94%EB%94%A9+%EB%8F%84%EC%9E%A5&hl=ko&sa=X&redir_esc=y#v=onepage&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%BD%94%EB%94%A9%20%EB%8F%84%EC%9E%A5&f=false)|-|[🔺](https://www.youtube.com/playlist?list=PLRtkynNyEsXnEkVCeMo7smzK8lqLNAQWk)|
+|1|파이썬 코딩 도장|[➡️](https://dojang.io/course/view.php?id=7)|[📚](https://books.google.co.kr/books?id=G7-CDwAAQBAJ&printsec=frontcover&dq=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EC%BD%94%EB%94%A9+%EB%8F%84%EC%9E%A5&hl=ko&sa=X&redir_esc=y#v=onepage&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%BD%94%EB%94%A9%20%EB%8F%84%EC%9E%A5&f=false)|-|[⏯️](https://www.youtube.com/playlist?list=PLRtkynNyEsXnEkVCeMo7smzK8lqLNAQWk)|
 |2|Do it! 딥러닝 교과서|-|[📚](https://books.google.co.kr/books?id=K5xNEAAAQBAJ&printsec=frontcover&dq=%EB%94%A5%EB%9F%AC%EB%8B%9D+%EA%B5%90%EA%B3%BC%EC%84%9C&hl=ko&sa=X&redir_esc=y#v=onepage&q=%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B5%90%EA%B3%BC%EC%84%9C&f=false)|-|-|
-|3|CS231n|-|-|[📄2016](https://drive.google.com/file/d/1negpJod0dMdch-fvN-RKuys6lM1dLMjO/view?usp=sharing)<br>[📄2017](https://drive.google.com/file/d/1VRNhmWaLlBHEXd6PhXRn7NIUyY3mtkn0/view?usp=sharing)|[🔺Kor](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)<br>[🔺Eng](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)|
-|4|이것이 코딩테스트다 with 파이썬|-|[📚](https://books.google.co.kr/books?id=vBz-DwAAQBAJ&printsec=frontcover&dq=%EC%9D%B4%EA%B2%83%EC%9D%B4+%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4&hl=ko&sa=X&ved=2ahUKEwijqvmrmsD2AhVQx2EKHeosCXcQ6AF6BAgJEAI#v=onepage&q=%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4&f=false)|-|[🔺](https://www.youtube.com/playlist?list=PLVsNizTWUw7H9_of5YCB0FmsSc-K44y81)|
+|3|CS231n|-|-|[📄2016](https://drive.google.com/file/d/1negpJod0dMdch-fvN-RKuys6lM1dLMjO/view?usp=sharing)<br>[📄2017](https://drive.google.com/file/d/1VRNhmWaLlBHEXd6PhXRn7NIUyY3mtkn0/view?usp=sharing)|[⏯️Kor](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)<br>[⏯️Eng](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)|
+|4|이것이 코딩테스트다 with 파이썬|-|[📚](https://books.google.co.kr/books?id=vBz-DwAAQBAJ&printsec=frontcover&dq=%EC%9D%B4%EA%B2%83%EC%9D%B4+%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4&hl=ko&sa=X&ved=2ahUKEwijqvmrmsD2AhVQx2EKHeosCXcQ6AF6BAgJEAI#v=onepage&q=%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4&f=false)|-|[⏯️](https://www.youtube.com/playlist?list=PLVsNizTWUw7H9_of5YCB0FmsSc-K44y81)|
 |5|-|-|-|-|
 
 ---
@@ -145,24 +145,45 @@
 
 ### GOING DEEPER CV [📁](GOING_DEEPER_CV)
 
-|N|Node Title|Author|Evaluation|Link|W|Open|
+|N|Node Title|Author|Type|Evaluation|Link|W|Open|
+|:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
+|1|백본 네트워크 구조 상세분석<br><br>#Tags: DL, CV, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet|강상권|Lecture|-|[📋](GOING_DEEPER_CV/Node_01/README.md)|12|03.15|
+|2|없다면 어떻게 될까? (ResNet Ablation Study)<br><br>#Tags: DL, CV, ResNet, Ablation Study|강상권|Project|-|[📋](GOING_DEEPER_CV/Node_02/README.md)|12|03.16|
+|3|잘 만든 Augmentation, 이미지 100장 안 부럽다<br><br>#Tags: |-|Lecture|-|[📋](GOING_DEEPER_CV/Node_03/README.md)|12|03.18|
+|4|이미지 어디까지 우려볼까?<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_04/README.md)|13|03.21|
+|5|너의 속이 궁금해 - Class Activation Map 살펴보기<br><br>#Tags: |-|Lecture|-|[📋](GOING_DEEPER_CV/Node_05/README.md)|13|03.23|
+|6|나를 찾아줘 - Class Activation Map 만들기<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_06/README.md)|13|03.24|
+|7|Object Detection<br><br>#Tags: |-|Lecture|-|[📋](GOING_DEEPER_CV/Node_07/README.md)|14|03.28|
+|8|GO/STOP! - Object Detection 시스템 만들기<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_08/README.md)|14|03.29|
+|9|물체를 분리하자! - 세그멘테이션 살펴보기<br><br>#Tags: |-|Lecture|-|[📋](GOING_DEEPER_CV/Node_09/README.md)|14|03.31|
+|10|도로 영역을 찾자! - 세그멘테이션 모델 만들기<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_10/README.md)|15|04.04|
+|11|OCR 기술의 개요<br><br>#Tags: |-|Lecture|-|[📋](GOING_DEEPER_CV/Node_11/README.md)|15|04.05|
+|12|직접 만들어보는 OCR<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_12/README.md)|15|04.07|
+|13|멀리 있지만 괜찮아<br><br>#Tags: |-|Lecture|-|[📋](GOING_DEEPER_CV/Node_13/README.md)|16|04.11|
+|14|멀리 있는 사람도 스티커를 붙여주자<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_14/README.md)|17|04.18|
+|15|사람의 몸짓을 읽어보자<br><br>#Tags: |-|Lecture|-|[📋](GOING_DEEPER_CV/Node_15/README.md)|17|04.19|
+|16|행동 스티커 만들기<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_16/README.md)|17|04.21|
+
+### GOING DEEPER NLP [📁](GOING_DEEPER_NLP)
+
+|N|Node Title|Author|Type|Link|W|Open|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|
-|1|백본 네트워크 구조 상세분석<br><br>#Tags: DL, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet|강상권|-|[📋](GOING_DEEPER_CV/Node_01/README.md)|12|03.15|
-|2|없다면 어떻게 될까? (ResNet Ablation Study)<br><br>#Tags: DL, ResNet, Ablation Study|강상권|-|[📋](GOING_DEEPER_CV/Node_02/README.md)|12|03.16|
-|3|-|-|-|[📋]()|12|03.18|
-|4|-|-|-|[📋]()|13|03.21|
-|5|-|-|-|[📋]()|13|03.23|
-|6|-|-|-|[📋]()|13|03.24|
-|7|-|-|-|[📋]()|14|03.28|
-|8|-|-|-|[📋]()|14|03.29|
-|9|-|-|-|[📋]()|14|03.31|
-|10|-|-|-|[📋]()|15|04.04|
-|11|-|-|-|[📋]()|15|04.05|
-|12|-|-|-|[📋]()|15|04.07|
-|13|-|-|-|[📋]()|16|04.11|
-|14|-|-|-|[📋]()|17|04.18|
-|15|-|-|-|[📋]()|17|04.19|
-|16|-|-|-|[📋]()|17|04.21|
+|1|텍스트 데이터 다루기<br><br>#Tags: |-|Lecture|[📋](GOING_DEEPER_NLP/Node_01/README.md)|12|03.15|
+|2|멋진 단어사전 만들기<br><br>#Tags: |-|Project|[📋](GOING_DEEPER_NLP/Node_02/README.md)|12|03.16|
+|3|텍스트의 분포로 벡터화 하기<br><br>#Tags: |-|Lecture|[📋](GOING_DEEPER_NLP/Node_03/README.md)|12|03.18|
+|4|뉴스 카테고리 다중분류<br><br>#Tags: |-|Project|[📋](GOING_DEEPER_NLP/Node_04/README.md)|13|03.21|
+|5|워드 임베딩<br><br>#Tags: |-|Lecture|[📋](GOING_DEEPER_NLP/Node_05/README.md)|13|03.23|
+|6|임베딩 내 편향성 알아보기<br><br>#Tags: |-|Project|[📋](GOING_DEEPER_NLP/Node_06/README.md)|13|03.24|
+|7|Seq2seq와 Attention<br><br>#Tags: |-|Lecture|[📋](GOING_DEEPER_NLP/Node_07/README.md)|14|03.28|
+|8|Seq2seq으로 번역기 만들기<br><br>#Tags: |-|Project|[📋](GOING_DEEPER_NLP/Node_08/README.md)|14|03.29|
+|9|Transformer가 나오기까지<br><br>#Tags: |-|Lecture|[📋](GOING_DEEPER_NLP/Node_09/README.md)|14|03.31|
+|10|Transformer로 번역기 만들기<br><br>#Tags: |-|Project|[📋](GOING_DEEPER_NLP/Node_10/README.md)|15|04.04|
+|11|기계 번역이 걸어온 길<br><br>#Tags: |-|Lecture|[📋](GOING_DEEPER_NLP/Node_11/README.md)|15|04.05|
+|12|번역가는 대화에도 능하다<br><br>#Tags: |-|Project|[📋](GOING_DEEPER_NLP/Node_12/README.md)|15|04.07|
+|13|modern NLP의 흐름에 올라타보자<br><br>#Tags: |-|Lecture|[📋](GOING_DEEPER_NLP/Node_13/README.md)|16|04.11|
+|14|BERT pretrained model 제작<br><br>#Tags: |-|Project|[📋](GOING_DEEPER_NLP/Node_14/README.md)|17|04.18|
+|15|NLP Framework의 활용<br><br>#Tags: |-|Lecture|[📋](GOING_DEEPER_NLP/Node_15/README.md)|17|04.19|
+|16|HuggingFace 커스텀 프로젝트 만들기<br><br>#Tags: |-|Project|[📋](GOING_DEEPER_NLP/Node_16/README.md)|17|04.21|
 
 ### EXPLORATION [📁](EXPLORATION)
 
