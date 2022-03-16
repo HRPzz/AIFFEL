@@ -147,7 +147,7 @@
 
 ## LMS
 
-### GOING DEEPER
+### GOING DEEPER CV
 
 |N|Tag|Node Title|Link|W|Open|
 |:---:|---|---|:---:|:---:|:---:|
