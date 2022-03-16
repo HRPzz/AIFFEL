@@ -19,7 +19,7 @@
 |13|DL, NLP, BERT|인간보다 퀴즈를 잘푸는 인공지능 by 현청천|[📋](Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb)|⭐⭐⭐|8|02.17|02.24|
 |14|DL, NLP, MF, CSR, ALS|아이유팬이 좋아할 만한 다른 아티스트 찾기 by 박지민|[📋](Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb)|⭐⭐⭐|9|02.22|03.01|
 |15|DL, CV, OCR|문자를 읽을 수 있는 딥러닝 by 강상권|[📋](Node_15/%5BE-15%5D%20OCR.ipynb)|⭐⭐⭐|9|02.24|03.03|
-|16|DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k|다음에 볼 영화 예측하기 by 박지민|[📋](Node_16/%5BE-16%5D%20Movie_Session_Based_Recommendation.ipynb)|-|11|03.07|03.14|
+|16|DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k|다음에 볼 영화 예측하기 by 박지민|[📋](Node_16/%5BE-16%5D%20Movie_Session_Based_Recommendation.ipynb)|⭐⭐⭐|11|03.07|03.14|
 |17|DL, GAN, cGAN, Pix2Pix|난 스케치를 할 테니 너는 채색을 하거라 by 정신유|[📋]()|-|12|03.14|-|
 
 ## EXPLORATION CONTENTS SUMMARY
