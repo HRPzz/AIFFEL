@@ -130,11 +130,11 @@
 
 ---
 
-## HACKATHON
+## TEAM PROJECT
 
 |N|Title|Link|Evaluation|W|Open|Done|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|
-|1|DATATHON<br><br>#Tags: EDA|[📁Repository](https://github.com/HRPzz/AIFFEL_HACKATHON_1)<br>[📋Jupyter Notebook](https://github.com/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb)|2단계 통과|11|03.08|03.11|
+|1|제 1차 HACKATHON: 데이터톤(DATATHON)<br><br>#Tags: EDA|[📁Repository](https://github.com/HRPzz/AIFFEL_HACKATHON_1)<br>[📋Jupyter Notebook](https://github.com/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb)|2단계 통과|11|03.08|03.11|
 |2|-|-|-|-|-|-|-|
 
 ---
