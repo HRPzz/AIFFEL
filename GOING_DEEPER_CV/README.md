@@ -5,7 +5,7 @@
 |N|Tag|Node Title|Link|Evaluation|W|Open|Done|
 |:---:|---|---|:---:|:---:|:---:|:---:|:---:|
 |1|DL, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet|백본 네트워크 구조 상세분석 by 강상권|[📋](Node_01/README.md)|-|12|03.15|-|
-|2|DL, ResNet, Alation Study|없다면 어떻게 될까? (ResNet Ablation Study) by 강상권|[📋](Node_02/README.md)|-|12|03.16|-|
+|2|DL, ResNet, Ablation Study|없다면 어떻게 될까? (ResNet Ablation Study) by 강상권|[📋](Node_02/README.md)|-|12|03.16|-|
 |3|-|-|[📋]()|-|12|-|-|
 
 ## GOING DEEPER CV CONTENTS SUMMARY
