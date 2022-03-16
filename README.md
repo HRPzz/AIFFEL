@@ -152,7 +152,7 @@
 ### EXPLORATION [📁](EXPLORATION)
 
 |N|Node Title|Writer|Link|W|Open|
-|:---:|---|---|:---:|:---:|:---:|:---:|
+|:---:|---|:---:|:---:|:---:|:---:|
 |1|인공지능과 가위바위보 하기<br><br>#Tags: DL, Sequential API, LeNet|김승일|⭐⭐☆|[📋](EXPLORATION/Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb)|2|01.04|
 |2|Iris의 세 가지 품종, 분류해볼 수 있겠어요?<br><br>#Tags: ML, Supervised Learning, Classification, F1 score|정민정||⭐⭐⭐|[📋](EXPLORATION/Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb)|2|01.06|
 |3|카메라 스티커앱 만들기 첫걸음<br><br>#Tags: DL, CV, dlib, HOG, SVM|우태강|⭐⭐⭐/🏆|[📋](EXPLORATION/Node_03/%5BE-03%5D%20Camera_Sticker_App.ipynb)|3|01.11|
