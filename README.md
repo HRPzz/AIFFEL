@@ -147,29 +147,29 @@
 
 |N|Node Title|Author|Type|Evaluation|Link|W|Open|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|백본 네트워크 구조 상세분석<br><br>#Tags: DL, CV, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet|강상권|Lecture|-|[📋](GOING_DEEPER_CV/Node_01/README.md)|12|03.15|
+|1|백본 네트워크 구조 상세분석<br><br>#Tags: DL, CV, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet|강상권|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_01/README.md)|12|03.15|
 |2|없다면 어떻게 될까? (ResNet Ablation Study)<br><br>#Tags: DL, CV, ResNet, Ablation Study|강상권|Project|-|[📋](GOING_DEEPER_CV/Node_02/README.md)|12|03.16|
-|3|잘 만든 Augmentation, 이미지 100장 안 부럽다<br><br>#Tags: |-|Lecture|-|[📋](GOING_DEEPER_CV/Node_03/README.md)|12|03.18|
+|3|잘 만든 Augmentation, 이미지 100장 안 부럽다<br><br>#Tags: |-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_03/README.md)|12|03.18|
 |4|이미지 어디까지 우려볼까?<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_04/README.md)|13|03.21|
-|5|너의 속이 궁금해 - Class Activation Map 살펴보기<br><br>#Tags: |-|Lecture|-|[📋](GOING_DEEPER_CV/Node_05/README.md)|13|03.23|
+|5|너의 속이 궁금해 - Class Activation Map 살펴보기<br><br>#Tags: |-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_05/README.md)|13|03.23|
 |6|나를 찾아줘 - Class Activation Map 만들기<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_06/README.md)|13|03.24|
-|7|Object Detection<br><br>#Tags: |-|Lecture|-|[📋](GOING_DEEPER_CV/Node_07/README.md)|14|03.28|
+|7|Object Detection<br><br>#Tags: |-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_07/README.md)|14|03.28|
 |8|GO/STOP! - Object Detection 시스템 만들기<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_08/README.md)|14|03.29|
-|9|물체를 분리하자! - 세그멘테이션 살펴보기<br><br>#Tags: |-|Lecture|-|[📋](GOING_DEEPER_CV/Node_09/README.md)|14|03.31|
+|9|물체를 분리하자! - 세그멘테이션 살펴보기<br><br>#Tags: |-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_09/README.md)|14|03.31|
 |10|도로 영역을 찾자! - 세그멘테이션 모델 만들기<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_10/README.md)|15|04.04|
-|11|OCR 기술의 개요<br><br>#Tags: |-|Lecture|-|[📋](GOING_DEEPER_CV/Node_11/README.md)|15|04.05|
+|11|OCR 기술의 개요<br><br>#Tags: |-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_11/README.md)|15|04.05|
 |12|직접 만들어보는 OCR<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_12/README.md)|15|04.07|
-|13|멀리 있지만 괜찮아<br><br>#Tags: |-|Lecture|-|[📋](GOING_DEEPER_CV/Node_13/README.md)|16|04.11|
+|13|멀리 있지만 괜찮아<br><br>#Tags: |-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_13/README.md)|16|04.11|
 |14|멀리 있는 사람도 스티커를 붙여주자<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_14/README.md)|17|04.18|
-|15|사람의 몸짓을 읽어보자<br><br>#Tags: |-|Lecture|-|[📋](GOING_DEEPER_CV/Node_15/README.md)|17|04.19|
+|15|사람의 몸짓을 읽어보자<br><br>#Tags: |-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_15/README.md)|17|04.19|
 |16|행동 스티커 만들기<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_16/README.md)|17|04.21|
 
 ### GOING DEEPER NLP [📁](GOING_DEEPER_NLP)
 
 |N|Node Title|Author|Type|Link|W|Open|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|
-|1|텍스트 데이터 다루기<br><br>#Tags: |-|Lecture|[📋](GOING_DEEPER_NLP/Node_01/README.md)|12|03.15|
-|2|멋진 단어사전 만들기<br><br>#Tags: |-|Project|[📋](GOING_DEEPER_NLP/Node_02/README.md)|12|03.16|
+|1|텍스트 데이터 다루기<br><br>#Tags: |문성원|Lecture|[📋](GOING_DEEPER_NLP/Node_01/README.md)|12|03.15|
+|2|멋진 단어사전 만들기<br><br>#Tags: |문성원|Project|[📋](GOING_DEEPER_NLP/Node_02/README.md)|12|03.16|
 |3|텍스트의 분포로 벡터화 하기<br><br>#Tags: |-|Lecture|[📋](GOING_DEEPER_NLP/Node_03/README.md)|12|03.18|
 |4|뉴스 카테고리 다중분류<br><br>#Tags: |-|Project|[📋](GOING_DEEPER_NLP/Node_04/README.md)|13|03.21|
 |5|워드 임베딩<br><br>#Tags: |-|Lecture|[📋](GOING_DEEPER_NLP/Node_05/README.md)|13|03.23|
@@ -187,25 +187,25 @@
 
 ### EXPLORATION [📁](EXPLORATION)
 
-|N|Node Title|Author|Evaluation|Link|W|Open|
-|:---:|---|:---:|:---:|:---:|:---:|:---:|
-|1|인공지능과 가위바위보 하기<br><br>#Tags: DL, Sequential API, LeNet|김승일|⭐⭐☆|[📋](EXPLORATION/Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb)|2|01.04|
-|2|Iris의 세 가지 품종, 분류해볼 수 있겠어요?<br><br>#Tags: ML, Supervised Learning, Classification, F1 score|정민정|⭐⭐⭐|[📋](EXPLORATION/Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb)|2|01.06|
-|3|카메라 스티커앱 만들기 첫걸음<br><br>#Tags: DL, CV, dlib, HOG, SVM|우태강|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_03/%5BE-03%5D%20Camera_Sticker_App.ipynb)|3|01.11|
-|4|작사가 인공지능 만들기<br><br>#Tags: DL, NLP, RNN, LSTM|문성원|⭐⭐☆<br>🏆|[📋](EXPLORATION/Node_04/%5BE-04%5D%20AI_Lyricist.ipynb)|3|01.13|
-|5|나의 첫 번째 캐글 경진대회, 무작정 따라해보기<br><br>#Tags: Kaggle, EDA|정민정|⭐⭐☆<br>🏆|[📋](EXPLORATION/Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb)|4|01.18|
-|6|영화리뷰 텍스트 감성분석하기<br><br>#Tags: DL, NLP|우지철|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb)|4|01.20|
-|7|인물사진을 만들어 보자<br><br>#Tags: pixellib, CV|우태강|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_07/%5BE-07%5D%20make_a_portrait.ipynb)|5|01.25|
-|8|뉴스 요약봇 만들기<br><br>#Tags: DL, NLP|유원준|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_08/%5BE-08%5D%20news_summary_bot.ipynb)|5|01.27|
-|9|폐렴아 기다려라!<br><br>#Tags: ML, CV, CNN|유원준|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb)|6|02.03|
-|10|인공지능으로 세상에 없던 새로운 패션 만들기<br><br>#Tags: DL, GAN, DCGAN|정민정|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb)|7|02.08|
-|11|어제 오른 내 주식, 과연 내일은?<br><br>#Tags: ML, Statistics, ARMIA|김원철|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_11/%5BE-11%5D%20forecast_stock.ipynb)|7|02.10|
-|12|트랜스포머로 만드는 대화형 챗봇<br><br>#Tags: DL, NLP, Transformer, Attention|유원준|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb)|8|02.15|
-|13|인간보다 퀴즈를 잘푸는 인공지능<br><br>#Tags: DL, NLP, BERT|현청천|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb)|8|02.17|
-|14|아이유팬이 좋아할 만한 다른 아티스트 찾기<br><br>#Tags: DL, NLP, Recommendation, MF, CSR, ALS|박지민|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb)|9|02.22|
-|15|문자를 읽을 수 있는 딥러닝<br><br>#Tags: DL, CV, OCR|강상권|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_15/%5BE-15%5D%20OCR.ipynb)|9|02.24|
-|16|다음에 볼 영화 예측하기<br><br>#Tags: DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k|박지민|⭐⭐⭐|[📋](EXPLORATION/Node_16/%5BE-16%5D%20Movie_Session_Based_Recommendation.ipynb)|11|03.07|
-|17|난 스케치를 할 테니 너는 채색을 하거라<br><br>#Tags: DL, CV, GAN, cGAN, Pix2Pix|정신유|-|[📋]()|12|03.14|
+|N|Node Title|Author|Evaluation|Link|W|Open|Done|
+|:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
+|1|인공지능과 가위바위보 하기<br><br>#Tags: DL, Sequential API, LeNet|김승일|⭐⭐☆|[📋](EXPLORATION/Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb)|2|01.04|01.05|
+|2|Iris의 세 가지 품종, 분류해볼 수 있겠어요?<br><br>#Tags: ML, Supervised Learning, Classification, F1 score|정민정|⭐⭐⭐|[📋](EXPLORATION/Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb)|2|01.06|01.11|
+|3|카메라 스티커앱 만들기 첫걸음<br><br>#Tags: DL, CV, dlib, HOG, SVM|우태강|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_03/%5BE-03%5D%20Camera_Sticker_App.ipynb)|3|01.11|01.15|
+|4|작사가 인공지능 만들기<br><br>#Tags: DL, NLP, RNN, LSTM|문성원|⭐⭐☆<br>🏆|[📋](EXPLORATION/Node_04/%5BE-04%5D%20AI_Lyricist.ipynb)|3|01.13|01.14|
+|5|나의 첫 번째 캐글 경진대회, 무작정 따라해보기<br><br>#Tags: Kaggle, EDA|정민정|⭐⭐☆<br>🏆|[📋](EXPLORATION/Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb)|4|01.18|01.25|
+|6|영화리뷰 텍스트 감성분석하기<br><br>#Tags: DL, NLP|우지철|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb)|4|01.20|01.24|
+|7|인물사진을 만들어 보자<br><br>#Tags: pixellib, CV|우태강|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_07/%5BE-07%5D%20make_a_portrait.ipynb)|5|01.25|02.01|
+|8|뉴스 요약봇 만들기<br><br>#Tags: DL, NLP|유원준|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_08/%5BE-08%5D%20news_summary_bot.ipynb)|5|01.27|02.03|
+|9|폐렴아 기다려라!<br><br>#Tags: ML, CV, CNN|유원준|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb)|6|02.03|02.10|
+|10|인공지능으로 세상에 없던 새로운 패션 만들기<br><br>#Tags: DL, GAN, DCGAN|정민정|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb)|7|02.08|02.15|
+|11|어제 오른 내 주식, 과연 내일은?<br><br>#Tags: ML, Statistics, ARMIA|김원철|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_11/%5BE-11%5D%20forecast_stock.ipynb)|7|02.10|02.17|
+|12|트랜스포머로 만드는 대화형 챗봇<br><br>#Tags: DL, NLP, Transformer, Attention|유원준|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb)|8|02.15|	02.22|
+|13|인간보다 퀴즈를 잘푸는 인공지능<br><br>#Tags: DL, NLP, BERT|현청천|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb)|8|02.17|02.24|
+|14|아이유팬이 좋아할 만한 다른 아티스트 찾기<br><br>#Tags: DL, NLP, Recommendation, MF, CSR, ALS|박지민|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb)|9|02.22|03.01|
+|15|문자를 읽을 수 있는 딥러닝<br><br>#Tags: DL, CV, OCR|강상권|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_15/%5BE-15%5D%20OCR.ipynb)|9|02.24|03.03|
+|16|다음에 볼 영화 예측하기<br><br>#Tags: DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k|박지민|⭐⭐⭐|[📋](EXPLORATION/Node_16/%5BE-16%5D%20Movie_Session_Based_Recommendation.ipynb)|11|03.07|03.14|
+|17|난 스케치를 할 테니 너는 채색을 하거라<br><br>#Tags: DL, CV, GAN, cGAN, Pix2Pix|정신유|-|[📋]()|12|03.14|-|
 
 ### FUNDAMENTALS [📁](FUNDAMENTALS)
 
