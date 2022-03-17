@@ -164,27 +164,6 @@
 |15|사람의 몸짓을 읽어보자<br><br>#Tags: |-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_15/README.md)|17|04.19|
 |16|행동 스티커 만들기<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_16/README.md)|17|04.21|
 
-### GOING DEEPER NLP [📁](GOING_DEEPER_NLP)
-
-|N|Node Title|Author|Type|Link|W|Open|
-|:---:|---|:---:|:---:|:---:|:---:|:---:|
-|1|텍스트 데이터 다루기<br><br>#Tags: |문성원|Lecture|[📋](GOING_DEEPER_NLP/Node_01/README.md)|12|03.15|
-|2|멋진 단어사전 만들기<br><br>#Tags: |문성원|Project|[📋](GOING_DEEPER_NLP/Node_02/README.md)|12|03.16|
-|3|텍스트의 분포로 벡터화 하기<br><br>#Tags: |-|Lecture|[📋](GOING_DEEPER_NLP/Node_03/README.md)|12|03.18|
-|4|뉴스 카테고리 다중분류<br><br>#Tags: |-|Project|[📋](GOING_DEEPER_NLP/Node_04/README.md)|13|03.21|
-|5|워드 임베딩<br><br>#Tags: |-|Lecture|[📋](GOING_DEEPER_NLP/Node_05/README.md)|13|03.23|
-|6|임베딩 내 편향성 알아보기<br><br>#Tags: |-|Project|[📋](GOING_DEEPER_NLP/Node_06/README.md)|13|03.24|
-|7|Seq2seq와 Attention<br><br>#Tags: |-|Lecture|[📋](GOING_DEEPER_NLP/Node_07/README.md)|14|03.28|
-|8|Seq2seq으로 번역기 만들기<br><br>#Tags: |-|Project|[📋](GOING_DEEPER_NLP/Node_08/README.md)|14|03.29|
-|9|Transformer가 나오기까지<br><br>#Tags: |-|Lecture|[📋](GOING_DEEPER_NLP/Node_09/README.md)|14|03.31|
-|10|Transformer로 번역기 만들기<br><br>#Tags: |-|Project|[📋](GOING_DEEPER_NLP/Node_10/README.md)|15|04.04|
-|11|기계 번역이 걸어온 길<br><br>#Tags: |-|Lecture|[📋](GOING_DEEPER_NLP/Node_11/README.md)|15|04.05|
-|12|번역가는 대화에도 능하다<br><br>#Tags: |-|Project|[📋](GOING_DEEPER_NLP/Node_12/README.md)|15|04.07|
-|13|modern NLP의 흐름에 올라타보자<br><br>#Tags: |-|Lecture|[📋](GOING_DEEPER_NLP/Node_13/README.md)|16|04.11|
-|14|BERT pretrained model 제작<br><br>#Tags: |-|Project|[📋](GOING_DEEPER_NLP/Node_14/README.md)|17|04.18|
-|15|NLP Framework의 활용<br><br>#Tags: |-|Lecture|[📋](GOING_DEEPER_NLP/Node_15/README.md)|17|04.19|
-|16|HuggingFace 커스텀 프로젝트 만들기<br><br>#Tags: |-|Project|[📋](GOING_DEEPER_NLP/Node_16/README.md)|17|04.21|
-
 ### EXPLORATION [📁](EXPLORATION)
 
 |N|Node Title|Author|Evaluation|Link|W|Open|Done|
