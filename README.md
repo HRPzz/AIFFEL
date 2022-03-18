@@ -149,7 +149,7 @@
 |:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|백본 네트워크 구조 상세분석<br><br>#Tags: DL, CV, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet|강상권|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_01/README.md)|12|03.15|
 |2|없다면 어떻게 될까? (ResNet Ablation Study)<br><br>#Tags: DL, CV, ResNet, Ablation Study|강상권|Project|-|[📋](GOING_DEEPER_CV/Node_02/README.md)|12|03.16|
-|3|잘 만든 Augmentation, 이미지 100장 안 부럽다<br><br>#Tags: |-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_03/README.md)|12|03.18|
+|3|잘 만든 Augmentation, 이미지 100장 안 부럽다<br><br>#Tags: Data Augmentation, Tensorflow API, albumentation, GAN|강상권|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_03/README.md)|12|03.18|
 |4|이미지 어디까지 우려볼까?<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_04/README.md)|13|03.21|
 |5|너의 속이 궁금해 - Class Activation Map 살펴보기<br><br>#Tags: |-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_05/README.md)|13|03.23|
 |6|나를 찾아줘 - Class Activation Map 만들기<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_06/README.md)|13|03.24|
