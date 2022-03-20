@@ -65,7 +65,7 @@
 >| **2** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 >| **To Do** | - | [E-16](EXPLORATION/Node_16/%5BE-16%5D%20Movie_Session_Based_Recommendation.ipynb) | H-01<br>팀플 진행 | - | H-01<br>팀플 진행 | [H-01](https://github.com/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb)<br>전시 발표 | - |
 >| **3** | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
->| **To Do** | - | E-17 | GD-01 | GD-02 | GD-02 | GD-03 | - |
+>| **To Do** | - | [E-17](EXPLORATION/Node_17/%5BE-17%5D%20Pix2Pix.ipynb) | GD-01 | GD-02 | GD-02 | GD-03 | - |
 >| **4** | **20** | **21** | **22** | **23** | **24** | **25** | **26** |
 >| **To Do** | - | GD-03<br>GD-04 | GD-04 | GD-05 | GD-05<br>GD-06 | GD-06 | - |
 >| **5** | **27** | **28** | **29** | **30** | **31** | - | - |
@@ -134,10 +134,10 @@
 
 |N|Title|Link|Evaluation|W|Open|Done|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|
-|1|제 1차 HACKATHON: 데이터톤(DATATHON)<br><br>#Tags: EDA|[📁Repository](https://github.com/HRPzz/AIFFEL_HACKATHON_1)<br>[📋Jupyter Notebook](https://github.com/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb)|2단계<br>통과|11|03.08|03.11|
-|2|-|[📁Repository]()<br>[📋Jupyter Notebook]()|-|16|04.12|04.15|
-|3|-|[📁Repository]()<br>[📋Jupyter Notebook]()|-|18|04.25|05.02|
-|4|-|[📁Repository]()<br>[📋Jupyter Notebook]()|-|19<br>~<br>24|05.03|06.09|
+|1|제 1차 HACKATHON: 데이터톤(DATATHON)<br><br>#Tags: EDA|[📁Repo](https://github.com/HRPzz/AIFFEL_HACKATHON_1)<br>[📋Notebook](https://github.com/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb)|2단계<br>통과|11|03.08|03.11|
+|2|-|[📁Repo]()<br>[📋Notebook]()|-|16|04.12|04.15|
+|3|-|[📁Repo]()<br>[📋Notebook]()|-|18|04.25|05.02|
+|4|-|[📁Repo]()<br>[📋Notebook]()|-|19<br>~<br>24|05.03|06.09|
 
 ---
 
@@ -150,7 +150,7 @@
 |1|백본 네트워크 구조 상세분석<br><br>#Tags: DL, CV, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet|강상권|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_01/README.md)|12|03.15|
 |2|없다면 어떻게 될까? (ResNet Ablation Study)<br><br>#Tags: DL, CV, ResNet, Ablation Study|강상권|Project|-|[📋](GOING_DEEPER_CV/Node_02/README.md)|12|03.16|
 |3|잘 만든 Augmentation, 이미지 100장 안 부럽다<br><br>#Tags: Data Augmentation, Tensorflow API, albumentation, GAN|강상권|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_03/README.md)|12|03.18|
-|4|이미지 어디까지 우려볼까?<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_04/README.md)|13|03.21|
+|4|이미지 어디까지 우려볼까?<br><br>#Tags: Data Augmentation, Tensorflow Random Augmentation API, CutMix, Mixup|강상권|Project|-|[📋](GOING_DEEPER_CV/Node_04/README.md)|13|03.21|
 |5|너의 속이 궁금해 - Class Activation Map 살펴보기<br><br>#Tags: |-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_05/README.md)|13|03.23|
 |6|나를 찾아줘 - Class Activation Map 만들기<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_06/README.md)|13|03.24|
 |7|Object Detection<br><br>#Tags: |-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_07/README.md)|14|03.28|
@@ -184,7 +184,7 @@
 |14|아이유팬이 좋아할 만한 다른 아티스트 찾기<br><br>#Tags: DL, NLP, Recommendation, MF, CSR, ALS|박지민|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb)|9|02.22|03.01|
 |15|문자를 읽을 수 있는 딥러닝<br><br>#Tags: DL, CV, OCR|강상권|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_15/%5BE-15%5D%20OCR.ipynb)|9|02.24|03.03|
 |16|다음에 볼 영화 예측하기<br><br>#Tags: DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k|박지민|⭐⭐⭐|[📋](EXPLORATION/Node_16/%5BE-16%5D%20Movie_Session_Based_Recommendation.ipynb)|11|03.07|03.14|
-|17|난 스케치를 할 테니 너는 채색을 하거라<br><br>#Tags: DL, CV, GAN, cGAN, Pix2Pix|정신유|-|[📋]()|12|03.14|-|
+|17|난 스케치를 할 테니 너는 채색을 하거라<br><br>#Tags: DL, CV, GAN, cGAN, Pix2Pix|정신유|-|[📋](EXPLORATION/Node_17/%5BE-17%5D%20Pix2Pix.ipynb)|12|03.14|03.21|
 
 ### FUNDAMENTALS [📁](FUNDAMENTALS)
 
