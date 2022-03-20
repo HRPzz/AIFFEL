@@ -65,15 +65,15 @@ def 전처리_함수(image, label):   # 변환할 이미지와 라벨
 ```
 
 - test-time augmentation
-    - 여러 결과를 조합하기 위한 앙상블(ensemble) 방법 중 하나
-    - 테스트 데이터셋에 augmentation을 적용
+  - 여러 결과를 조합하기 위한 앙상블(ensemble) 방법 중 하나
+  - 테스트 데이터셋에 augmentation을 적용
 - augmentation 적용 전 vs 후 모델 성능 비교
-    - 텐서플로우 케라스 ResNet50 중 imagenet 으로 훈련된 모델로 실험
-        - include_top=False: 마지막 fully connected layer 포함X
-            - 포함X => 특성 추출기(feature extractor)만 가져옴
-            - 이미지넷과 우리의 테스트셋이 서로 다른 클래스를 가지므로 마지막에 추가해야 하는 fully connected layer 구조(=뉴런 개수)가 다르기 때문
-    - Augmentation 적용 효과를 명확히 검증하기 위해서는 최소 EPOCHS=20 이어야 함
-    - Augmentation 적용한 경우가 보다 천천히 학습되지만, EPOCH 10을 전후해서 aug_resnet50의 accuracy가 더 높게 형성됨
+  - 텐서플로우 케라스 ResNet50 중 imagenet 으로 훈련된 모델로 실험
+    - include_top=False: 마지막 fully connected layer 포함X
+      - 포함X => 특성 추출기(feature extractor)만 가져옴
+      - 이미지넷과 우리의 테스트셋이 서로 다른 클래스를 가지므로 마지막에 추가해야 하는 fully connected layer 구조(=뉴런 개수)가 다르기 때문
+  - Augmentation 적용 효과를 명확히 검증하기 위해서는 최소 EPOCHS=20 이어야 함
+  - Augmentation 적용한 경우가 보다 천천히 학습되지만, EPOCH 10을 전후해서 aug_resnet50의 accuracy가 더 높게 형성됨
 - [Cutmix](https://arxiv.org/pdf/1905.04899.pdf) Augmentation [[참고]](https://www.kaggle.com/cdeotte/cutmix-and-mixup-on-gpu-tpu)
   - 네이버 클로바(CLOVA)에서 발표
   - 일정 영역을 잘라서 붙여주는 방법
