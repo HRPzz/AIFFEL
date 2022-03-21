@@ -106,7 +106,7 @@
     - blocks 리스트에서 for loop 로 레이어를 하나씩 꺼내서 입력 데이터를 통과시킴
     - 마지막 fully-connected 레이어를 통과하면 진짜/가짜 이미지 판별 값 1개 출력
 - cGAN 구성
-  - 노이즈와 레이블 정보를 함께 입력했던 cGAN은 fully-connected 레이어를 연속적으로 쌓아 생성
+  - fully-connected 레이어를 연속적으로 쌓아 생성
   - cGAN의 입력은 2개(노이즈 및 레이블 정보)
   - cGAN Discriminator
     - [Maxout](https://arxiv.org/pdf/1302.4389.pdf) 레이어 사용
