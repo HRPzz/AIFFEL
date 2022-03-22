@@ -21,7 +21,7 @@
 >| **4** | **19** | **20** | **21** | **22** | **23** | **24** | **25** |
 >| **To Do** | - | - | - | - | - | - | - |
 >| **5** | **26** | **27** | **28** | **29** | **30** | **31** | - |
->| **To Do** | - | OT | F-06<br>F-01 | F-07<br>F-02 | F-08<br>F-03 | F-09<br>F-04 | - |
+>| **To Do** | - | OT | F-06<br>F-01<br>FL-01 | F-07<br>F-02<br>FL-01 | F-08<br>F-03<br>FL-01 | F-09<br>F-04<br>FL-01 | - |
 
 ### January, 2022 (20 days)
 
@@ -30,13 +30,13 @@
 >| **1** | - | - | - | - | - | - | **1** |
 >| **To Do** | - | - | - | - | - | - | - |
 >| **2** | **2** | **3** | **4** | **5** | **6** | **7** | **8** |
->| **To Do** | - | F-10 | [E-01](EXPLORATION/Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb) | F-11 | [E-02](EXPLORATION/Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb) | F-12 | - |
+>| **To Do** | - | F-10<br>FL-01 | [E-01](EXPLORATION/Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb) | F-11<br>FL-01 | [E-02](EXPLORATION/Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb) | F-12<br>FL-01 | - |
 >| **3** | **9** | **10** | **11** | **12** | **13** | **14** | **15** |
->| **To Do** | - | F-13 | [E-03](EXPLORATION/Node_03/%5BE-03%5D%20Camera_Sticker_App.ipynb) | F-14 | [E-04](EXPLORATION/Node_04/%5BE-04%5D%20AI_Lyricist.ipynb) | F-15 | - |
+>| **To Do** | - | F-13<br>FL-02 | [E-03](EXPLORATION/Node_03/%5BE-03%5D%20Camera_Sticker_App.ipynb) | F-14<br>글쓰기 | [E-04](EXPLORATION/Node_04/%5BE-04%5D%20AI_Lyricist.ipynb) | F-15<br>FL-02 | - |
 >| **4** | **16** | **17** | **18** | **19** | **20** | **21** | **22** |
->| **To Do** | - | F-16 | [E-05](EXPLORATION/Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb) | F-17 | [E-06](EXPLORATION/Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb) | F-18 | - |
+>| **To Do** | - | F-16<br>FL-02<br>FL-02 | [E-05](EXPLORATION/Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb) | F-17<br>글쓰기 | [E-06](EXPLORATION/Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb) | F-18<br>FL-02 | - |
 >| **5** | **23** | **24** | **25** | **26** | **27** | **28** | **29** |
->| **To Do** | - | F-19 | [E-07](EXPLORATION/Node_07/%5BE-07%5D%20make_a_portrait.ipynb) | F-20 | [E-08](EXPLORATION/Node_08/%5BE-08%5D%20news_summary_bot.ipynb) | F-21 | - |
+>| **To Do** | - | F-19<br>FL-02 | [E-07](EXPLORATION/Node_07/%5BE-07%5D%20make_a_portrait.ipynb) | F-20<br>글쓰기 | [E-08](EXPLORATION/Node_08/%5BE-08%5D%20news_summary_bot.ipynb) | F-21<br>FL-02 | - |
 >| **6** | **30** | **31** | - | - | - | - | - |
 >| **To Do** | - | - | - | - | - | - | - |
 
@@ -45,14 +45,14 @@
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 >| **1** | - | - | **1** | **2** | **3** | **4** | **5** |
->| **To Do** | - | - | - | - | [E-09](EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb) | F-22 | - |
+>| **To Do** | - | - | - | - | [E-09](EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb) | F-22<br>FL-02 | - |
 >| - | - | - | - | - | - | F-05 | - |
 >| **2** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
->| **To Do** | - | F-23 | [E-10](EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb) | F-24 | [E-11](EXPLORATION/Node_11/%5BE-11%5D%20forecast_stock.ipynb) | F-25 | - |
+>| **To Do** | - | F-23<br>FL-02 | [E-10](EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb) | F-24<br>글쓰기 | [E-11](EXPLORATION/Node_11/%5BE-11%5D%20forecast_stock.ipynb) | F-25<br>FL-02 | - |
 >| **3** | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
->| **To Do** | - | F-26 | [E-12](EXPLORATION/Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb) | F-27 | [E-13](EXPLORATION/Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb) | F-28 | - |
+>| **To Do** | - | F-26<br>FL-02 | [E-12](EXPLORATION/Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb) | F-27<br>글쓰기 | [E-13](EXPLORATION/Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb) | F-28<br>FL-02 | - |
 >| **4** | **20** | **21** | **22** | **23** | **24** | **25** | **26** |
->| **To Do** | - | F-29 | [E-14](EXPLORATION/Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb) | F-30 | [E-15](EXPLORATION/Node_15/%5BE-15%5D%20OCR.ipynb) | F-31 | - |
+>| **To Do** | - | F-29<br>FL-02 | [E-14](EXPLORATION/Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb) | F-30<br>글쓰기 | [E-15](EXPLORATION/Node_15/%5BE-15%5D%20OCR.ipynb) | F-31<br>FL-02 | - |
 >| **5** | **27** | **28** | - | - | - | - | - |
 >| **To Do** | - | - | - | - | - | - | - |
 
@@ -65,24 +65,24 @@
 >| **2** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 >| **To Do** | - | [E-16](EXPLORATION/Node_16/%5BE-16%5D%20Movie_Session_Based_Recommendation.ipynb) | H-01<br>팀플 진행 | - | H-01<br>팀플 진행 | [H-01](https://github.com/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb)<br>전시 발표 | - |
 >| **3** | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
->| **To Do** | - | [E-17](EXPLORATION/Node_17/%5BE-17%5D%20Pix2Pix.ipynb) | GD-01 | GD-02 | GD-02 | GD-03 | - |
+>| **To Do** | - | [E-17](EXPLORATION/Node_17/%5BE-17%5D%20Pix2Pix.ipynb) | GD-01 | GD-02 | GD-02 | GD-03<br>FL-03 | - |
 >| **4** | **20** | **21** | **22** | **23** | **24** | **25** | **26** |
->| **To Do** | - | GD-03<br>GD-04 | GD-04 | GD-05 | GD-05<br>GD-06 | GD-06 | - |
+>| **To Do** | - | GD-03<br>GD-04 | GD-04 | GD-05 | GD-05<br>GD-06 | GD-06<br>FL-03 | - |
 >| **5** | **27** | **28** | **29** | **30** | **31** | - | - |
->| **To Do** | - | GD-06<br>GD-07 | GD-07<br>GD-08 | GD-08 | GD-08<br>GD-09 | - | - |
+>| **To Do** | - | GD-06<br>GD-07 | GD-07<br>GD-08 | GD-08 | GD-08<br>GD-09<br>FL-03 | - | - |
 
 ### April, 2022  (21 days)
 
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 >| **1** | - | - | - | - | - | **1** | **2** |
->| **To Do** | - | - | - | - | - | GD-09 | - |
+>| **To Do** | - | - | - | - | - | GD-09<br>FL-03 | - |
 >| **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
->| **To Do** | - | GD-10 | GD-10<br>GD-11 | GD-11 | GD-12 | GD-12 | - |
+>| **To Do** | - | GD-10 | GD-10<br>GD-11 | GD-11 | GD-12 | GD-12<br>FL-03 | - |
 >| **3** | **10** | **11** | **12** | **13** | **14** | **15** | **16** |
 >| **To Do** | - | GD-13 | H-02 | H-02 | H-02 | H-02 | - |
 >| **4** | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
->| **To Do** | - | GD-14 | GD-14<br>GD-15 | GD-15 | GD-16 | GD-16 | - |
+>| **To Do** | - | GD-14 | GD-14<br>GD-15 | GD-15 | GD-16 | GD-16<br>FL-03 | - |
 >| **5** | **24** | **25** | **26** | **27** | **28** | **29** | **30** |
 >| **To Do** | - | T-01 | T-01 | T-01 | T-01 | T-01 | - |
 
@@ -123,10 +123,10 @@
 |N|Title|Site|Book|PPT|Youtube|
 |:---:|---|:---:|:---:|:---:|:---:|
 |1|파이썬 코딩 도장|[➡️](https://dojang.io/course/view.php?id=7)|[📚](https://books.google.co.kr/books?id=G7-CDwAAQBAJ&printsec=frontcover&dq=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EC%BD%94%EB%94%A9+%EB%8F%84%EC%9E%A5&hl=ko&sa=X&redir_esc=y#v=onepage&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%BD%94%EB%94%A9%20%EB%8F%84%EC%9E%A5&f=false)|-|[⏯️](https://www.youtube.com/playlist?list=PLRtkynNyEsXnEkVCeMo7smzK8lqLNAQWk)|
-|2|Do it! 딥러닝 교과서|-|[📚](https://books.google.co.kr/books?id=K5xNEAAAQBAJ&printsec=frontcover&dq=%EB%94%A5%EB%9F%AC%EB%8B%9D+%EA%B5%90%EA%B3%BC%EC%84%9C&hl=ko&sa=X&redir_esc=y#v=onepage&q=%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B5%90%EA%B3%BC%EC%84%9C&f=false)|-|-|
-|3|CS231n|-|-|[📄2016](https://drive.google.com/file/d/1negpJod0dMdch-fvN-RKuys6lM1dLMjO/view?usp=sharing)<br>[📄2017](https://drive.google.com/file/d/1VRNhmWaLlBHEXd6PhXRn7NIUyY3mtkn0/view?usp=sharing)|[⏯️Kor](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)<br>[⏯️Eng](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)|
-|4|이것이 코딩테스트다 with 파이썬|-|[📚](https://books.google.co.kr/books?id=vBz-DwAAQBAJ&printsec=frontcover&dq=%EC%9D%B4%EA%B2%83%EC%9D%B4+%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4&hl=ko&sa=X&ved=2ahUKEwijqvmrmsD2AhVQx2EKHeosCXcQ6AF6BAgJEAI#v=onepage&q=%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4&f=false)|-|[⏯️](https://www.youtube.com/playlist?list=PLVsNizTWUw7H9_of5YCB0FmsSc-K44y81)|
-|5|-|-|-|-|
+|2-1|Do it! 딥러닝 교과서|-|[📚](https://books.google.co.kr/books?id=K5xNEAAAQBAJ&printsec=frontcover&dq=%EB%94%A5%EB%9F%AC%EB%8B%9D+%EA%B5%90%EA%B3%BC%EC%84%9C&hl=ko&sa=X&redir_esc=y#v=onepage&q=%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B5%90%EA%B3%BC%EC%84%9C&f=false)|-|-|
+|2-2|CS231n|-|-|[📄2016](https://drive.google.com/file/d/1negpJod0dMdch-fvN-RKuys6lM1dLMjO/view?usp=sharing)<br>[📄2017](https://drive.google.com/file/d/1VRNhmWaLlBHEXd6PhXRn7NIUyY3mtkn0/view?usp=sharing)|[⏯️Kor](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)<br>[⏯️Eng](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)|
+|3|이것이 코딩테스트다 with 파이썬|-|[📚](https://books.google.co.kr/books?id=vBz-DwAAQBAJ&printsec=frontcover&dq=%EC%9D%B4%EA%B2%83%EC%9D%B4+%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4&hl=ko&sa=X&ved=2ahUKEwijqvmrmsD2AhVQx2EKHeosCXcQ6AF6BAgJEAI#v=onepage&q=%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4&f=false)|-|[⏯️](https://www.youtube.com/playlist?list=PLVsNizTWUw7H9_of5YCB0FmsSc-K44y81)|
+|4|-|-|-|-|
 
 ---
 
@@ -151,7 +151,7 @@
 |2|없다면 어떻게 될까? (ResNet Ablation Study)<br><br>#Tags: DL, CV, ResNet, Ablation Study|강상권|Project|-|[📋](GOING_DEEPER_CV/Node_02/README.md)|12|03.16|
 |3|잘 만든 Augmentation, 이미지 100장 안 부럽다<br><br>#Tags: Data Augmentation, Tensorflow API, albumentation, GAN|강상권|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_03/README.md)|12|03.18|
 |4|이미지 어디까지 우려볼까?<br><br>#Tags: Data Augmentation, Tensorflow Random Augmentation API, CutMix, Mixup|강상권|Project|-|[📋](GOING_DEEPER_CV/Node_04/README.md)|13|03.21|
-|5|너의 속이 궁금해 - Class Activation Map 살펴보기<br><br>#Tags: |-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_05/README.md)|13|03.23|
+|5|너의 속이 궁금해 - Class Activation Map 살펴보기<br><br>#Tags: XAI, CAM, Grad-CAM, ACoL|-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_05/README.md)|13|03.23|
 |6|나를 찾아줘 - Class Activation Map 만들기<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_06/README.md)|13|03.24|
 |7|Object Detection<br><br>#Tags: |-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_07/README.md)|14|03.28|
 |8|GO/STOP! - Object Detection 시스템 만들기<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_08/README.md)|14|03.29|
