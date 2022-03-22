@@ -21,7 +21,7 @@
 >| **4** | **19** | **20** | **21** | **22** | **23** | **24** | **25** |
 >| **To Do** | - | - | - | - | - | - | - |
 >| **5** | **26** | **27** | **28** | **29** | **30** | **31** | - |
->| **To Do** | - | OT | F-06<br>F-01<br>FL-01 | F-07<br>F-02<br>FL-01 | F-08<br>F-03<br>FL-01 | F-09<br>F-04<br>FL-01 | - |
+>| **To Do** | - | OT | F-06<br>FL-01<br>━━<br>F-01 | F-07<br>FL-01<br>━━<br>F-02 | F-08<br>FL-01<br>━━<br>F-03 | F-09<br>FL-01<br>━━<br>F-04 | - |
 
 ### January, 2022 (20 days)
 
@@ -45,7 +45,7 @@
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 >| **1** | - | - | **1** | **2** | **3** | **4** | **5** |
->| **To Do** | - | - | - | - | [E-09](EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb) | F-22<br>F-05<br>FL-02 | - |
+>| **To Do** | - | - | - | - | [E-09](EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb) | F-22<br>FL-02<br>━━<br>F-05 | - |
 >| **2** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 >| **To Do** | - | F-23<br>FL-02 | [E-10](EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb) | F-24<br>글쓰기 | [E-11](EXPLORATION/Node_11/%5BE-11%5D%20forecast_stock.ipynb) | F-25<br>FL-02 | - |
 >| **3** | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
