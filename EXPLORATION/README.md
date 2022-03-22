@@ -20,7 +20,7 @@
 |14|아이유팬이 좋아할 만한 다른 아티스트 찾기<br><br>#Tags: DL, NLP, Recommendation, MF, CSR, ALS|박지민|⭐⭐⭐<br>🏆|[📋](Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb)|9|02.22|03.01|
 |15|문자를 읽을 수 있는 딥러닝<br><br>#Tags: DL, CV, OCR|강상권|⭐⭐⭐<br>🏆|[📋](Node_15/%5BE-15%5D%20OCR.ipynb)|9|02.24|03.03|
 |16|다음에 볼 영화 예측하기<br><br>#Tags: DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k|박지민|⭐⭐⭐|[📋](Node_16/%5BE-16%5D%20Movie_Session_Based_Recommendation.ipynb)|11|03.07|03.14|
-|17|난 스케치를 할 테니 너는 채색을 하거라<br><br>#Tags: DL, CV, GAN, cGAN, Pix2Pix|정신유|-|[📋](Node_17/%5BE-17%5D%20Pix2Pix.ipynb)|12|03.14|03.21|
+|17|난 스케치를 할 테니 너는 채색을 하거라<br><br>#Tags: DL, CV, GAN, cGAN, Pix2Pix|정신유|⭐⭐⭐<br>🏆|[📋](Node_17/%5BE-17%5D%20Pix2Pix.ipynb)|12|03.14|03.21|
 
 ## EXPLORATION CONTENTS SUMMARY
 
