@@ -30,9 +30,9 @@
 >| **1** | - | - | - | - | - | - | **1** |
 >| **To Do** | - | - | - | - | - | - | - |
 >| **2** | **2** | **3** | **4** | **5** | **6** | **7** | **8** |
->| **To Do** | - | F-10 | [E-01](EXPLORATION/Node_01/%5BE-01%5D%20rock_scissor_paper_classifier.ipynb) | F-11 | [E-02](EXPLORATION/Node_02/%5BE-02%5D%20digits_classifier.ipynb) | F-12 | - |
+>| **To Do** | - | F-10 | [E-01](EXPLORATION/Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb) | F-11 | [E-02](EXPLORATION/Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb) | F-12 | - |
 >| **3** | **9** | **10** | **11** | **12** | **13** | **14** | **15** |
->| **To Do** | - | F-13 | [E-03](EXPLORATION/Node_03/%5BE-03%5D%20camera_sticker_app.ipynb) | F-14 | [E-04](EXPLORATION/Node_04/%5BE-04%5D%20AI_Lyricist.ipynb) | F-15 | - |
+>| **To Do** | - | F-13 | [E-03](EXPLORATION/Node_03/%5BE-03%5D%20Camera_Sticker_App.ipynb) | F-14 | [E-04](EXPLORATION/Node_04/%5BE-04%5D%20AI_Lyricist.ipynb) | F-15 | - |
 >| **4** | **16** | **17** | **18** | **19** | **20** | **21** | **22** |
 >| **To Do** | - | F-16 | [E-05](EXPLORATION/Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb) | F-17 | [E-06](EXPLORATION/Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb) | F-18 | - |
 >| **5** | **23** | **24** | **25** | **26** | **27** | **28** | **29** |
