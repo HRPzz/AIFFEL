@@ -8,7 +8,7 @@
 |2|없다면 어떻게 될까? (ResNet Ablation Study)<br><br>#Tags: DL, CV, ResNet, Ablation Study|강상권|Project|-|[📋](Node_02/README.md)|12|03.16|-|
 |3|잘 만든 Augmentation, 이미지 100장 안 부럽다<br><br>#Tags: Data Augmentation, Tensorflow API, albumentation, GAN|강상권|Lecture|✖️|[📋](Node_03/README.md)|12|03.18|✖️|
 |4|이미지 어디까지 우려볼까?<br><br>#Tags: Data Augmentation, Tensorflow Random Augmentation API, CutMix, Mixup|강상권|Project|-|[📋](Node_04/README.md)|13|03.21|-|
-|5|너의 속이 궁금해 - Class Activation Map 살펴보기<br><br>#Tags: |-|Lecture|✖️|[📋](Node_05/README.md)|13|03.23|✖️|
+|5|너의 속이 궁금해 - Class Activation Map 살펴보기<br><br>#Tags: XAI, CAM, Grad-CAM, ACoL|강상권|Lecture|✖️|[📋](Node_05/README.md)|13|03.23|✖️|
 |6|나를 찾아줘 - Class Activation Map 만들기<br><br>#Tags: |-|Project|-|[📋](Node_06/README.md)|13|03.24|-|
 |7|Object Detection<br><br>#Tags: |-|Lecture|✖️|[📋](Node_07/README.md)|14|03.28|✖️|
 |8|GO/STOP! - Object Detection 시스템 만들기<br><br>#Tags: |-|Project|-|[📋](Node_08/README.md)|14|03.29|-|
@@ -29,7 +29,7 @@
 |2|없다면 어떻게 될까? (ResNet Ablation Study)|강상권|핵심적인 기법들을 하나씩 제거했을 때의 효과를 각각 정량적으로 측정하는 ablation study 기법을 배운다. ResNet을 대상으로 실습해 보면서 이론적으로 익힌 기법의 효과를 체감하고 백본을 직접 다뤄보는 실전적 감각을 익힌다.|
 |3|잘 만든 Augmentation, 이미지 100장 안 부럽다|강상권|데이터셋이 부족한 상황을 해결하기 위한 Data Augmentation의 다양한 기법에 대해 알아보고, 활용 가능한 라이브러리, 실전상황에서 주의해야 할 팁 등을 정리해 본다.|
 |4|이미지 어디까지 우려볼까?|강상권|텐서플로우의 random augmentation 기법을 적용해 보고, 최신 augmentation 기법을 익힌다. 직접 모델을 학습시켜 비교 실험을 진행해 본다.|
-|5|너의 속이 궁금해 - Class Activation Map 살펴보기|-|모델 작동 원리를 가늠할 수 있는 CAM, Grad-CAM, ACoL 모델 학습|
+|5|너의 속이 궁금해 - Class Activation Map 살펴보기|강상권|모델의 작동 원리를 가늠할 수 있는 CAM, Grad-CAM, ACoL 모델을 공부하고 XAI(Explainable AI)의 기초를 익힌다.|
 |6|나를 찾아줘 - Class Activation Map 만들기|-|CAM, Grad-CAM 모델 구현 및 CAM 추출 시각화|
 |7|Object Detection|-|Object Detection 문제와 이를 해결하기 위한 다양한 모델 학습|
 |8|GO/STOP! - Object Detection 시스템 만들기|-|Object Detection 모델을 활용하여 자동차, 사람 탐지(가까이 있는지 여부도 체크)|
