@@ -34,7 +34,7 @@
 >| **3** | **9** | **10** | **11** | **12** | **13** | **14** | **15** |
 >| **To Do** | - | F-13<br>FL-02 | [E-03](EXPLORATION/Node_03/%5BE-03%5D%20Camera_Sticker_App.ipynb) | F-14<br>글쓰기 | [E-04](EXPLORATION/Node_04/%5BE-04%5D%20AI_Lyricist.ipynb) | F-15<br>FL-02 | - |
 >| **4** | **16** | **17** | **18** | **19** | **20** | **21** | **22** |
->| **To Do** | - | F-16<br>FL-02<br>FL-02 | [E-05](EXPLORATION/Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb) | F-17<br>글쓰기 | [E-06](EXPLORATION/Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb) | F-18<br>FL-02 | - |
+>| **To Do** | - | F-16<br>FL-02 | [E-05](EXPLORATION/Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb) | F-17<br>글쓰기 | [E-06](EXPLORATION/Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb) | F-18<br>FL-02 | - |
 >| **5** | **23** | **24** | **25** | **26** | **27** | **28** | **29** |
 >| **To Do** | - | F-19<br>FL-02 | [E-07](EXPLORATION/Node_07/%5BE-07%5D%20make_a_portrait.ipynb) | F-20<br>글쓰기 | [E-08](EXPLORATION/Node_08/%5BE-08%5D%20news_summary_bot.ipynb) | F-21<br>FL-02 | - |
 >| **6** | **30** | **31** | - | - | - | - | - |
