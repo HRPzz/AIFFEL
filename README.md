@@ -45,8 +45,7 @@
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 >| **1** | - | - | **1** | **2** | **3** | **4** | **5** |
->| **To Do** | - | - | - | - | [E-09](EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb) | F-22<br>FL-02 | - |
->| - | - | - | - | - | - | F-05 | - |
+>| **To Do** | - | - | - | - | [E-09](EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb) | F-22<br>F-05<br>FL-02 | - |
 >| **2** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 >| **To Do** | - | F-23<br>FL-02 | [E-10](EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb) | F-24<br>글쓰기 | [E-11](EXPLORATION/Node_11/%5BE-11%5D%20forecast_stock.ipynb) | F-25<br>FL-02 | - |
 >| **3** | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
@@ -134,10 +133,10 @@
 
 |N|Title|Link|Evaluation|W|Open|Done|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|
-|1|제 1차 HACKATHON: 데이터톤(DATATHON)<br><br>#Tags: EDA|[📁Repo](https://github.com/HRPzz/AIFFEL_HACKATHON_1)<br>[📋Notebook](https://github.com/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb)|2단계<br>통과|11|03.08|03.11|
-|2|-|[📁Repo]()<br>[📋Notebook]()|-|16|04.12|04.15|
-|3|-|[📁Repo]()<br>[📋Notebook]()|-|18|04.25|05.02|
-|4|-|[📁Repo]()<br>[📋Notebook]()|-|19<br>~<br>24|05.03|06.09|
+|1|제 1차 HACKATHON: 데이터톤(DATATHON)<br><br>#Tags: EDA|[📁Repo](https://github.com/HRPzz/AIFFEL_HACKATHON_1)<br>[📋ipynb](https://github.com/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb)|2단계<br>통과|11|03.08|03.11|
+|2|-|[📁Repo]()<br>[📋ipynb]()|-|16|04.12|04.15|
+|3|-|[📁Repo]()<br>[📋ipynb]()|-|18|04.25|05.02|
+|4|-|[📁Repo]()<br>[📋ipynb]()|-|19<br>~<br>24|05.03|06.09|
 
 ---
 
@@ -151,7 +150,7 @@
 |2|없다면 어떻게 될까? (ResNet Ablation Study)<br><br>#Tags: DL, CV, ResNet, Ablation Study|강상권|Project|-|[📋](GOING_DEEPER_CV/Node_02/README.md)|12|03.16|
 |3|잘 만든 Augmentation, 이미지 100장 안 부럽다<br><br>#Tags: Data Augmentation, Tensorflow API, albumentation, GAN|강상권|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_03/README.md)|12|03.18|
 |4|이미지 어디까지 우려볼까?<br><br>#Tags: Data Augmentation, Tensorflow Random Augmentation API, CutMix, Mixup|강상권|Project|-|[📋](GOING_DEEPER_CV/Node_04/README.md)|13|03.21|
-|5|너의 속이 궁금해 - Class Activation Map 살펴보기<br><br>#Tags: XAI, CAM, Grad-CAM, ACoL|-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_05/README.md)|13|03.23|
+|5|너의 속이 궁금해 - Class Activation Map 살펴보기<br><br>#Tags: XAI, CAM, Grad-CAM, ACoL|강상권|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_05/README.md)|13|03.23|
 |6|나를 찾아줘 - Class Activation Map 만들기<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_06/README.md)|13|03.24|
 |7|Object Detection<br><br>#Tags: |-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_07/README.md)|14|03.28|
 |8|GO/STOP! - Object Detection 시스템 만들기<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_08/README.md)|14|03.29|
