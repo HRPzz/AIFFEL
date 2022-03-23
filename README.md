@@ -4,11 +4,26 @@
 
 ---
 
-## CALENDAR (2021.12.27 ~ 2022.06.10)
+## 📌 TABLE OF CONTENTS
+
+- [CALENDAR](#🗓-calendar-20211227--20220610)
+- [FLIPPED LEARNING](#💭-flipped-learning)
+- [TEAM PROJECT](#💬-team-project)
+- [LMS](#🔒-lms)
+  - GOING DEEPER
+    - [CV](#🔑-going-deeper-cv-📂goingdeepercv)
+    - [NLP](#🔑-going-deeper-nlp-📁goingdeepernlp)
+  - [EXPLORATION](#🔑-exploration-📁exploration)
+  - [FUNDAMENTALS](#🔑-fundamentals-📁fundamentals)
+- [ABOUT AIFFEL](#💢-about-aiffel)
+
+---
+
+## 🗓 CALENDAR (2021.12.27 ~ 2022.06.10)
 
 - Total 108 days = 5 + 20 + 17 + 18 + 21 + 21 + 6
 
-### December, 2021 (5 days)
+### 🐮 December, 2021 (5 days)
 
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -23,7 +38,7 @@
 >| **5** | **26** | **27** | **28** | **29** | **30** | **31** | - |
 >| **To Do** | - | OT | F-06<br>FL-01<br>━━<br>F-01 | F-07<br>FL-01<br>━━<br>F-02 | F-08<br>FL-01<br>━━<br>F-03 | F-09<br>FL-01<br>━━<br>F-04 | - |
 
-### January, 2022 (20 days)
+### 🐯 January, 2022 (20 days)
 
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -40,7 +55,7 @@
 >| **6** | **30** | **31** | - | - | - | - | - |
 >| **To Do** | - | - | - | - | - | - | - |
 
-### Fabruary, 2022 (17 days)
+### 🐯 Fabruary, 2022 (17 days)
 
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -55,7 +70,7 @@
 >| **5** | **27** | **28** | - | - | - | - | - |
 >| **To Do** | - | - | - | - | - | - | - |
 
-### March, 2022  (18 days)
+### 🐯 March, 2022  (18 days)
 
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -70,7 +85,7 @@
 >| **5** | **27** | **28** | **29** | **30** | **31** | - | - |
 >| **To Do** | - | [GD-06]()<br>GD-07 | GD-07<br>GD-08 | GD-08 | [GD-08]()<br>GD-09 | - | - |
 
-### April, 2022  (21 days)
+### 🐯 April, 2022  (21 days)
 
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -85,7 +100,7 @@
 >| **5** | **24** | **25** | **26** | **27** | **28** | **29** | **30** |
 >| **To Do** | - | T-01 | T-01 | T-01 | T-01 | [T-01]() | - |
 
-### May, 2022  (21 days)
+### 🐯 May, 2022  (21 days)
 
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -100,7 +115,7 @@
 >| **5** | **29** | **30** | **31** | - | - | - | - |
 >| **To Do** | - | T-02 | T-02 | - | - | - | - |
 
-### June, 2022  (6 days)
+### 🐯 June, 2022  (6 days)
 
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -115,9 +130,11 @@
 >| **5** | **26** | **27** | **28** | **29** | **30** | **31** | - |
 >| **To Do** | - | - | - | - | - | - | - |
 
+**[⬆ back to top](#📌-table-of-contents)**
+
 ---
 
-## FLIPPED LEARNING
+## 💭 FLIPPED LEARNING
 
 |N|Title|Site|Book|PPT|Youtube|
 |:---:|---|:---:|:---:|:---:|:---:|
@@ -126,22 +143,26 @@
 |3|이것이 코딩테스트다 with 파이썬|-|[📚](https://books.google.co.kr/books?id=vBz-DwAAQBAJ&printsec=frontcover&dq=%EC%9D%B4%EA%B2%83%EC%9D%B4+%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4&hl=ko&sa=X&ved=2ahUKEwijqvmrmsD2AhVQx2EKHeosCXcQ6AF6BAgJEAI#v=onepage&q=%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4&f=false)|-|[⏯️](https://www.youtube.com/playlist?list=PLVsNizTWUw7H9_of5YCB0FmsSc-K44y81)|
 |4|-|-|-|-|
 
+**[⬆ back to top](#📌-table-of-contents)**
+
 ---
 
-## TEAM PROJECT
+## 💬 TEAM PROJECT
 
 |N|Title|Link|Evaluation|W|Open|Done|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|
 |1|제 1차 HACKATHON: 데이터톤(DATATHON)<br><br>#Tags: EDA|[📁Repo](https://github.com/HRPzz/AIFFEL_HACKATHON_1)<br>[📋ipynb](https://github.com/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb)|2단계<br>통과|11|03.08|03.11|
 |2|-|[📁Repo]()<br>[📋ipynb]()|-|16|04.12|04.15|
-|3|-|[📁Repo]()<br>[📋ipynb]()|-|18|04.25|05.02|
-|4|-|[📁Repo]()<br>[📋ipynb]()|-|19<br>~<br>24|05.03|06.09|
+|3|-|[📂Repo]()<br>[📋ipynb]()|-|18|04.25|05.02|
+|4|-|[📂Repo]()<br>[📋ipynb]()|-|19<br>~<br>24|05.03|06.09|
+
+**[⬆ back to top](#📌-table-of-contents)**
 
 ---
 
-## LMS
+## 🔒 LMS
 
-### GOING DEEPER CV [📁](GOING_DEEPER_CV)
+### 🔑 GOING DEEPER CV [📂](GOING_DEEPER_CV)
 
 |N|Node Title|Author|Type|Evaluation|Link|W|Open|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -162,7 +183,9 @@
 |15|사람의 몸짓을 읽어보자<br><br>#Tags: |-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_15/README.md)|17|04.19|
 |16|행동 스티커 만들기<br><br>#Tags: |-|Project|-|[📋](GOING_DEEPER_CV/Node_16/README.md)|17|04.21|
 
-### EXPLORATION [📁](EXPLORATION)
+**[⬆ back to top](#📌-table-of-contents)**
+
+### 🔑 EXPLORATION [📁](EXPLORATION)
 
 |N|Node Title|Author|Evaluation|Link|W|Open|Done|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -177,19 +200,21 @@
 |9|폐렴아 기다려라!<br><br>#Tags: ML, CV, CNN|유원준|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb)|6|02.03|02.10|
 |10|인공지능으로 세상에 없던 새로운 패션 만들기<br><br>#Tags: DL, GAN, DCGAN|정민정|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb)|7|02.08|02.15|
 |11|어제 오른 내 주식, 과연 내일은?<br><br>#Tags: ML, Statistics, ARMIA|김원철|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_11/%5BE-11%5D%20forecast_stock.ipynb)|7|02.10|02.17|
-|12|트랜스포머로 만드는 대화형 챗봇<br><br>#Tags: DL, NLP, Transformer, Attention|유원준|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb)|8|02.15|	02.22|
+|12|트랜스포머로 만드는 대화형 챗봇<br><br>#Tags: DL, NLP, Transformer, Attention|유원준|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb)|8|02.15| 02.22|
 |13|인간보다 퀴즈를 잘푸는 인공지능<br><br>#Tags: DL, NLP, BERT|현청천|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb)|8|02.17|02.24|
 |14|아이유팬이 좋아할 만한 다른 아티스트 찾기<br><br>#Tags: DL, NLP, Recommendation, MF, CSR, ALS|박지민|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb)|9|02.22|03.01|
 |15|문자를 읽을 수 있는 딥러닝<br><br>#Tags: DL, CV, OCR|강상권|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_15/%5BE-15%5D%20OCR.ipynb)|9|02.24|03.03|
 |16|다음에 볼 영화 예측하기<br><br>#Tags: DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k|박지민|⭐⭐⭐|[📋](EXPLORATION/Node_16/%5BE-16%5D%20Movie_Session_Based_Recommendation.ipynb)|11|03.07|03.14|
 |17|난 스케치를 할 테니 너는 채색을 하거라<br><br>#Tags: DL, CV, GAN, cGAN, Pix2Pix|정신유|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_17/%5BE-17%5D%20Pix2Pix.ipynb)|12|03.14|03.21|
 
-### FUNDAMENTALS [📁](FUNDAMENTALS)
+**[⬆ back to top](#📌-table-of-contents)**
+
+### 🔑 FUNDAMENTALS [📁](FUNDAMENTALS)
 
 |N|Node Title|Author|Link|W|Open|
 |:---:|---|:---:|:---:|:---:|:---:|
-|1|Ready to go?<br><br>#Tags: LMS, Cloud Jupyter|백병인|[📋](FUNDAMENTALS/Node_01/README.md)|1|12.28|
-|2|인공지능 개발자가 되기 위한 위대한 첫 걸음<br><br>#Tags: CLI, Anaconda|정민정|[📋](FUNDAMENTALS/Node_02/README.md)|1|12.28|
+|1|Ready to go?<br>━━━━━━━━━━━━<br>#Tags: LMS, Cloud Jupyter|백병인|[📋](FUNDAMENTALS/Node_01/README.md)|1|12.28|
+|2|인공지능 개발자가 되기 위한 위대한 첫 걸음<br>━━━━━━━━━━━━<br>#Tags: CLI, Anaconda|정민정|[📋](FUNDAMENTALS/Node_02/README.md)|1|12.28|
 |3|터미널로 배우는 리눅스 운영체제<br><br>#Tags: OS, Linux|오상준|[📋](FUNDAMENTALS/Node_03/README.md)|1|12.28|
 |4|개발자를 위한 첫 번째 필수 교양<br><br>#Tags: Git, GitHub|정민정|[📋](FUNDAMENTALS/Node_04/README.md)|1|12.28|
 |5|날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?<br><br>#Tags: Kaggle, EDA|⬛|[📋](FUNDAMENTALS/Node_05/README.md)|4|01.18|
@@ -214,17 +239,21 @@
 |24|딥러닝 레이어의 이해(2) Embedding, Recurrent<br><br>#Tags: DL, RNN|문성원|[📋](FUNDAMENTALS/Node_24/README.md)|7|02.09|
 |25|Regularization<br><br>#Tags: DL, Regularization|박윤경|[📋](FUNDAMENTALS/Node_25/README.md)|7|02.11|
 |26|활성화 함수의 이해<br><br>#Tags: DL, Activation Functions|백승열|[📋](FUNDAMENTALS/Node_26/README.md)|8|02.14|
-|27|Likelihood(MLE와 MAP)<br><br>#Tags: ML, Likelihood, MLE, MAP|신승연|[📋](FUNDAMENTALS/Node_27/README.md)|8|02.16|
-|28|정보이론 톺아보기<br><br>#Tags: ML, Information Theory, Entropy, Cross Entropy, KL divergence|신승연|[📋](FUNDAMENTALS/Node_28/README.md)|8|02.18|
+|27|Likelihood(MLE와 MAP)<br>━━━━━━━━━━━━<br>#Tags: ML, Likelihood, MLE, MAP|신승연|[📋](FUNDAMENTALS/Node_27/README.md)|8|02.16|
+|28|정보이론 톺아보기<br>━━━━━━━━━━━━<br>#Tags: ML, Information Theory, Entropy, Cross Entropy, KL divergence|신승연|[📋](FUNDAMENTALS/Node_28/README.md)|8|02.18|
 |29|사이킷런을 활용한 추천 시스템 입문<br><br>#Tags: ML/DL, NLP, Recommendation System, Scikit-learn|손주영|[📋](FUNDAMENTALS/Node_29/README.md)|9|02.21|
 |30|컴퓨터 파워 UP<br><br>#Tags: Python, Multitasking|손주영|[📋](FUNDAMENTALS/Node_30/README.md)|9|02.23|
 |31|뉴스기사 크롤링 및 분류<br><br>#Tags: ML, Crawling|⬛|[📋](FUNDAMENTALS/Node_31/README.md)|9|02.25|
 
+**[⬆ back to top](#📌-table-of-contents)**
+
 ---
+
+# 💢 ABOUT AIFFEL
 
 ![aiffel_banner](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F573551f3-d67e-4e77-ad9c-235cf51e1ce4%2FcoverIMG_MASTERPAGE_COVER_(1).png&blockId=b67b7152-c891-47a7-99e4-73797fb3bab5&width=3600)
 
-# [AIFFEL](https://aiffel.oopy.io/) by [모두의 연구소](https://modulabs.co.kr/)
+## 🏬 [AIFFEL](https://aiffel.oopy.io/) by [모두의 연구소](https://modulabs.co.kr/)
 
 - “아이펠은 `역계단식 인공지능 학습`을 제안합니다. 50가지 살아 있는 프로젝트를 단시간 폭넓게 경험해보세요!”
 - Hello, Real-world!
@@ -233,18 +262,16 @@
 - Do-it-together
   - 머리를 맞대어 연구하고 여러번 시도해보세요.
   - 함께 풀지 못할 문제가 얼마나 있을까요? ¯＼_(ツ)_/¯
-- 선발 절차
 
-![aiffel_pass_process](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7df17566-8c20-4459-8cd3-8336eeecd724%2F%E1%84%92%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%A1.png&blockId=e443c8f8-6f63-4cc9-ba64-4fa064a8671c)
+|선발 절차|시간표|
+|:---:|:---:|
+|![aiffel_pass_process](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7df17566-8c20-4459-8cd3-8336eeecd724%2F%E1%84%92%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%A1.png&blockId=e443c8f8-6f63-4cc9-ba64-4fa064a8671c)|![aiffel_schedule_and_curriculum_1](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F507b5395-a536-41d1-a14a-463d5be92d66%2F%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8F%E1%85%B2%E1%86%AF%E1%84%85%E1%85%A5%E1%86%B7-%E1%84%8B%E1%85%AD%E1%84%8B%E1%85%A3%E1%86%A8.png&blockId=5c9ef792-a72a-4511-8012-17d2f0deefaa)|
 
-- 시간표 및 커리큘럼
+- 커리큘럼
 
-![aiffel_schedule_and_curriculum_1](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F507b5395-a536-41d1-a14a-463d5be92d66%2F%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8F%E1%85%B2%E1%86%AF%E1%84%85%E1%85%A5%E1%86%B7-%E1%84%8B%E1%85%AD%E1%84%8B%E1%85%A3%E1%86%A8.png&blockId=5c9ef792-a72a-4511-8012-17d2f0deefaa)
+|전반기|후반기|
+|:---:|:---:|
+|![aiffel_schedule_and_curriculum_2](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fac62d84d-47b9-4251-8ec3-498b19409080%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-02.png&blockId=0db75f5e-41c1-407c-bcad-555b353bbac1)|![aiffel_schedule_and_curriculum_4](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F15030355-3659-42f6-9f4f-3d28f6386667%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-04.png&blockId=74195553-ebd5-4d61-a515-ee005f9912cb)|
+|![aiffel_schedule_and_curriculum_3](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd219d34d-73b2-40cf-8d09-de0c686b223a%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-03.png&blockId=98b5efc1-816c-4c83-9fa2-c8bad7ab7c69)|![aiffel_schedule_and_curriculum_5](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb50419d4-5cd2-437d-906b-6b965cac8ca7%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-05.png&blockId=a7d14d0e-1191-4dcd-beca-ea60b79f2978)|
 
-![aiffel_schedule_and_curriculum_2](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fac62d84d-47b9-4251-8ec3-498b19409080%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-02.png&blockId=0db75f5e-41c1-407c-bcad-555b353bbac1)
-
-![aiffel_schedule_and_curriculum_3](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd219d34d-73b2-40cf-8d09-de0c686b223a%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-03.png&blockId=98b5efc1-816c-4c83-9fa2-c8bad7ab7c69)
-
-![aiffel_schedule_and_curriculum_4](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F15030355-3659-42f6-9f4f-3d28f6386667%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-04.png&blockId=74195553-ebd5-4d61-a515-ee005f9912cb)
-
-![aiffel_schedule_and_curriculum_5](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb50419d4-5cd2-437d-906b-6b965cac8ca7%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-05.png&blockId=a7d14d0e-1191-4dcd-beca-ea60b79f2978)
+**[⬆ back to top](#📌-table-of-contents)**
