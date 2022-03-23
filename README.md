@@ -174,7 +174,7 @@
 |3|<b>잘 만든 Augmentation, 이미지 100장 안 부럽다</b><hr><i>#Tags: Data Augmentation, Tensorflow API, albumentation, GAN</i>|강상권|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_03/README.md)|12|03.18|
 |4|<b>이미지 어디까지 우려볼까?</b><hr><i>#Tags: Data Augmentation, Tensorflow Random Augmentation API, CutMix, Mixup</i>|강상권|Project|-|[📋](GOING_DEEPER_CV/Node_04/README.md)|13|03.21|
 |5|<b>너의 속이 궁금해 - Class Activation Map 살펴보기</b><hr><i>#Tags: XAI, CAM, Grad-CAM, ACoL</i>|강상권|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_05/README.md)|13|03.23|
-|6|<b>나를 찾아줘 - Class Activation Map 만들기</b><hr><i>#Tags: </i>|-|Project|-|[📋](GOING_DEEPER_CV/Node_06/README.md)|13|03.24|
+|6|<b>나를 찾아줘 - Class Activation Map 만들기</b><hr><i>#Tags: CAM, Grad-CAM, Object Detection</i>|강상권|Project|-|[📋](GOING_DEEPER_CV/Node_06/README.md)|13|03.24|
 |7|<b>Object Detection</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_07/README.md)|14|03.28|
 |8|<b>GO/STOP! - Object Detection 시스템 만들기</b><hr><i>#Tags: </i>|-|Project|-|[📋](GOING_DEEPER_CV/Node_08/README.md)|14|03.29|
 |9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_09/README.md)|14|03.31|
@@ -265,6 +265,8 @@
 - Do-it-together
   - 머리를 맞대어 연구하고 여러번 시도해보세요.
   - 함께 풀지 못할 문제가 얼마나 있을까요? ¯＼_(ツ)_/¯
+
+- 선발 절차 및 시간표
 
 |선발 절차|시간표|
 |:---:|:---:|
