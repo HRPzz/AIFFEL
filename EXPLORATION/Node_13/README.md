@@ -15,6 +15,10 @@
 
 ---
 
+[➡ [E-13] Pretrained_BERT.ipynb with nbviewer](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb)
+
+---
+
 |-|목차|⏲ 420분|
 |:---:|---|:---:|
 |13-1| 들어가며 | 15분|
@@ -27,19 +31,19 @@
 
 ---
 
-### 전제조건
+## 전제조건
 
 - Keras를 활용한 모델 구성 및 학습 진행 방법을 숙지하고 있다.
 - LSTM의 개념을 이해하고 모델 구성에 활용할 수 있다.
 - Transformer 모델 구조와 Attention의 개념에 대해 이해하고 있다.
 
-### 학습 목표
+## 학습 목표
 
 - Transformer Encoder로 이루어진 BERT의 모델 구조를 이해한다.
 - Pretrained embedding 접근 방식에 대해 이해한다.
 - Pretrained BERT를 활용할 수 있다.
 
-### 준비물
+## 준비물
 
 - KorQuAD 데이터셋 출처: <https://korquad.github.io/>
 
@@ -55,7 +59,7 @@
 ---
 
 >## **루브릭**
-
+>
 >|번호|평가문항|상세기준|평가결과|
 >|:---:|---|---|:---:|
 >|1|BERT pretrained model을 활용한 KorQuAD 모델이 정상적으로 학습이 진행되었다.|KorQuAD 모델의 validation accuracy가 안정적으로 증가하였다.|⭐|

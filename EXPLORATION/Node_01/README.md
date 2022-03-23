@@ -4,6 +4,10 @@
 
 ---
 
+[➡ [E-01] Rock_Scissor_Paper_Classifier.ipynb with nbviewer](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb)
+
+---
+
 |-|목차|⏲ 360분|
 |:---:|---|:---:|
 |1-1| 인공지능과 가위바위보 하기 | 30분|
@@ -16,6 +20,8 @@
 |1-8| 프로젝트 제출|-|
 
 ---
+
+## 노드 내용
 
 - 간단한 인공지능 이미지 분류기 만들기
   - 숫자는 0~9까지 총 10개의 클래스(class)만 인식, Sequential Model 이용
@@ -114,7 +120,7 @@
 ---
 
 >## **루브릭**
-
+>
 >|번호|평가문항|상세기준|평가결과|
 >|:---:|---|---|:---:|
 >|1|이미지 분류기 모델이 성공적으로 만들어졌는가?|트레이닝이 정상적으로 수행되었음|⭐|

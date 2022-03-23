@@ -9,6 +9,10 @@
 
 ---
 
+[➡ [E-06] Naver_movie_sentiment_analysis.ipynb with nbviewer](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb)
+
+---
+
 |-|목차|⏲ 410분|
 |:---:|---|:---:|
 |6-1| 들어가며 | 5분|
@@ -37,7 +41,7 @@
 
 ## 6-11. 프로젝트 : 네이버 영화리뷰 감성분석 도전하기
 
-1) 데이터 준비와 확인
+- 1) 데이터 준비와 확인
 
 ```python
 import pandas as pd
@@ -49,27 +53,23 @@ test_data = pd.read_table('~/aiffel/sentiment_classification/data/ratings_test.t
 train_data.head()
 ```
 
-2) 데이터로더 구성
-
-- 데이터의 중복 제거
-- NaN 결측치 제거
-- 한국어 토크나이저로 토큰화
-- 불용어(Stopwords) 제거
-- 사전word_to_index 구성
-- 텍스트 스트링을 사전 인덱스 스트링으로 변환
-- X_train, y_train, X_test, y_test, word_to_index 리턴
-
-3) 모델 구성을 위한 데이터 분석 및 가공
-
-- 데이터셋 내 문장 길이 분포
-- 적절한 최대 문장 길이 지정
-- keras.preprocessing.sequence.pad_sequences 을 활용한 패딩 추가
-
-4) 모델 구성 및 validation set 구성
-5) 모델 훈련 개시
-6) Loss, Accuracy 그래프 시각화
-7) 학습된 Embedding 레이어 분석
-8) 한국어 Word2Vec 임베딩 활용하여 성능 개선
+- 2) 데이터로더 구성
+  - 데이터의 중복 제거
+  - NaN 결측치 제거
+  - 한국어 토크나이저로 토큰화
+  - 불용어(Stopwords) 제거
+  - 사전word_to_index 구성
+  - 텍스트 스트링을 사전 인덱스 스트링으로 변환
+  - X_train, y_train, X_test, y_test, word_to_index 리턴
+- 3) 모델 구성을 위한 데이터 분석 및 가공
+  - 데이터셋 내 문장 길이 분포
+  - 적절한 최대 문장 길이 지정
+  - keras.preprocessing.sequence.pad_sequences 을 활용한 패딩 추가
+- 4) 모델 구성 및 validation set 구성
+- 5) 모델 훈련 개시
+- 6) Loss, Accuracy 그래프 시각화
+- 7) 학습된 Embedding 레이어 분석
+- 8) 한국어 Word2Vec 임베딩 활용하여 성능 개선
 
 한국어 Word2Vec은 다음 경로에서 구할 수 있습니다.
 
@@ -80,7 +80,7 @@ train_data.head()
 ---
 
 >## **루브릭**
-
+>
 >|번호|평가문항|상세기준|평가결과|
 >|:---:|---|---|:---:|
 >|1|다양한 방법으로 Text Classification 태스크를 성공적으로 구현하였다.|3가지 이상의 모델이 성공적으로 시도됨|⭐|

@@ -6,6 +6,10 @@
 
 ---
 
+[➡ [E-09] Pneumonia_Diagnosis_Machine.ipynb with nbviewer](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb)
+
+---
+
 |-|목차|⏲ 300분|
 |:---:|---|:---:|
 |9-1| 들어가며 | 5분|
@@ -41,7 +45,7 @@
 ---
 
 >## **루브릭**
-
+>
 >|번호|평가문항|상세기준|평가결과|
 >|:---:|---|---|:---:|
 >|1|의료영상을 처리하는 CNN 기반 딥러닝 모델이 잘 구현되었다.|모델 학습이 안정적으로 수렴하는 것을 시각화를 통해 확인하였다.|⭐|

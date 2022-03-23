@@ -23,6 +23,10 @@
 
 ---
 
+[➡ [E-08] news_summary_bot.ipynb with nbviewer](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_08/%5BE-08%5D%20news_summary_bot.ipynb)
+
+---
+
 |-|목차|⏲ 420분|
 |:---:|---|:---:|
 |8-1| 들어가며 | 5분|
@@ -63,7 +67,7 @@
 ---
 
 >## **루브릭**
-
+>
 >|번호|평가문항|상세기준|평가결과|
 >|:---:|---|---|:---:|
 >|1|Abstractive 모델 구성을 위한 텍스트 전처리 단계가 체계적으로 진행되었다.|분석단계, 정제단계, 정규화와 불용어 제거, 데이터셋 분리, 인코딩 과정이 빠짐없이 체계적으로 진행되었다.|⭐|

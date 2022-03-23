@@ -8,6 +8,10 @@
 
 ---
 
+[➡ [E-05] 2019_kaggle_house_price_prediction.ipynb with nbviewer](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb)
+
+---
+
 |-|목차|⏲ 360분|
 |:---:|---|:---:|
 |5-1| 들어가며 | 5분|
@@ -87,7 +91,7 @@
 ---
 
 >## **루브릭**
-
+>
 >|번호|평가문항|상세기준|평가결과|
 >|:---:|---|---|:---:|
 >|1|캐글 데이터분석 전과정이 성공적으로 진행되었는가?|데이터 전처리, 모델학습, 예측의 전체 과정을 거쳐 캐글 submission까지 진행되었다.|⭐|

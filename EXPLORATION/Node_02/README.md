@@ -3,6 +3,11 @@
 **캐글의 iris 데이터셋을 이용해 기본적인 머신러닝 분류 태스크를 진행하고, 자주 사용되는 모델과 훈련기법을 알아본다.**
 
 ---
+
+[➡ [E-02] Classifier_Examples (Digits, Wine, Breast_Cancer).ipynb with nbviewer](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb)
+
+---
+
 |-|목차|⏲ 360분|
 |:---:|---|:---:|
 |2-1| 들어가며 | 5분|
@@ -30,7 +35,7 @@
 - Decision Tree, XGBoost, RandomForest, 로지스틱 회귀 모델을 활용해서 간단하게 학습 및 예측해 볼 수 있다.
 - 데이터셋을 사용해서 스스로 분류 기초 실습을 진행할 수 있다.
 
-### 학습 전제
+## 학습 전제
 
 - scikit-learn을 활용해서 머신러닝을 시도해본 적이 없다.
 - scikit-learn에 내장된 분류 모델을 활용해본 적이 없다.
@@ -38,6 +43,8 @@
 - 머신러닝 모델을 학습시켜보고, 그 성능을 평가해본 적이 없다.
 
 ---
+
+## 노드 내용
 
 - **머신러닝**
   - 지도학습 (Supervised Learning): 정답이 있는 문제 학습
@@ -158,7 +165,7 @@
 ---
 
 >## **루브릭**
-
+>
 >|번호|평가문항|상세기준|평가결과|
 >|:---:|---|---|:---:|
 >|1|3가지 데이터셋의 구성이 합리적으로 진행되었는가?|feature와 label 선정을 위한 데이터 분석과정이 체계적으로 전개됨|⭐|
