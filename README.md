@@ -30,13 +30,13 @@
 >| **1** | - | - | - | - | - | - | **1** |
 >| **To Do** | - | - | - | - | - | - | - |
 >| **2** | **2** | **3** | **4** | **5** | **6** | **7** | **8** |
->| **To Do** | - | F-10<br>FL-01 | [E-01](EXPLORATION/Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb) | F-11<br>FL-01 | [E-02](EXPLORATION/Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb) | F-12<br>FL-01 | - |
+>| **To Do** | - | F-10<br>FL-01 | [E-01](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb) | F-11<br>FL-01 | [E-02](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb) | F-12<br>FL-01 | - |
 >| **3** | **9** | **10** | **11** | **12** | **13** | **14** | **15** |
->| **To Do** | - | F-13<br>FL-02 | [E-03](EXPLORATION/Node_03/%5BE-03%5D%20Camera_Sticker_App.ipynb) | F-14<br>글쓰기 | [E-04](EXPLORATION/Node_04/%5BE-04%5D%20AI_Lyricist.ipynb) | F-15<br>FL-02 | - |
+>| **To Do** | - | F-13<br>FL-02 | [E-03](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_03/%5BE-03%5D%20Camera_Sticker_App.ipynb) | F-14<br>글쓰기 | [E-04](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_04/%5BE-04%5D%20AI_Lyricist.ipynb) | F-15<br>FL-02 | - |
 >| **4** | **16** | **17** | **18** | **19** | **20** | **21** | **22** |
->| **To Do** | - | F-16<br>FL-02 | [E-05](EXPLORATION/Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb) | F-17<br>글쓰기 | [E-06](EXPLORATION/Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb) | F-18<br>FL-02 | - |
+>| **To Do** | - | F-16<br>FL-02 | [E-05](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/XPLORATION/Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb) | F-17<br>글쓰기 | [E-06](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb) | F-18<br>FL-02 | - |
 >| **5** | **23** | **24** | **25** | **26** | **27** | **28** | **29** |
->| **To Do** | - | F-19<br>FL-02 | [E-07](EXPLORATION/Node_07/%5BE-07%5D%20make_a_portrait.ipynb) | F-20<br>글쓰기 | [E-08](EXPLORATION/Node_08/%5BE-08%5D%20news_summary_bot.ipynb) | F-21<br>FL-02 | - |
+>| **To Do** | - | F-19<br>FL-02 | [E-07](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_07/%5BE-07%5D%20make_a_portrait.ipynb) | F-20<br>글쓰기 | [E-08](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_08/%5BE-08%5D%20news_summary_bot.ipynb) | F-21<br>FL-02 | - |
 >| **6** | **30** | **31** | - | - | - | - | - |
 >| **To Do** | - | - | - | - | - | - | - |
 
@@ -45,13 +45,13 @@
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 >| **1** | - | - | **1** | **2** | **3** | **4** | **5** |
->| **To Do** | - | - | - | - | [E-09](EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb) | F-22<br>FL-02<br>━━<br>F-05 | - |
+>| **To Do** | - | - | - | - | [E-09](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb) | F-22<br>FL-02<br>━━<br>F-05 | - |
 >| **2** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
->| **To Do** | - | F-23<br>FL-02 | [E-10](EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb) | F-24<br>글쓰기 | [E-11](EXPLORATION/Node_11/%5BE-11%5D%20forecast_stock.ipynb) | F-25<br>FL-02 | - |
+>| **To Do** | - | F-23<br>FL-02 | [E-10](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb) | F-24<br>글쓰기 | [E-11](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_11/%5BE-11%5D%20forecast_stock.ipynb) | F-25<br>FL-02 | - |
 >| **3** | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
->| **To Do** | - | F-26<br>FL-02 | [E-12](EXPLORATION/Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb) | F-27<br>글쓰기 | [E-13](EXPLORATION/Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb) | F-28<br>FL-02 | - |
+>| **To Do** | - | F-26<br>FL-02 | [E-12](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb) | F-27<br>글쓰기 | [E-13](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb) | F-28<br>FL-02 | - |
 >| **4** | **20** | **21** | **22** | **23** | **24** | **25** | **26** |
->| **To Do** | - | F-29<br>FL-02 | [E-14](EXPLORATION/Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb) | F-30<br>글쓰기 | [E-15](EXPLORATION/Node_15/%5BE-15%5D%20OCR.ipynb) | F-31<br>FL-02 | - |
+>| **To Do** | - | F-29<br>FL-02 | [E-14](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb) | F-30<br>글쓰기 | [E-15](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_15/%5BE-15%5D%20OCR.ipynb) | F-31<br>FL-02 | - |
 >| **5** | **27** | **28** | - | - | - | - | - |
 >| **To Do** | - | - | - | - | - | - | - |
 
@@ -62,13 +62,13 @@
 >| **1** | - | - | **1** | **2** | **3** | **4** | **5** |
 >| **To Do** | - | - | - | - | - | - | - |
 >| **2** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
->| **To Do** | - | [E-16](EXPLORATION/Node_16/%5BE-16%5D%20Movie_Session_Based_Recommendation.ipynb) | H-01<br>팀플 진행 | - | H-01<br>팀플 진행 | [H-01](https://github.com/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb)<br>전시 발표 | - |
+>| **To Do** | - | [E-16](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_16/%5BE-16%5D%20Movie_Session_Based_Recommendation.ipynb) | H-01<br>팀플 진행 | - | H-01<br>팀플 진행 | [H-01](https://github.com/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb)<br>전시 발표 | - |
 >| **3** | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
->| **To Do** | - | [E-17](EXPLORATION/Node_17/%5BE-17%5D%20Pix2Pix.ipynb) | GD-01 | GD-02 | GD-02 | GD-03<br>FL-03 | - |
+>| **To Do** | - | [E-17](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_17/%5BE-17%5D%20Pix2Pix.ipynb) | GD-01 | GD-02 | [GD-02]() | GD-03<br>FL-03 | - |
 >| **4** | **20** | **21** | **22** | **23** | **24** | **25** | **26** |
->| **To Do** | - | GD-03<br>GD-04 | GD-04 | GD-05 | GD-05<br>GD-06 | GD-06<br>FL-03 | - |
+>| **To Do** | - | GD-03<br>GD-04 | [GD-04]() | GD-05 | GD-05<br>GD-06 | GD-06<br>FL-03 | - |
 >| **5** | **27** | **28** | **29** | **30** | **31** | - | - |
->| **To Do** | - | GD-06<br>GD-07 | GD-07<br>GD-08 | GD-08 | GD-08<br>GD-09 | - | - |
+>| **To Do** | - | [GD-06]()<br>GD-07 | GD-07<br>GD-08 | GD-08 | [GD-08]()<br>GD-09 | - | - |
 
 ### April, 2022  (21 days)
 
@@ -77,13 +77,13 @@
 >| **1** | - | - | - | - | - | **1** | **2** |
 >| **To Do** | - | - | - | - | - | GD-09<br>FL-03 | - |
 >| **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
->| **To Do** | - | GD-10 | GD-10<br>GD-11 | GD-11 | GD-12 | GD-12<br>FL-03 | - |
+>| **To Do** | - | GD-10 | [GD-10]()<br>GD-11 | GD-11 | GD-12 | [GD-12]()<br>FL-03 | - |
 >| **3** | **10** | **11** | **12** | **13** | **14** | **15** | **16** |
 >| **To Do** | - | GD-13 | H-02 | H-02 | H-02 | H-02 | - |
 >| **4** | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
->| **To Do** | - | GD-14 | GD-14<br>GD-15 | GD-15 | GD-16 | GD-16<br>FL-03 | - |
+>| **To Do** | - | GD-14 | [GD-14]()<br>GD-15 | GD-15 | GD-16 | [GD-16]()<br>FL-03 | - |
 >| **5** | **24** | **25** | **26** | **27** | **28** | **29** | **30** |
->| **To Do** | - | T-01 | T-01 | T-01 | T-01 | T-01 | - |
+>| **To Do** | - | T-01 | T-01 | T-01 | T-01 | [T-01]() | - |
 
 ### May, 2022  (21 days)
 
@@ -107,7 +107,7 @@
 >| **1** | - | - | - | **1** | **2** | **3** | **4** |
 >| **To Do** | - | - | - | T-02 | T-02 | T-02 | - |
 >| **2** | **5** | **6** | **7** | **8** | **9** | **10** | **11** |
->| **To Do** | - | - | T-02 | T-02 | T-02 | END | - |
+>| **To Do** | - | - | T-02 | T-02 | [T-02]() | END | - |
 >| **3** | **12** | **13** | **14** | **15** | **16** | **17** | **18** |
 >| **To Do** | - | - | - | - | - | - | - |
 >| **4** | **19** | **20** | **21** | **22** | **23** | **24** | **25** |
