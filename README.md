@@ -1,4 +1,4 @@
-# AIFFEL DAEGU 1 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<h1 align="center">AIFFEL DAEGU 1 </h1> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![aiffel_logo_img](https://aiffel-front-prod-asset.s3.ap-northeast-2.amazonaws.com/img/logo/aiffel_logo.png)
 
@@ -177,7 +177,7 @@
 |9|폐렴아 기다려라!<br><br>#Tags: ML, CV, CNN|유원준|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb)|6|02.03|02.10|
 |10|인공지능으로 세상에 없던 새로운 패션 만들기<br><br>#Tags: DL, GAN, DCGAN|정민정|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb)|7|02.08|02.15|
 |11|어제 오른 내 주식, 과연 내일은?<br><br>#Tags: ML, Statistics, ARMIA|김원철|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_11/%5BE-11%5D%20forecast_stock.ipynb)|7|02.10|02.17|
-|12|트랜스포머로 만드는 대화형 챗봇<br><br>#Tags: DL, NLP, Transformer, Attention|유원준|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb)|8|02.15|	02.22|
+|12|트랜스포머로 만드는 대화형 챗봇<br><br>#Tags: DL, NLP, Transformer, Attention|유원준|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb)|8|02.15| 02.22|
 |13|인간보다 퀴즈를 잘푸는 인공지능<br><br>#Tags: DL, NLP, BERT|현청천|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb)|8|02.17|02.24|
 |14|아이유팬이 좋아할 만한 다른 아티스트 찾기<br><br>#Tags: DL, NLP, Recommendation, MF, CSR, ALS|박지민|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb)|9|02.22|03.01|
 |15|문자를 읽을 수 있는 딥러닝<br><br>#Tags: DL, CV, OCR|강상권|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_15/%5BE-15%5D%20OCR.ipynb)|9|02.24|03.03|
@@ -188,8 +188,8 @@
 
 |N|Node Title|Author|Link|W|Open|
 |:---:|---|:---:|:---:|:---:|:---:|
-|1|Ready to go?<br><br>#Tags: LMS, Cloud Jupyter|백병인|[📋](FUNDAMENTALS/Node_01/README.md)|1|12.28|
-|2|인공지능 개발자가 되기 위한 위대한 첫 걸음<br><br>#Tags: CLI, Anaconda|정민정|[📋](FUNDAMENTALS/Node_02/README.md)|1|12.28|
+|1|Ready to go?<br>━━━━━━━━━━━━<br>#Tags: LMS, Cloud Jupyter|백병인|[📋](FUNDAMENTALS/Node_01/README.md)|1|12.28|
+|2|인공지능 개발자가 되기 위한 위대한 첫 걸음<br>━━━━━━━━━━━━<br>#Tags: CLI, Anaconda|정민정|[📋](FUNDAMENTALS/Node_02/README.md)|1|12.28|
 |3|터미널로 배우는 리눅스 운영체제<br><br>#Tags: OS, Linux|오상준|[📋](FUNDAMENTALS/Node_03/README.md)|1|12.28|
 |4|개발자를 위한 첫 번째 필수 교양<br><br>#Tags: Git, GitHub|정민정|[📋](FUNDAMENTALS/Node_04/README.md)|1|12.28|
 |5|날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?<br><br>#Tags: Kaggle, EDA|⬛|[📋](FUNDAMENTALS/Node_05/README.md)|4|01.18|
@@ -214,8 +214,8 @@
 |24|딥러닝 레이어의 이해(2) Embedding, Recurrent<br><br>#Tags: DL, RNN|문성원|[📋](FUNDAMENTALS/Node_24/README.md)|7|02.09|
 |25|Regularization<br><br>#Tags: DL, Regularization|박윤경|[📋](FUNDAMENTALS/Node_25/README.md)|7|02.11|
 |26|활성화 함수의 이해<br><br>#Tags: DL, Activation Functions|백승열|[📋](FUNDAMENTALS/Node_26/README.md)|8|02.14|
-|27|Likelihood(MLE와 MAP)<br><br>#Tags: ML, Likelihood, MLE, MAP|신승연|[📋](FUNDAMENTALS/Node_27/README.md)|8|02.16|
-|28|정보이론 톺아보기<br><br>#Tags: ML, Information Theory, Entropy, Cross Entropy, KL divergence|신승연|[📋](FUNDAMENTALS/Node_28/README.md)|8|02.18|
+|27|Likelihood(MLE와 MAP)<br>━━━━━━━━━━━━<br>#Tags: ML, Likelihood, MLE, MAP|신승연|[📋](FUNDAMENTALS/Node_27/README.md)|8|02.16|
+|28|정보이론 톺아보기<br>━━━━━━━━━━━━<br>#Tags: ML, Information Theory, Entropy, Cross Entropy, KL divergence|신승연|[📋](FUNDAMENTALS/Node_28/README.md)|8|02.18|
 |29|사이킷런을 활용한 추천 시스템 입문<br><br>#Tags: ML/DL, NLP, Recommendation System, Scikit-learn|손주영|[📋](FUNDAMENTALS/Node_29/README.md)|9|02.21|
 |30|컴퓨터 파워 UP<br><br>#Tags: Python, Multitasking|손주영|[📋](FUNDAMENTALS/Node_30/README.md)|9|02.23|
 |31|뉴스기사 크롤링 및 분류<br><br>#Tags: ML, Crawling|⬛|[📋](FUNDAMENTALS/Node_31/README.md)|9|02.25|
