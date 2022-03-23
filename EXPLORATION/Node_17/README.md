@@ -4,7 +4,7 @@
 
 ---
 
-[➡ [[E-17] Pix2Pix.ipynb with nbviewer]](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_17/%5BE-17%5D%20Pix2Pix.ipynb)
+[➡ [E-17] Pix2Pix.ipynb with nbviewer](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_17/%5BE-17%5D%20Pix2Pix.ipynb)
 
 ---
 
