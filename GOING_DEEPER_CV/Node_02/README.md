@@ -4,16 +4,20 @@
 
 ---
 
+[➡ [CV-02] ResNet_vs_Plain.ipynb with nbviewer](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_02/%5BCV-02%5D%20ResNet_vs_Plain.ipynb)
+
+---
+
 |-|목차|⏲ 400분|
 |:---:|---|:---:|
 |2-1| 들어가며 | 5분|
-|2-2| Ablation Study 🔒| 10분|
-|2-3| Ablation Study 실습 (1) CIFAR-10 데이터셋 준비하기 🔒| 25분|
-|2-4| Ablation Study 실습 (2) 블록 구성하기 🔒| 30분|
-|2-5| Ablation Study 실습 (3) VGG Complete Model 🔒| 30분|
-|2-6| Ablation Study 실습 (4) VGG-16 vs VGG-19 🔒| 60분|
-|2-7| 프로젝트: ResNet Ablation Study 🔒| 240분|
-|2-8| 프로젝트 제출 🔒|
+|2-2| Ablation Study | 10분|
+|2-3| Ablation Study 실습 (1) CIFAR-10 데이터셋 준비하기 | 25분|
+|2-4| Ablation Study 실습 (2) 블록 구성하기 | 30분|
+|2-5| Ablation Study 실습 (3) VGG Complete Model | 30분|
+|2-6| Ablation Study 실습 (4) VGG-16 vs VGG-19 | 60분|
+|2-7| 프로젝트: ResNet Ablation Study | 240분|
+|2-8| 프로젝트 제출 |
 
 ---
 
@@ -36,16 +40,16 @@
 
 ## 2-7. 프로젝트: ResNet Ablation Study
 
-- 0) 라이브러리 버전 확인하기
-- 1) ResNet 기본 블록 구성하기
-- 2) ResNet-34, ResNet-50 Complete Model
-- 3) 일반 네트워크(plain network) 만들기
-- 4) ResNet-50 vs Plain-50 또는 ResNet-34 vs Plain-34
+0) 라이브러리 버전 확인하기
+1) ResNet 기본 블록 구성하기
+2) ResNet-34, ResNet-50 Complete Model
+3) 일반 네트워크(plain network) 만들기
+4) ResNet-50 vs Plain-50 또는 ResNet-34 vs Plain-34
 
 ---
 
 >## **루브릭**
-
+>
 >|번호|평가문항|상세기준|평가결과|
 >|:---:|---|---|:---:|
 >|1|ResNet-34, ResNet-50 모델 구현이 정상적으로 진행되었는가?|블록함수 구현이 제대로 진행되었으며 구현한 모델의 summary가 예상된 형태로 출력되었다.|-|
