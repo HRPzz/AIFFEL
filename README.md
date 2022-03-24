@@ -8,25 +8,25 @@
 
 ---
 
-## 📌 TABLE OF CONTENTS  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 📌 TABLE OF CONTENTS
 
 - [🗓 CALENDAR](#-calendar-20211227--20220610)
 - [💭 FLIPPED LEARNING](#-flipped-learning)
 - [💬 TEAM PROJECT](#-team-project)
 - [🔒 LMS](#-lms)
   - 🔑 GOING DEEPER
-    - [CV](#-going-deeper-cv-📂goingdeepercv)
-    - [NLP](#-going-deeper-nlp)
-  - [🔑 EXPLORATION](#-exploration-exploration)
-  - [🔑 FUNDAMENTALS](#-fundamentals-📁fundamentals)
+    - [🌝 CV](#-going-deeper-cv) [📂](GOING DEEPER CV)
+    - [🌚 NLP](#-going-deeper-nlp) [📂](GOING DEEPER NLP)
+  - [🔑 EXPLORATION](#-exploration) [📁](EXPLORATION)
+  - [🔑 FUNDAMENTALS](#-fundamentals) [📁](FUNDAMENTALS)
 - [💢 ABOUT AIFFEL](#-about-aiffel)
 
 ---
 
 ## 🗓 CALENDAR (2021.12.27 ~ 2022.06.10)
 
-- Total 108 days = 5 + 20 + 17 + 18 + 21 + 21 + 6
-- Daily Attendance Hours: 10 A.M. ~ 7 P.M.
+- <mark>Total 108 days</mark> = 5 + 20 + 17 + 18 + 21 + 21 + 6
+- Daily Attendance Hours: <mark>10 A.M. ~ 7 P.M.</mark>
 
 ### 🐮 December, 2021 (5 days)
 
@@ -135,7 +135,7 @@
 >| **5** | **26** | **27** | **28** | **29** | **30** | **31** | - |
 >| **To Do** | - | - | - | - | - | - | - |
 
-**[⬆ back to top](#-table-of-contents-hitshttpshitsseeyoufarmcomapicountincrbadgesvgurlhttps3a2f2fgithubcom2fhrpzz2faiffelcountbg2379c83dtitlebg23555555iconiconcolor23e7e7e7titlehitsedgeflatfalsehttpshitsseeyoufarmcom)**
+**[⬆ back to top](#-table-of-contents)**
 
 ---
 
@@ -148,7 +148,7 @@
 |3|이것이 코딩테스트다 with 파이썬|-|[📚](https://books.google.co.kr/books?id=vBz-DwAAQBAJ&printsec=frontcover&dq=%EC%9D%B4%EA%B2%83%EC%9D%B4+%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4&hl=ko&sa=X&ved=2ahUKEwijqvmrmsD2AhVQx2EKHeosCXcQ6AF6BAgJEAI#v=onepage&q=%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4&f=false)|-|[⏯️](https://www.youtube.com/playlist?list=PLVsNizTWUw7H9_of5YCB0FmsSc-K44y81)|
 |4|-|-|-|-|
 
-**[⬆ back to top](#📌-table-of-contents-hitshttpshitsseeyoufarmcomapicountincrbadgesvgurlhttps3a2f2fgithubcom2fhrpzz2faiffelcountbg2379c83dtitlebg23555555iconiconcolor23e7e7e7titlehitsedgeflatfalsehttpshitsseeyoufarmcom)**
+**[⬆ back to top](#-table-of-contents)**
 
 ---
 
@@ -161,13 +161,13 @@
 |3|-|[📂Repo]()<br>[📋ipynb]()|-|18|04.25|05.02|
 |4|-|[📂Repo]()<br>[📋ipynb]()|-|19<br>~<br>24|05.03|06.09|
 
-**[⬆ back to top](#📌-table-of-contents-hitshttpshitsseeyoufarmcomapicountincrbadgesvgurlhttps3a2f2fgithubcom2fhrpzz2faiffelcountbg2379c83dtitlebg23555555iconiconcolor23e7e7e7titlehitsedgeflatfalsehttpshitsseeyoufarmcom)**
+**[⬆ back to top](#-table-of-contents)**
 
 ---
 
 ## 🔒 LMS
 
-### 🔑 GOING DEEPER CV [📂](GOING_DEEPER_CV)
+### 🔑 GOING DEEPER CV
 
 |N|Node Title|Author|Type|Evaluation|Link|W|Open|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -188,9 +188,9 @@
 |15|<b>사람의 몸짓을 읽어보자</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋](GOING_DEEPER_CV/Node_15/README.md)|17|04.19|
 |16|<b>행동 스티커 만들기</b><hr><i>#Tags: </i>|-|Project|-|[📋](GOING_DEEPER_CV/Node_16/README.md)|17|04.21|
 
-**[⬆ back to top](#📌-table-of-contents-hitshttpshitsseeyoufarmcomapicountincrbadgesvgurlhttps3a2f2fgithubcom2fhrpzz2faiffelcountbg2379c83dtitlebg23555555iconiconcolor23e7e7e7titlehitsedgeflatfalsehttpshitsseeyoufarmcom)**
+**[⬆ back to top](#-table-of-contents)**
 
-### 🔑 EXPLORATION [📁](EXPLORATION)
+### 🔑 EXPLORATION
 
 |N|Node Title|Author|Evaluation|Link|W|Open|Done|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -212,9 +212,9 @@
 |16|<b>다음에 볼 영화 예측하기</b><hr><i>#Tags: DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k</i>|박지민|⭐⭐⭐|[📋](EXPLORATION/Node_16/%5BE-16%5D%20Movie_Session_Based_Recommendation.ipynb)|11|03.07|03.14|
 |17|<b>난 스케치를 할 테니 너는 채색을 하거라</b><hr><i>#Tags: DL, CV, GAN, cGAN, Pix2Pix</i>|정신유|⭐⭐⭐<br>🏆|[📋](EXPLORATION/Node_17/%5BE-17%5D%20Pix2Pix.ipynb)|12|03.14|03.21|
 
-**[⬆ back to top](#📌-table-of-contents-hitshttpshitsseeyoufarmcomapicountincrbadgesvgurlhttps3a2f2fgithubcom2fhrpzz2faiffelcountbg2379c83dtitlebg23555555iconiconcolor23e7e7e7titlehitsedgeflatfalsehttpshitsseeyoufarmcom)**
+**[⬆ back to top](#-table-of-contents)**
 
-### 🔑 FUNDAMENTALS [📁](FUNDAMENTALS)
+### 🔑 FUNDAMENTALS
 
 |N|Node Title|Author|Link|W|Open|
 |:---:|---|:---:|:---:|:---:|:---:|
@@ -250,7 +250,7 @@
 |30|<b>컴퓨터 파워 UP</b><hr><i>#Tags: Python, Multitasking</i>|손주영|[📋](FUNDAMENTALS/Node_30/README.md)|9|02.23|
 |31|<b>뉴스기사 크롤링 및 분류</b><hr><i>#Tags: ML, Crawling</i>|⬛|[📋](FUNDAMENTALS/Node_31/README.md)|9|02.25|
 
-**[⬆ back to top](#📌-table-of-contents-hitshttpshitsseeyoufarmcomapicountincrbadgesvgurlhttps3a2f2fgithubcom2fhrpzz2faiffelcountbg2379c83dtitlebg23555555iconiconcolor23e7e7e7titlehitsedgeflatfalsehttpshitsseeyoufarmcom)**
+**[⬆ back to top](#-table-of-contents)**
 
 ---
 
@@ -281,4 +281,4 @@
 |![aiffel_schedule_and_curriculum_2](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fac62d84d-47b9-4251-8ec3-498b19409080%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-02.png&blockId=0db75f5e-41c1-407c-bcad-555b353bbac1)|![aiffel_schedule_and_curriculum_4](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F15030355-3659-42f6-9f4f-3d28f6386667%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-04.png&blockId=74195553-ebd5-4d61-a515-ee005f9912cb)|
 |![aiffel_schedule_and_curriculum_3](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd219d34d-73b2-40cf-8d09-de0c686b223a%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-03.png&blockId=98b5efc1-816c-4c83-9fa2-c8bad7ab7c69)|![aiffel_schedule_and_curriculum_5](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb50419d4-5cd2-437d-906b-6b965cac8ca7%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-05.png&blockId=a7d14d0e-1191-4dcd-beca-ea60b79f2978)|
 
-**[⬆ back to top](#📌-table-of-contents-hitshttpshitsseeyoufarmcomapicountincrbadgesvgurlhttps3a2f2fgithubcom2fhrpzz2faiffelcountbg2379c83dtitlebg23555555iconiconcolor23e7e7e7titlehitsedgeflatfalsehttpshitsseeyoufarmcom)**
+**[⬆ back to top](#-table-of-contents)**
