@@ -15,8 +15,8 @@
 - [💬 TEAM PROJECT](#-team-project)
 - [🔒 LMS](#-lms)
   - 🔑 GOING DEEPER
-    - [🌝 CV](#-going-deeper-cv) [📂](GOING DEEPER CV)
-    - [🌚 NLP](#-going-deeper-nlp) [📂](GOING DEEPER NLP)
+    - [🌝 CV](#-going-deeper-cv) [📂](GOING_DEEPER_CV)
+    - [🌚 NLP](#-going-deeper-nlp) [📂](GOING_DEEPER_NLP)
   - [🔑 EXPLORATION](#-exploration) [📁](EXPLORATION)
   - [🔑 FUNDAMENTALS](#-fundamentals) [📁](FUNDAMENTALS)
 - [💢 ABOUT AIFFEL](#-about-aiffel)
