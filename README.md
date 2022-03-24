@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <h1 align="center">🌟 AIFFEL DAEGU 1 🌟</h1>
 
 <p align='center'>
@@ -6,17 +8,17 @@
 
 ---
 
-## 📌 TABLE OF CONTENTS [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 📌 TABLE OF CONTENTS  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - [🗓 CALENDAR](#-calendar-20211227--20220610)
 - [💭 FLIPPED LEARNING](#-flipped-learning)
 - [💬 TEAM PROJECT](#-team-project)
 - [🔒 LMS](#-lms)
   - 🔑 GOING DEEPER
-    - [CV](#-going-deeper-cv)
+    - [CV](#-going-deeper-cv-📂goingdeepercv)
     - [NLP](#-going-deeper-nlp)
-  - [🔑 EXPLORATION](#-exploration)
-  - [🔑 FUNDAMENTALS](#-fundamentals)
+  - [🔑 EXPLORATION](#-exploration-exploration)
+  - [🔑 FUNDAMENTALS](#-fundamentals-📁fundamentals)
 - [💢 ABOUT AIFFEL](#-about-aiffel)
 
 ---
@@ -133,7 +135,7 @@
 >| **5** | **26** | **27** | **28** | **29** | **30** | **31** | - |
 >| **To Do** | - | - | - | - | - | - | - |
 
-**[⬆ back to top](#📌-table-of-contents-hitshttpshitsseeyoufarmcomapicountincrbadgesvgurlhttps3a2f2fgithubcom2fhrpzz2faiffelcountbg2379c83dtitlebg23555555iconiconcolor23e7e7e7titlehitsedgeflatfalsehttpshitsseeyoufarmcom)**
+**[⬆ back to top](#-table-of-contents-hitshttpshitsseeyoufarmcomapicountincrbadgesvgurlhttps3a2f2fgithubcom2fhrpzz2faiffelcountbg2379c83dtitlebg23555555iconiconcolor23e7e7e7titlehitsedgeflatfalsehttpshitsseeyoufarmcom)**
 
 ---
 
