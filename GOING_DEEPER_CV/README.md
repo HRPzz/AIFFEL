@@ -1,5 +1,15 @@
 # AIFFEL DAEGU 1 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL%2Ftree%2Fmain%2FGOING_DEEPER_CV&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+---
+
+## 📌 TABLE OF CONTENTS
+
+- [🔒 LMS](#-lms)
+  - [🔑 GOING DEEPER CV](#-going-deeper-cv)
+  - [✔ GOING DEEPER CV CONTENTS SUMMARY](#-going-deeper-cv-contents-summary)
+
+---
+
 ## 🔒 LMS
 
 ### 🔑 GOING DEEPER CV
@@ -7,7 +17,7 @@
 |N|Node Title|Author|Type|Evaluation|Link|W|Open|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|<b>백본 네트워크 구조 상세분석</b><hr><i>#Tags: DL, CV, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet</i>|강상권|Lecture|✖️|[📋](Node_01/README.md)|12|03.15|
-|2|<b>없다면 어떻게 될까? (ResNet Ablation Study)</b><hr><i>#Tags: DL, CV, ResNet, Ablation Study</i>|강상권|Project|-|[📋](Node_02/README.md)|12|03.16|
+|2|<b>없다면 어떻게 될까? (ResNet Ablation Study)</b><hr><i>#Tags: DL, CV, ResNet, Ablation Study</i>|강상권|Project|-|[📋](Node_02/%5BCV-02%5D%20ResNet_vs_Plain.ipynb)|12|03.16|
 |3|<b>잘 만든 Augmentation, 이미지 100장 안 부럽다</b><hr><i>#Tags: Data Augmentation, Tensorflow API, albumentation, GAN</i>|강상권|Lecture|✖️|[📋](Node_03/README.md)|12|03.18|
 |4|<b>이미지 어디까지 우려볼까?</b><hr><i>#Tags: Data Augmentation, Tensorflow Random Augmentation API, CutMix, Mixup</i>|강상권|Project|-|[📋](Node_04/README.md)|13|03.21|
 |5|<b>너의 속이 궁금해 - Class Activation Map 살펴보기</b><hr><i>#Tags: XAI, CAM, Grad-CAM, ACoL</i>|강상권|Lecture|✖️|[📋](Node_05/README.md)|13|03.23|
@@ -34,7 +44,7 @@
 |3|<b>잘 만든 Augmentation, 이미지 100장 안 부럽다</b>|강상권|데이터셋이 부족한 상황을 해결하기 위한 Data Augmentation의 다양한 기법에 대해 알아보고, 활용 가능한 라이브러리, 실전상황에서 주의해야 할 팁 등을 정리해 본다.|
 |4|<b>이미지 어디까지 우려볼까?</b>|강상권|텐서플로우의 random augmentation 기법을 적용해 보고, 최신 augmentation 기법을 익힌다. 직접 모델을 학습시켜 비교 실험을 진행해 본다.|
 |5|<b>너의 속이 궁금해 - Class Activation Map 살펴보기</b>|강상권|모델의 작동 원리를 가늠할 수 있는 CAM, Grad-CAM, ACoL 모델을 공부하고 XAI(Explainable AI)의 기초를 익힌다.|
-|6|<b>나를 찾아줘 - Class Activation Map 만들기</b>|-|CAM, Grad-CAM 모델 구현 및 CAM 추출 시각화|
+|6|<b>나를 찾아줘 - Class Activation Map 만들기</b>|강상권|CAM, Grad-CAM을 위한 모델을 직접 만들고, CAM을 추출해 시각화 해본다. CAM을 Object detection에 적용해 결과를 평가해 본다.|
 |7|<b>Object Detection</b>|-|Object Detection 문제와 이를 해결하기 위한 다양한 모델 학습|
 |8|<b>GO/STOP! - Object Detection 시스템 만들기</b>|-|Object Detection 모델을 활용하여 자동차, 사람 탐지(가까이 있는지 여부도 체크)|
 |9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b>|-|세그멘테이션의 종류, 주요 모델, 평가 기준에 대해 학습|
