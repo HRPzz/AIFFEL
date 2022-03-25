@@ -8,6 +8,15 @@
 
 ---
 
+<details>
+  <summary>
+    hi
+  </summary>
+  welcome
+</details>
+
+---
+
 ## 📌 TABLE OF CONTENTS
 
 - [🗓 CALENDAR](#-calendar-20211227--20220610)
@@ -25,8 +34,8 @@
 
 ## 🗓 CALENDAR (2021.12.27 ~ 2022.06.10)
 
-- <mark>Total 108 days</mark> = 5 + 20 + 17 + 18 + 21 + 21 + 6
-- Daily Attendance Hours: <mark>10 A.M. ~ 7 P.M.</mark>
+- Total 108 days = 5 + 20 + 17 + 18 + 21 + 21 + 6
+- Daily Attendance Hours: 10 A.M. ~ 7 P.M.
 
 ### 🐮 December, 2021 (5 days)
 
@@ -50,7 +59,7 @@
 >| **1** | - | - | - | - | - | - | **1** |
 >| **To Do** | - | - | - | - | - | - | - |
 >| **2** | **2** | **3** | **4** | **5** | **6** | **7** | **8** |
->| **To Do** | - | F-10<br>FL-01 | [E-01](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb) | F-11<br>FL-01 | [E-02](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb) | F-12<br>FL-01 | - |
+>| **To Do** | - | F-10<br>FL-01 | [E-01][E-01] | F-11<br>FL-01 | [E-02][aa] | F-12<br>FL-01 | - |
 >| **3** | **9** | **10** | **11** | **12** | **13** | **14** | **15** |
 >| **To Do** | - | F-13<br>FL-02 | [E-03](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_03/%5BE-03%5D%20Camera_Sticker_App.ipynb) | F-14<br>글쓰기 | [E-04](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_04/%5BE-04%5D%20AI_Lyricist.ipynb) | F-15<br>FL-02 | - |
 >| **4** | **16** | **17** | **18** | **19** | **20** | **21** | **22** |
@@ -59,6 +68,10 @@
 >| **To Do** | - | F-19<br>FL-02 | [E-07](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_07/%5BE-07%5D%20make_a_portrait.ipynb) | F-20<br>글쓰기 | [E-08](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_08/%5BE-08%5D%20news_summary_bot.ipynb) | F-21<br>FL-02 | - |
 >| **6** | **30** | **31** | - | - | - | - | - |
 >| **To Do** | - | - | - | - | - | - | - |
+
+[E-01]: (https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb)
+
+[aa]: (https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb)
 
 ### 🐯 Fabruary, 2022 (17 days)
 
