@@ -24,7 +24,7 @@
 |4|<b>이미지 어디까지 우려볼까?</b><hr><i>#Tags: Data Augmentation, Tensorflow Random Augmentation API, CutMix, Mixup</i>|강상권|Project|-|[📋][CV-04]|13|03.21|
 |5|<b>너의 속이 궁금해 - Class Activation Map 살펴보기</b><hr><i>#Tags: XAI, CAM, Grad-CAM, ACoL</i>|강상권|Lecture|✖️|[📋][CV-05]|13|03.23|
 |6|<b>나를 찾아줘 - Class Activation Map 만들기</b><hr><i>#Tags: CAM, Grad-CAM, Object Detection</i>|강상권|Project|-|[📋][CV-06]|13|03.24|
-|7|<b>Object Detection</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-07]|14|03.28|
+|7|<b>Object Detection</b><hr><i>#Tags: Object Detection, Bounding Box, IoU, Localization, Sliding Window, Convolution, Anchor Box, NMS, Single stage detector(YOLO, SSD), Two stage detector(R-CNN, Faster R-CNN, RPN), Anchor</i>|강상권|Lecture|✖️|[📋][CV-07]|14|03.28|
 |8|<b>GO/STOP! - Object Detection 시스템 만들기</b><hr><i>#Tags: </i>|-|Project|-|[📋][CV-08]|14|03.29|
 |9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-09]|14|03.31|
 |10|<b>도로 영역을 찾자! - 세그멘테이션 모델 만들기</b><hr><i>#Tags: </i>|-|Project|-|[📋][CV-10]|15|04.04|
@@ -64,7 +64,7 @@
 |4|<b>이미지 어디까지 우려볼까?</b>|강상권|텐서플로우의 random augmentation 기법을 적용해 보고, 최신 augmentation 기법을 익힌다. 직접 모델을 학습시켜 비교 실험을 진행해 본다.|
 |5|<b>너의 속이 궁금해 - Class Activation Map 살펴보기</b>|강상권|모델의 작동 원리를 가늠할 수 있는 CAM, Grad-CAM, ACoL 모델을 공부하고 XAI(Explainable AI)의 기초를 익힌다.|
 |6|<b>나를 찾아줘 - Class Activation Map 만들기</b>|강상권|CAM, Grad-CAM을 위한 모델을 직접 만들고, CAM을 추출해 시각화 해본다. CAM을 Object detection에 적용해 결과를 평가해 본다.|
-|7|<b>Object Detection</b>|-|Object Detection 문제와 이를 해결하기 위한 다양한 모델 학습|
+|7|<b>Object Detection</b>|강상권|Object detection 문제와 이를 해결하기 위한 다양한 detection 모델들을 알아본다.|
 |8|<b>GO/STOP! - Object Detection 시스템 만들기</b>|-|Object Detection 모델을 활용하여 자동차, 사람 탐지(가까이 있는지 여부도 체크)|
 |9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b>|-|세그멘테이션의 종류, 주요 모델, 평가 기준에 대해 학습|
 |10|<b>도로 영역을 찾자! - 세그멘테이션 모델 만들기</b>|-|시맨틱 세그멘테이션을 이용하여 도로영역을 찾는 프로젝트 노드|

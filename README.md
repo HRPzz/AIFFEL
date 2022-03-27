@@ -463,7 +463,7 @@
 |4|<b>이미지 어디까지 우려볼까?</b><hr><i>#Tags: Data Augmentation, Tensorflow Random Augmentation API, CutMix, Mixup</i>|강상권|Project|-|[📋][CV-04]|13|03.21|
 |5|<b>너의 속이 궁금해 - Class Activation Map 살펴보기</b><hr><i>#Tags: XAI, CAM, Grad-CAM, ACoL</i>|강상권|Lecture|✖️|[📋][CV-05]|13|03.23|
 |6|<b>나를 찾아줘 - Class Activation Map 만들기</b><hr><i>#Tags: CAM, Grad-CAM, Object Detection</i>|강상권|Project|-|[📋][CV-06]|13|03.24|
-|7|<b>Object Detection</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-07]|14|03.28|
+|7|<b>Object Detection</b><hr><i>#Tags: Object Detection, Bounding Box, IoU, Localization, Sliding Window, Convolution, Anchor Box, NMS, Single stage detector(YOLO, SSD), Two stage detector(R-CNN, Faster R-CNN, RPN), Anchor</i>|강상권|Lecture|✖️|[📋][CV-07]|14|03.28|
 |8|<b>GO/STOP! - Object Detection 시스템 만들기</b><hr><i>#Tags: </i>|-|Project|-|[📋][CV-08]|14|03.29|
 |9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-09]|14|03.31|
 |10|<b>도로 영역을 찾자! - 세그멘테이션 모델 만들기</b><hr><i>#Tags: </i>|-|Project|-|[📋][CV-10]|15|04.04|
