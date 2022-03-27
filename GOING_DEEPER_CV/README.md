@@ -1,4 +1,6 @@
-# AIFFEL DAEGU 1 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL%2Ftree%2Fmain%2FGOING_DEEPER_CV&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL%2Ftree%2Fmain%2FGOING_DEEPER_CV&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<h1 align="center">🌟 AIFFEL DAEGU 1 🌟</h1>
 
 ---
 
@@ -16,22 +18,39 @@
 
 |N|Node Title|Author|Type|Evaluation|Link|W|Open|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|<b>백본 네트워크 구조 상세분석</b><hr><i>#Tags: DL, CV, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet</i>|강상권|Lecture|✖️|[📋](Node_01/README.md)|12|03.15|
-|2|<b>없다면 어떻게 될까? (ResNet Ablation Study)</b><hr><i>#Tags: DL, CV, ResNet, Ablation Study</i>|강상권|Project|-|[📋](Node_02/%5BCV-02%5D%20ResNet_vs_Plain.ipynb)|12|03.16|
-|3|<b>잘 만든 Augmentation, 이미지 100장 안 부럽다</b><hr><i>#Tags: Data Augmentation, Tensorflow API, albumentation, GAN</i>|강상권|Lecture|✖️|[📋](Node_03/README.md)|12|03.18|
-|4|<b>이미지 어디까지 우려볼까?</b><hr><i>#Tags: Data Augmentation, Tensorflow Random Augmentation API, CutMix, Mixup</i>|강상권|Project|-|[📋](Node_04/README.md)|13|03.21|
-|5|<b>너의 속이 궁금해 - Class Activation Map 살펴보기</b><hr><i>#Tags: XAI, CAM, Grad-CAM, ACoL</i>|강상권|Lecture|✖️|[📋](Node_05/README.md)|13|03.23|
-|6|<b>나를 찾아줘 - Class Activation Map 만들기</b><hr><i>#Tags: CAM, Grad-CAM, Object Detection</i>|강상권|Project|-|[📋](Node_06/README.md)|13|03.24|
-|7|<b>Object Detection</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋](Node_07/README.md)|14|03.28|
-|8|<b>GO/STOP! - Object Detection 시스템 만들기</b><hr><i>#Tags: </i>|-|Project|-|[📋](Node_08/README.md)|14|03.29|
-|9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋](Node_09/README.md)|14|03.31|
-|10|<b>도로 영역을 찾자! - 세그멘테이션 모델 만들기</b><hr><i>#Tags: </i>|-|Project|-|[📋](Node_10/README.md)|15|04.04|
-|11|<b>OCR 기술의 개요</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋](Node_11/README.md)|15|04.05|
-|12|<b>직접 만들어보는 OCR</b><hr><i>#Tags: </i>|-|Project|-|[📋](Node_12/README.md)|15|04.07|
-|13|<b>멀리 있지만 괜찮아</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋](Node_13/README.md)|16|04.11|
-|14|<b>멀리 있는 사람도 스티커를 붙여주자</b><hr><i>#Tags: </i>|-|Project|-|[📋](Node_14/README.md)|17|04.18|
-|15|<b>사람의 몸짓을 읽어보자</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋](Node_15/README.md)|17|04.19|
-|16|<b>행동 스티커 만들기</b><hr><i>#Tags: </i>|-|Project|-|[📋](Node_16/README.md)|17|04.21|
+|1|<b>백본 네트워크 구조 상세분석</b><hr><i>#Tags: DL, CV, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet</i>|강상권|Lecture|✖️|[📋][CV-01]|12|03.15|
+|2|<b>없다면 어떻게 될까? (ResNet Ablation Study)</b><hr><i>#Tags: DL, CV, ResNet, Ablation Study</i>|강상권|Project|⭐⭐⭐|[📋][CV-02]|12|03.16|
+|3|<b>잘 만든 Augmentation, 이미지 100장 안 부럽다</b><hr><i>#Tags: Data Augmentation, Tensorflow API, albumentation, GAN</i>|강상권|Lecture|✖️|[📋][CV-03]|12|03.18|
+|4|<b>이미지 어디까지 우려볼까?</b><hr><i>#Tags: Data Augmentation, Tensorflow Random Augmentation API, CutMix, Mixup</i>|강상권|Project|-|[📋][CV-04]|13|03.21|
+|5|<b>너의 속이 궁금해 - Class Activation Map 살펴보기</b><hr><i>#Tags: XAI, CAM, Grad-CAM, ACoL</i>|강상권|Lecture|✖️|[📋][CV-05]|13|03.23|
+|6|<b>나를 찾아줘 - Class Activation Map 만들기</b><hr><i>#Tags: CAM, Grad-CAM, Object Detection</i>|강상권|Project|-|[📋][CV-06]|13|03.24|
+|7|<b>Object Detection</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-07]|14|03.28|
+|8|<b>GO/STOP! - Object Detection 시스템 만들기</b><hr><i>#Tags: </i>|-|Project|-|[📋][CV-08]|14|03.29|
+|9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-09]|14|03.31|
+|10|<b>도로 영역을 찾자! - 세그멘테이션 모델 만들기</b><hr><i>#Tags: </i>|-|Project|-|[📋][CV-10]|15|04.04|
+|11|<b>OCR 기술의 개요</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-11]|15|04.05|
+|12|<b>직접 만들어보는 OCR</b><hr><i>#Tags: </i>|-|Project|-|[📋][CV-12]|15|04.07|
+|13|<b>멀리 있지만 괜찮아</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-13]|16|04.11|
+|14|<b>멀리 있는 사람도 스티커를 붙여주자</b><hr><i>#Tags: </i>|-|Project|-|[📋][CV-14]|17|04.18|
+|15|<b>사람의 몸짓을 읽어보자</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-15]|17|04.19|
+|16|<b>행동 스티커 만들기</b><hr><i>#Tags: </i>|-|Project|-|[📋][CV-16]|17|04.21|
+
+[CV-01]: Node_01/README.md
+[CV-02]: Node_02/%5BCV-02%5D%20ResNet_vs_Plain.ipynb
+[CV-03]: Node_03/README.md
+[CV-04]: Node_04/README.md
+[CV-05]: Node_05/README.md
+[CV-06]: Node_06/README.md
+[CV-07]: Node_07/README.md
+[CV-08]: Node_08/README.md
+[CV-09]: Node_09/README.md
+[CV-10]: Node_10/README.md
+[CV-11]: Node_11/README.md
+[CV-12]: Node_12/README.md
+[CV-13]: Node_13/README.md
+[CV-14]: Node_14/README.md
+[CV-15]: Node_15/README.md
+[CV-16]: Node_16/README.md
 
 **[⬆ back to top](#-lms)**
 

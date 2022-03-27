@@ -7,23 +7,23 @@
 |-|목차|⏲ 360분|
 |:---:|---|:---:|
 |4-1| 들어가며 | 5분|
-|4-2| Augmentation 적용 (1) 데이터 불러오기 🔒| 20분|
-|4-3| Augmentation 적용 (2) Augmentation 적용하기 🔒| 30분|
-|4-4| Augmentation 적용 (3) 비교실험 하기 🔒| 45분|
-|4-5| 심화 기법 (1) Cutmix Augmentation 🔒| 50분|
-|4-6| 심화 기법 (2) Mixup Augmentation 🔒| 30분|
-|4-7| 프로젝트: CutMix 또는 Mixup 비교실험 하기 🔒| 180분|
-|4-8| 프로젝트 제출 🔒|
+|4-2| Augmentation 적용 (1) 데이터 불러오기 | 20분|
+|4-3| Augmentation 적용 (2) Augmentation 적용하기 | 30분|
+|4-4| Augmentation 적용 (3) 비교실험 하기 | 45분|
+|4-5| 심화 기법 (1) Cutmix Augmentation | 50분|
+|4-6| 심화 기법 (2) Mixup Augmentation | 30분|
+|4-7| 프로젝트: CutMix 또는 Mixup 비교실험 하기 | 180분|
+|4-8| 프로젝트 제출 |
 
 ---
 
-### 실습목표
+## 실습목표
 
 - Augmentation을 모델 학습에 적용하기
 - Augmentation의 적용을 통한 학습 효과 확인하기
 - 최신 data augmentation 기법 구현 및 활용하기
 
-### 학습 내용
+## 학습 내용
 
 1. Augmentation 적용 (1) 데이터 불러오기
 2. Augmentation 적용 (2) Augmentation 적용하기
@@ -33,6 +33,28 @@
 6. 프로젝트: CutMix 또는 Mixup 비교 실험하기
 
 ---
+
+## 4-7. 프로젝트: CutMix 또는 Mixup 비교실험 하기
+
+1. Augmentation을 적용한 데이터셋 만들기
+2. 모델 만들기
+3. 모델 훈련하기
+4. 훈련 과정 시각화하기
+5. Augmentation에 의한 모델 성능 비교
+
+---
+
+>## **루브릭**
+>
+>|번호|평가문항|상세기준|평가결과|
+>|:---:|---|---|:---:|
+>|1|CutMix와 MixUp 기법을 ResNet50 분류기에 성공적으로 적용하였는가?|CutMix와 MixUp을 적용한 데이터셋으로 훈련한 각각의 ResNet 모델이 수렴하였다.|-|
+>|2|다양한 실험을 통해 태스크에 최적인 Augmentation 기법을 찾아내었는가?|Augmentation 적용을 통해 Augmentaion 미적용시 대비 5% 이상의 성능향상을 확인함|-|
+>|3|여러가지 Augmentation 기법을 적용한 결과를 체계적으로 비교분석하였는가?|기본 Augmentation, CutMix, MixUp이 적용된 결과를 시각화와 함께 체계적으로 분석하였다.|-|
+
+---
+
+## 노드 내용
 
 - 사용할 데이터셋: [stanford_dogs](https://www.tensorflow.org/datasets/catalog/stanford_dogs)
   - 120개 견종의 이미지
@@ -87,23 +109,3 @@ def 전처리_함수(image, label):   # 변환할 이미지와 라벨
   - 두 개 이미지의 픽셀별 값을 비율에 따라 섞어주는 방식
   - CutMix보다 구현이 간단하다.
   - 두 이미지 쌍을 섞을 비율은 일정한 범위 내에서 랜덤하게 뽑고, 해당 비율 값에 따라 두 이미지의 픽셀별 값과 라벨을 섞음
-
----
-
-## 4-7. 프로젝트: CutMix 또는 Mixup 비교실험 하기
-
-1. Augmentation을 적용한 데이터셋 만들기
-2. 모델 만들기
-3. 모델 훈련하기
-4. 훈련 과정 시각화하기
-5. Augmentation에 의한 모델 성능 비교
-
----
-
->## **루브릭**
->
->|번호|평가문항|상세기준|평가결과|
->|:---:|---|---|:---:|
->|1|CutMix와 MixUp 기법을 ResNet50 분류기에 성공적으로 적용하였는가?|CutMix와 MixUp을 적용한 데이터셋으로 훈련한 각각의 ResNet 모델이 수렴하였다.|-|
->|2|다양한 실험을 통해 태스크에 최적인 Augmentation 기법을 찾아내었는가?|Augmentation 적용을 통해 Augmentaion 미적용시 대비 5% 이상의 성능향상을 확인함|-|
->|3|여러가지 Augmentation 기법을 적용한 결과를 체계적으로 비교분석하였는가?|기본 Augmentation, CutMix, MixUp이 적용된 결과를 시각화와 함께 체계적으로 분석하였다.|-|

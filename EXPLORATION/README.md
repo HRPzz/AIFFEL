@@ -1,4 +1,6 @@
-# AIFFEL DAEGU 1 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL%2Ftree%2Fmain%2FEXPLORATION&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL%2Ftree%2Fmain%2FEXPLORATION&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<h1 align="center">🌟 AIFFEL DAEGU 1 🌟</h1>
 
 ---
 
@@ -16,23 +18,41 @@
 
 |N|Node Title|Author|Evaluation|Link|W|Open|Done|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|<b>인공지능과 가위바위보 하기</b><hr><i>#Tags: DL, Sequential API, LeNet</i>|김승일|⭐⭐☆|[📋](Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb)|2|01.04|01.05|
-|2|<b>Iris의 세 가지 품종, 분류해볼 수 있겠어요?</b><hr><i>#Tags: ML, Supervised Learning, Classification, F1 score</i>|정민정|⭐⭐⭐|[📋](Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb)|2|01.06|01.11|
-|3|<b>카메라 스티커앱 만들기 첫걸음</b><hr><i>#Tags: DL, CV, dlib, HOG, SVM</i>|우태강|⭐⭐⭐<br>🏆|[📋](Node_03/%5BE-03%5D%20Camera_Sticker_App.ipynb)|3|01.11|01.15|
-|4|<b>작사가 인공지능 만들기</b><hr><i>#Tags: DL, NLP, RNN, LSTM</i>|문성원|⭐⭐☆<br>🏆|[📋](Node_04/%5BE-04%5D%20AI_Lyricist.ipynb)|3|01.13|01.14|
-|5|<b>나의 첫 번째 캐글 경진대회, 무작정 따라해보기</b><hr><i>#Tags: Kaggle, EDA</i>|정민정|⭐⭐☆<br>🏆|[📋](Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb)|4|01.18|01.25|
-|6|<b>영화리뷰 텍스트 감성분석하기</b><hr><i>#Tags: DL, NLP</i>|우지철|⭐⭐⭐<br>🏆|[📋](Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb)|4|01.20|01.24|
-|7|<b>인물사진을 만들어 보자</b><hr><i>#Tags: pixellib, CV</i>|우태강|⭐⭐⭐<br>🏆|[📋](Node_07/%5BE-07%5D%20make_a_portrait.ipynb)|5|01.25|02.01|
-|8|<b>뉴스 요약봇 만들기</b><hr><i>#Tags: DL, NLP</i>|유원준|⭐⭐⭐<br>🏆|[📋](Node_08/%5BE-08%5D%20news_summary_bot.ipynb)|5|01.27|02.03|
-|9|<b>폐렴아 기다려라!</b><hr><i>#Tags: ML, CV, CNN</i>|유원준|⭐⭐⭐<br>🏆|[📋](Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb)|6|02.03|02.10|
-|10|<b>인공지능으로 세상에 없던 새로운 패션 만들기</b><hr><i>#Tags: DL, GAN, DCGAN</i>|정민정|⭐⭐⭐<br>🏆|[📋](Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb)|7|02.08|02.15|
-|11|<b>어제 오른 내 주식, 과연 내일은?</b><hr><i>#Tags: ML, Statistics, ARMIA</i>|김원철|⭐⭐⭐<br>🏆|[📋](Node_11/%5BE-11%5D%20forecast_stock.ipynb)|7|02.10|02.17|
-|12|<b>트랜스포머로 만드는 대화형 챗봇</b><hr><i>#Tags: DL, NLP, Transformer, Attention</i>|유원준|⭐⭐⭐<br>🏆|[📋](Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb)|8|02.15| 02.22|
-|13|<b>인간보다 퀴즈를 잘푸는 인공지능</b><hr><i>#Tags: DL, NLP, BERT</i>|현청천|⭐⭐⭐<br>🏆|[📋](Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb)|8|02.17|02.24|
-|14|<b>아이유팬이 좋아할 만한 다른 아티스트 찾기</b><hr><i>#Tags: DL, NLP, Recommendation, MF, CSR, ALS</i>|박지민|⭐⭐⭐<br>🏆|[📋](Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb)|9|02.22|03.01|
-|15|<b>문자를 읽을 수 있는 딥러닝</b><hr><i>#Tags: DL, CV, OCR</i>|강상권|⭐⭐⭐<br>🏆|[📋](Node_15/%5BE-15%5D%20OCR.ipynb)|9|02.24|03.03|
-|16|<b>다음에 볼 영화 예측하기</b><hr><i>#Tags: DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k</i>|박지민|⭐⭐⭐|[📋](Node_16/%5BE-16%5D%20Movie_Session_Based_Recommendation.ipynb)|11|03.07|03.14|
-|17|<b>난 스케치를 할 테니 너는 채색을 하거라</b><hr><i>#Tags: DL, CV, GAN, cGAN, Pix2Pix</i>|정신유|⭐⭐⭐<br>🏆|[📋](Node_17/%5BE-17%5D%20Pix2Pix.ipynb)|12|03.14|03.21|
+|1|<b>인공지능과 가위바위보 하기</b><hr><i>#Tags: DL, Sequential API, LeNet</i>|김승일|⭐⭐☆|[📋][E-01]|2|01.04|01.05|
+|2|<b>Iris의 세 가지 품종, 분류해볼 수 있겠어요?</b><hr><i>#Tags: ML, Supervised Learning, Classification, F1 score</i>|정민정|⭐⭐⭐|[📋][E-02]|2|01.06|01.11|
+|3|<b>카메라 스티커앱 만들기 첫걸음</b><hr><i>#Tags: DL, CV, dlib, HOG, SVM</i>|우태강|⭐⭐⭐<br>🏆|[📋][E-03]|3|01.11|01.15|
+|4|<b>작사가 인공지능 만들기</b><hr><i>#Tags: DL, NLP, RNN, LSTM</i>|문성원|⭐⭐☆<br>🏆|[📋][E-04]|3|01.13|01.14|
+|5|<b>나의 첫 번째 캐글 경진대회, 무작정 따라해보기</b><hr><i>#Tags: Kaggle, EDA</i>|정민정|⭐⭐☆<br>🏆|[📋][E-05]|4|01.18|01.25|
+|6|<b>영화리뷰 텍스트 감성분석하기</b><hr><i>#Tags: DL, NLP</i>|우지철|⭐⭐⭐<br>🏆|[📋][E-06]|4|01.20|01.24|
+|7|<b>인물사진을 만들어 보자</b><hr><i>#Tags: pixellib, CV</i>|우태강|⭐⭐⭐<br>🏆|[📋][E-07]|5|01.25|02.01|
+|8|<b>뉴스 요약봇 만들기</b><hr><i>#Tags: DL, NLP</i>|유원준|⭐⭐⭐<br>🏆|[📋][E-08]|5|01.27|02.03|
+|9|<b>폐렴아 기다려라!</b><hr><i>#Tags: ML, CV, CNN</i>|유원준|⭐⭐⭐<br>🏆|[📋][E-09]|6|02.03|02.10|
+|10|<b>인공지능으로 세상에 없던 새로운 패션 만들기</b><hr><i>#Tags: DL, GAN, DCGAN</i>|정민정|⭐⭐⭐<br>🏆|[📋][E-10]|7|02.08|02.15|
+|11|<b>어제 오른 내 주식, 과연 내일은?</b><hr><i>#Tags: ML, Statistics, ARMIA</i>|김원철|⭐⭐⭐<br>🏆|[📋][E-11]|7|02.10|02.17|
+|12|<b>트랜스포머로 만드는 대화형 챗봇</b><hr><i>#Tags: DL, NLP, Transformer, Attention</i>|유원준|⭐⭐⭐<br>🏆|[📋][E-12]|8|02.15| 02.22|
+|13|<b>인간보다 퀴즈를 잘푸는 인공지능</b><hr><i>#Tags: DL, NLP, BERT</i>|현청천|⭐⭐⭐<br>🏆|[📋][E-13]|8|02.17|02.24|
+|14|<b>아이유팬이 좋아할 만한 다른 아티스트 찾기</b><hr><i>#Tags: DL, NLP, Recommendation, MF, CSR, ALS</i>|박지민|⭐⭐⭐<br>🏆|[📋][E-14]|9|02.22|03.01|
+|15|<b>문자를 읽을 수 있는 딥러닝</b><hr><i>#Tags: DL, CV, OCR</i>|강상권|⭐⭐⭐<br>🏆|[📋][E-15]|9|02.24|03.03|
+|16|<b>다음에 볼 영화 예측하기</b><hr><i>#Tags: DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k</i>|박지민|⭐⭐⭐|[📋][E-16]|11|03.07|03.14|
+|17|<b>난 스케치를 할 테니 너는 채색을 하거라</b><hr><i>#Tags: DL, CV, GAN, cGAN, Pix2Pix</i>|정신유|⭐⭐⭐<br>🏆|[📋][E-17]|12|03.14|03.21|
+
+[E-01]: Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb
+[E-02]: Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb
+[E-03]: Node_03/%5BE-03%5D%20Camera_Sticker_App.ipynb
+[E-04]: Node_04/%5BE-04%5D%20AI_Lyricist.ipynb
+[E-05]: Node_05/%5BE-05%5D%202019_kaggle_house_price_prediction.ipynb
+[E-06]: Node_06/%5BE-06%5D%20Naver_movie_sentiment_analysis.ipynb
+[E-07]: Node_07/%5BE-07%5D%20make_a_portrait.ipynb
+[E-08]: Node_08/%5BE-08%5D%20news_summary_bot.ipynb
+[E-09]: Node_09/%5BE-09%5D%20Pneumonia_Diagnosis_Machine.ipynb
+[E-10]: Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb
+[E-11]: Node_11/%5BE-11%5D%20forecast_stock.ipynb
+[E-12]: Node_12/%5BE-12%5D%20Korean_Chatbot.ipynb
+[E-13]: Node_13/%5BE-13%5D%20Pretrained_BERT.ipynb
+[E-14]: Node_14/%5BE-14%5D%20Movie_Recommendation.ipynb
+[E-15]: Node_15/%5BE-15%5D%20OCR.ipynb
+[E-16]: Node_16/%5BE-16%5D%20Movie_Session_Based_Recommendation.ipynb
+[E-17]: Node_17/%5BE-17%5D%20Pix2Pix.ipynb
 
 **[⬆ back to top](#-lms)**
 

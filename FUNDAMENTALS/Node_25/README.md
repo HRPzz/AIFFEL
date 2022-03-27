@@ -14,9 +14,22 @@
 |25-6| Dropout | 30분|
 |25-7| Batch Normalization | 30분|
 
-
 ---
 
+## 학습 목표
+
+- 정칙화(Regularization)의 개념을 이해하고 정규화(Normalization)와 구분합니다.
+- L1 regularization과 L2 regularization의 차이를 설명합니다.
+- 실습을 통하여 Lp norm, Dropout, Batch Normalization에 대해 학습합니다.
+
+## 목차
+
+1. 들어가며
+2. Regularization과 Normalization
+3. L1 Regularization
+4. L2 Regularization
+5. Extra : Lp norm
+6. Dropout
+7. Batch Normalization
 
 ---
-

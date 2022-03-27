@@ -27,6 +27,57 @@
 
 ---
 
+## 2-11 ~ 2-13. 프로젝트 (1~3) : 손글씨, 와인, 유방암 여부를 분류해 봅시다
+
+- 2-11. 프로젝트 (1) load_digits : 손글씨를 분류해 봅시다
+- 2-12. 프로젝트 (2) load_wine : 와인을 분류해 봅시다
+- 2-13. 프로젝트 (3) load_breast_cancer : 유방암 여부를 진단해 봅시다
+
+데이터에 어떤 정보가 담겨있는지, feature는 무엇이고 label은 무엇인지 확인
+
+- 목차
+  - (1) 필요한 모듈 import 하기
+  - (2) 데이터 준비
+    - load_digits(): 손글씨 이미지 데이터
+      - 데이터 총 1797개
+      - feature 64개
+      - label 클래스 10개
+    - load_wine(): 와인 데이터
+      - 데이터 총 178개
+      - feature 13개
+      - label 클래스 3개
+    - load_breast_cancer(): 유방암 데이터
+      - 데이터 총 569개
+      - feature 30개
+      - label 클래스 2개
+  - (3) 데이터 이해하기
+    - Feature Data 지정하기
+    - Label Data 지정하기
+    - Target Names 출력해 보기
+    - 데이터 Describe 해 보기
+  - (4) train, test 데이터 분리
+    - 모델 학습과 테스트용 문제지(X_train, X_test)와 정답지(y_train, y_test)를 준비
+  - (5) 다양한 모델로 학습시켜보기
+    - Decision Tree 사용해 보기
+    - Random Forest 사용해 보기
+    - SVM 사용해 보기
+    - SGD Classifier 사용해 보기
+    - Logistic Regression 사용해 보기
+  - (6) 모델을 평가해 보기
+    - sklearn.metrics 에서 제공하는 평가지표 중 적절한 것을 선택
+
+---
+
+>## **루브릭**
+>
+>|번호|평가문항|상세기준|평가결과|
+>|:---:|---|---|:---:|
+>|1|3가지 데이터셋의 구성이 합리적으로 진행되었는가?|feature와 label 선정을 위한 데이터 분석과정이 체계적으로 전개됨|⭐|
+>|2|3가지 데이터셋에 대해 각각 5가지 모델을 성공적으로 적용하였는가?|모델학습 및 테스트가 정상적으로 수행되었음|⭐|
+>|3|3가지 데이터셋에 대해 모델의 평가지표가 적절히 선택되었는가?|평가지표 선택 및 이유 설명이 타당함|⭐|
+
+---
+
 ## 학습 목표
 
 - scikit-learn에 내장된 예제 데이터셋의 종류를 알고 활용할 수 있다.
@@ -120,54 +171,3 @@
       - 오차행렬 성능 지표: Precision, Negative Predictive Value, Sensitivity(=Recall), Specificity, Accuracy
       - 데이터 불균형(unbalanced)할 경우 f1 score 사용
         - F1 score = Recall(재현율)과 Precision(정밀도)의 조화평균
-
----
-
-## 2-11 ~ 2-13. 프로젝트 (1~3) : 손글씨, 와인, 유방암 여부를 분류해 봅시다
-
-- 2-11. 프로젝트 (1) load_digits : 손글씨를 분류해 봅시다
-- 2-12. 프로젝트 (2) load_wine : 와인을 분류해 봅시다
-- 2-13. 프로젝트 (3) load_breast_cancer : 유방암 여부를 진단해 봅시다
-
-데이터에 어떤 정보가 담겨있는지, feature는 무엇이고 label은 무엇인지 확인
-
-- 목차
-  - (1) 필요한 모듈 import 하기
-  - (2) 데이터 준비
-    - load_digits(): 손글씨 이미지 데이터
-      - 데이터 총 1797개
-      - feature 64개
-      - label 클래스 10개
-    - load_wine(): 와인 데이터
-      - 데이터 총 178개
-      - feature 13개
-      - label 클래스 3개
-    - load_breast_cancer(): 유방암 데이터
-      - 데이터 총 569개
-      - feature 30개
-      - label 클래스 2개
-  - (3) 데이터 이해하기
-    - Feature Data 지정하기
-    - Label Data 지정하기
-    - Target Names 출력해 보기
-    - 데이터 Describe 해 보기
-  - (4) train, test 데이터 분리
-    - 모델 학습과 테스트용 문제지(X_train, X_test)와 정답지(y_train, y_test)를 준비
-  - (5) 다양한 모델로 학습시켜보기
-    - Decision Tree 사용해 보기
-    - Random Forest 사용해 보기
-    - SVM 사용해 보기
-    - SGD Classifier 사용해 보기
-    - Logistic Regression 사용해 보기
-  - (6) 모델을 평가해 보기
-    - sklearn.metrics 에서 제공하는 평가지표 중 적절한 것을 선택
-
----
-
->## **루브릭**
->
->|번호|평가문항|상세기준|평가결과|
->|:---:|---|---|:---:|
->|1|3가지 데이터셋의 구성이 합리적으로 진행되었는가?|feature와 label 선정을 위한 데이터 분석과정이 체계적으로 전개됨|⭐|
->|2|3가지 데이터셋에 대해 각각 5가지 모델을 성공적으로 적용하였는가?|모델학습 및 테스트가 정상적으로 수행되었음|⭐|
->|3|3가지 데이터셋에 대해 모델의 평가지표가 적절히 선택되었는가?|평가지표 선택 및 이유 설명이 타당함|⭐|

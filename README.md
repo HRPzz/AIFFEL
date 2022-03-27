@@ -11,7 +11,7 @@
 ## 📌 TABLE OF CONTENTS
 
 - [🗂 DIRECTORY TREES](#-view-directory-trees)
-- [🗓 CALENDAR](#-calendar-20211227--20220610)
+- [📆 CALENDAR](#-calendar-20211227--20220610)
 - [💭 FLIPPED LEARNING](#-flipped-learning)
 - [💬 TEAM PROJECT](#-team-project)
 - [🔒 LMS](#-lms)
@@ -258,7 +258,7 @@
 
 ---
 
-## 🗓 CALENDAR (2021.12.27 ~ 2022.06.10)
+## 📆 CALENDAR (2021.12.27 ~ 2022.06.10)
 
 - Total 108 days = 5 + 20 + 17 + 18 + 21 + 21 + 6
 - Daily Attendance Hours: 10 A.M. ~ 7 P.M.
@@ -458,7 +458,7 @@
 |N|Node Title|Author|Type|Evaluation|Link|W|Open|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|<b>백본 네트워크 구조 상세분석</b><hr><i>#Tags: DL, CV, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet</i>|강상권|Lecture|✖️|[📋][CV-01]|12|03.15|
-|2|<b>없다면 어떻게 될까? (ResNet Ablation Study)</b><hr><i>#Tags: DL, CV, ResNet, Ablation Study</i>|강상권|Project|-|[📋][CV-02]|12|03.16|
+|2|<b>없다면 어떻게 될까? (ResNet Ablation Study)</b><hr><i>#Tags: DL, CV, ResNet, Ablation Study</i>|강상권|Project|⭐⭐⭐|[📋][CV-02]|12|03.16|
 |3|<b>잘 만든 Augmentation, 이미지 100장 안 부럽다</b><hr><i>#Tags: Data Augmentation, Tensorflow API, albumentation, GAN</i>|강상권|Lecture|✖️|[📋][CV-03]|12|03.18|
 |4|<b>이미지 어디까지 우려볼까?</b><hr><i>#Tags: Data Augmentation, Tensorflow Random Augmentation API, CutMix, Mixup</i>|강상권|Project|-|[📋][CV-04]|13|03.21|
 |5|<b>너의 속이 궁금해 - Class Activation Map 살펴보기</b><hr><i>#Tags: XAI, CAM, Grad-CAM, ACoL</i>|강상권|Lecture|✖️|[📋][CV-05]|13|03.23|
@@ -497,23 +497,23 @@
 
 |N|Node Title|Author|Evaluation|Link|W|Open|Done|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|<b>인공지능과 가위바위보 하기</b><hr><i>#Tags: DL, Sequential API, LeNet</i>|김승일|⭐⭐☆|[📋]()|2|01.04|01.05|
-|2|<b>Iris의 세 가지 품종, 분류해볼 수 있겠어요?</b><hr><i>#Tags: ML, Supervised Learning, Classification, F1 score</i>|정민정|⭐⭐⭐|[📋]()|2|01.06|01.11|
-|3|<b>카메라 스티커앱 만들기 첫걸음</b><hr><i>#Tags: DL, CV, dlib, HOG, SVM</i>|우태강|⭐⭐⭐<br>🏆|[📋]()|3|01.11|01.15|
-|4|<b>작사가 인공지능 만들기</b><hr><i>#Tags: DL, NLP, RNN, LSTM</i>|문성원|⭐⭐☆<br>🏆|[📋]()|3|01.13|01.14|
-|5|<b>나의 첫 번째 캐글 경진대회, 무작정 따라해보기</b><hr><i>#Tags: Kaggle, EDA</i>|정민정|⭐⭐☆<br>🏆|[📋]()|4|01.18|01.25|
-|6|<b>영화리뷰 텍스트 감성분석하기</b><hr><i>#Tags: DL, NLP</i>|우지철|⭐⭐⭐<br>🏆|[📋]()|4|01.20|01.24|
-|7|<b>인물사진을 만들어 보자</b><hr><i>#Tags: pixellib, CV</i>|우태강|⭐⭐⭐<br>🏆|[📋]()|5|01.25|02.01|
-|8|<b>뉴스 요약봇 만들기</b><hr><i>#Tags: DL, NLP</i>|유원준|⭐⭐⭐<br>🏆|[📋]()|5|01.27|02.03|
-|9|<b>폐렴아 기다려라!</b><hr><i>#Tags: ML, CV, CNN</i>|유원준|⭐⭐⭐<br>🏆|[📋]()|6|02.03|02.10|
-|10|<b>인공지능으로 세상에 없던 새로운 패션 만들기</b><hr><i>#Tags: DL, GAN, DCGAN</i>|정민정|⭐⭐⭐<br>🏆|[📋]()|7|02.08|02.15|
-|11|<b>어제 오른 내 주식, 과연 내일은?</b><hr><i>#Tags: ML, Statistics, ARMIA</i>|김원철|⭐⭐⭐<br>🏆|[📋]()|7|02.10|02.17|
-|12|<b>트랜스포머로 만드는 대화형 챗봇</b><hr><i>#Tags: DL, NLP, Transformer, Attention</i>|유원준|⭐⭐⭐<br>🏆|[📋]()|8|02.15| 02.22|
-|13|<b>인간보다 퀴즈를 잘푸는 인공지능</b><hr><i>#Tags: DL, NLP, BERT</i>|현청천|⭐⭐⭐<br>🏆|[📋]()|8|02.17|02.24|
-|14|<b>아이유팬이 좋아할 만한 다른 아티스트 찾기</b><hr><i>#Tags: DL, NLP, Recommendation, MF, CSR, ALS</i>|박지민|⭐⭐⭐<br>🏆|[📋]()|9|02.22|03.01|
-|15|<b>문자를 읽을 수 있는 딥러닝</b><hr><i>#Tags: DL, CV, OCR</i>|강상권|⭐⭐⭐<br>🏆|[📋]()|9|02.24|03.03|
-|16|<b>다음에 볼 영화 예측하기</b><hr><i>#Tags: DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k</i>|박지민|⭐⭐⭐|[📋]()|11|03.07|03.14|
-|17|<b>난 스케치를 할 테니 너는 채색을 하거라</b><hr><i>#Tags: DL, CV, GAN, cGAN, Pix2Pix</i>|정신유|⭐⭐⭐<br>🏆|[📋]()|12|03.14|03.21|
+|1|<b>인공지능과 가위바위보 하기</b><hr><i>#Tags: DL, Sequential API, LeNet</i>|김승일|⭐⭐☆|[📋][E-01]|2|01.04|01.05|
+|2|<b>Iris의 세 가지 품종, 분류해볼 수 있겠어요?</b><hr><i>#Tags: ML, Supervised Learning, Classification, F1 score</i>|정민정|⭐⭐⭐|[📋][E-02]|2|01.06|01.11|
+|3|<b>카메라 스티커앱 만들기 첫걸음</b><hr><i>#Tags: DL, CV, dlib, HOG, SVM</i>|우태강|⭐⭐⭐<br>🏆|[📋][E-03]|3|01.11|01.15|
+|4|<b>작사가 인공지능 만들기</b><hr><i>#Tags: DL, NLP, RNN, LSTM</i>|문성원|⭐⭐☆<br>🏆|[📋][E-04]|3|01.13|01.14|
+|5|<b>나의 첫 번째 캐글 경진대회, 무작정 따라해보기</b><hr><i>#Tags: Kaggle, EDA</i>|정민정|⭐⭐☆<br>🏆|[📋][E-05]|4|01.18|01.25|
+|6|<b>영화리뷰 텍스트 감성분석하기</b><hr><i>#Tags: DL, NLP</i>|우지철|⭐⭐⭐<br>🏆|[📋][E-06]|4|01.20|01.24|
+|7|<b>인물사진을 만들어 보자</b><hr><i>#Tags: pixellib, CV</i>|우태강|⭐⭐⭐<br>🏆|[📋][E-07]|5|01.25|02.01|
+|8|<b>뉴스 요약봇 만들기</b><hr><i>#Tags: DL, NLP</i>|유원준|⭐⭐⭐<br>🏆|[📋][E-08]|5|01.27|02.03|
+|9|<b>폐렴아 기다려라!</b><hr><i>#Tags: ML, CV, CNN</i>|유원준|⭐⭐⭐<br>🏆|[📋][E-09]|6|02.03|02.10|
+|10|<b>인공지능으로 세상에 없던 새로운 패션 만들기</b><hr><i>#Tags: DL, GAN, DCGAN</i>|정민정|⭐⭐⭐<br>🏆|[📋][E-10]|7|02.08|02.15|
+|11|<b>어제 오른 내 주식, 과연 내일은?</b><hr><i>#Tags: ML, Statistics, ARMIA</i>|김원철|⭐⭐⭐<br>🏆|[📋][E-11]|7|02.10|02.17|
+|12|<b>트랜스포머로 만드는 대화형 챗봇</b><hr><i>#Tags: DL, NLP, Transformer, Attention</i>|유원준|⭐⭐⭐<br>🏆|[📋][E-12]|8|02.15| 02.22|
+|13|<b>인간보다 퀴즈를 잘푸는 인공지능</b><hr><i>#Tags: DL, NLP, BERT</i>|현청천|⭐⭐⭐<br>🏆|[📋][E-13]|8|02.17|02.24|
+|14|<b>아이유팬이 좋아할 만한 다른 아티스트 찾기</b><hr><i>#Tags: DL, NLP, Recommendation, MF, CSR, ALS</i>|박지민|⭐⭐⭐<br>🏆|[📋][E-14]|9|02.22|03.01|
+|15|<b>문자를 읽을 수 있는 딥러닝</b><hr><i>#Tags: DL, CV, OCR</i>|강상권|⭐⭐⭐<br>🏆|[📋][E-15]|9|02.24|03.03|
+|16|<b>다음에 볼 영화 예측하기</b><hr><i>#Tags: DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k</i>|박지민|⭐⭐⭐|[📋][E-16]|11|03.07|03.14|
+|17|<b>난 스케치를 할 테니 너는 채색을 하거라</b><hr><i>#Tags: DL, CV, GAN, cGAN, Pix2Pix</i>|정신유|⭐⭐⭐<br>🏆|[📋][E-17]|12|03.14|03.21|
 
 [E-01]: EXPLORATION/Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb
 [E-02]: EXPLORATION/Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb

@@ -1,4 +1,16 @@
-# AIFFEL DAEGU 1 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL%2Ftree%2Fmain%2FFUNDAMENTALS&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL%2Ftree%2Fmain%2FFUNDAMENTALS&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<h1 align="center">🌟 AIFFEL DAEGU 1 🌟</h1>
+
+---
+
+## 📌 TABLE OF CONTENTS
+
+- [🔒 LMS](#-lms)
+  - [🔑 FUNDAMENTALS](#-fundamentals)
+  - [✔ FUNDAMENTALS CONTENTS SUMMARY](#-fundamentals-contents-summary)
+
+---
 
 ## 🔒 LMS
 
@@ -6,37 +18,69 @@
 
 |N|Node Title|Author|Link|W|Open|
 |:---:|---|:---:|:---:|:---:|:---:|
-|1|<b>Ready to go?</b><hr><i>#Tags: LMS, Cloud Jupyter</i>|백병인|[📋](Node_01/README.md)|1|12.28|
-|2|<b>인공지능 개발자가 되기 위한 위대한 첫 걸음</b><hr><i>#Tags: CLI, Anaconda</i>|정민정|[📋](Node_02/README.md)|1|12.28|
-|3|<b>터미널로 배우는 리눅스 운영체제</b><hr><i>#Tags: OS, Linux</i>|오상준|[📋](Node_03/README.md)|1|12.28|
-|4|<b>개발자를 위한 첫 번째 필수 교양</b><hr><i>#Tags: Git, GitHub</i>|정민정|[📋](Node_04/README.md)|1|12.28|
-|5|<b>날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?</b><hr><i>#Tags: Kaggle, EDA</i>|⬛|[📋](Node_05/README.md)|4|01.18|
-|6|<b>파이썬으로 코딩 시작하기</b><hr><i>#Tags: Python, Data Type, Function</i>|오상준|[📋](Node_06/README.md)|1|12.28|
-|7|<b>텍스트의 다양한 변신 (문자열, 파일 다루기)</b><hr><i>#Tags: Python, String, File, Module</i>|손주영|[📋](Node_07/README.md)|1|12.29|
-|8|<b>파이썬 잘하는 척 해보자</b><hr><i>#Tags: Python, For Loop, Try-Except, Lambda</i>|장도영|[📋](Node_08/README.md)|1|12.30|
-|9|<b>Data 어떻게 표현하면 좋을까? 배열(array)과 표(table)</b><hr><i>#Tags: Numpy, Pandas</i>|손주영|[📋](Node_09/README.md)|1|12.31|
-|10|<b>다양한 데이터 전처리 기법</b><hr><i>#Tags: EDA, Data Preprocessing, Outlier, Normalization, One-Hot Encoding, Binning</i>|박윤진|[📋](Node_10/README.md)|2|01.03|
-|11|<b>데이터를 한눈에! Visualization</b><hr><i>#Tags: Pandas, Matplotlib, Seaborn</i>|손주영|[📋](Node_11/README.md)|2|01.05|
-|12|<b>사이킷런으로 구현해 보는 머신러닝</b><hr><i>#Tags: ML, Scikit-learn</i>|손주영|[📋](Node_12/README.md)|2|01.07|
-|13|<b>당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기</b><hr><i>#Tags: Python, OOP</i>|손주영|[📋](Node_13/README.md)|3|01.10|
-|14|<b>거울아 거울아, 나는 멍멍이 상이니, 아니면 냥이 상이니?</b><hr><i>#Tags: DL, Model, Supervised Learning, Classification</i>|⬛|[📋](Node_14/README.md)|3|01.12|
-|15|<b>🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리</b><hr><i>#Tags: Kaggle, EDA</i>|정민정|[📋](Node_15/README.md)|3|01.14|
-|16|<b>파이썬으로 이미지 파일 다루기</b><hr><i>#Tags: pillow, CV</i>|오상준|[📋](Node_16/README.md)|4|01.17|
-|17|<b>딥러닝과 신경망의 본질</b><hr><i>#Tags: DL, NN</i>|정민정|[📋](Node_17/README.md)|4|01.19|
-|18|<b>딥러닝 들여다보기</b><hr><i>#Tags: DL, Numpy</i>|우지철|[📋](Node_18/README.md)|4|01.21|
-|19|<b>선형 회귀와 로지스틱 회귀</b><hr><i>#Tags: ML, Supervised Learning, Regression</i>|표정우|[📋](Node_19/README.md)|5|01.24|
-|20|<b>비지도학습</b><hr><i>#Tags: ML, Unsupervised Learning</i>|표정우|[📋](Node_20/README.md)|5|01.26|
-|21|<b>TF2 API 개요</b><hr><i>#Tags: DL, Keras</i>|우지철|[📋](Node_21/README.md)|5|01.28|
-|22|<b>딥네트워크, 서로 뭐가 다른 거죠?</b><hr><i>#Tags: DL, CV, CNN, Models</i>|강상권|[📋](Node_22/README.md)|6|02.04|
-|23|<b>딥러닝 레이어의 이해(1) Linear, Convolution</b><hr><i>#Tags: DL, CNN</i>|박윤진|[📋](Node_23/README.md)|7|02.07|
-|24|<b>딥러닝 레이어의 이해(2) Embedding, Recurrent</b><hr><i>#Tags: DL, RNN</i>|문성원|[📋](Node_24/README.md)|7|02.09|
-|25|<b>Regularization</b><hr><i>#Tags: DL, Regularization</i>|박윤경|[📋](Node_25/README.md)|7|02.11|
-|26|<b>활성화 함수의 이해</b><hr><i>#Tags: DL, Activation Functions</i>|백승열|[📋](Node_26/README.md)|8|02.14|
-|27|<b>Likelihood(MLE와 MAP)<hr>#Tags: ML, Likelihood, MLE, MAP</i>|신승연|[📋](Node_27/README.md)|8|02.16|
-|28|<b>정보이론 톺아보기<hr>#Tags: ML, Information Theory, Entropy, Cross Entropy, KL divergence</i>|신승연|[📋](Node_28/README.md)|8|02.18|
-|29|<b>사이킷런을 활용한 추천 시스템 입문</b><hr><i>#Tags: ML/DL, NLP, Recommendation System, Scikit-learn</i>|손주영|[📋](Node_29/README.md)|9|02.21|
-|30|<b>컴퓨터 파워 UP</b><hr><i>#Tags: Python, Multitasking</i>|손주영|[📋](Node_30/README.md)|9|02.23|
-|31|<b>뉴스기사 크롤링 및 분류</b><hr><i>#Tags: ML, Crawling</i>|⬛|[📋](Node_31/README.md)|9|02.25|
+|1|<b>Ready to go?</b><hr><i>#Tags: LMS, Cloud Jupyter</i>|백병인|[📋][F-01]|1|12.28|
+|2|<b>인공지능 개발자가 되기 위한 위대한 첫 걸음</b><hr><i>#Tags: CLI, Anaconda</i>|정민정|[📋][F-02]|1|12.28|
+|3|<b>터미널로 배우는 리눅스 운영체제</b><hr><i>#Tags: OS, Linux</i>|오상준|[📋][F-03]|1|12.28|
+|4|<b>개발자를 위한 첫 번째 필수 교양</b><hr><i>#Tags: Git, GitHub</i>|정민정|[📋][F-04]|1|12.28|
+|5|<b>날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?</b><hr><i>#Tags: Kaggle, EDA</i>|⬛|[📋][F-05]|4|01.18|
+|6|<b>파이썬으로 코딩 시작하기</b><hr><i>#Tags: Python, Data Type, Function</i>|오상준|[📋][F-06]|1|12.28|
+|7|<b>텍스트의 다양한 변신 (문자열, 파일 다루기)</b><hr><i>#Tags: Python, String, File, Module</i>|손주영|[📋][F-07]|1|12.29|
+|8|<b>파이썬 잘하는 척 해보자</b><hr><i>#Tags: Python, For Loop, Try-Except, Lambda</i>|장도영|[📋][F-08]|1|12.30|
+|9|<b>Data 어떻게 표현하면 좋을까? 배열(array)과 표(table)</b><hr><i>#Tags: Numpy, Pandas</i>|손주영|[📋][F-09]|1|12.31|
+|10|<b>다양한 데이터 전처리 기법</b><hr><i>#Tags: EDA, Data Preprocessing, Outlier, Normalization, One-Hot Encoding, Binning</i>|박윤진|[📋][F-10]|2|01.03|
+|11|<b>데이터를 한눈에! Visualization</b><hr><i>#Tags: Pandas, Matplotlib, Seaborn</i>|손주영|[📋][F-11]|2|01.05|
+|12|<b>사이킷런으로 구현해 보는 머신러닝</b><hr><i>#Tags: ML, Scikit-learn</i>|손주영|[📋][F-12]|2|01.07|
+|13|<b>당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기</b><hr><i>#Tags: Python, OOP</i>|손주영|[📋][F-13]|3|01.10|
+|14|<b>거울아 거울아, 나는 멍멍이 상이니, 아니면 냥이 상이니?</b><hr><i>#Tags: DL, Model, Supervised Learning, Classification</i>|⬛|[📋][F-14]|3|01.12|
+|15|<b>🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리</b><hr><i>#Tags: Kaggle, EDA</i>|정민정|[📋][F-15]|3|01.14|
+|16|<b>파이썬으로 이미지 파일 다루기</b><hr><i>#Tags: pillow, CV</i>|오상준|[📋][F-16]|4|01.17|
+|17|<b>딥러닝과 신경망의 본질</b><hr><i>#Tags: DL, NN</i>|정민정|[📋][F-17]|4|01.19|
+|18|<b>딥러닝 들여다보기</b><hr><i>#Tags: DL, Numpy</i>|우지철|[📋][F-18]|4|01.21|
+|19|<b>선형 회귀와 로지스틱 회귀</b><hr><i>#Tags: ML, Supervised Learning, Regression</i>|표정우|[📋][F-19]|5|01.24|
+|20|<b>비지도학습</b><hr><i>#Tags: ML, Unsupervised Learning</i>|표정우|[📋][F-20]|5|01.26|
+|21|<b>TF2 API 개요</b><hr><i>#Tags: DL, Keras</i>|우지철|[📋][F-21]|5|01.28|
+|22|<b>딥네트워크, 서로 뭐가 다른 거죠?</b><hr><i>#Tags: DL, CV, CNN, Models</i>|강상권|[📋][F-22]|6|02.04|
+|23|<b>딥러닝 레이어의 이해(1) Linear, Convolution</b><hr><i>#Tags: DL, CNN</i>|박윤진|[📋][F-23]|7|02.07|
+|24|<b>딥러닝 레이어의 이해(2) Embedding, Recurrent</b><hr><i>#Tags: DL, RNN</i>|문성원|[📋][F-24]|7|02.09|
+|25|<b>Regularization</b><hr><i>#Tags: DL, Regularization</i>|박윤경|[📋][F-25]|7|02.11|
+|26|<b>활성화 함수의 이해</b><hr><i>#Tags: DL, Activation Functions</i>|백승열|[📋][F-26]|8|02.14|
+|27|<b>Likelihood(MLE와 MAP)<hr>#Tags: ML, Likelihood, MLE, MAP</i>|신승연|[📋][F-27]|8|02.16|
+|28|<b>정보이론 톺아보기<hr>#Tags: ML, Information Theory, Entropy, Cross Entropy, KL divergence</i>|신승연|[📋][F-28]|8|02.18|
+|29|<b>사이킷런을 활용한 추천 시스템 입문</b><hr><i>#Tags: ML/DL, NLP, Recommendation System, Scikit-learn</i>|손주영|[📋][F-29]|9|02.21|
+|30|<b>컴퓨터 파워 UP</b><hr><i>#Tags: Python, Multitasking</i>|손주영|[📋][F-30]|9|02.23|
+|31|<b>뉴스기사 크롤링 및 분류</b><hr><i>#Tags: ML, Crawling</i>|⬛|[📋][F-31]|9|02.25|
+
+[F-01]: Node_01/README.md
+[F-02]: Node_02/README.md
+[F-03]: Node_03/README.md
+[F-04]: Node_04/README.md
+[F-05]: Node_05/README.md
+[F-06]: Node_06/README.md
+[F-07]: Node_07/README.md
+[F-08]: Node_08/README.md
+[F-09]: Node_09/README.md
+[F-10]: Node_10/README.md
+[F-11]: Node_11/README.md
+[F-12]: Node_12/README.md
+[F-13]: Node_13/README.md
+[F-14]: Node_14/README.md
+[F-15]: Node_15/README.md
+[F-16]: Node_16/README.md
+[F-17]: Node_17/README.md
+[F-18]: Node_18/README.md
+[F-19]: Node_19/README.md
+[F-20]: Node_20/README.md
+[F-21]: Node_21/README.md
+[F-22]: Node_22/README.md
+[F-23]: Node_23/README.md
+[F-24]: Node_24/README.md
+[F-25]: Node_25/README.md
+[F-26]: Node_26/README.md
+[F-27]: Node_27/README.md
+[F-28]: Node_28/README.md
+[F-29]: Node_29/README.md
+[F-30]: Node_30/README.md
+[F-31]: Node_31/README.md
 
 **[⬆ back to top](#-lms)**
 
