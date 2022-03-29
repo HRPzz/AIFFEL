@@ -1,10 +1,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h1 align="center">🌟 AIFFEL DAEGU 1 🌟</h1>
-
 <p align='center'>
   <img src='https://aiffel-front-prod-asset.s3.ap-northeast-2.amazonaws.com/img/logo/aiffel_logo.png'>
 </p>
+
+---
+
+<h2 align="right"><b>아이펠 대구 1기 by 모두의 연구소</b></h2>
+<div align="right"><i>#Tags: AI (Artificial Intelligence), ML (Machine Learning), DL (Deep Learning), CV (Computer Vision), NLP(Natural Language Processing), Bottom to the Top Training, Facilitator, Flipped Learning, AIFFEL</i></div>
 
 ---
 
@@ -16,8 +19,8 @@
 - [💬 TEAM PROJECT](#-team-project)
 - [🔒 LMS](#-lms)
   - 🔑 GOING DEEPER
-&emsp;&emsp; - [🌝 CV](#-going-deeper-cv) [📂](GOING_DEEPER_CV)
-&emsp;&emsp; - [🌚 NLP](#-going-deeper-nlp) [📂](GOING_DEEPER_NLP)
+    - [🌝 CV](#-going-deeper-cv) [📂](GOING_DEEPER_CV)
+    - [🌚 NLP](#-going-deeper-nlp) [📂](GOING_DEEPER_NLP)
   - [🔑 EXPLORATION](#-exploration) [📁](EXPLORATION)
   - [🔑 FUNDAMENTALS](#-fundamentals) [📁](FUNDAMENTALS)
 - [💢 ABOUT AIFFEL](#-about-aiffel)
@@ -380,8 +383,8 @@
 |24|<b>딥러닝 레이어의 이해(2) Embedding, Recurrent</b><hr><i>#Tags: DL, RNN</i>|문성원|[📋][F-24]|7|02.09|
 |25|<b>Regularization</b><hr><i>#Tags: DL, Regularization</i>|박윤경|[📋][F-25]|7|02.11|
 |26|<b>활성화 함수의 이해</b><hr><i>#Tags: DL, Activation Functions</i>|백승열|[📋][F-26]|8|02.14|
-|27|<b>Likelihood(MLE와 MAP)<hr>#Tags: ML, Likelihood, MLE, MAP</i>|신승연|[📋][F-27])|8|02.16|
-|28|<b>정보이론 톺아보기<hr>#Tags: ML, Information Theory, Entropy, Cross Entropy, KL divergence</i>|신승연|[📋][F-28]|8|02.18|
+|27|<b>Likelihood(MLE와 MAP)</b><hr><i>#Tags: ML, Likelihood, MLE, MAP</i>|신승연|[📋][F-27])|8|02.16|
+|28|<b>정보이론 톺아보기</b><hr><i>#Tags: ML, Information Theory, Entropy, Cross Entropy, KL divergence</i>|신승연|[📋][F-28]|8|02.18|
 |29|<b>사이킷런을 활용한 추천 시스템 입문</b><hr><i>#Tags: ML/DL, NLP, Recommendation System, Scikit-learn</i>|손주영|[📋][F-29]|9|02.21|
 |30|<b>컴퓨터 파워 UP</b><hr><i>#Tags: Python, Multitasking</i>|손주영|[📋][F-30]|9|02.23|
 |31|<b>뉴스기사 크롤링 및 분류</b><hr><i>#Tags: ML, Crawling</i>|⬛|[📋][F-31]|9|02.25|
