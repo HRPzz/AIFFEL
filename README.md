@@ -7,7 +7,7 @@
 ---
 
 <h2 align="right"><b>아이펠 대구 1기 by 모두의 연구소</b></h2>
-<div align="right"><i>#Tags: AI (Artificial Intelligence), ML (Machine Learning), DL (Deep Learning), CV (Computer Vision), NLP(Natural Language Processing), Bottom to the Top Training, Facilitator, Flipped Learning, AIFFEL</i></div>
+<div align="right"><i>#Tags: 인공지능 (AI; Artificial Intelligence), 머신 러닝 (ML; Machine Learning), 딥러닝 (DL; Deep Learning), 영상 처리 (CV; Computer Vision), 자연어 처리 (NLP; Natural Language Processing), 역계단식 학습 (Bottom to the Top Training), 퍼실 (Facilitator), 풀잎 스쿨 (FL; Flipped Learning), 아이펠 (AIFFEL), 모두의 연구소</i></div>
 
 ---
 
@@ -31,7 +31,7 @@
 
 <details>
   <summary>
-&emsp;&emsp; VIEW DIRECTORY TREES
+    VIEW DIRECTORY TREES
   </summary>
   AIFFEL<br>
   ├── EXPLORATION<br>
