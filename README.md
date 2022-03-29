@@ -27,7 +27,7 @@
 
 ---
 
-## 🗂 VIEW DIRECTORY TREES
+## 🗂 DIRECTORY TREES
 
 <details>
   <summary>
@@ -80,6 +80,11 @@
 
 - Total 108 days = 5 + 20 + 17 + 18 + 21 + 21 + 6
 - Daily Attendance Hours: 10 A.M. ~ 7 P.M.
+
+<details>
+  <summary>
+    VIEW CALENDAR
+  </summary>
 
 ### 🐮 December, 2021 (5 days)
 
@@ -220,6 +225,8 @@
 >| **To Do** | - | - | - | - | - | - | - |
 
 [T-02]: README.md
+
+</details>
 
 **[⬆ back to top](#-table-of-contents)**
 
