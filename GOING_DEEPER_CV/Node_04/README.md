@@ -4,6 +4,10 @@
 
 ---
 
+[➡ [GD-04] CutMix_vs_Mixup.ipynb with nbviewer](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_04/%5BCV-04%5D%20CutMix_vs_Mixup.ipynb)
+
+---
+
 |-|목차|⏲ 360분|
 |:---:|---|:---:|
 |4-1| 들어가며 | 5분|
