@@ -25,7 +25,7 @@
 |5|<b>너의 속이 궁금해 - Class Activation Map 살펴보기</b><hr><i>#Tags: XAI, CAM, Grad-CAM, ACoL</i>|강상권|Lecture|✖️|[📋][CV-05]|13|03.23|
 |6|<b>나를 찾아줘 - Class Activation Map 만들기</b><hr><i>#Tags: CAM, Grad-CAM, Object Detection</i>|강상권|Project|-|[📋][CV-06]|13|03.24|
 |7|<b>Object Detection</b><hr><i>#Tags: Object Detection, Bounding Box, IoU, Localization, Sliding Window, Convolution, Anchor Box, NMS, Single stage detector(YOLO, SSD), Two stage detector(R-CNN, Faster R-CNN, RPN), Anchor</i>|강상권|Lecture|✖️|[📋][CV-07]|14|03.28|
-|8|<b>GO/STOP! - Object Detection 시스템 만들기</b><hr><i>#Tags: Object Detection, RetinaNet, Focal Loss, FPN, </i>|강상권|Project|-|[📋][CV-08]|14|03.29|
+|8|<b>GO/STOP! - Object Detection 시스템 만들기</b><hr><i>#Tags: Object Detection, RetinaNet, Focal Loss, FPN</i>|강상권|Project|-|[📋][CV-08]|14|03.29|
 |9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-09]|14|03.31|
 |10|<b>도로 영역을 찾자! - 세그멘테이션 모델 만들기</b><hr><i>#Tags: </i>|-|Project|-|[📋][CV-10]|15|04.04|
 |11|<b>OCR 기술의 개요</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-11]|15|04.05|
@@ -38,7 +38,7 @@
 [CV-01]: Node_01/README.md
 [CV-02]: Node_02/%5BCV-02%5D%20ResNet_vs_Plain.ipynb
 [CV-03]: Node_03/README.md
-[CV-04]: Node_04/README.md
+[CV-04]: Node_04/%5BCV-04%5D%20CutMix_vs_Mixup.ipynb
 [CV-05]: Node_05/README.md
 [CV-06]: Node_06/README.md
 [CV-07]: Node_07/README.md

@@ -16,8 +16,8 @@
 - [💬 TEAM PROJECT](#-team-project)
 - [🔒 LMS](#-lms)
   - 🔑 GOING DEEPER
-    - [🌝 CV](#-going-deeper-cv) [📂](GOING_DEEPER_CV)
-    - [🌚 NLP](#-going-deeper-nlp) [📂](GOING_DEEPER_NLP)
+&emsp;&emsp; - [🌝 CV](#-going-deeper-cv) [📂](GOING_DEEPER_CV)
+&emsp;&emsp; - [🌚 NLP](#-going-deeper-nlp) [📂](GOING_DEEPER_NLP)
   - [🔑 EXPLORATION](#-exploration) [📁](EXPLORATION)
   - [🔑 FUNDAMENTALS](#-fundamentals) [📁](FUNDAMENTALS)
 - [💢 ABOUT AIFFEL](#-about-aiffel)
@@ -28,225 +28,40 @@
 
 <details>
   <summary>
-    VIEW DIRECTORY TREES
+&emsp;&emsp; VIEW DIRECTORY TREES
   </summary>
   AIFFEL<br>
   ├── EXPLORATION<br>
-  │   ├── Node_01<br>
-  │   │   ├── README.md<br>
-  │   │   ├── [E-01] Only_LMS_Code_Blocks.ipynb<br>
-  │   │   └── [E-01] Rock_Scissor_Paper_Classifier.ipynb<br>
-  │   ├── Node_02<br>
-  │   │   ├── README.md<br>
-  │   │   ├── [E-02] Only_LMS_Code_Blocks.ipynb<br>
-  │   │   └── [E-02] Classifier_Examples (Digits, Wine, Breast_Cancer).ipynb<br>
-  │   ├── Node_03<br>
-  │   │   ├── README.md<br>
-  │   │   ├── [E-03] Only_LMS_Code_Blocks.ipynb<br>
-  │   │   └── [E-03] Camera_Sticker_App.ipynb<br>
-  │   ├── Node_04<br>
-  │   │   ├── README.md<br>
-  │   │   ├── [E-04] Only_LMS_Code_Blocks.ipynb<br>
-  │   │   └── [E-04] AI_Lyricist.ipynb<br>
-  │   ├── Node_05<br>
-  │   │   ├── README.md<br>
-  │   │   ├── [E-05] Only_LMS_Code_Blocks.ipynb<br>
-  │   │   └── [E-05] 2019_kaggle_house_price_prediction.ipynb<br>
-  │   ├── Node_06<br>
-  │   │   ├── README.md<br>
-  │   │   ├── [E-06] Only_LMS_Code_Blocks.ipynb<br>
-  │   │   └── [E-06] Naver_movie_sentiment_analysis.ipynb<br>
-  │   ├── Node_07<br>
-  │   │   ├── README.md<br>
-  │   │   ├── [E-07] Only_LMS_Code_Blocks.ipynb<br>
-  │   │   └── [E-07] make_a_portrait.ipynb<br>
-  │   ├── Node_08<br>
-  │   │   ├── README.md<br>
-  │   │   ├── [E-08] Only_LMS_Code_Blocks.ipynb<br>
-  │   │   └── [E-08] news_summary_bot.ipynb<br>
-  │   ├── Node_09<br>
-  │   │   ├── README.md<br>
-  │   │   ├── [E-09] Only_LMS_Code_Blocks.ipynb<br>
-  │   │   └── [E-09] Pneumonia_Diagnosis_Machine.ipynb<br>
-  │   ├── Node_10<br>
-  │   │   ├── README.md<br>
-  │   │   ├── [E-10] Only_LMS_Code_Blocks.ipynb<br>
-  │   │   └── [E-10] create_CIFAR_10_fake_images.ipynb<br>
-  │   ├── Node_11<br>
-  │   │   ├── README.md<br>
-  │   │   ├── [E-11] Only_LMS_Code_Blocks.ipynb<br>
-  │   │   └── [E-11] forecast_stock.ipynb<br>
-  │   ├── Node_12<br>
-  │   │   ├── README.md<br>
-  │   │   ├── [E-12] Only_LMS_Code_Blocks.ipynb<br>
-  │   │   └── [E-12] Korean_Chatbot.ipynb<br>
-  │   ├── Node_13<br>
-  │   │   ├── README.md<br>
-  │   │   ├── [E-13] Only_LMS_Code_Blocks.ipynb<br>
-  │   │   └── [E-13] Pretrained_BERT.ipynb<br>
-  │   ├── Node_14<br>
-  │   │   ├── README.md<br>
-  │   │   ├── [E-14] Only_LMS_Code_Blocks.ipynb<br>
-  │   │   └── [E-14] Movie_Recommendation.ipynb<br>
-  │   ├── Node_15<br>
-  │   │   ├── README.md<br>
-  │   │   ├── [E-15] Only_LMS_Code_Blocks.ipynb<br>
-  │   │   └── [E-15] OCR.ipynb<br>
-  │   ├── Node_16<br>
-  │   │   ├── README.md<br>
-  │   │   ├── [E-16] Only_LMS_Code_Blocks.ipynb<br>
-  │   │   └── [E-16] Movie_Session_Based_Recommendation.ipynb<br>
-  │   ├── Node_17<br>
-  │   │   ├── README.md<br>
-  │   │   ├── [E-17] Only_LMS_Code_Blocks.ipynb<br>
-  │   │   └── [E-17] Pix2Pix.ipynb<br>
-  │   └── README.md<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [E-01] Rock_Scissor_Paper_Classifier.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [E-02] Classifier_Examples (Digits, Wine, Breast_Cancer).ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [E-03] Camera_Sticker_App.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [E-04] AI_Lyricist.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [E-05] 2019_kaggle_house_price_prediction.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [E-06] Naver_movie_sentiment_analysis.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [E-07] make_a_portrait.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [E-08] news_summary_bot.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [E-09] Pneumonia_Diagnosis_Machine.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [E-10] create_CIFAR_10_fake_images.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [E-11] forecast_stock.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [E-12] Korean_Chatbot.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [E-13] Pretrained_BERT.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [E-14] Movie_Recommendation.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [E-15] OCR.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [E-16] Movie_Session_Based_Recommendation.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;└── [E-17] Pix2Pix.ipynb<br>
+  │&emsp;&emsp;└── README.md<br>
   ├── FUNDAMENTALS<br>
-  │   ├── Node_01<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-01] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_02<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-02] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_03<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-03] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_04<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-04] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_05<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-05] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_06<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-06] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_07<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-07] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_08<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-08] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_09<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-09] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_10<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-10] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_11<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-11] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_12<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-12] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_13<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-13] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_14<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-14] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_15<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-15] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_16<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-16] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_17<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-17] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_18<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-18] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_19<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-19] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_20<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-20] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_21<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-21] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_22<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-22] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_23<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-23] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_24<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-24] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_25<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-25] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_26<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-26] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_27<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-27] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_28<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-28] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_29<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-29] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_30<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-30] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_31<br>
-  │   │   ├── README.md<br>
-  │   │   └── [F-31] Only_LMS_Code_Blocks.ipynb<br>
-  │   └── README.md<br>
+  │&emsp;&emsp;└── README.md<br>
   ├── GOING_DEEPER_CV<br>
-  │   ├── Node_01<br>
-  │   │   ├── README.md<br>
-  │   │   └── [CV-01] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_02<br>
-  │   │   ├── README.md<br>
-  │   │   ├── [CV-02] Only_LMS_Code_Blocks.ipynb<br>
-  │   │   └── [CV-02] ResNet_vs_Plain.ipynb<br>
-  │   ├── Node_03<br>
-  │   │   ├── README.md<br>
-  │   │   └── [CV-03] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_04<br>
-  │   │   ├── README.md<br>
-  │   │   └── [CV-04] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_05<br>
-  │   │   ├── README.md<br>
-  │   │   └── [CV-05] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_06<br>
-  │   │   ├── README.md<br>
-  │   │   └── [CV-06] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_07<br>
-  │   │   ├── README.md<br>
-  │   │   └── [CV-07] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_08<br>
-  │   │   ├── README.md<br>
-  │   │   └── [CV-08] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_09<br>
-  │   │   ├── README.md<br>
-  │   │   └── [CV-09] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_10<br>
-  │   │   ├── README.md<br>
-  │   │   └── [CV-10] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_11<br>
-  │   │   ├── README.md<br>
-  │   │   └── [CV-11] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_12<br>
-  │   │   ├── README.md<br>
-  │   │   └── [CV-12] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_13<br>
-  │   │   ├── README.md<br>
-  │   │   └── [CV-13] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_14<br>
-  │   │   ├── README.md<br>
-  │   │   └── [CV-14] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_15<br>
-  │   │   ├── README.md<br>
-  │   │   └── [CV-15] Only_LMS_Code_Blocks.ipynb<br>
-  │   ├── Node_16<br>
-  │   │   ├── README.md<br>
-  │   │   └── [CV-16] Only_LMS_Code_Blocks.ipynb<br>
-  │   └── README.md<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [CV-02] ResNet_vs_Plain.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [CV-04] CutMix_vs_Mixup.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [CV-06] -.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [CV-08] -.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [CV-10] -.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [CV-12] -.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [CV-14] -.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;└── [CV-16] -.ipynb<br>
+  │&emsp;&emsp;└── README.md<br>
   ├── .gitattributes<br>
   ├── .gitignore<br>
   ├── Installed_Library_Version_in_LMS_Cloud.md<br>
@@ -346,7 +161,7 @@
 [H-01 nbviewer]: https://nbviewer.org/github/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb
 [E-17 nbviewer]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_17/%5BE-17%5D%20Pix2Pix.ipynb
 [GD-02 nbviewer]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_02/%5BCV-02%5D%20ResNet_vs_Plain.ipynb
-[GD-04 nbviewer]: README.md
+[GD-04 nbviewer]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_04/%5BCV-04%5D%20CutMix_vs_Mixup.ipynb
 [GD-06 nbviewer]: README.md
 [GD-08 nbviewer]: README.md
 
@@ -464,7 +279,7 @@
 |5|<b>너의 속이 궁금해 - Class Activation Map 살펴보기</b><hr><i>#Tags: XAI, CAM, Grad-CAM, ACoL</i>|강상권|Lecture|✖️|[📋][CV-05]|13|03.23|
 |6|<b>나를 찾아줘 - Class Activation Map 만들기</b><hr><i>#Tags: CAM, Grad-CAM, Object Detection</i>|강상권|Project|-|[📋][CV-06]|13|03.24|
 |7|<b>Object Detection</b><hr><i>#Tags: Object Detection, Bounding Box, IoU, Localization, Sliding Window, Convolution, Anchor Box, NMS, Single stage detector(YOLO, SSD), Two stage detector(R-CNN, Faster R-CNN, RPN), Anchor</i>|강상권|Lecture|✖️|[📋][CV-07]|14|03.28|
-|8|<b>GO/STOP! - Object Detection 시스템 만들기</b><hr><i>#Tags: Object Detection, RetinaNet, Focal Loss, FPN, </i>|강상권|Project|-|[📋][CV-08]|14|03.29|
+|8|<b>GO/STOP! - Object Detection 시스템 만들기</b><hr><i>#Tags: Object Detection, RetinaNet, Focal Loss, FPN</i>|강상권|Project|-|[📋][CV-08]|14|03.29|
 |9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-09]|14|03.31|
 |10|<b>도로 영역을 찾자! - 세그멘테이션 모델 만들기</b><hr><i>#Tags: </i>|-|Project|-|[📋][CV-10]|15|04.04|
 |11|<b>OCR 기술의 개요</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-11]|15|04.05|
@@ -477,7 +292,7 @@
 [CV-01]: GOING_DEEPER_CV/Node_01/README.md
 [CV-02]: GOING_DEEPER_CV/Node_02/%5BCV-02%5D%20ResNet_vs_Plain.ipynb
 [CV-03]: GOING_DEEPER_CV/Node_03/README.md
-[CV-04]: GOING_DEEPER_CV/Node_04/README.md
+[CV-04]: GOING_DEEPER_CV/Node_04/%5BCV-04%5D%20CutMix_vs_Mixup.ipynb
 [CV-05]: GOING_DEEPER_CV/Node_05/README.md
 [CV-06]: GOING_DEEPER_CV/Node_06/README.md
 [CV-07]: GOING_DEEPER_CV/Node_07/README.md
