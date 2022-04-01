@@ -7,7 +7,8 @@
 ---
 
 <h2 align="right"><b>아이펠 대구 1기 by 모두의 연구소</b></h2>
-<div align="right"><i><b>#Tags</b><br>인공지능 (AI; Artificial Intelligence), 머신러닝 (ML; Machine Learning), 딥러닝 (DL; Deep Learning),<br>영상 처리 (CV; Computer Vision), 자연어 처리 (NLP; Natural Language Processing),<br>역계단식 학습 (Bottom to the Top Training), 퍼실 (Facilitator),<br>풀잎 (FL; Flipped Learning), 아이펠 (AIFFEL), 모두의 연구소</i></div>
+<h3 align="right"><i><b>#Tags</b></i></h3>
+<div align="right"><i>인공지능 (AI; Artificial Intelligence), 머신러닝 (ML; Machine Learning), 딥러닝 (DL; Deep Learning),<br>영상 처리 (CV; Computer Vision), 자연어 처리 (NLP; Natural Language Processing),<br>역계단식 학습 (Bottom to the Top Training), 퍼실 (Facilitator),<br>풀잎 (FL; Flipped Learning), 아이펠 (AIFFEL), 모두의 연구소</i></div>
 
 ---
 
@@ -170,7 +171,7 @@
 [E-17 nbviewer]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_17/%5BE-17%5D%20Pix2Pix.ipynb
 [GD-02 nbviewer]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_02/%5BCV-02%5D%20ResNet_vs_Plain.ipynb
 [GD-04 nbviewer]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_04/%5BCV-04%5D%20CutMix_vs_Mixup.ipynb
-[GD-06 nbviewer]: README.md
+[GD-06 nbviewer]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_06/%5BCV-06%5D%20CAM_vs_Grad_CAM.ipynb
 [GD-08 nbviewer]: README.md
 
 ### 🐯 April, 2022  (21 days)
@@ -180,13 +181,13 @@
 >| **1** | - | - | - | - | - | **1** | **2** |
 >| **To Do** | - | - | - | - | - | GD-09<br>FL-03 | - |
 >| **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
->| **To Do** | - | GD-10 | [GD-10][GD-10]<br>GD-11 | GD-11 | GD-12 | [GD-12][GD-12]<br>FL-03 | - |
+>| **To Do** | - | GD-10 | [GD-10][GD-10]<br>GD-11 | GD-11<br>FL-04 | GD-12 | [GD-12][GD-12]<br>FL-03 | - |
 >| **3** | **10** | **11** | **12** | **13** | **14** | **15** | **16** |
->| **To Do** | - | GD-13 | H-02 | H-02 | H-02 | H-02 | - |
+>| **To Do** | - | GD-13 | H-02 | H-02<br>FL-04 | H-02 | H-02 | - |
 >| **4** | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
->| **To Do** | - | GD-14 | [GD-14][GD-14]<br>GD-15 | GD-15 | GD-16 | [GD-16][GD-16]<br>FL-03 | - |
+>| **To Do** | - | GD-14 | [GD-14][GD-14]<br>GD-15 | GD-15<br>FL-04 | GD-16 | [GD-16][GD-16]<br>FL-03 | - |
 >| **5** | **24** | **25** | **26** | **27** | **28** | **29** | **30** |
->| **To Do** | - | T-01 | T-01 | T-01 | T-01 | [T-01][T-01] | - |
+>| **To Do** | - | T-01 | T-01 | T-01<br>FL-04 | T-01 | [T-01][T-01] | - |
 
 [GD-10]: README.md
 [GD-12]: README.md
@@ -199,13 +200,13 @@
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 >| **1** | **1** | **2** | **3** | **4** | **5** | **6** | **7** |
->| **To Do** | - | T-01 | T-02 | T-02 | - | T-02 | - |
+>| **To Do** | - | T-01 | T-02 | T-02<br>FL-04 | - | T-02<br>FL-03 | - |
 >| **2** | **8** | **9** | **10** | **11** | **12** | **13** | **14** |
->| **To Do** | - | T-02 | T-02 | T-02 | T-02 | T-02 | - |
+>| **To Do** | - | T-02 | T-02 | T-02<br>FL-04 | T-02 | T-02<br>FL-03 | - |
 >| **3** | **15** | **16** | **17** | **18** | **19** | **20** | **21** |
->| **To Do** | - | T-02 | T-02 | T-02 | T-02 | T-02 | - |
+>| **To Do** | - | T-02 | T-02 | T-02<br>FL-04 | T-02 | T-02<br>FL-03 | - |
 >| **4** | **22** | **23** | **24** | **25** | **26** | **27** | **28** |
->| **To Do** | - | T-02 | T-02 | T-02 | T-02 | T-02 | - |
+>| **To Do** | - | T-02 | T-02 | T-02<br>FL-04 | T-02 | T-02<br>FL-03 | - |
 >| **5** | **29** | **30** | **31** | - | - | - | - |
 >| **To Do** | - | T-02 | T-02 | - | - | - | - |
 
@@ -285,12 +286,12 @@
 |1|<b>백본 네트워크 구조 상세분석</b><hr><i>#Tags: DL, CV, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet</i>|강상권|Lecture|✖️|[📋][CV-01]|12|03.15|
 |2|<b>없다면 어떻게 될까? (ResNet Ablation Study)</b><hr><i>#Tags: DL, CV, ResNet, Ablation Study</i>|강상권|Project|⭐⭐⭐|[📋][CV-02]|12|03.16|
 |3|<b>잘 만든 Augmentation, 이미지 100장 안 부럽다</b><hr><i>#Tags: Data Augmentation, Tensorflow API, albumentation, GAN</i>|강상권|Lecture|✖️|[📋][CV-03]|12|03.18|
-|4|<b>이미지 어디까지 우려볼까?</b><hr><i>#Tags: Data Augmentation, Tensorflow Random Augmentation API, CutMix, Mixup</i>|강상권|Project|-|[📋][CV-04]|13|03.21|
+|4|<b>이미지 어디까지 우려볼까?</b><hr><i>#Tags: Data Augmentation, Tensorflow Random Augmentation API, CutMix, Mixup</i>|강상권|Project|⭐⭐⭐|[📋][CV-04]|13|03.21|
 |5|<b>너의 속이 궁금해 - Class Activation Map 살펴보기</b><hr><i>#Tags: XAI, CAM, Grad-CAM, ACoL</i>|강상권|Lecture|✖️|[📋][CV-05]|13|03.23|
 |6|<b>나를 찾아줘 - Class Activation Map 만들기</b><hr><i>#Tags: CAM, Grad-CAM, Object Detection</i>|강상권|Project|-|[📋][CV-06]|13|03.24|
 |7|<b>Object Detection</b><hr><i>#Tags: Object Detection, Bounding Box, IoU, Localization, Sliding Window, Convolution, Anchor Box, NMS, Single stage detector(YOLO, SSD), Two stage detector(R-CNN, Faster R-CNN, RPN), Anchor</i>|강상권|Lecture|✖️|[📋][CV-07]|14|03.28|
 |8|<b>GO/STOP! - Object Detection 시스템 만들기</b><hr><i>#Tags: Object Detection, RetinaNet, Focal Loss, FPN</i>|강상권|Project|-|[📋][CV-08]|14|03.29|
-|9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-09]|14|03.31|
+|9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b><hr><i>#Tags: Segmentation, FCN, U-Net, DeepLab</i>|강상권|Lecture|✖️|[📋][CV-09]|14|03.31|
 |10|<b>도로 영역을 찾자! - 세그멘테이션 모델 만들기</b><hr><i>#Tags: </i>|-|Project|-|[📋][CV-10]|15|04.04|
 |11|<b>OCR 기술의 개요</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-11]|15|04.05|
 |12|<b>직접 만들어보는 OCR</b><hr><i>#Tags: </i>|-|Project|-|[📋][CV-12]|15|04.07|
@@ -304,7 +305,7 @@
 [CV-03]: GOING_DEEPER_CV/Node_03/README.md
 [CV-04]: GOING_DEEPER_CV/Node_04/%5BCV-04%5D%20CutMix_vs_Mixup.ipynb
 [CV-05]: GOING_DEEPER_CV/Node_05/README.md
-[CV-06]: GOING_DEEPER_CV/Node_06/README.md
+[CV-06]: GOING_DEEPER_CV/Node_06/%5BCV-06%5D%20CAM_vs_Grad_CAM.ipynb
 [CV-07]: GOING_DEEPER_CV/Node_07/README.md
 [CV-08]: GOING_DEEPER_CV/Node_08/README.md
 [CV-09]: GOING_DEEPER_CV/Node_09/README.md

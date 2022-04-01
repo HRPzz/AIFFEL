@@ -21,12 +21,12 @@
 |1|<b>백본 네트워크 구조 상세분석</b><hr><i>#Tags: DL, CV, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet</i>|강상권|Lecture|✖️|[📋][CV-01]|12|03.15|
 |2|<b>없다면 어떻게 될까? (ResNet Ablation Study)</b><hr><i>#Tags: DL, CV, ResNet, Ablation Study</i>|강상권|Project|⭐⭐⭐|[📋][CV-02]|12|03.16|
 |3|<b>잘 만든 Augmentation, 이미지 100장 안 부럽다</b><hr><i>#Tags: Data Augmentation, Tensorflow API, albumentation, GAN</i>|강상권|Lecture|✖️|[📋][CV-03]|12|03.18|
-|4|<b>이미지 어디까지 우려볼까?</b><hr><i>#Tags: Data Augmentation, Tensorflow Random Augmentation API, CutMix, Mixup</i>|강상권|Project|-|[📋][CV-04]|13|03.21|
+|4|<b>이미지 어디까지 우려볼까?</b><hr><i>#Tags: Data Augmentation, Tensorflow Random Augmentation API, CutMix, Mixup</i>|강상권|Project|⭐⭐⭐|[📋][CV-04]|13|03.21|
 |5|<b>너의 속이 궁금해 - Class Activation Map 살펴보기</b><hr><i>#Tags: XAI, CAM, Grad-CAM, ACoL</i>|강상권|Lecture|✖️|[📋][CV-05]|13|03.23|
 |6|<b>나를 찾아줘 - Class Activation Map 만들기</b><hr><i>#Tags: CAM, Grad-CAM, Object Detection</i>|강상권|Project|-|[📋][CV-06]|13|03.24|
 |7|<b>Object Detection</b><hr><i>#Tags: Object Detection, Bounding Box, IoU, Localization, Sliding Window, Convolution, Anchor Box, NMS, Single stage detector(YOLO, SSD), Two stage detector(R-CNN, Faster R-CNN, RPN), Anchor</i>|강상권|Lecture|✖️|[📋][CV-07]|14|03.28|
 |8|<b>GO/STOP! - Object Detection 시스템 만들기</b><hr><i>#Tags: Object Detection, RetinaNet, Focal Loss, FPN</i>|강상권|Project|-|[📋][CV-08]|14|03.29|
-|9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-09]|14|03.31|
+|9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b><hr><i>#Tags: Segmentation, FCN, U-Net, DeepLab</i>|강상권|Lecture|✖️|[📋][CV-09]|14|03.31|
 |10|<b>도로 영역을 찾자! - 세그멘테이션 모델 만들기</b><hr><i>#Tags: </i>|-|Project|-|[📋][CV-10]|15|04.04|
 |11|<b>OCR 기술의 개요</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-11]|15|04.05|
 |12|<b>직접 만들어보는 OCR</b><hr><i>#Tags: </i>|-|Project|-|[📋][CV-12]|15|04.07|
@@ -40,7 +40,7 @@
 [CV-03]: Node_03/README.md
 [CV-04]: Node_04/%5BCV-04%5D%20CutMix_vs_Mixup.ipynb
 [CV-05]: Node_05/README.md
-[CV-06]: Node_06/README.md
+[CV-06]: Node_06/%5BCV-06%5D%20CAM_vs_Grad_CAM.ipynb
 [CV-07]: Node_07/README.md
 [CV-08]: Node_08/README.md
 [CV-09]: Node_09/README.md
@@ -66,7 +66,7 @@
 |6|<b>나를 찾아줘 - Class Activation Map 만들기</b>|강상권|CAM, Grad-CAM을 위한 모델을 직접 만들고, CAM을 추출해 시각화 해본다. CAM을 Object detection에 적용해 결과를 평가해 본다.|
 |7|<b>Object Detection</b>|강상권|Object detection 문제와 이를 해결하기 위한 다양한 detection 모델들을 알아본다.|
 |8|<b>GO/STOP! - Object Detection 시스템 만들기</b>|강상권|Object detection 모델을 사용해 자동차 또는 사람이 가까이 있는지 확인한 후 멈출 수 있는 시스템을 만든다.|
-|9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b>|-|세그멘테이션의 종류, 주요 모델, 평가 기준에 대해 학습|
+|9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b>|강상권|픽셀 수준에서 이미지의 각 부분이 어떤 의미를 갖는 영역인지 분리를 해내는 세그멘테이션을 학습한다. 세그멘테이션의 종류, 주요 모델, 평가 기준을 알아본다.|
 |10|<b>도로 영역을 찾자! - 세그멘테이션 모델 만들기</b>|-|시맨틱 세그멘테이션을 이용하여 도로영역을 찾는 프로젝트 노드|
 |11|<b>OCR 기술의 개요</b>|-|글자를 인식하는 기술인 OCR 구성요소 학습(Text detection & Text recognition)|
 |12|<b>직접 만들어보는 OCR</b>|-|Text Recognition 모델을 구현 및 학습 → OCR 구현 프로젝트|
