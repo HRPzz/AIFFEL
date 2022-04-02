@@ -13,9 +13,13 @@
 <h2 align="right">
   <span style="color: rgb(236,24,94)">AIFFEL</span>
   <br>
+  
+</h2>
+
+<h5 align="right">
   <img src='https://www.daegu.go.kr/cmsh/daegu.go.kr/dgcontent/images/intro2/ico03.png' style="width: 20px; height: auto;">
   <font size="1" style="color: rgb(1,134,64)">DAEGU 1</font>
-</h2>
+</h5>
 
 <hr>
 
@@ -263,7 +267,7 @@
 |N|Title|Site|Book|PPT|Youtube|
 |:---:|---|:---:|:---:|:---:|:---:|
 |1|<b><span style="color: skyblue">파이썬 코딩 도장</span></b><hr><i><span style="color: orange">#Tags: </span>Python</i>|[➡️][Python Coding Site]|[📚][Python Coding Book]|-|[⏯️][Python Coding Youtube]|
-|2|<b><span style="color: skyblue">- Do it! 딥러닝 교과서<br>- CS231n</span></b><hr><i><span style="color: orange">#Tags: </span>AI, ML, DL</i>|-<hr>[➡️][CS231n Site]|[📚][Do it! DeepLearning Book]<hr>-|-<hr>[📄2016][CS231n PPT 2016]<br>[📄2017][CS231n PPT 2017]|-<hr>[⏯️Kor][CS231n Youtube KOR]<br>[⏯️Eng][CS231n Youtube ENG]|
+|2|<b><span style="color: skyblue">- Do it! 딥러닝 교과서<br>- CS231n</span></b><hr><i><span style="color: orange">#Tags: </span>AI, ML, DL</i>|-<hr>[➡️][CS231n Site]|[📚][Do it! DeepLearning Book]<hr>-|-<hr>[📄2016][CS231n PPT 2016]<br>[📄2017][CS231n PPT 2017]|-<hr>[⏯️KOR][CS231n Youtube KOR]<br>[⏯️ENG][CS231n Youtube ENG]|
 |3|<b><span style="color: skyblue">이것이 코딩테스트다 with 파이썬</span></b><hr><i><span style="color: orange">#Tags: </span>Python, Coding Test, Algorithm, Data Structure</i>|-|[📚][This is Coding Test with Python Book]|-|[⏯️][This is Coding Test with Python Youtube]|
 |4|<b><span style="color: skyblue">Django 를 통한 AI API 구축</span></b><hr><i><span style="color: orange">#Tags: </span>Python, Django, Web, Framework, AI, API</i>|[➡️][Django Self Study]|[📚][Do it! Django + Bootstrap]|-|
 
