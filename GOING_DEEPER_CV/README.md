@@ -1,6 +1,24 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL%2Ftree%2Fmain%2FGOING_DEEPER_CV&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align='center'>
+  <a href='https://aiffel.oopy.io/' target='_blank'>
+    <img src='https://aiffel-front-prod-asset.s3.ap-northeast-2.amazonaws.com/img/logo/aiffel_logo.png'>
+  </a>
+  <br>
+  <br>
+  <a href="https://modulabs.co.kr/" target='_blank'>
+    <img src='https://image.rocketpunch.com/company/93527/modulabs-1_logo_1554094674.png?s=400x400&t=inside' style="width: 30px; height: auto;">
+    &nbsp;
+    <img src='https://modulabs.co.kr/wp-content/uploads/2021/04/modulabs_logo.png'>
+  </a>
+</p>
 
-<h1 align="center">🌟 AIFFEL DAEGU 1 🌟</h1>
+<h2 align="right">
+  <a href="https://github.com/HRPzz/AIFFEL/tree/main/GOING_DEEPER_CV"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL%2Ftree%2Fmain%2FGOING_DEEPER_CV&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GOING_DEEPER_CV&edge_flat=false"/></a>
+  <br>
+  <a href="https://www.daegu.go.kr/intro.jsp" target='_blank'>
+    <img src='https://www.daegu.go.kr/cmsh/daegu.go.kr/dgcontent/images/intro2/ico03.png' style="width: 30px; height: auto;">
+  </a>
+  <span style="color: rgb(1,134,64)">DAEGU 1</span>
+</h2>
 
 ---
 
@@ -52,7 +70,7 @@
 [CV-15]: Node_15/README.md
 [CV-16]: Node_16/README.md
 
-**[⬆ back to top](#-lms)**
+**[⬆ back to top](#-table-of-contents)**
 
 ## ✔ GOING DEEPER CV CONTENTS SUMMARY
 
@@ -75,4 +93,4 @@
 |15|<b>사람의 몸짓을 읽어보자</b>|-|Human Pose Estimation 관련 논문 학습|
 |16|<b>행동 스티커 만들기</b>|-|Simplebaseline 모델을 활용하여 Human Pose Estimation 구현|
 
-**[⬆ back to top](#-lms)**
+**[⬆ back to top](#-table-of-contents)**

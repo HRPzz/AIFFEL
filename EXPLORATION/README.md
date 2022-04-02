@@ -12,7 +12,7 @@
 </p>
 
 <h2 align="right">
-  <a href="https://github.com/HRPzz/AIFFEL/tree/main/EXPLORATION"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL%2Ftree%2Fmain%2FEXPLORATION&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=EXPLORATION&edge_flat=false)"/></a>
+  <a href="https://github.com/HRPzz/AIFFEL/tree/main/EXPLORATION"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL%2Ftree%2Fmain%2FEXPLORATION&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=EXPLORATION&edge_flat=false"/></a>
   <br>
   <a href="https://www.daegu.go.kr/intro.jsp" target='_blank'>
     <img src='https://www.daegu.go.kr/cmsh/daegu.go.kr/dgcontent/images/intro2/ico03.png' style="width: 30px; height: auto;">

@@ -1,6 +1,24 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL%2Ftree%2Fmain%2FFUNDAMENTALS&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align='center'>
+  <a href='https://aiffel.oopy.io/' target='_blank'>
+    <img src='https://aiffel-front-prod-asset.s3.ap-northeast-2.amazonaws.com/img/logo/aiffel_logo.png'>
+  </a>
+  <br>
+  <br>
+  <a href="https://modulabs.co.kr/" target='_blank'>
+    <img src='https://image.rocketpunch.com/company/93527/modulabs-1_logo_1554094674.png?s=400x400&t=inside' style="width: 30px; height: auto;">
+    &nbsp;
+    <img src='https://modulabs.co.kr/wp-content/uploads/2021/04/modulabs_logo.png'>
+  </a>
+</p>
 
-<h1 align="center">🌟 AIFFEL DAEGU 1 🌟</h1>
+<h2 align="right">
+  <a href="https://github.com/HRPzz/AIFFEL/tree/main/FUNDAMENTALS"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL%2Ftree%2Fmain%2FFUNDAMENTALS&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=FUNDAMENTALS&edge_flat=false"/></a>
+  <br>
+  <a href="https://www.daegu.go.kr/intro.jsp" target='_blank'>
+    <img src='https://www.daegu.go.kr/cmsh/daegu.go.kr/dgcontent/images/intro2/ico03.png' style="width: 30px; height: auto;">
+  </a>
+  <span style="color: rgb(1,134,64)">DAEGU 1</span>
+</h2>
 
 ---
 
@@ -82,7 +100,7 @@
 [F-30]: Node_30/README.md
 [F-31]: Node_31/README.md
 
-**[⬆ back to top](#-lms)**
+**[⬆ back to top](#-table-of-contents)**
 
 ## ✔ FUNDAMENTALS CONTENTS SUMMARY
 
@@ -120,4 +138,4 @@
 |30|<b>컴퓨터 파워 UP</b>|손주영|멀티태스킹, 병렬프로그래밍과 동시성에 대해 이해한다. 파이썬으로 멀티스레드와 멀티프로세스를 구현하는 법에 대해 학습한다.|
 |31|<b>뉴스기사 크롤링 및 분류</b>|⬛|뉴스기사를 주제/섹션별로 모아서 데이터셋을 구축하고, 이를 기반으로 뉴스기사 주제를 분류하는 텍스트 분류기를 구현해 본다.|
 
-**[⬆ back to top](#-lms)**
+**[⬆ back to top](#-table-of-contents)**

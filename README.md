@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <p align='center'>
   <a href='https://aiffel.oopy.io/' target='_blank'>
     <img src='https://aiffel-front-prod-asset.s3.ap-northeast-2.amazonaws.com/img/logo/aiffel_logo.png'>
@@ -14,6 +12,8 @@
 </p>
 
 <h2 align="right">
+  <a href="https://github.com/HRPzz/AIFFEL"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=AIFFEL&edge_flat=false"/></a>
+
   <a href="https://www.daegu.go.kr/intro.jsp" target='_blank'>
     <img src='https://www.daegu.go.kr/cmsh/daegu.go.kr/dgcontent/images/intro2/ico03.png' style="width: 30px; height: auto;">
   </a>
