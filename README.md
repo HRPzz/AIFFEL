@@ -260,7 +260,7 @@
 
 ---
 
-<style>
+<!-- <style>
   .node_title {
     color: rgb(250,211,71)
   }
@@ -268,7 +268,7 @@
   .node_tags {
     color: rgb(236,24,94)
   }
-</style>
+</style> -->
 
 ## 💭 FLIPPED LEARNING
 
