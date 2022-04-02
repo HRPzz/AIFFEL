@@ -275,7 +275,7 @@
 |1|<b><span class="node_title">파이썬 코딩 도장</span></b><hr><i><span class="node_tags">#Tags: </span>Python</i>|[➡️][Python Coding Site]|[📚][Python Coding Book]|-|[⏯️][Python Coding Youtube]|
 |2|<b><span class="node_title">- Do it! 딥러닝 교과서<br>- CS231n</span></b><hr><i><span class="node_tags">#Tags: </span>AI, ML, DL</i>|-<hr>[➡️][CS231n Site]|[📚][Do it! DeepLearning Book]<hr>-|-<hr>[📄2016][CS231n PPT 2016]<br>[📄2017][CS231n PPT 2017]|-<hr>[⏯️KOR][CS231n Youtube KOR]<br>[⏯️ENG][CS231n Youtube ENG]|
 |3|<b><span class="node_title">이것이 코딩테스트다 with 파이썬</span></b><hr><i><span class="node_tags">#Tags: </span>Python, Coding Test, Algorithm, Data Structure</i>|-|[📚][This is Coding Test with Python Book]|-|[⏯️][This is Coding Test with Python Youtube]|
-|4|<b><span class="node_title">Django 를 통한 AI API 구축</span></b><hr><i><span class="node_tags">#Tags: </span>Python, Django, Web, Framework, AI, API</i>|[➡️][Django Self Study]|[📚][Do it! Django + Bootstrap]|-|
+|4|<b><span class="node_title">Django 를 통한 AI API 구축</span></b><hr><i><span class="node_tags">#Tags: </span>Python, Django, Web, Framework, AI, API</i>|[➡️][Django Self Study]|[📚][Do it! Django + Bootstrap]|-|-|
 
 [Python Coding Site]: https://dojang.io/course/view.php?id=7
 [Python Coding Book]: https://books.google.co.kr/books?id=G7-CDwAAQBAJ&printsec=frontcover&dq=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EC%BD%94%EB%94%A9+%EB%8F%84%EC%9E%A5&hl=ko&sa=X&redir_esc=y#v=onepage&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%BD%94%EB%94%A9%20%EB%8F%84%EC%9E%A5&f=false

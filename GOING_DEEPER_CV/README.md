@@ -19,21 +19,21 @@
 |N|Node Title|Author|Type|Evaluation|Link|W|Open|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|<b>백본 네트워크 구조 상세분석</b><hr><i>#Tags: DL, CV, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet</i>|강상권|Lecture|✖️|[📋][CV-01]|12|03.15|
-|2|<b>없다면 어떻게 될까? (ResNet Ablation Study)</b><hr><i>#Tags: DL, CV, ResNet, Ablation Study</i>|강상권|Project|⭐⭐⭐|[📋][CV-02]|12|03.16|
+|2|<b>없다면 어떻게 될까? (ResNet Ablation Study)</b><hr><i>#Tags: DL, CV, ResNet, Ablation Study</i>|강상권|**Project**|⭐⭐⭐|[📋][CV-02]|12|03.16|
 |3|<b>잘 만든 Augmentation, 이미지 100장 안 부럽다</b><hr><i>#Tags: Data Augmentation, Tensorflow API, albumentation, GAN</i>|강상권|Lecture|✖️|[📋][CV-03]|12|03.18|
-|4|<b>이미지 어디까지 우려볼까?</b><hr><i>#Tags: Data Augmentation, Tensorflow Random Augmentation API, CutMix, Mixup</i>|강상권|Project|⭐⭐⭐|[📋][CV-04]|13|03.21|
+|4|<b>이미지 어디까지 우려볼까?</b><hr><i>#Tags: Data Augmentation, Tensorflow Random Augmentation API, CutMix, Mixup</i>|강상권|**Project**|⭐⭐⭐|[📋][CV-04]|13|03.21|
 |5|<b>너의 속이 궁금해 - Class Activation Map 살펴보기</b><hr><i>#Tags: XAI, CAM, Grad-CAM, ACoL</i>|강상권|Lecture|✖️|[📋][CV-05]|13|03.23|
-|6|<b>나를 찾아줘 - Class Activation Map 만들기</b><hr><i>#Tags: CAM, Grad-CAM, Object Detection</i>|강상권|Project|-|[📋][CV-06]|13|03.24|
+|6|<b>나를 찾아줘 - Class Activation Map 만들기</b><hr><i>#Tags: CAM, Grad-CAM, Object Detection</i>|강상권|**Project**|-|[📋][CV-06]|13|03.24|
 |7|<b>Object Detection</b><hr><i>#Tags: Object Detection, Bounding Box, IoU, Localization, Sliding Window, Convolution, Anchor Box, NMS, Single stage detector(YOLO, SSD), Two stage detector(R-CNN, Faster R-CNN, RPN), Anchor</i>|강상권|Lecture|✖️|[📋][CV-07]|14|03.28|
-|8|<b>GO/STOP! - Object Detection 시스템 만들기</b><hr><i>#Tags: Object Detection, RetinaNet, Focal Loss, FPN</i>|강상권|Project|-|[📋][CV-08]|14|03.29|
+|8|<b>GO/STOP! - Object Detection 시스템 만들기</b><hr><i>#Tags: Object Detection, RetinaNet, Focal Loss, FPN</i>|강상권|**Project**|-|[📋][CV-08]|14|03.29|
 |9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b><hr><i>#Tags: Segmentation, FCN, U-Net, DeepLab</i>|강상권|Lecture|✖️|[📋][CV-09]|14|03.31|
-|10|<b>도로 영역을 찾자! - 세그멘테이션 모델 만들기</b><hr><i>#Tags: </i>|-|Project|-|[📋][CV-10]|15|04.04|
+|10|<b>도로 영역을 찾자! - 세그멘테이션 모델 만들기</b><hr><i>#Tags: </i>|-|**Project**|-|[📋][CV-10]|15|04.04|
 |11|<b>OCR 기술의 개요</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-11]|15|04.05|
-|12|<b>직접 만들어보는 OCR</b><hr><i>#Tags: </i>|-|Project|-|[📋][CV-12]|15|04.07|
+|12|<b>직접 만들어보는 OCR</b><hr><i>#Tags: </i>|-|**Project**|-|[📋][CV-12]|15|04.07|
 |13|<b>멀리 있지만 괜찮아</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-13]|16|04.11|
-|14|<b>멀리 있는 사람도 스티커를 붙여주자</b><hr><i>#Tags: </i>|-|Project|-|[📋][CV-14]|17|04.18|
+|14|<b>멀리 있는 사람도 스티커를 붙여주자</b><hr><i>#Tags: </i>|-|**Project**|-|[📋][CV-14]|17|04.18|
 |15|<b>사람의 몸짓을 읽어보자</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-15]|17|04.19|
-|16|<b>행동 스티커 만들기</b><hr><i>#Tags: </i>|-|Project|-|[📋][CV-16]|17|04.21|
+|16|<b>행동 스티커 만들기</b><hr><i>#Tags: </i>|-|**Project**|-|[📋][CV-16]|17|04.21|
 
 [CV-01]: Node_01/README.md
 [CV-02]: Node_02/%5BCV-02%5D%20ResNet_vs_Plain.ipynb
