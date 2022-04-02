@@ -14,9 +14,7 @@
   <span style="color: rgb(236,24,94)">AIFFEL</span>
   <br>
   <img src='https://www.daegu.go.kr/cmsh/daegu.go.kr/dgcontent/images/intro2/ico03.png' style="width: 20px; height: auto;">
-  <span style="color: rgb(1,134,64)">
-    <font size="1">DAEGU 1</font>
-  </span>
+  <font size="1" style="color: rgb(1,134,64)">DAEGU 1</font>
 </h2>
 
 <hr>
@@ -463,7 +461,7 @@
 
 ---
 
-# <center><span align='center' style="color: rgb(250,211,71);">💢 ABOUT AIFFEL</span></center>
+<h1 align='center' style="color: rgb(250,211,71);">💢 ABOUT AIFFEL</h1>
 
 ![aiffel_banner]
 
