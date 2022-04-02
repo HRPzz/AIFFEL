@@ -24,14 +24,14 @@
 
 ## 📌 TABLE OF CONTENTS
 
-- [💡 Thumbnails](#-thumbnails)
+- [💡 THUMBNAILS](#-thumbnails)
 - [🔒 LMS](#-lms)
   - [🔑 EXPLORATION](#-exploration)
   - [✔ EXPLORATION CONTENTS SUMMARY](#-exploration-contents-summary)
 
 ---
 
-## 💡 Thumbnails
+## 💡 THUMBNAILS
 
 |col_1|col_2|col_3|col_4|col_5|
 |:---:|:---:|:---:|:---:|:---:|
