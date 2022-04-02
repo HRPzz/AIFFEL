@@ -11,17 +11,14 @@
 </p>
 
 <h2 align="right">
-  <span style="color: rgb(236,24,94);">AIFFEL</span>
-</h2>
-<h5 align="right">
   <img src='https://www.daegu.go.kr/cmsh/daegu.go.kr/dgcontent/images/intro2/ico03.png' style="width: 20px; height: auto;">
-  <font size="1" style="color: rgb(1,134,64)">DAEGU 1</font>
-</h5>
+  <span style="color: rgb(1,134,64)">DAEGU 1</span>
+</h2>
 
 <hr>
 
 <h3 align="right">
-  <i><b><span style="color: rgb(250,211,71);">#Tags</span></b></i>
+  <i><b><span class="node_tags">#Tags</span></b></i>
 </h3>
 <div align="right">
   <i>
