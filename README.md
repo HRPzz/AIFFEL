@@ -475,13 +475,12 @@
 
 _“아이펠은 `역계단식 인공지능 학습`을 제안합니다. **50가지** 살아 있는 프로젝트를 단시간 폭넓게 경험해보세요!”_
 
-- LMS 문구
-  - Hello, Real-world!
-    - 현실 속 다양한 재료를 가지고 Learn by Doing!
-    - 앞으로 마주할 각양각색 문제들에 유연히 대처하는 힘을 길러보세요.
-  - Do-it-together
-    - 머리를 맞대어 연구하고 여러번 시도해보세요.
-    - 함께 풀지 못할 문제가 얼마나 있을까요? ¯＼_(ツ)_/¯
+- Hello, Real-world!
+  - 현실 속 다양한 재료를 가지고 Learn by Doing!
+  - 앞으로 마주할 각양각색 문제들에 유연히 대처하는 힘을 길러보세요.
+- Do-it-together
+  - 머리를 맞대어 연구하고 여러번 시도해보세요.
+  - 함께 풀지 못할 문제가 얼마나 있을까요? ¯＼_(ツ)_/¯
 - After
   - [수강생 후기](https://aiffel-review.oopy.io/)
   - [수강생 포트폴리오 모음](https://aiffel-dj.oopy.io/f4ee9db6-35d7-41bf-99bc-09f8efdb9b7b?v=d57d5cdedc1c4e189f7b88bd94c4a0bd)
