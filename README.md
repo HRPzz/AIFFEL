@@ -5,16 +5,37 @@
 </p>
 
 <p align='center'>
-  <img src='https://image.rocketpunch.com/company/93527/modulabs-1_logo_1554094674.png?s=400x400&t=inside' style="width: 30px; height: auto;">&emsp;<img src='https://modulabs.co.kr/wp-content/uploads/2021/04/modulabs_logo.png'>
+  <img src='https://image.rocketpunch.com/company/93527/modulabs-1_logo_1554094674.png?s=400x400&t=inside' style="width: 30px; height: auto;">
+  &nbsp;
+  <img src='https://modulabs.co.kr/wp-content/uploads/2021/04/modulabs_logo.png'>
 </p>
 
-<h2 align="right"><b><span style="color: skyblue"><span style="color: rgb(236,24,94)">AIFFEL</h2>
-
-<h5 align="right"><img src='https://www.daegu.go.kr/cmsh/daegu.go.kr/dgcontent/images/intro2/ico03.png' style="width: 15px; height: auto;"><span style="color: rgb(1,134,64)">DAEGU 1</span></b></h5>
+<h2 align="right">
+  <span style="color: rgb(236,24,94)">AIFFEL</span>
+  <br>
+  <img src='https://www.daegu.go.kr/cmsh/daegu.go.kr/dgcontent/images/intro2/ico03.png' style="width: 20px; height: auto;">
+  <span style="color: rgb(1,134,64)">
+    <font size="1">DAEGU 1</font>
+  </span>
+</h2>
 
 <hr>
-<h3 align="right"><i><b><span style="color: skyblue"><span style="color: orange">#Tags</span></b></i></h3>
-<div align="right"><i>인공지능 (AI; Artificial Intelligence), 머신러닝 (ML; Machine Learning), 딥러닝 (DL; Deep Learning),<br>영상 처리 (CV; Computer Vision), 자연어 처리 (NLP; Natural Language Processing),<br>역계단식 학습 (Bottom to the Top Training), 퍼실 (Facilitator),<br>풀잎 (FL; Flipped Learning), 아이펠 (AIFFEL), 모두의 연구소</i></div>
+
+<h3 align="right">
+  <i><b><span style="color: orange">#Tags</span></b></i>
+</h3>
+
+<div align="right">
+  <i>
+    인공지능 (AI; Artificial Intelligence), 머신러닝 (ML; Machine Learning), 딥러닝 (DL; Deep Learning),
+    <br>
+    영상 처리 (CV; Computer Vision), 자연어 처리 (NLP; Natural Language Processing),
+    <br>
+    역계단식 학습 (Bottom to the Top Training), 퍼실 (Facilitator),
+    <br>
+    풀잎 (FL; Flipped Learning), 아이펠 (AIFFEL), 모두의 연구소
+  </i>
+</div>
 
 ---
 
@@ -30,7 +51,7 @@
     - [🌑 NLP](#-going-deeper-nlp) [📂](GOING_DEEPER_NLP)
   - [🔑 EXPLORATION](#-exploration) [📁](EXPLORATION)
   - [🔑 FUNDAMENTALS](#-fundamentals) [📁](FUNDAMENTALS)
-- [💢 ABOUT AIFFEL](#centerspan-aligncenter-style"color-rgb25021171"-about-aiffelspancenter)
+- [💢 ABOUT AIFFEL](#-aiffel-by-모두의-연구소)
 
 ---
 
@@ -79,9 +100,7 @@
   └── README.md<br>
 </details>
 
-**[⬆ back to top][⬆ back to top]**
-
-[⬆ back to top]: #-table-of-contents
+**[⬆ back to top](#-table-of-contents)**
 
 ---
 
@@ -237,7 +256,7 @@
 
 </details>
 
-**[⬆ back to top][⬆ back to top]**
+**[⬆ back to top](#-table-of-contents)**
 
 ---
 
@@ -246,7 +265,7 @@
 |N|Title|Site|Book|PPT|Youtube|
 |:---:|---|:---:|:---:|:---:|:---:|
 |1|<b><span style="color: skyblue">파이썬 코딩 도장</span></b><hr><i><span style="color: orange">#Tags: </span>Python</i>|[➡️][Python Coding Site]|[📚][Python Coding Book]|-|[⏯️][Python Coding Youtube]|
-|2|<b><span style="color: skyblue">Do it! 딥러닝 교과서<br>CS231n</span></b><hr><i><span style="color: orange">#Tags: </span>AI, ML, DL</i>|-<hr>[➡️][CS231n Site]|[📚][Do it! DeepLearning Book]<hr>-|-<hr>[📄2016][CS231n PPT 2016]<br>[📄2017][CS231n PPT 2017]|-<hr>[⏯️Kor][CS231n Youtube KOR]<br>[⏯️Eng][CS231n Youtube ENG]|
+|2|<b><span style="color: skyblue">- Do it! 딥러닝 교과서<br>- CS231n</span></b><hr><i><span style="color: orange">#Tags: </span>AI, ML, DL</i>|-<hr>[➡️][CS231n Site]|[📚][Do it! DeepLearning Book]<hr>-|-<hr>[📄2016][CS231n PPT 2016]<br>[📄2017][CS231n PPT 2017]|-<hr>[⏯️Kor][CS231n Youtube KOR]<br>[⏯️Eng][CS231n Youtube ENG]|
 |3|<b><span style="color: skyblue">이것이 코딩테스트다 with 파이썬</span></b><hr><i><span style="color: orange">#Tags: </span>Python, Coding Test, Algorithm, Data Structure</i>|-|[📚][This is Coding Test with Python Book]|-|[⏯️][This is Coding Test with Python Youtube]|
 |4|<b><span style="color: skyblue">Django 를 통한 AI API 구축</span></b><hr><i><span style="color: orange">#Tags: </span>Python, Django, Web, Framework, AI, API</i>|[➡️][Django Self Study]|[📚][Do it! Django + Bootstrap]|-|
 
@@ -268,7 +287,7 @@
 [Django Self Study]: https://wikidocs.net/book/837
 [Do it! Django + Bootstrap]: https://books.google.co.kr/books?id=T0QqEAAAQBAJ&printsec=frontcover&dq=do+it+%EC%9E%A5%EA%B3%A0&hl=ko&sa=X&redir_esc=y#v=onepage&q=do%20it%20%EC%9E%A5%EA%B3%A0&f=false
 
-**[⬆ back to top][⬆ back to top]**
+**[⬆ back to top](#-table-of-contents)**
 
 ---
 
@@ -284,7 +303,7 @@
 [AIFFEL_HACKATHON_1 Repo]: https://github.com/HRPzz/AIFFEL_HACKATHON_1
 [AIFFEL_HACKATHON_1 ipynb]: https://github.com/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb
 
-**[⬆ back to top][⬆ back to top]**
+**[⬆ back to top](#-table-of-contents)**
 
 ---
 
@@ -328,7 +347,7 @@
 [CV-15]: GOING_DEEPER_CV/Node_15/README.md
 [CV-16]: GOING_DEEPER_CV/Node_16/README.md
 
-**[⬆ back to top][⬆ back to top]**
+**[⬆ back to top](#-table-of-contents)**
 
 ### 🔑 EXPLORATION
 
@@ -370,7 +389,7 @@
 [E-16]: EXPLORATION/Node_16/%5BE-16%5D%20Movie_Session_Based_Recommendation.ipynb
 [E-17]: EXPLORATION/Node_17/%5BE-17%5D%20Pix2Pix.ipynb
 
-**[⬆ back to top][⬆ back to top]**
+**[⬆ back to top](#-table-of-contents)**
 
 ### 🔑 FUNDAMENTALS
 
@@ -440,7 +459,7 @@
 [F-30]: FUNDAMENTALS/Node_30/README.md
 [F-31]: FUNDAMENTALS/Node_31/README.md
 
-**[⬆ back to top][⬆ back to top]**
+**[⬆ back to top](#-table-of-contents)**
 
 ---
 
@@ -485,4 +504,4 @@ _“아이펠은 `역계단식 인공지능 학습`을 제안합니다. **50가�
 [aiffel_schedule_and_curriculum_4]: https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F15030355-3659-42f6-9f4f-3d28f6386667%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-04.png&blockId=74195553-ebd5-4d61-a515-ee005f9912cb
 [aiffel_schedule_and_curriculum_5]: https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb50419d4-5cd2-437d-906b-6b965cac8ca7%2F1123%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AD-05.png&blockId=a7d14d0e-1191-4dcd-beca-ea60b79f2978
 
-**[⬆ back to top][⬆ back to top]**
+**[⬆ back to top](#-table-of-contents)**
