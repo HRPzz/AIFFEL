@@ -1,17 +1,23 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<p align='center'>
-  <img src='https://aiffel-front-prod-asset.s3.ap-northeast-2.amazonaws.com/img/logo/aiffel_logo.png'>
-</p>
+## 🏬 [AIFFEL](https://aiffel.oopy.io/) by [모두의 연구소](https://modulabs.co.kr/)
 
 <p align='center'>
-  <img src='https://image.rocketpunch.com/company/93527/modulabs-1_logo_1554094674.png?s=400x400&t=inside' style="width: 30px; height: auto;">
-  &nbsp;
-  <img src='https://modulabs.co.kr/wp-content/uploads/2021/04/modulabs_logo.png'>
+  <a href='https://aiffel.oopy.io/' target='_blank'>
+    <img src='https://aiffel-front-prod-asset.s3.ap-northeast-2.amazonaws.com/img/logo/aiffel_logo.png'>
+  </a>
+  <br>
+  <a href="https://modulabs.co.kr/" target='_blank'>
+    <img src='https://image.rocketpunch.com/company/93527/modulabs-1_logo_1554094674.png?s=400x400&t=inside' style="width: 30px; height: auto;">
+    &nbsp;
+    <img src='https://modulabs.co.kr/wp-content/uploads/2021/04/modulabs_logo.png'>
+  </a>
 </p>
 
 <h2 align="right">
-  <img src='https://www.daegu.go.kr/cmsh/daegu.go.kr/dgcontent/images/intro2/ico03.png' style="width: 30px; height: auto;">
+  <a href="https://www.daegu.go.kr/intro.jsp" target='_blank'>
+    <img src='https://www.daegu.go.kr/cmsh/daegu.go.kr/dgcontent/images/intro2/ico03.png' style="width: 30px; height: auto;">
+  </a>
   <span style="color: rgb(1,134,64)">DAEGU 1</span>
 </h2>
 
