@@ -33,12 +33,16 @@
 
 ## 💡 THUMBNAILS
 
-|col_1|col_2|col_3|col_4|col_5|
-|:---:|:---:|:---:|:---:|:---:|
-|![E-01 thumbnail]|![E-02 thumbnail]|![E-03 thumbnail]|![E-04 thumbnail]|![E-05 thumbnail]|
-|![E-06 thumbnail]|![E-07 thumbnail]|![E-08 thumbnail]|![E-09 thumbnail]|![E-10 thumbnail]|
-|![E-11 thumbnail]|![E-12 thumbnail]|![E-13 thumbnail]|![E-14 thumbnail]|![E-15 thumbnail]|
-|![E-16 thumbnail]|![E-17 thumbnail]|-|-|-|
+|-|COL_1|COL_2|COL_3|COL_4|COL_5|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|E-N|E-01|E-02|E-03|E-04|E-05|
+|IMG|![E-01 thumbnail]|![E-02 thumbnail]|![E-03 thumbnail]|![E-04 thumbnail]|![E-05 thumbnail]|
+|E-N|E-06|E-07|E-08|E-09|E-10|
+|IMG|![E-06 thumbnail]|![E-07 thumbnail]|![E-08 thumbnail]|![E-09 thumbnail]|![E-10 thumbnail]|
+|E-N|E-11|E-12|E-13|E-14|E-15|
+|IMG|![E-11 thumbnail]|![E-12 thumbnail]|![E-13 thumbnail]|![E-14 thumbnail]|![E-15 thumbnail]|
+|E-N|E-16|E-17|-|-|-|
+|IMG|![E-16 thumbnail]|![E-17 thumbnail]|-|-|-|
 
 [E-01 thumbnail]: thumbnails/E-01_thumbnail.png
 [E-02 thumbnail]: thumbnails/E-02_thumbnail.png
