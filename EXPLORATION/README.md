@@ -30,7 +30,7 @@
 
 ---
 
-|-|-|-|
+|col_1|col_2|col_3|
 |:---:|:---:|:---:|
 |![E-01 thumbnail]|![E-02 thumbnail]|![E-03 thumbnail]|
 |![E-04 thumbnail]|![E-05 thumbnail]|![E-06 thumbnail]|
@@ -39,23 +39,23 @@
 |![E-13 thumbnail]|![E-14 thumbnail]|![E-15 thumbnail]|
 |![E-16 thumbnail]|![E-17 thumbnail]|-|
 
-[E-01 thumbnail]: thumbnails/E-01 thumbnail.png
-[E-02 thumbnail]: thumbnails/E-02 thumbnail.png
-[E-03 thumbnail]: thumbnails/E-03 thumbnail.png
-[E-04 thumbnail]: thumbnails/E-04 thumbnail.png
-[E-05 thumbnail]: thumbnails/E-05 thumbnail.png
-[E-06 thumbnail]: thumbnails/E-06 thumbnail.png
-[E-07 thumbnail]: thumbnails/E-07 thumbnail.png
-[E-08 thumbnail]: thumbnails/E-08 thumbnail.png
-[E-09 thumbnail]: thumbnails/E-09 thumbnail.png
-[E-10 thumbnail]: thumbnails/E-10 thumbnail.gif
-[E-11 thumbnail]: thumbnails/E-11 thumbnail.png
-[E-12 thumbnail]: thumbnails/E-12 thumbnail.png
-[E-13 thumbnail]: thumbnails/E-13 thumbnail.png
-[E-14 thumbnail]: thumbnails/E-14 thumbnail.png
-[E-15 thumbnail]: thumbnails/E-15 thumbnail.png
-[E-16 thumbnail]: thumbnails/E-16 thumbnail.png
-[E-17 thumbnail]: thumbnails/E-17 thumbnail.gif
+[E-01 thumbnail]: thumbnails/E-01_thumbnail.png
+[E-02 thumbnail]: thumbnails/E-02_thumbnail.png
+[E-03 thumbnail]: thumbnails/E-03_thumbnail.png
+[E-04 thumbnail]: thumbnails/E-04_thumbnail.png
+[E-05 thumbnail]: thumbnails/E-05_thumbnail.png
+[E-06 thumbnail]: thumbnails/E-06_thumbnail.png
+[E-07 thumbnail]: thumbnails/E-07_thumbnail.png
+[E-08 thumbnail]: thumbnails/E-08_thumbnail.png
+[E-09 thumbnail]: thumbnails/E-09_thumbnail.png
+[E-10 thumbnail]: thumbnails/E-10_thumbnail.gif
+[E-11 thumbnail]: thumbnails/E-11_thumbnail.png
+[E-12 thumbnail]: thumbnails/E-12_thumbnail.png
+[E-13 thumbnail]: thumbnails/E-13_thumbnail.png
+[E-14 thumbnail]: thumbnails/E-14_thumbnail.png
+[E-15 thumbnail]: thumbnails/E-15_thumbnail.png
+[E-16 thumbnail]: thumbnails/E-16_thumbnail.png
+[E-17 thumbnail]: thumbnails/E-17_thumbnail.gif
 
 ---
 
