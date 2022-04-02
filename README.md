@@ -11,11 +11,8 @@
 </p>
 
 <h2 align="right">
-  <span style="color: rgb(236,24,94)">AIFFEL</span>
-  <br>
-  
+  <span style="color: rgb(236,24,94);">AIFFEL</span>
 </h2>
-
 <h5 align="right">
   <img src='https://www.daegu.go.kr/cmsh/daegu.go.kr/dgcontent/images/intro2/ico03.png' style="width: 20px; height: auto;">
   <font size="1" style="color: rgb(1,134,64)">DAEGU 1</font>
@@ -24,9 +21,8 @@
 <hr>
 
 <h3 align="right">
-  <i><b><span style="color: orange">#Tags</span></b></i>
+  <i><b><span style="color: rgb(250,211,71);">#Tags</span></b></i>
 </h3>
-
 <div align="right">
   <i>
     인공지능 (AI; Artificial Intelligence), 머신러닝 (ML; Machine Learning), 딥러닝 (DL; Deep Learning),
@@ -262,14 +258,24 @@
 
 ---
 
+<style>
+  .node_title {
+    color: rgb(250,211,71)
+  }
+
+  .node_tags {
+    color: rgb(236,24,94)
+  }
+</style>
+
 ## 💭 FLIPPED LEARNING
 
 |N|Title|Site|Book|PPT|Youtube|
 |:---:|---|:---:|:---:|:---:|:---:|
-|1|<b><span style="color: skyblue">파이썬 코딩 도장</span></b><hr><i><span style="color: orange">#Tags: </span>Python</i>|[➡️][Python Coding Site]|[📚][Python Coding Book]|-|[⏯️][Python Coding Youtube]|
-|2|<b><span style="color: skyblue">- Do it! 딥러닝 교과서<br>- CS231n</span></b><hr><i><span style="color: orange">#Tags: </span>AI, ML, DL</i>|-<hr>[➡️][CS231n Site]|[📚][Do it! DeepLearning Book]<hr>-|-<hr>[📄2016][CS231n PPT 2016]<br>[📄2017][CS231n PPT 2017]|-<hr>[⏯️KOR][CS231n Youtube KOR]<br>[⏯️ENG][CS231n Youtube ENG]|
-|3|<b><span style="color: skyblue">이것이 코딩테스트다 with 파이썬</span></b><hr><i><span style="color: orange">#Tags: </span>Python, Coding Test, Algorithm, Data Structure</i>|-|[📚][This is Coding Test with Python Book]|-|[⏯️][This is Coding Test with Python Youtube]|
-|4|<b><span style="color: skyblue">Django 를 통한 AI API 구축</span></b><hr><i><span style="color: orange">#Tags: </span>Python, Django, Web, Framework, AI, API</i>|[➡️][Django Self Study]|[📚][Do it! Django + Bootstrap]|-|
+|1|<b><span class="node_title">파이썬 코딩 도장</span></b><hr><i><span class="node_tags">#Tags: </span>Python</i>|[➡️][Python Coding Site]|[📚][Python Coding Book]|-|[⏯️][Python Coding Youtube]|
+|2|<b><span class="node_title">- Do it! 딥러닝 교과서<br>- CS231n</span></b><hr><i><span class="node_tags">#Tags: </span>AI, ML, DL</i>|-<hr>[➡️][CS231n Site]|[📚][Do it! DeepLearning Book]<hr>-|-<hr>[📄2016][CS231n PPT 2016]<br>[📄2017][CS231n PPT 2017]|-<hr>[⏯️KOR][CS231n Youtube KOR]<br>[⏯️ENG][CS231n Youtube ENG]|
+|3|<b><span class="node_title">이것이 코딩테스트다 with 파이썬</span></b><hr><i><span class="node_tags">#Tags: </span>Python, Coding Test, Algorithm, Data Structure</i>|-|[📚][This is Coding Test with Python Book]|-|[⏯️][This is Coding Test with Python Youtube]|
+|4|<b><span class="node_title">Django 를 통한 AI API 구축</span></b><hr><i><span class="node_tags">#Tags: </span>Python, Django, Web, Framework, AI, API</i>|[➡️][Django Self Study]|[📚][Do it! Django + Bootstrap]|-|
 
 [Python Coding Site]: https://dojang.io/course/view.php?id=7
 [Python Coding Book]: https://books.google.co.kr/books?id=G7-CDwAAQBAJ&printsec=frontcover&dq=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EC%BD%94%EB%94%A9+%EB%8F%84%EC%9E%A5&hl=ko&sa=X&redir_esc=y#v=onepage&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%BD%94%EB%94%A9%20%EB%8F%84%EC%9E%A5&f=false
@@ -293,11 +299,11 @@
 
 ---
 
-## 💬 TEAM <b>PROJECT</b>
+## 💬 TEAM PROJECT
 
 |N|Title|Link|Evaluation|W|Open|Done|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|
-|1|<b><span style="color: skyblue">제 1차 HACKATHON: 데이터톤(DATATHON)</span></b><hr><i><span style="color: orange">#Tags: </span> EDA</i>|[📁Repo][AIFFEL_HACKATHON_1 Repo]<br>[📋ipynb][AIFFEL_HACKATHON_1 ipynb]|2단계<br>통과|11|03.08|03.11|
+|1|<b><span class="node_title">제 1차 HACKATHON: 데이터톤(DATATHON)</span></b><hr><i><span class="node_tags">#Tags: </span> EDA</i>|[📁Repo][AIFFEL_HACKATHON_1 Repo]<br>[📋ipynb][AIFFEL_HACKATHON_1 ipynb]|2단계<br>통과|11|03.08|03.11|
 |2|-|[📁Repo]()<br>[📋ipynb]()|-|16|04.12|04.15|
 |3|-|[📂Repo]()<br>[📋ipynb]()|-|18|04.25|05.02|
 |4|-|[📂Repo]()<br>[📋ipynb]()|-|19<br>~<br>24|05.03|06.09|
@@ -315,22 +321,22 @@
 
 |N|Node Title|Author|Type|Evaluation|Link|W|Open|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|<b><span style="color: skyblue">백본 네트워크 구조 상세분석</span></b><hr><i><span style="color: orange">#Tags: </span> DL, CV, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet</i>|강상권|Lecture|✖️|[📋][CV-01]|12|03.15|
-|2|<b><span style="color: skyblue">없다면 어떻게 될까? (ResNet Ablation Study)</span></b><hr><i><span style="color: orange">#Tags: </span> DL, CV, ResNet, Ablation Study</i>|강상권|<b>Project</b>|⭐⭐⭐|[📋][CV-02]|12|03.16|
-|3|<b><span style="color: skyblue">잘 만든 Augmentation, 이미지 100장 안 부럽다</span></b><hr><i><span style="color: orange">#Tags: </span> Data Augmentation, Tensorflow API, albumentation, GAN</i>|강상권|Lecture|✖️|[📋][CV-03]|12|03.18|
-|4|<b><span style="color: skyblue">이미지 어디까지 우려볼까?</span></b><hr><i><span style="color: orange">#Tags: </span> Data Augmentation, Tensorflow Random Augmentation API, CutMix, Mixup</i>|강상권|<b>Project</b>|⭐⭐⭐|[📋][CV-04]|13|03.21|
-|5|<b><span style="color: skyblue">너의 속이 궁금해 - Class Activation Map 살펴보기</span></b><hr><i><span style="color: orange">#Tags: </span> XAI, CAM, Grad-CAM, ACoL</i>|강상권|Lecture|✖️|[📋][CV-05]|13|03.23|
-|6|<b><span style="color: skyblue">나를 찾아줘 - Class Activation Map 만들기</span></b><hr><i><span style="color: orange">#Tags: </span> CAM, Grad-CAM, Object Detection</i>|강상권|<b>Project</b>|-|[📋][CV-06]|13|03.24|
-|7|<b><span style="color: skyblue">Object Detection</span></b><hr><i><span style="color: orange">#Tags: </span> Object Detection, Bounding Box, IoU, Localization, Sliding Window, Convolution, Anchor Box, NMS, Single stage detector(YOLO, SSD), Two stage detector(R-CNN, Faster R-CNN, RPN), Anchor</i>|강상권|Lecture|✖️|[📋][CV-07]|14|03.28|
-|8|<b><span style="color: skyblue">GO/STOP! - Object Detection 시스템 만들기</span></b><hr><i><span style="color: orange">#Tags: </span> Object Detection, RetinaNet, Focal Loss, FPN</i>|강상권|<b>Project</b>|-|[📋][CV-08]|14|03.29|
-|9|<b><span style="color: skyblue">물체를 분리하자! - 세그멘테이션 살펴보기</span></b><hr><i><span style="color: orange">#Tags: </span> Segmentation, FCN, U-Net, DeepLab</i>|강상권|Lecture|✖️|[📋][CV-09]|14|03.31|
-|10|<b><span style="color: skyblue">도로 영역을 찾자! - 세그멘테이션 모델 만들기</span></b><hr><i><span style="color: orange">#Tags: </span> </i>|-|<b>Project</b>|-|[📋][CV-10]|15|04.04|
-|11|<b><span style="color: skyblue">OCR 기술의 개요</span></b><hr><i><span style="color: orange">#Tags: </span> </i>|-|Lecture|✖️|[📋][CV-11]|15|04.05|
-|12|<b><span style="color: skyblue">직접 만들어보는 OCR</span></b><hr><i><span style="color: orange">#Tags: </span> </i>|-|<b>Project</b>|-|[📋][CV-12]|15|04.07|
-|13|<b><span style="color: skyblue">멀리 있지만 괜찮아</span></b><hr><i><span style="color: orange">#Tags: </span> </i>|-|Lecture|✖️|[📋][CV-13]|16|04.11|
-|14|<b><span style="color: skyblue">멀리 있는 사람도 스티커를 붙여주자</span></b><hr><i><span style="color: orange">#Tags: </span> </i>|-|<b>Project</b>|-|[📋][CV-14]|17|04.18|
-|15|<b><span style="color: skyblue">사람의 몸짓을 읽어보자</span></b><hr><i><span style="color: orange">#Tags: </span> </i>|-|Lecture|✖️|[📋][CV-15]|17|04.19|
-|16|<b><span style="color: skyblue">행동 스티커 만들기</span></b><hr><i><span style="color: orange">#Tags: </span> </i>|-|<b>Project</b>|-|[📋][CV-16]|17|04.21|
+|1|<b><span class="node_title">백본 네트워크 구조 상세분석</span></b><hr><i><span class="node_tags">#Tags: </span> DL, CV, Paper, ResNet, DenseNet, SENet, NasNet, EfficientNet</i>|강상권|Lecture|✖️|[📋][CV-01]|12|03.15|
+|2|<b><span class="node_title">없다면 어떻게 될까? (ResNet Ablation Study)</span></b><hr><i><span class="node_tags">#Tags: </span> DL, CV, ResNet, Ablation Study</i>|강상권|<b>Project</b>|⭐⭐⭐|[📋][CV-02]|12|03.16|
+|3|<b><span class="node_title">잘 만든 Augmentation, 이미지 100장 안 부럽다</span></b><hr><i><span class="node_tags">#Tags: </span> Data Augmentation, Tensorflow API, albumentation, GAN</i>|강상권|Lecture|✖️|[📋][CV-03]|12|03.18|
+|4|<b><span class="node_title">이미지 어디까지 우려볼까?</span></b><hr><i><span class="node_tags">#Tags: </span> Data Augmentation, Tensorflow Random Augmentation API, CutMix, Mixup</i>|강상권|<b>Project</b>|⭐⭐⭐|[📋][CV-04]|13|03.21|
+|5|<b><span class="node_title">너의 속이 궁금해 - Class Activation Map 살펴보기</span></b><hr><i><span class="node_tags">#Tags: </span> XAI, CAM, Grad-CAM, ACoL</i>|강상권|Lecture|✖️|[📋][CV-05]|13|03.23|
+|6|<b><span class="node_title">나를 찾아줘 - Class Activation Map 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> CAM, Grad-CAM, Object Detection</i>|강상권|<b>Project</b>|-|[📋][CV-06]|13|03.24|
+|7|<b><span class="node_title">Object Detection</span></b><hr><i><span class="node_tags">#Tags: </span> Object Detection, Bounding Box, IoU, Localization, Sliding Window, Convolution, Anchor Box, NMS, Single stage detector(YOLO, SSD), Two stage detector(R-CNN, Faster R-CNN, RPN), Anchor</i>|강상권|Lecture|✖️|[📋][CV-07]|14|03.28|
+|8|<b><span class="node_title">GO/STOP! - Object Detection 시스템 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> Object Detection, RetinaNet, Focal Loss, FPN</i>|강상권|<b>Project</b>|-|[📋][CV-08]|14|03.29|
+|9|<b><span class="node_title">물체를 분리하자! - 세그멘테이션 살펴보기</span></b><hr><i><span class="node_tags">#Tags: </span> Segmentation, FCN, U-Net, DeepLab</i>|강상권|Lecture|✖️|[📋][CV-09]|14|03.31|
+|10|<b><span class="node_title">도로 영역을 찾자! - 세그멘테이션 모델 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|<b>Project</b>|-|[📋][CV-10]|15|04.04|
+|11|<b><span class="node_title">OCR 기술의 개요</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|Lecture|✖️|[📋][CV-11]|15|04.05|
+|12|<b><span class="node_title">직접 만들어보는 OCR</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|<b>Project</b>|-|[📋][CV-12]|15|04.07|
+|13|<b><span class="node_title">멀리 있지만 괜찮아</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|Lecture|✖️|[📋][CV-13]|16|04.11|
+|14|<b><span class="node_title">멀리 있는 사람도 스티커를 붙여주자</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|<b>Project</b>|-|[📋][CV-14]|17|04.18|
+|15|<b><span class="node_title">사람의 몸짓을 읽어보자</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|Lecture|✖️|[📋][CV-15]|17|04.19|
+|16|<b><span class="node_title">행동 스티커 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|<b>Project</b>|-|[📋][CV-16]|17|04.21|
 
 [CV-01]: GOING_DEEPER_CV/Node_01/README.md
 [CV-02]: GOING_DEEPER_CV/Node_02/%5BCV-02%5D%20ResNet_vs_Plain.ipynb
@@ -355,23 +361,23 @@
 
 |N|Node Title|Author|Evaluation|Link|W|Open|Done|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|<b><span style="color: skyblue">인공지능과 가위바위보 하기</span></b><hr><i><span style="color: orange">#Tags: </span> DL, Sequential API, LeNet</i>|김승일|⭐⭐☆|[📋][E-01]|2|01.04|01.05|
-|2|<b><span style="color: skyblue">Iris의 세 가지 품종, 분류해볼 수 있겠어요?</span></b><hr><i><span style="color: orange">#Tags: </span> ML, Supervised Learning, Classification, F1 score</i>|정민정|⭐⭐⭐|[📋][E-02]|2|01.06|01.11|
-|3|<b><span style="color: skyblue">카메라 스티커앱 만들기 첫걸음</span></b><hr><i><span style="color: orange">#Tags: </span> DL, CV, dlib, HOG, SVM</i>|우태강|⭐⭐⭐<br>🏆|[📋][E-03]|3|01.11|01.15|
-|4|<b><span style="color: skyblue">작사가 인공지능 만들기</span></b><hr><i><span style="color: orange">#Tags: </span> DL, NLP, RNN, LSTM</i>|문성원|⭐⭐☆<br>🏆|[📋][E-04]|3|01.13|01.14|
-|5|<b><span style="color: skyblue">나의 첫 번째 캐글 경진대회, 무작정 따라해보기</span></b><hr><i><span style="color: orange">#Tags: </span> Kaggle, EDA</i>|정민정|⭐⭐☆<br>🏆|[📋][E-05]|4|01.18|01.25|
-|6|<b><span style="color: skyblue">영화리뷰 텍스트 감성분석하기</span></b><hr><i><span style="color: orange">#Tags: </span> DL, NLP</i>|우지철|⭐⭐⭐<br>🏆|[📋][E-06]|4|01.20|01.24|
-|7|<b><span style="color: skyblue">인물사진을 만들어 보자</span></b><hr><i><span style="color: orange">#Tags: </span> pixellib, CV</i>|우태강|⭐⭐⭐<br>🏆|[📋][E-07]|5|01.25|02.01|
-|8|<b><span style="color: skyblue">뉴스 요약봇 만들기</span></b><hr><i><span style="color: orange">#Tags: </span> DL, NLP</i>|유원준|⭐⭐⭐<br>🏆|[📋][E-08]|5|01.27|02.03|
-|9|<b><span style="color: skyblue">폐렴아 기다려라!</span></b><hr><i><span style="color: orange">#Tags: </span> ML, CV, CNN</i>|유원준|⭐⭐⭐<br>🏆|[📋][E-09]|6|02.03|02.10|
-|10|<b><span style="color: skyblue">인공지능으로 세상에 없던 새로운 패션 만들기</span></b><hr><i><span style="color: orange">#Tags: </span> DL, GAN, DCGAN</i>|정민정|⭐⭐⭐<br>🏆|[📋][E-10]|7|02.08|02.15|
-|11|<b><span style="color: skyblue">어제 오른 내 주식, 과연 내일은?</span></b><hr><i><span style="color: orange">#Tags: </span> ML, Statistics, ARMIA</i>|김원철|⭐⭐⭐<br>🏆|[📋][E-11]|7|02.10|02.17|
-|12|<b><span style="color: skyblue">트랜스포머로 만드는 대화형 챗봇</span></b><hr><i><span style="color: orange">#Tags: </span> DL, NLP, Transformer, Attention</i>|유원준|⭐⭐⭐<br>🏆|[📋][E-12]|8|02.15| 02.22|
-|13|<b><span style="color: skyblue">인간보다 퀴즈를 잘푸는 인공지능</span></b><hr><i><span style="color: orange">#Tags: </span> DL, NLP, BERT</i>|현청천|⭐⭐⭐<br>🏆|[📋][E-13]|8|02.17|02.24|
-|14|<b><span style="color: skyblue">아이유팬이 좋아할 만한 다른 아티스트 찾기</span></b><hr><i><span style="color: orange">#Tags: </span> DL, NLP, Recommendation, MF, CSR, ALS</i>|박지민|⭐⭐⭐<br>🏆|[📋][E-14]|9|02.22|03.01|
-|15|<b><span style="color: skyblue">문자를 읽을 수 있는 딥러닝</span></b><hr><i><span style="color: orange">#Tags: </span> DL, CV, OCR</i>|강상권|⭐⭐⭐<br>🏆|[📋][E-15]|9|02.24|03.03|
-|16|<b><span style="color: skyblue">다음에 볼 영화 예측하기</span></b><hr><i><span style="color: orange">#Tags: </span> DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k</i>|박지민|⭐⭐⭐|[📋][E-16]|11|03.07|03.14|
-|17|<b><span style="color: skyblue">난 스케치를 할 테니 너는 채색을 하거라</span></b><hr><i><span style="color: orange">#Tags: </span> DL, CV, GAN, cGAN, Pix2Pix</i>|정신유|⭐⭐⭐<br>🏆|[📋][E-17]|12|03.14|03.21|
+|1|<b><span class="node_title">인공지능과 가위바위보 하기</span></b><hr><i><span class="node_tags">#Tags: </span> DL, Sequential API, LeNet</i>|김승일|⭐⭐☆|[📋][E-01]|2|01.04|01.05|
+|2|<b><span class="node_title">Iris의 세 가지 품종, 분류해볼 수 있겠어요?</span></b><hr><i><span class="node_tags">#Tags: </span> ML, Supervised Learning, Classification, F1 score</i>|정민정|⭐⭐⭐|[📋][E-02]|2|01.06|01.11|
+|3|<b><span class="node_title">카메라 스티커앱 만들기 첫걸음</span></b><hr><i><span class="node_tags">#Tags: </span> DL, CV, dlib, HOG, SVM</i>|우태강|⭐⭐⭐<br>🏆|[📋][E-03]|3|01.11|01.15|
+|4|<b><span class="node_title">작사가 인공지능 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> DL, NLP, RNN, LSTM</i>|문성원|⭐⭐☆<br>🏆|[📋][E-04]|3|01.13|01.14|
+|5|<b><span class="node_title">나의 첫 번째 캐글 경진대회, 무작정 따라해보기</span></b><hr><i><span class="node_tags">#Tags: </span> Kaggle, EDA</i>|정민정|⭐⭐☆<br>🏆|[📋][E-05]|4|01.18|01.25|
+|6|<b><span class="node_title">영화리뷰 텍스트 감성분석하기</span></b><hr><i><span class="node_tags">#Tags: </span> DL, NLP</i>|우지철|⭐⭐⭐<br>🏆|[📋][E-06]|4|01.20|01.24|
+|7|<b><span class="node_title">인물사진을 만들어 보자</span></b><hr><i><span class="node_tags">#Tags: </span> pixellib, CV</i>|우태강|⭐⭐⭐<br>🏆|[📋][E-07]|5|01.25|02.01|
+|8|<b><span class="node_title">뉴스 요약봇 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> DL, NLP</i>|유원준|⭐⭐⭐<br>🏆|[📋][E-08]|5|01.27|02.03|
+|9|<b><span class="node_title">폐렴아 기다려라!</span></b><hr><i><span class="node_tags">#Tags: </span> ML, CV, CNN</i>|유원준|⭐⭐⭐<br>🏆|[📋][E-09]|6|02.03|02.10|
+|10|<b><span class="node_title">인공지능으로 세상에 없던 새로운 패션 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> DL, GAN, DCGAN</i>|정민정|⭐⭐⭐<br>🏆|[📋][E-10]|7|02.08|02.15|
+|11|<b><span class="node_title">어제 오른 내 주식, 과연 내일은?</span></b><hr><i><span class="node_tags">#Tags: </span> ML, Statistics, ARMIA</i>|김원철|⭐⭐⭐<br>🏆|[📋][E-11]|7|02.10|02.17|
+|12|<b><span class="node_title">트랜스포머로 만드는 대화형 챗봇</span></b><hr><i><span class="node_tags">#Tags: </span> DL, NLP, Transformer, Attention</i>|유원준|⭐⭐⭐<br>🏆|[📋][E-12]|8|02.15| 02.22|
+|13|<b><span class="node_title">인간보다 퀴즈를 잘푸는 인공지능</span></b><hr><i><span class="node_tags">#Tags: </span> DL, NLP, BERT</i>|현청천|⭐⭐⭐<br>🏆|[📋][E-13]|8|02.17|02.24|
+|14|<b><span class="node_title">아이유팬이 좋아할 만한 다른 아티스트 찾기</span></b><hr><i><span class="node_tags">#Tags: </span> DL, NLP, Recommendation, MF, CSR, ALS</i>|박지민|⭐⭐⭐<br>🏆|[📋][E-14]|9|02.22|03.01|
+|15|<b><span class="node_title">문자를 읽을 수 있는 딥러닝</span></b><hr><i><span class="node_tags">#Tags: </span> DL, CV, OCR</i>|강상권|⭐⭐⭐<br>🏆|[📋][E-15]|9|02.24|03.03|
+|16|<b><span class="node_title">다음에 볼 영화 예측하기</span></b><hr><i><span class="node_tags">#Tags: </span> DL, NLP, Session-Based Recommendation, GRU4REC, MRR, Recall@k</i>|박지민|⭐⭐⭐|[📋][E-16]|11|03.07|03.14|
+|17|<b><span class="node_title">난 스케치를 할 테니 너는 채색을 하거라</span></b><hr><i><span class="node_tags">#Tags: </span> DL, CV, GAN, cGAN, Pix2Pix</i>|정신유|⭐⭐⭐<br>🏆|[📋][E-17]|12|03.14|03.21|
 
 [E-01]: EXPLORATION/Node_01/%5BE-01%5D%20Rock_Scissor_Paper_Classifier.ipynb
 [E-02]: EXPLORATION/Node_02/%5BE-02%5D%20Classifier_Examples%20(Digits%2C%20Wine%2C%20Breast_Cancer).ipynb
@@ -397,37 +403,37 @@
 
 |N|Node Title|Author|Link|W|Open|
 |:---:|---|:---:|:---:|:---:|:---:|
-|1|<b><span style="color: skyblue">Ready to go?</span></b><hr><i><span style="color: orange">#Tags: </span> LMS, Cloud Jupyter</i>|백병인|[📋][F-01]|1|12.28|
-|2|<b><span style="color: skyblue">인공지능 개발자가 되기 위한 위대한 첫 걸음</span></b><hr><i><span style="color: orange">#Tags: </span> CLI, Anaconda</i>|정민정|[📋][F-02]|1|12.28|
-|3|<b><span style="color: skyblue">터미널로 배우는 리눅스 운영체제</span></b><hr><i><span style="color: orange">#Tags: </span> OS, Linux</i>|오상준|[📋][F-03]|1|12.28|
-|4|<b><span style="color: skyblue">개발자를 위한 첫 번째 필수 교양</span></b><hr><i><span style="color: orange">#Tags: </span> Git, GitHub</i>|정민정|[📋][F-04]|1|12.28|
-|5|<b><span style="color: skyblue">날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?</span></b><hr><i><span style="color: orange">#Tags: </span> Kaggle, EDA</i>|⬛|[📋][F-05]|4|01.18|
-|6|<b><span style="color: skyblue">파이썬으로 코딩 시작하기</span></b><hr><i><span style="color: orange">#Tags: </span> Python, Data Type, Function</i>|오상준|[📋][F-06]|1|12.28|
-|7|<b><span style="color: skyblue">텍스트의 다양한 변신 (문자열, 파일 다루기)</span></b><hr><i><span style="color: orange">#Tags: </span> Python, String, File, Module</i>|손주영|[📋][F-07]|1|12.29|
-|8|<b><span style="color: skyblue">파이썬 잘하는 척 해보자</span></b><hr><i><span style="color: orange">#Tags: </span> Python, For Loop, Try-Except, Lambda</i>|장도영|[📋][F-08]|1|12.30|
-|9|<b><span style="color: skyblue">Data 어떻게 표현하면 좋을까? 배열(array)과 표(table)</span></b><hr><i><span style="color: orange">#Tags: </span> Numpy, Pandas</i>|손주영|[📋][F-09]|1|12.31|
-|10|<b><span style="color: skyblue">다양한 데이터 전처리 기법</span></b><hr><i><span style="color: orange">#Tags: </span> EDA, Data Preprocessing, Outlier, Normalization, One-Hot Encoding, Binning</i>|박윤진|[📋][F-10]|2|01.03|
-|11|<b><span style="color: skyblue">데이터를 한눈에! Visualization</span></b><hr><i><span style="color: orange">#Tags: </span> Pandas, Matplotlib, Seaborn</i>|손주영|[📋][F-11]|2|01.05|
-|12|<b><span style="color: skyblue">사이킷런으로 구현해 보는 머신러닝</span></b><hr><i><span style="color: orange">#Tags: </span> ML, Scikit-learn</i>|손주영|[📋][F-12]|2|01.07|
-|13|<b><span style="color: skyblue">당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기</span></b><hr><i><span style="color: orange">#Tags: </span> Python, OOP</i>|손주영|[📋][F-13]|3|01.10|
-|14|<b><span style="color: skyblue">거울아 거울아, 나는 멍멍이 상이니, 아니면 냥이 상이니?</span></b><hr><i><span style="color: orange">#Tags: </span> DL, Model, Supervised Learning, Classification</i>|⬛|[📋][F-14]|3|01.12|
-|15|<b><span style="color: skyblue">🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리</span></b><hr><i><span style="color: orange">#Tags: </span> Kaggle, EDA</i>|정민정|[📋][F-15]|3|01.14|
-|16|<b><span style="color: skyblue">파이썬으로 이미지 파일 다루기</span></b><hr><i><span style="color: orange">#Tags: </span> pillow, CV</i>|오상준|[📋][F-16]|4|01.17|
-|17|<b><span style="color: skyblue">딥러닝과 신경망의 본질</span></b><hr><i><span style="color: orange">#Tags: </span> DL, NN</i>|정민정|[📋][F-17]|4|01.19|
-|18|<b><span style="color: skyblue">딥러닝 들여다보기</span></b><hr><i><span style="color: orange">#Tags: </span> DL, Numpy</i>|우지철|[📋][F-18]|4|01.21|
-|19|<b><span style="color: skyblue">선형 회귀와 로지스틱 회귀</span></b><hr><i><span style="color: orange">#Tags: </span> ML, Supervised Learning, Regression</i>|표정우|[📋][F-19]|5|01.24|
-|20|<b><span style="color: skyblue">비지도학습</span></b><hr><i><span style="color: orange">#Tags: </span> ML, Unsupervised Learning</i>|표정우|[📋][F-20]|5|01.26|
-|21|<b><span style="color: skyblue">TF2 API 개요</span></b><hr><i><span style="color: orange">#Tags: </span> DL, Keras</i>|우지철|[📋][F-21]|5|01.28|
-|22|<b><span style="color: skyblue">딥네트워크, 서로 뭐가 다른 거죠?</span></b><hr><i><span style="color: orange">#Tags: </span> DL, CV, CNN, Models</i>|강상권|[📋][F-22]|6|02.04|
-|23|<b><span style="color: skyblue">딥러닝 레이어의 이해(1) Linear, Convolution</span></b><hr><i><span style="color: orange">#Tags: </span> DL, CNN</i>|박윤진|[📋][F-23]|7|02.07|
-|24|<b><span style="color: skyblue">딥러닝 레이어의 이해(2) Embedding, Recurrent</span></b><hr><i><span style="color: orange">#Tags: </span> DL, RNN</i>|문성원|[📋][F-24]|7|02.09|
-|25|<b><span style="color: skyblue">Regularization</span></b><hr><i><span style="color: orange">#Tags: </span> DL, Regularization</i>|박윤경|[📋][F-25]|7|02.11|
-|26|<b><span style="color: skyblue">활성화 함수의 이해</span></b><hr><i><span style="color: orange">#Tags: </span> DL, Activation Functions</i>|백승열|[📋][F-26]|8|02.14|
-|27|<b><span style="color: skyblue">Likelihood(MLE와 MAP)</span></b><hr><i><span style="color: orange">#Tags: </span> ML, Likelihood, MLE, MAP</i>|신승연|[📋][F-27])|8|02.16|
-|28|<b><span style="color: skyblue">정보이론 톺아보기</span></b><hr><i><span style="color: orange">#Tags: </span> ML, Information Theory, Entropy, Cross Entropy, KL divergence</i>|신승연|[📋][F-28]|8|02.18|
-|29|<b><span style="color: skyblue">사이킷런을 활용한 추천 시스템 입문</span></b><hr><i><span style="color: orange">#Tags: </span> ML/DL, NLP, Recommendation System, Scikit-learn</i>|손주영|[📋][F-29]|9|02.21|
-|30|<b><span style="color: skyblue">컴퓨터 파워 UP</span></b><hr><i><span style="color: orange"><span style="color: orange">#Tags: </span> Python, Multitasking</i>|손주영|[📋][F-30]|9|02.23|
-|31|<b><span style="color: skyblue">뉴스기사 크롤링 및 분류</span></b><hr><i><span style="color: orange">#Tags: </span> ML, Crawling</i>|⬛|[📋][F-31]|9|02.25|
+|1|<b><span class="node_title">Ready to go?</span></b><hr><i><span class="node_tags">#Tags: </span> LMS, Cloud Jupyter</i>|백병인|[📋][F-01]|1|12.28|
+|2|<b><span class="node_title">인공지능 개발자가 되기 위한 위대한 첫 걸음</span></b><hr><i><span class="node_tags">#Tags: </span> CLI, Anaconda</i>|정민정|[📋][F-02]|1|12.28|
+|3|<b><span class="node_title">터미널로 배우는 리눅스 운영체제</span></b><hr><i><span class="node_tags">#Tags: </span> OS, Linux</i>|오상준|[📋][F-03]|1|12.28|
+|4|<b><span class="node_title">개발자를 위한 첫 번째 필수 교양</span></b><hr><i><span class="node_tags">#Tags: </span> Git, GitHub</i>|정민정|[📋][F-04]|1|12.28|
+|5|<b><span class="node_title">날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?</span></b><hr><i><span class="node_tags">#Tags: </span> Kaggle, EDA</i>|⬛|[📋][F-05]|4|01.18|
+|6|<b><span class="node_title">파이썬으로 코딩 시작하기</span></b><hr><i><span class="node_tags">#Tags: </span> Python, Data Type, Function</i>|오상준|[📋][F-06]|1|12.28|
+|7|<b><span class="node_title">텍스트의 다양한 변신 (문자열, 파일 다루기)</span></b><hr><i><span class="node_tags">#Tags: </span> Python, String, File, Module</i>|손주영|[📋][F-07]|1|12.29|
+|8|<b><span class="node_title">파이썬 잘하는 척 해보자</span></b><hr><i><span class="node_tags">#Tags: </span> Python, For Loop, Try-Except, Lambda</i>|장도영|[📋][F-08]|1|12.30|
+|9|<b><span class="node_title">Data 어떻게 표현하면 좋을까? 배열(array)과 표(table)</span></b><hr><i><span class="node_tags">#Tags: </span> Numpy, Pandas</i>|손주영|[📋][F-09]|1|12.31|
+|10|<b><span class="node_title">다양한 데이터 전처리 기법</span></b><hr><i><span class="node_tags">#Tags: </span> EDA, Data Preprocessing, Outlier, Normalization, One-Hot Encoding, Binning</i>|박윤진|[📋][F-10]|2|01.03|
+|11|<b><span class="node_title">데이터를 한눈에! Visualization</span></b><hr><i><span class="node_tags">#Tags: </span> Pandas, Matplotlib, Seaborn</i>|손주영|[📋][F-11]|2|01.05|
+|12|<b><span class="node_title">사이킷런으로 구현해 보는 머신러닝</span></b><hr><i><span class="node_tags">#Tags: </span> ML, Scikit-learn</i>|손주영|[📋][F-12]|2|01.07|
+|13|<b><span class="node_title">당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> Python, OOP</i>|손주영|[📋][F-13]|3|01.10|
+|14|<b><span class="node_title">거울아 거울아, 나는 멍멍이 상이니, 아니면 냥이 상이니?</span></b><hr><i><span class="node_tags">#Tags: </span> DL, Model, Supervised Learning, Classification</i>|⬛|[📋][F-14]|3|01.12|
+|15|<b><span class="node_title">🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리</span></b><hr><i><span class="node_tags">#Tags: </span> Kaggle, EDA</i>|정민정|[📋][F-15]|3|01.14|
+|16|<b><span class="node_title">파이썬으로 이미지 파일 다루기</span></b><hr><i><span class="node_tags">#Tags: </span> pillow, CV</i>|오상준|[📋][F-16]|4|01.17|
+|17|<b><span class="node_title">딥러닝과 신경망의 본질</span></b><hr><i><span class="node_tags">#Tags: </span> DL, NN</i>|정민정|[📋][F-17]|4|01.19|
+|18|<b><span class="node_title">딥러닝 들여다보기</span></b><hr><i><span class="node_tags">#Tags: </span> DL, Numpy</i>|우지철|[📋][F-18]|4|01.21|
+|19|<b><span class="node_title">선형 회귀와 로지스틱 회귀</span></b><hr><i><span class="node_tags">#Tags: </span> ML, Supervised Learning, Regression</i>|표정우|[📋][F-19]|5|01.24|
+|20|<b><span class="node_title">비지도학습</span></b><hr><i><span class="node_tags">#Tags: </span> ML, Unsupervised Learning</i>|표정우|[📋][F-20]|5|01.26|
+|21|<b><span class="node_title">TF2 API 개요</span></b><hr><i><span class="node_tags">#Tags: </span> DL, Keras</i>|우지철|[📋][F-21]|5|01.28|
+|22|<b><span class="node_title">딥네트워크, 서로 뭐가 다른 거죠?</span></b><hr><i><span class="node_tags">#Tags: </span> DL, CV, CNN, Models</i>|강상권|[📋][F-22]|6|02.04|
+|23|<b><span class="node_title">딥러닝 레이어의 이해(1) Linear, Convolution</span></b><hr><i><span class="node_tags">#Tags: </span> DL, CNN</i>|박윤진|[📋][F-23]|7|02.07|
+|24|<b><span class="node_title">딥러닝 레이어의 이해(2) Embedding, Recurrent</span></b><hr><i><span class="node_tags">#Tags: </span> DL, RNN</i>|문성원|[📋][F-24]|7|02.09|
+|25|<b><span class="node_title">Regularization</span></b><hr><i><span class="node_tags">#Tags: </span> DL, Regularization</i>|박윤경|[📋][F-25]|7|02.11|
+|26|<b><span class="node_title">활성화 함수의 이해</span></b><hr><i><span class="node_tags">#Tags: </span> DL, Activation Functions</i>|백승열|[📋][F-26]|8|02.14|
+|27|<b><span class="node_title">Likelihood(MLE와 MAP)</span></b><hr><i><span class="node_tags">#Tags: </span> ML, Likelihood, MLE, MAP</i>|신승연|[📋][F-27])|8|02.16|
+|28|<b><span class="node_title">정보이론 톺아보기</span></b><hr><i><span class="node_tags">#Tags: </span> ML, Information Theory, Entropy, Cross Entropy, KL divergence</i>|신승연|[📋][F-28]|8|02.18|
+|29|<b><span class="node_title">사이킷런을 활용한 추천 시스템 입문</span></b><hr><i><span class="node_tags">#Tags: </span> ML/DL, NLP, Recommendation System, Scikit-learn</i>|손주영|[📋][F-29]|9|02.21|
+|30|<b><span class="node_title">컴퓨터 파워 UP</span></b><hr><i><span class="node_tags"><span class="node_tags">#Tags: </span> Python, Multitasking</i>|손주영|[📋][F-30]|9|02.23|
+|31|<b><span class="node_title">뉴스기사 크롤링 및 분류</span></b><hr><i><span class="node_tags">#Tags: </span> ML, Crawling</i>|⬛|[📋][F-31]|9|02.25|
 
 [F-01]: FUNDAMENTALS/Node_01/README.md
 [F-02]: FUNDAMENTALS/Node_02/README.md
