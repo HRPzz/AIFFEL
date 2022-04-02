@@ -11,7 +11,7 @@
 </p>
 
 <h2 align="right">
-  <img src='https://www.daegu.go.kr/cmsh/daegu.go.kr/dgcontent/images/intro2/ico03.png' style="width: 20px; height: auto;">
+  <img src='https://www.daegu.go.kr/cmsh/daegu.go.kr/dgcontent/images/intro2/ico03.png' style="width: 30px; height: auto;">
   <span style="color: rgb(1,134,64)">DAEGU 1</span>
 </h2>
 
