@@ -24,20 +24,21 @@
 
 ## 📌 TABLE OF CONTENTS
 
+- [💡 Thumbnails](#-thumbnails)
 - [🔒 LMS](#-lms)
   - [🔑 EXPLORATION](#-exploration)
   - [✔ EXPLORATION CONTENTS SUMMARY](#-exploration-contents-summary)
 
 ---
 
-|col_1|col_2|col_3|
-|:---:|:---:|:---:|
-|![E-01 thumbnail]|![E-02 thumbnail]|![E-03 thumbnail]|
-|![E-04 thumbnail]|![E-05 thumbnail]|![E-06 thumbnail]|
-|![E-07 thumbnail]|![E-08 thumbnail]|![E-09 thumbnail]|
-|![E-10 thumbnail]|![E-11 thumbnail]|![E-12 thumbnail]|
-|![E-13 thumbnail]|![E-14 thumbnail]|![E-15 thumbnail]|
-|![E-16 thumbnail]|![E-17 thumbnail]|-|
+## 💡 Thumbnails
+
+|col_1|col_2|col_3|col_4|col_5|
+|:---:|:---:|:---:|:---:|:---:|
+|![E-01 thumbnail]|![E-02 thumbnail]|![E-03 thumbnail]|![E-04 thumbnail]|![E-05 thumbnail]|
+|![E-06 thumbnail]|![E-07 thumbnail]|![E-08 thumbnail]|![E-09 thumbnail]|![E-10 thumbnail]|
+|![E-11 thumbnail]|![E-12 thumbnail]|![E-13 thumbnail]|![E-14 thumbnail]|![E-15 thumbnail]|
+|![E-16 thumbnail]|![E-17 thumbnail]|-|-|-|
 
 [E-01 thumbnail]: thumbnails/E-01_thumbnail.png
 [E-02 thumbnail]: thumbnails/E-02_thumbnail.png
@@ -56,6 +57,8 @@
 [E-15 thumbnail]: thumbnails/E-15_thumbnail.png
 [E-16 thumbnail]: thumbnails/E-16_thumbnail.png
 [E-17 thumbnail]: thumbnails/E-17_thumbnail.gif
+
+**[⬆ back to top](#-table-of-contents)**
 
 ---
 
@@ -101,7 +104,7 @@
 [E-16]: Node_16/%5BE-16%5D%20Movie_Session_Based_Recommendation.ipynb
 [E-17]: Node_17/%5BE-17%5D%20Pix2Pix.ipynb
 
-**[⬆ back to top](#-lms)**
+**[⬆ back to top](#-table-of-contents)**
 
 ## ✔ EXPLORATION CONTENTS SUMMARY
 
@@ -125,4 +128,4 @@
 |16|<b>다음에 볼 영화 예측하기</b>|박지민|고객이 바로 지금 원하는 것이 무엇인지를 예측하여 추천하는 Session-based Recommendation 개념을 익히고 실제로 모델을 구축해 본다.|
 |17|<b>난 스케치를 할 테니 너는 채색을 하거라</b>|정신유|이미지 생성 모델로 사용되는 GAN 중에서 조건이 추가된 cGAN에 대해 알아보고 Pix2Pix를 배워봅니다.|
 
-**[⬆ back to top](#-lms)**
+**[⬆ back to top](#-table-of-contents)**
