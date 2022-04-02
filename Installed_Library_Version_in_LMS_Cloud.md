@@ -1,5 +1,23 @@
 # LMS 설치된 라이브러리 버전
 
+## 설치된 파이썬 버전 확인 명령어
+
+- 설치된 파이썬 버전 확인 명령어
+
+```bash
+python --version
+```
+
+- 설치된 파이썬 버전: Python 3.9.7
+- 파이썬 실행
+
+```bash
+Python 3.9.7 | packaged by conda-forge | (default, Sep 29 2021, 19:20:46) 
+[GCC 9.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+```
+
 ## 설치된 패키지 버전 확인 명령어
 
 - 전체 패키지 확인
