@@ -1,6 +1,24 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL%2Ftree%2Fmain%2FEXPLORATION&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align='center'>
+  <a href='https://aiffel.oopy.io/' target='_blank'>
+    <img src='https://aiffel-front-prod-asset.s3.ap-northeast-2.amazonaws.com/img/logo/aiffel_logo.png'>
+  </a>
+  <br>
+  <br>
+  <a href="https://modulabs.co.kr/" target='_blank'>
+    <img src='https://image.rocketpunch.com/company/93527/modulabs-1_logo_1554094674.png?s=400x400&t=inside' style="width: 30px; height: auto;">
+    &nbsp;
+    <img src='https://modulabs.co.kr/wp-content/uploads/2021/04/modulabs_logo.png'>
+  </a>
+</p>
 
-<h1 align="center">🌟 AIFFEL DAEGU 1 🌟</h1>
+<h2 align="right">
+  <a href="https://github.com/HRPzz/AIFFEL/tree/main/EXPLORATION"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL%2Ftree%2Fmain%2FEXPLORATION&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=EXPLORATION&edge_flat=false)"/></a>
+
+  <a href="https://www.daegu.go.kr/intro.jsp" target='_blank'>
+    <img src='https://www.daegu.go.kr/cmsh/daegu.go.kr/dgcontent/images/intro2/ico03.png' style="width: 30px; height: auto;">
+  </a>
+  <span style="color: rgb(1,134,64)">DAEGU 1</span>
+</h2>
 
 ---
 
@@ -9,6 +27,35 @@
 - [🔒 LMS](#-lms)
   - [🔑 EXPLORATION](#-exploration)
   - [✔ EXPLORATION CONTENTS SUMMARY](#-exploration-contents-summary)
+
+---
+
+|-|-|-|
+|:---:|:---:|:---:|
+|![E-01 thumbnail][E-01 thumbnail]|![E-02 thumbnail][E-02 thumbnail]|![E-03 thumbnail][E-03 thumbnail]|
+|![E-04 thumbnail][E-04 thumbnail]|![E-05 thumbnail][E-05 thumbnail]|![E-06 thumbnail][E-06 thumbnail]|
+|![E-07 thumbnail][E-07 thumbnail]|![E-08 thumbnail][E-08 thumbnail]|![E-09 thumbnail][E-09 thumbnail]|
+|![E-10 thumbnail][E-10 thumbnail]|![E-11 thumbnail][E-11 thumbnail]|![E-12 thumbnail][E-12 thumbnail]|
+|![E-13 thumbnail][E-13 thumbnail]|![E-14 thumbnail][E-14 thumbnail]|![E-15 thumbnail][E-15 thumbnail]|
+|![E-16 thumbnail][E-16 thumbnail]|![E-17 thumbnail][E-17 thumbnail]|-|
+
+[E-01 thumbnail]: thumbnails/E-01 thumbnail.png
+[E-02 thumbnail]: thumbnails/E-02 thumbnail.png
+[E-03 thumbnail]: thumbnails/E-03 thumbnail.png
+[E-04 thumbnail]: thumbnails/E-04 thumbnail.png
+[E-05 thumbnail]: thumbnails/E-05 thumbnail.png
+[E-06 thumbnail]: thumbnails/E-06 thumbnail.png
+[E-07 thumbnail]: thumbnails/E-07 thumbnail.png
+[E-08 thumbnail]: thumbnails/E-08 thumbnail.png
+[E-09 thumbnail]: thumbnails/E-09 thumbnail.png
+[E-10 thumbnail]: thumbnails/E-10 thumbnail.png
+[E-11 thumbnail]: thumbnails/E-11 thumbnail.png
+[E-12 thumbnail]: thumbnails/E-12 thumbnail.png
+[E-13 thumbnail]: thumbnails/E-13 thumbnail.png
+[E-14 thumbnail]: thumbnails/E-14 thumbnail.png
+[E-15 thumbnail]: thumbnails/E-15 thumbnail.png
+[E-16 thumbnail]: thumbnails/E-16 thumbnail.png
+[E-17 thumbnail]: thumbnails/E-17 thumbnail.png
 
 ---
 
