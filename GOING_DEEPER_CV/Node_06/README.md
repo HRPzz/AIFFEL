@@ -58,6 +58,8 @@
 
 ---
 
+## 노드 내용
+
 - CAM(Class Activation Map)
   - 특성 추출 CNN + GAP(Global Average Pooling) + 소프트맥스 레이어(softmax layer)가 붙는 형태
   - 클래스에 대한 활성화 정도를 나타낸 지도
