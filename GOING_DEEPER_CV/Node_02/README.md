@@ -55,3 +55,26 @@
 >|1|ResNet-34, ResNet-50 모델 구현이 정상적으로 진행되었는가?|블록함수 구현이 제대로 진행되었으며 구현한 모델의 summary가 예상된 형태로 출력되었다.|⭐|
 >|2|구현한 ResNet 모델을 활용하여 Image Classification 모델 훈련이 가능한가?|cats_vs_dogs 데이터셋으로 학습시 몇 epoch동안 안정적으로 loss 감소가 진행 확인되었다.|⭐|
 >|3|Ablation Study 결과가 바른 포맷으로 제출되었는가?|ResNet-34, ResNet-50 각각 plain모델과 residual모델을 동일한 epoch만큼 학습시켰을 때의 validation accuracy 기준으로 Ablation Study 결과표가 작성되었다.|⭐|
+
+---
+
+## 노드 내용
+
+- Ablation Study: "아이디어를 제거해 봄으로써" 제안한 방법이 어떻게 성능이나 문제에 해결에 효과를 주는지 확인하는 실험
+- 이번 프로젝트
+  - **논문만 보고 스스로 구현해 보는 경험을 통해 딥러닝 개발자로서의 내공과 자신감이 다져지게 될 것**
+  - ResNet Ablation Study: residual connection이 없는 일반 네트워크(plain net)와 ResNet을 비교
+  - **CIFAR-10에 대해 일반 네트워크와 ResNet을 구현/비교** => ResNet 및 residual connection의 유효성 확인
+  - Input Normalization
+    - 이미지 데이터 픽셀 정보 255로 나누어서 0~1.0 사이의 값을 가지게 만듦
+    - 머신러닝에서 scale이 큰 feature의 영향이 비대해지는 것을 방지
+    - 딥러닝에서 Local optimum에 빠질 위험을 줄임(학습 속도 향상)
+  - 블록(block) 구현
+    - 레이어(layer): 기본적으로 텐서플로우(TensorFlow), 케라스(Keras), 파이토치(PyTorch) 등에서 기본적으로 제공하는 단위
+    - 블록(block): 주요 구조를 모듈화 시켜 조금씩 바꾸어 쓸 수 있는 단위
+  - ResNet-18, 34, 50, 101, 152 구조<br>![ResNet](https://d3s0tskafalll9.cloudfront.net/media/images/resnet.max-800x600.png)
+    - ResNet-34와 ResNet-50 구현하기
+      - 공통점: conv block 각각 3, 4, 6, 3개씩 반복해서 쌓은 형태
+      - 차이점
+        - ResNet-34의 경우 Block은 3x3 kernel인 Convolution layer로만 구성
+        - ResNet-50은 1x1 Convolution이 앞뒤로 붙어 더 많은 레이어를 한 블록 내에 가짐
