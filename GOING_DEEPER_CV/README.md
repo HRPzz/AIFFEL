@@ -45,7 +45,7 @@
 |7|<b>Object Detection</b><hr><i>#Tags: Object Detection, Bounding Box, IoU, Localization, Sliding Window, Convolution, Anchor Box, NMS, Single stage detector(YOLO, SSD), Two stage detector(R-CNN, Faster R-CNN, RPN), Anchor</i>|강상권|Lecture|✖️|[📋][CV-07]|14|03.28|
 |8|<b>GO/STOP! - Object Detection 시스템 만들기</b><hr><i>#Tags: Object Detection, RetinaNet, Focal Loss, FPN</i>|강상권|**Project**|-|[📋][CV-08]|14|03.29|
 |9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b><hr><i>#Tags: Segmentation, FCN, U-Net, DeepLab</i>|강상권|Lecture|✖️|[📋][CV-09]|14|03.31|
-|10|<b>도로 영역을 찾자! - 세그멘테이션 모델 만들기</b><hr><i>#Tags: </i>|-|**Project**|-|[📋][CV-10]|15|04.04|
+|10|<b>도로 영역을 찾자! - 세그멘테이션 모델 만들기</b><hr><i>#Tags: Semantic Segmentation, U-Net</i>|강상권|**Project**|-|[📋][CV-10]|15|04.04|
 |11|<b>OCR 기술의 개요</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-11]|15|04.05|
 |12|<b>직접 만들어보는 OCR</b><hr><i>#Tags: </i>|-|**Project**|-|[📋][CV-12]|15|04.07|
 |13|<b>멀리 있지만 괜찮아</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-13]|16|04.11|
@@ -60,7 +60,7 @@
 [CV-05]: Node_05/README.md
 [CV-06]: Node_06/%5BCV-06%5D%20CAM_vs_Grad_CAM.ipynb
 [CV-07]: Node_07/README.md
-[CV-08]: Node_08/README.md
+[CV-08]: Node_08/%5BCV-08%5D%20Object_Detection_with_RetinaNet.ipynb
 [CV-09]: Node_09/README.md
 [CV-10]: Node_10/README.md
 [CV-11]: Node_11/README.md
@@ -85,7 +85,7 @@
 |7|<b>Object Detection</b>|강상권|Object detection 문제와 이를 해결하기 위한 다양한 detection 모델들을 알아본다.|
 |8|<b>GO/STOP! - Object Detection 시스템 만들기</b>|강상권|Object detection 모델을 사용해 자동차 또는 사람이 가까이 있는지 확인한 후 멈출 수 있는 시스템을 만든다.|
 |9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b>|강상권|픽셀 수준에서 이미지의 각 부분이 어떤 의미를 갖는 영역인지 분리를 해내는 세그멘테이션을 학습한다. 세그멘테이션의 종류, 주요 모델, 평가 기준을 알아본다.|
-|10|<b>도로 영역을 찾자! - 세그멘테이션 모델 만들기</b>|-|시맨틱 세그멘테이션을 이용하여 도로영역을 찾는 프로젝트 노드|
+|10|<b>도로 영역을 찾자! - 세그멘테이션 모델 만들기</b>|강상권|시맨틱 세그멘테이션을 이용해 자율주행 차량을 위해 도로영역을 찾는 모델을 간단히 만들어 본다.|
 |11|<b>OCR 기술의 개요</b>|-|글자를 인식하는 기술인 OCR 구성요소 학습(Text detection & Text recognition)|
 |12|<b>직접 만들어보는 OCR</b>|-|Text Recognition 모델을 구현 및 학습 → OCR 구현 프로젝트|
 |13|<b>멀리 있지만 괜찮아</b>|-|Face Detection을 더욱 가볍고, 빠르고, 정확하개 개선할 수 있는 딥러닝 모델에 대한 학습|

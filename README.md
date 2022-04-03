@@ -199,7 +199,7 @@
 [GD-02 nbviewer]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_02/%5BCV-02%5D%20ResNet_vs_Plain.ipynb
 [GD-04 nbviewer]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_04/%5BCV-04%5D%20CutMix_vs_Mixup.ipynb
 [GD-06 nbviewer]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_06/%5BCV-06%5D%20CAM_vs_Grad_CAM.ipynb
-[GD-08 nbviewer]: README.md
+[GD-08 nbviewer]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_08/%5BCV-08%5D%20Object_Detection_with_RetinaNet.ipynb
 
 ### 🐯 April, 2022  (21 days)
 
@@ -275,7 +275,7 @@
 |N|Title|Site|Book|PPT|Youtube|
 |:---:|---|:---:|:---:|:---:|:---:|
 |1|<b><span class="node_title">파이썬 코딩 도장</span></b><hr><i><span class="node_tags">#Tags: </span>Python</i>|[➡️][Python Coding Site]|[📚][Python Coding Book]|-|[⏯️][Python Coding Youtube]|
-|2|<b><span class="node_title">- Do it! 딥러닝 교과서<br>- CS231n</span></b><hr><i><span class="node_tags">#Tags: </span>AI, ML, DL</i>|-<hr>[➡️][CS231n Site]|[📚][Do it! DeepLearning Book]<hr>-|-<hr>[📄2016][CS231n PPT 2016]<br>[📄2017][CS231n PPT 2017]|-<hr>[⏯️KOR][CS231n Youtube KOR]<br>[⏯️ENG][CS231n Youtube ENG]|
+|2|<b><span class="node_title">- Do it! 딥러닝 교과서<br><br>- CS231n</span></b><hr><i><span class="node_tags">#Tags: </span>AI, ML, DL</i>|-<br><br>[➡️][CS231n Site]|[📚][Do it! DeepLearning Book]<br><br>-|-<br><br>[📄2016][CS231n PPT 2016]<br>[📄2017][CS231n PPT 2017]|-<br><br>[⏯️KOR][CS231n Youtube KOR]<br>[⏯️ENG][CS231n Youtube ENG]|
 |3|<b><span class="node_title">이것이 코딩테스트다 with 파이썬</span></b><hr><i><span class="node_tags">#Tags: </span>Python, Coding Test, Algorithm, Data Structure</i>|-|[📚][This is Coding Test with Python Book]|-|[⏯️][This is Coding Test with Python Youtube]|
 |4|<b><span class="node_title">Django 를 통한 AI API 구축</span></b><hr><i><span class="node_tags">#Tags: </span>Python, Django, Web, Framework, AI, API</i>|[➡️][Django Self Study]|[📚][Do it! Django + Bootstrap]|-|-|
 
@@ -332,7 +332,7 @@
 |7|<b><span class="node_title">Object Detection</span></b><hr><i><span class="node_tags">#Tags: </span> Object Detection, Bounding Box, IoU, Localization, Sliding Window, Convolution, Anchor Box, NMS, Single stage detector(YOLO, SSD), Two stage detector(R-CNN, Faster R-CNN, RPN), Anchor</i>|강상권|Lecture|✖️|[📋][CV-07]|14|03.28|
 |8|<b><span class="node_title">GO/STOP! - Object Detection 시스템 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> Object Detection, RetinaNet, Focal Loss, FPN</i>|강상권|<b>Project</b>|-|[📋][CV-08]|14|03.29|
 |9|<b><span class="node_title">물체를 분리하자! - 세그멘테이션 살펴보기</span></b><hr><i><span class="node_tags">#Tags: </span> Segmentation, FCN, U-Net, DeepLab</i>|강상권|Lecture|✖️|[📋][CV-09]|14|03.31|
-|10|<b><span class="node_title">도로 영역을 찾자! - 세그멘테이션 모델 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|<b>Project</b>|-|[📋][CV-10]|15|04.04|
+|10|<b><span class="node_title">도로 영역을 찾자! - 세그멘테이션 모델 만들기</span></b><hr><i><span class="node_tags">#Tags: Semantic Segmentation, U-Net</span> </i>|강상권|<b>Project</b>|-|[📋][CV-10]|15|04.04|
 |11|<b><span class="node_title">OCR 기술의 개요</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|Lecture|✖️|[📋][CV-11]|15|04.05|
 |12|<b><span class="node_title">직접 만들어보는 OCR</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|<b>Project</b>|-|[📋][CV-12]|15|04.07|
 |13|<b><span class="node_title">멀리 있지만 괜찮아</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|Lecture|✖️|[📋][CV-13]|16|04.11|
@@ -347,7 +347,7 @@
 [CV-05]: GOING_DEEPER_CV/Node_05/README.md
 [CV-06]: GOING_DEEPER_CV/Node_06/%5BCV-06%5D%20CAM_vs_Grad_CAM.ipynb
 [CV-07]: GOING_DEEPER_CV/Node_07/README.md
-[CV-08]: GOING_DEEPER_CV/Node_08/README.md
+[CV-08]: GOING_DEEPER_CV/Node_08/%5BCV-08%5D%20Object_Detection_with_RetinaNet.ipynb
 [CV-09]: GOING_DEEPER_CV/Node_09/README.md
 [CV-10]: GOING_DEEPER_CV/Node_10/README.md
 [CV-11]: GOING_DEEPER_CV/Node_11/README.md
