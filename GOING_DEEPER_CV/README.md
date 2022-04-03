@@ -62,7 +62,7 @@
 [CV-07]: Node_07/README.md
 [CV-08]: Node_08/%5BCV-08%5D%20Object_Detection_with_RetinaNet.ipynb
 [CV-09]: Node_09/README.md
-[CV-10]: Node_10/README.md
+[CV-10]: Node_10/%5BCV-10%5D%20U-Net_vs_U-Net++_in_Semantic_Segmentation.ipynb
 [CV-11]: Node_11/README.md
 [CV-12]: Node_12/README.md
 [CV-13]: Node_13/README.md
