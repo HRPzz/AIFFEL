@@ -87,8 +87,8 @@
   │&emsp;&emsp;│&emsp;&emsp;├── [CV-02] ResNet_vs_Plain.ipynb<br>
   │&emsp;&emsp;│&emsp;&emsp;├── [CV-04] CutMix_vs_Mixup.ipynb<br>
   │&emsp;&emsp;│&emsp;&emsp;├── [CV-06] CAM_vs_Grad_CAM.ipynb<br>
-  │&emsp;&emsp;│&emsp;&emsp;├── [CV-08] -.ipynb<br>
-  │&emsp;&emsp;│&emsp;&emsp;├── [CV-10] -.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [CV-08] Object_Detection_with_RetinaNet.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [CV-10] U-Net_vs_U-Net++_in_Semantic_Segmentation.ipynb<br>
   │&emsp;&emsp;│&emsp;&emsp;├── [CV-12] -.ipynb<br>
   │&emsp;&emsp;│&emsp;&emsp;├── [CV-14] -.ipynb<br>
   │&emsp;&emsp;│&emsp;&emsp;└── [CV-16] -.ipynb<br>
