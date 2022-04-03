@@ -47,9 +47,9 @@
 - [💬 TEAM <b>PROJECT</b>](#-team-<b>project</b>)
 - [🔒 LMS](#-lms)
   - 🔑 GOING DEEPER
-    - [🌕 CV](#-going-deeper-cv) [📂](GOING_DEEPER_CV)
+    - [🌕 CV](#-going-deeper-cv-goingdeepercv) [📂](GOING_DEEPER_CV)
     - [🌑 NLP](#-going-deeper-nlp) [📂](GOING_DEEPER_NLP)
-  - [🔑 EXPLORATION](#-exploration) [📁](EXPLORATION)
+  - [🔑 EXPLORATION](#-exploration-) [📁](EXPLORATION)
   - [🔑 FUNDAMENTALS](#-fundamentals) [📁](FUNDAMENTALS)
 - [💢 ABOUT AIFFEL](#-aiffel-by-모두의-연구소)
 
