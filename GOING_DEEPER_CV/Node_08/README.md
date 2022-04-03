@@ -4,6 +4,10 @@
 
 ---
 
+[➡ [CV-08] Object_Detection_with_RetinaNet.ipynb with nbviewer](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_08/%5BCV-08%5D%20Object_Detection_with_RetinaNet.ipynb)
+
+---
+
 |-|목차|⏲ 370분|
 |:---:|---|:---:|
 |8-1| 들어가며 | 10분|
