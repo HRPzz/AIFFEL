@@ -67,7 +67,7 @@
     - CNN 기반의 네트워크는 **굳이 모델 구조를 변경할 필요가 없음**
     - 분류 문제 외의 다른 태스크들에 유연하게 대처할 수 있음
   - 구조<br>![Grad-CAM 구조](https://d3s0tskafalll9.cloudfront.net/media/images/GC-3-L-9.max-800x600.png)
-    - 정리: Input Image -> CNN -> (Feature Map) -> ... (다양한 레이어 사용 가능)
+    - 정리: (Input Image) -> CNN -> (Feature Map) -> ... (다양한 레이어 사용 가능)
     - Grad-CAM 이 적용될 수 있는 다양한 컴퓨터 비전 문제
       - Image Classification: 이미지 분류
       - Image Captioning: 이미지에 대한 설명을 만들어내는 태스크
@@ -86,12 +86,7 @@
     - CAM 모델의 feed forward 외 별도의 연산(활성화 맵, 가중치 계산)이 필요한 단점 개선: **커널 사이즈는 1x1, 출력 채널의 개수는 분류하고자 하는 클래스 개수** 를 가진 컨볼루션 레이어를 특성 맵에 사용하고 여기에 GAP를 적용하여 Network in Network에서 본 구조와 유사한 방식을 사용 => 컨볼루션 레이어의 출력값은 활성화 맵이 됨<br>![ACoL 의 1x1 Conv](https://d3s0tskafalll9.cloudfront.net/media/images/GC-3-L-15.max-800x600.png)
 - 약지도학습(weakly supervised learning)
   - incomplete supervision : 학습 데이터 중 일부에만 라벨이 달린 경우. 일반적으로 말하는 준지도학습과 같은 경우임. (예: 개와 고양이 분류 학습 시 10,000개의 이미지 중 1,000개만 라벨이 있는 경우)
-  - **inexact supervision** : 학습데이터의 라벨이 충분히 정확하게 달려있지 않은 경우. (예: 개나 고양이를 Object Detection 또는 Semantic Segmentation해야 하지만 이미지 내에 정확한 bounding box는 주어져 있지 않고 이미지가 개인지 고양인지 정보만 라벨로 달려있는 경우)
-    - 오늘 우리가 다루고자 하는 것
-    - Grad-CAM(=약지도학습) 을 통한 Object Detection과 Semantic Segmentation
-    - 자율주행 연구에 약지도학습을 활용한 예: [네이버랩스의 이미지기반의 차선변경 알고리즘(SLC)은 무엇을 보면서 판단을 할까?](https://www.naverlabs.com/storyDetail/16)
-  - inaccurate supervision : 학습 데이터에 Noise가 있는 경우, (예: 개나 고양이의 라벨이 잘못 달린 경우)
-- cf. 학습데이터 제작 비용: Image Classification용 학습데이터 < bounding box 정보까지 정확하게 포함해야 하는 Object Detection 또는 Semantic segmentation
+  - **inexact supervision** : 학습데이터의 라벨이 충분히 정확하게 달려있지 않은 경우. (예: 개나 고양이를 Object Detection 또는 Semantic Segmentation해야 하지만 이미지 내에 정확한 bounding box는 주어져 있지 않고 이미지가 개인지 고양인지 정보만 라벨로 달려있는 경우
 - CAM 활용 프로젝트
   - 황준식님의 [CAM: 2017년 대선주자 얼굴 위치 추적기](https://jsideas.net/class_activation_map/)
 
