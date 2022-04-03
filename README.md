@@ -319,7 +319,7 @@
 
 ## 🔒 LMS
 
-### 🔑 GOING DEEPER CV
+### 🔑 GOING DEEPER CV [📂](GOING_DEEPER_CV)
 
 |N|Node Title|Author|Type|Evaluation|Link|W|Open|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -359,7 +359,7 @@
 
 **[⬆ back to top](#-table-of-contents)**
 
-### 🔑 EXPLORATION
+### 🔑 EXPLORATION [📁](EXPLORATION)
 
 |N|Node Title|Author|Evaluation|Link|W|Open|Done|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -401,7 +401,7 @@
 
 **[⬆ back to top](#-table-of-contents)**
 
-### 🔑 FUNDAMENTALS
+### 🔑 FUNDAMENTALS [📁](FUNDAMENTALS)
 
 |N|Node Title|Author|Link|W|Open|
 |:---:|---|:---:|:---:|:---:|:---:|
