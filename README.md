@@ -333,7 +333,7 @@
 |8|<b><span class="node_title">GO/STOP! - Object Detection 시스템 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> Object Detection, RetinaNet, Focal Loss, FPN</i>|강상권|<b>Project</b>|-|[📋][CV-08]|14|03.29|
 |9|<b><span class="node_title">물체를 분리하자! - 세그멘테이션 살펴보기</span></b><hr><i><span class="node_tags">#Tags: </span> Segmentation, FCN, U-Net, DeepLab</i>|강상권|Lecture|✖️|[📋][CV-09]|14|03.31|
 |10|<b><span class="node_title">도로 영역을 찾자! - 세그멘테이션 모델 만들기</span></b><hr><i><span class="node_tags">#Tags: Semantic Segmentation, U-Net</span> </i>|강상권|<b>Project</b>|-|[📋][CV-10]|15|04.04|
-|11|<b><span class="node_title">OCR 기술의 개요</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|Lecture|✖️|[📋][CV-11]|15|04.05|
+|11|<b><span class="node_title">OCR 기술의 개요</span></b><hr><i><span class="node_tags">#Tags: OCR, Text Detection, Text Recognition, Attention</span> </i>|강상권|Lecture|✖️|[📋][CV-11]|15|04.05|
 |12|<b><span class="node_title">직접 만들어보는 OCR</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|<b>Project</b>|-|[📋][CV-12]|15|04.07|
 |13|<b><span class="node_title">멀리 있지만 괜찮아</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|Lecture|✖️|[📋][CV-13]|16|04.11|
 |14|<b><span class="node_title">멀리 있는 사람도 스티커를 붙여주자</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|<b>Project</b>|-|[📋][CV-14]|17|04.18|
