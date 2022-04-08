@@ -43,11 +43,11 @@
 |5|<b>너의 속이 궁금해 - Class Activation Map 살펴보기</b><hr><i>#Tags: XAI, CAM, Grad-CAM, ACoL</i>|강상권|Lecture|✖️|[📋][CV-05]|13|03.23|
 |6|<b>나를 찾아줘 - Class Activation Map 만들기</b><hr><i>#Tags: CAM, Grad-CAM, Object Detection</i>|강상권|**Project**|⭐⭐⭐|[📋][CV-06]|13|03.24|
 |7|<b>Object Detection</b><hr><i>#Tags: Object Detection, Bounding Box, IoU, Localization, Sliding Window, Convolution, Anchor Box, NMS, Single stage detector(YOLO, SSD), Two stage detector(R-CNN, Faster R-CNN, RPN), Anchor</i>|강상권|Lecture|✖️|[📋][CV-07]|14|03.28|
-|8|<b>GO/STOP! - Object Detection 시스템 만들기</b><hr><i>#Tags: Object Detection, RetinaNet, Focal Loss, FPN</i>|강상권|**Project**|-|[📋][CV-08]|14|03.29|
+|8|<b>GO/STOP! - Object Detection 시스템 만들기</b><hr><i>#Tags: Object Detection, RetinaNet, Focal Loss, FPN</i>|강상권|**Project**|⭐⭐⭐|[📋][CV-08]|14|03.29|
 |9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b><hr><i>#Tags: Segmentation, FCN, U-Net, DeepLab</i>|강상권|Lecture|✖️|[📋][CV-09]|14|03.31|
 |10|<b>도로 영역을 찾자! - 세그멘테이션 모델 만들기</b><hr><i>#Tags: Semantic Segmentation, U-Net</i>|강상권|**Project**|-|[📋][CV-10]|15|04.04|
 |11|<b>OCR 기술의 개요</b><hr><i>#Tags: OCR, Text Detection, Text Recognition, Attention</i>|강상권|Lecture|✖️|[📋][CV-11]|15|04.05|
-|12|<b>직접 만들어보는 OCR</b><hr><i>#Tags: </i>|-|**Project**|-|[📋][CV-12]|15|04.07|
+|12|<b>직접 만들어보는 OCR</b><hr><i>#Tags: OCR, Text Detection, keras-ocr, Text Recognition, CRNN, CTC</i>|강상권|**Project**|-|[📋][CV-12]|15|04.07|
 |13|<b>멀리 있지만 괜찮아</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-13]|16|04.11|
 |14|<b>멀리 있는 사람도 스티커를 붙여주자</b><hr><i>#Tags: </i>|-|**Project**|-|[📋][CV-14]|17|04.18|
 |15|<b>사람의 몸짓을 읽어보자</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-15]|17|04.19|
@@ -64,7 +64,7 @@
 [CV-09]: Node_09/README.md
 [CV-10]: Node_10/%5BCV-10%5D%20U-Net_vs_U-Net++_in_Semantic_Segmentation.ipynb
 [CV-11]: Node_11/README.md
-[CV-12]: Node_12/README.md
+[CV-12]: Node_12/%5BCV-12%5D%20Making_OCR.ipynb
 [CV-13]: Node_13/README.md
 [CV-14]: Node_14/README.md
 [CV-15]: Node_15/README.md
@@ -87,7 +87,7 @@
 |9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b>|강상권|픽셀 수준에서 이미지의 각 부분이 어떤 의미를 갖는 영역인지 분리를 해내는 세그멘테이션을 학습한다. 세그멘테이션의 종류, 주요 모델, 평가 기준을 알아본다.|
 |10|<b>도로 영역을 찾자! - 세그멘테이션 모델 만들기</b>|강상권|시맨틱 세그멘테이션을 이용해 자율주행 차량을 위해 도로영역을 찾는 모델을 간단히 만들어 본다.|
 |11|<b>OCR 기술의 개요</b>|강상권|이미지 속 글자를 읽어보는 OCR 기술을 구성하는 Text detection과 Text recognition에 대해 알아본다.|
-|12|<b>직접 만들어보는 OCR</b>|-|Text Recognition 모델을 구현 및 학습 → OCR 구현 프로젝트|
+|12|<b>직접 만들어보는 OCR</b>|강상권|Text recognition 모델을 구현, 학습하고 Text detection 모델과 연결하여 OCR을 구현한다.|
 |13|<b>멀리 있지만 괜찮아</b>|-|Face Detection을 더욱 가볍고, 빠르고, 정확하개 개선할 수 있는 딥러닝 모델에 대한 학습|
 |14|<b>멀리 있는 사람도 스티커를 붙여주자</b>|-|SSD 모델을 이용하여 이전 카메라 스티커 앱을 개선해보는 프로젝트|
 |15|<b>사람의 몸짓을 읽어보자</b>|-|Human Pose Estimation 관련 논문 학습|

@@ -217,7 +217,7 @@
 >| **To Do** | - | T-01 | T-01 | T-01<br>FL-04 | T-01 | [T-01][T-01] | - |
 
 [GD-10]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_10/%5BCV-10%5D%20U-Net_vs_U-Net++_in_Semantic_Segmentation.ipynb
-[GD-12]: README.md
+[GD-12]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_12/%5BCV-12%5D%20Making_OCR.ipynb
 [GD-14]: README.md
 [GD-16]: README.md
 [T-01]: README.md
@@ -330,11 +330,11 @@
 |5|<b><span class="node_title">너의 속이 궁금해 - Class Activation Map 살펴보기</span></b><hr><i><span class="node_tags">#Tags: </span> XAI, CAM, Grad-CAM, ACoL</i>|강상권|Lecture|✖️|[📋][CV-05]|13|03.23|
 |6|<b><span class="node_title">나를 찾아줘 - Class Activation Map 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> CAM, Grad-CAM, Object Detection</i>|강상권|<b>Project</b>|⭐⭐⭐|[📋][CV-06]|13|03.24|
 |7|<b><span class="node_title">Object Detection</span></b><hr><i><span class="node_tags">#Tags: </span> Object Detection, Bounding Box, IoU, Localization, Sliding Window, Convolution, Anchor Box, NMS, Single stage detector(YOLO, SSD), Two stage detector(R-CNN, Faster R-CNN, RPN), Anchor</i>|강상권|Lecture|✖️|[📋][CV-07]|14|03.28|
-|8|<b><span class="node_title">GO/STOP! - Object Detection 시스템 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> Object Detection, RetinaNet, Focal Loss, FPN</i>|강상권|<b>Project</b>|-|[📋][CV-08]|14|03.29|
+|8|<b><span class="node_title">GO/STOP! - Object Detection 시스템 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> Object Detection, RetinaNet, Focal Loss, FPN</i>|강상권|<b>Project</b>|⭐⭐⭐|[📋][CV-08]|14|03.29|
 |9|<b><span class="node_title">물체를 분리하자! - 세그멘테이션 살펴보기</span></b><hr><i><span class="node_tags">#Tags: </span> Segmentation, FCN, U-Net, DeepLab</i>|강상권|Lecture|✖️|[📋][CV-09]|14|03.31|
 |10|<b><span class="node_title">도로 영역을 찾자! - 세그멘테이션 모델 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> Semantic Segmentation, U-Net</i>|강상권|<b>Project</b>|-|[📋][CV-10]|15|04.04|
 |11|<b><span class="node_title">OCR 기술의 개요</span></b><hr><i><span class="node_tags">#Tags: </span> OCR, Text Detection, Text Recognition, Attention</i>|강상권|Lecture|✖️|[📋][CV-11]|15|04.05|
-|12|<b><span class="node_title">직접 만들어보는 OCR</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|<b>Project</b>|-|[📋][CV-12]|15|04.07|
+|12|<b><span class="node_title">직접 만들어보는 OCR</span></b><hr><i><span class="node_tags">#Tags: </span> OCR, Text Detection, keras-ocr, Text Recognition, CRNN, CTC</i>|강상권|<b>Project</b>|-|[📋][CV-12]|15|04.07|
 |13|<b><span class="node_title">멀리 있지만 괜찮아</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|Lecture|✖️|[📋][CV-13]|16|04.11|
 |14|<b><span class="node_title">멀리 있는 사람도 스티커를 붙여주자</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|<b>Project</b>|-|[📋][CV-14]|17|04.18|
 |15|<b><span class="node_title">사람의 몸짓을 읽어보자</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|Lecture|✖️|[📋][CV-15]|17|04.19|
@@ -351,7 +351,7 @@
 [CV-09]: GOING_DEEPER_CV/Node_09/README.md
 [CV-10]: GOING_DEEPER_CV/Node_10/%5BCV-10%5D%20U-Net_vs_U-Net++_in_Semantic_Segmentation.ipynb
 [CV-11]: GOING_DEEPER_CV/Node_11/README.md
-[CV-12]: GOING_DEEPER_CV/Node_12/README.md
+[CV-12]: GOING_DEEPER_CV/Node_12/%5BCV-12%5D%20Making_OCR.ipynb
 [CV-13]: GOING_DEEPER_CV/Node_13/README.md
 [CV-14]: GOING_DEEPER_CV/Node_14/README.md
 [CV-15]: GOING_DEEPER_CV/Node_15/README.md
