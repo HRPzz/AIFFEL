@@ -64,7 +64,7 @@
 [CV-09]: Node_09/README.md
 [CV-10]: Node_10/%5BCV-10%5D%20U-Net_vs_U-Net++_in_Semantic_Segmentation.ipynb
 [CV-11]: Node_11/README.md
-[CV-12]: Node_12/%5BCV-12%5D%20Making_OCR.ipynb
+[CV-12]: Node_12/%5BCV-12%5D%20Recognition_CRNN_of_Keras_OCR.ipynb
 [CV-13]: Node_13/README.md
 [CV-14]: Node_14/README.md
 [CV-15]: Node_15/README.md

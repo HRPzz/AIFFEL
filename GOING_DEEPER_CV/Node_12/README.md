@@ -4,7 +4,7 @@
 
 ---
 
-[➡ [GD-12] Making_OCR.ipynb with nbviewer](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_12/%5BCV-12%5D%20Making_OCR.ipynb)
+[➡ [CV-12] Recognition_CRNN_of_Keras_OCR.ipynb with nbviewer](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_12/%5BCV-12%5D%20Recognition_CRNN_of_Keras_OCR.ipynb)
 
 ---
 

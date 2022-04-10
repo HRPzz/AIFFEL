@@ -217,7 +217,7 @@
 >| **To Do** | - | T-01 | T-01 | T-01<br>FL-04 | T-01 | [T-01][T-01] | - |
 
 [GD-10]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_10/%5BCV-10%5D%20U-Net_vs_U-Net++_in_Semantic_Segmentation.ipynb
-[GD-12]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_12/%5BCV-12%5D%20Making_OCR.ipynb
+[GD-12]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_12/%5BCV-12%5D%20Recognition_CRNN_of_Keras_OCR.ipynb
 [GD-14]: README.md
 [GD-16]: README.md
 [T-01]: README.md
@@ -351,7 +351,7 @@
 [CV-09]: GOING_DEEPER_CV/Node_09/README.md
 [CV-10]: GOING_DEEPER_CV/Node_10/%5BCV-10%5D%20U-Net_vs_U-Net++_in_Semantic_Segmentation.ipynb
 [CV-11]: GOING_DEEPER_CV/Node_11/README.md
-[CV-12]: GOING_DEEPER_CV/Node_12/%5BCV-12%5D%20Making_OCR.ipynb
+[CV-12]: GOING_DEEPER_CV/Node_12/%5BCV-12%5D%20Recognition_CRNN_of_Keras_OCR.ipynb
 [CV-13]: GOING_DEEPER_CV/Node_13/README.md
 [CV-14]: GOING_DEEPER_CV/Node_14/README.md
 [CV-15]: GOING_DEEPER_CV/Node_15/README.md
