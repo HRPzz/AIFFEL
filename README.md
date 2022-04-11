@@ -89,7 +89,7 @@
   │&emsp;&emsp;│&emsp;&emsp;├── [CV-06] CAM_vs_Grad_CAM.ipynb<br>
   │&emsp;&emsp;│&emsp;&emsp;├── [CV-08] Object_Detection_with_RetinaNet.ipynb<br>
   │&emsp;&emsp;│&emsp;&emsp;├── [CV-10] U-Net_vs_U-Net++_in_Semantic_Segmentation.ipynb<br>
-  │&emsp;&emsp;│&emsp;&emsp;├── [CV-12] -.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [CV-12] Recognition_CRNN_of_Keras_OCR.ipynb<br>
   │&emsp;&emsp;│&emsp;&emsp;├── [CV-14] -.ipynb<br>
   │&emsp;&emsp;│&emsp;&emsp;└── [CV-16] -.ipynb<br>
   │&emsp;&emsp;└── README.md<br>
@@ -210,9 +210,9 @@
 >| **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 >| **To Do** | - | GD-10 | [GD-10][GD-10]<br>GD-11 | GD-11<br>FL-04 | GD-12 | [GD-12][GD-12]<br>FL-03 | - |
 >| **3** | **10** | **11** | **12** | **13** | **14** | **15** | **16** |
->| **To Do** | - | GD-13 | H-02 | H-02<br>FL-04 | H-02 | H-02 | - |
+>| **To Do** | - | GD-13 | [GD-14][GD-14] | H-02<br>FL-04 | H-02 | H-02 | - |
 >| **4** | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
->| **To Do** | - | GD-14 | [GD-14][GD-14]<br>GD-15 | GD-15<br>FL-04 | GD-16 | [GD-16][GD-16]<br>FL-03 | - |
+>| **To Do** | - | GD-15 | [GD-16][GD-16] | H-02<br>FL-04 | H-02 | [H-02][H-02]<br>FL-03 | - |
 >| **5** | **24** | **25** | **26** | **27** | **28** | **29** | **30** |
 >| **To Do** | - | T-01 | T-01 | T-01<br>FL-04 | T-01 | [T-01][T-01] | - |
 
@@ -220,6 +220,7 @@
 [GD-12]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_12/%5BCV-12%5D%20Recognition_CRNN_of_Keras_OCR.ipynb
 [GD-14]: README.md
 [GD-16]: README.md
+[H-02]: README.md
 [T-01]: README.md
 
 ### 🐯 May, 2022  (21 days)
@@ -335,7 +336,7 @@
 |10|<b><span class="node_title">도로 영역을 찾자! - 세그멘테이션 모델 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> Semantic Segmentation, U-Net</i>|강상권|<b>Project</b>|-|[📋][CV-10]|15|04.04|
 |11|<b><span class="node_title">OCR 기술의 개요</span></b><hr><i><span class="node_tags">#Tags: </span> OCR, Text Detection, Text Recognition, Attention</i>|강상권|Lecture|✖️|[📋][CV-11]|15|04.05|
 |12|<b><span class="node_title">직접 만들어보는 OCR</span></b><hr><i><span class="node_tags">#Tags: </span> OCR, Text Detection, keras-ocr, Text Recognition, CRNN, CTC</i>|강상권|<b>Project</b>|-|[📋][CV-12]|15|04.07|
-|13|<b><span class="node_title">멀리 있지만 괜찮아</span></b><hr><i><span class="node_tags">#Tags: </span> Single stage detector, YOLO, SSD, Face Detection</i>|-|Lecture|✖️|[📋][CV-13]|16|04.11|
+|13|<b><span class="node_title">멀리 있지만 괜찮아</span></b><hr><i><span class="node_tags">#Tags: </span> Single stage detector, YOLO, SSD, Face Detection</i>|우태강|Lecture|✖️|[📋][CV-13]|16|04.11|
 |14|<b><span class="node_title">멀리 있는 사람도 스티커를 붙여주자</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|<b>Project</b>|-|[📋][CV-14]|17|04.18|
 |15|<b><span class="node_title">사람의 몸짓을 읽어보자</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|Lecture|✖️|[📋][CV-15]|17|04.19|
 |16|<b><span class="node_title">행동 스티커 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|<b>Project</b>|-|[📋][CV-16]|17|04.21|
