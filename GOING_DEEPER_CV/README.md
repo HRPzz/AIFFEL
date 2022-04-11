@@ -49,7 +49,7 @@
 |11|<b>OCR 기술의 개요</b><hr><i>#Tags: OCR, Text Detection, Text Recognition, Attention</i>|강상권|Lecture|✖️|[📋][CV-11]|15|04.05|
 |12|<b>직접 만들어보는 OCR</b><hr><i>#Tags: OCR, Text Detection, keras-ocr, Text Recognition, CRNN, CTC</i>|강상권|**Project**|-|[📋][CV-12]|15|04.07|
 |13|<b>멀리 있지만 괜찮아</b><hr><i>#Tags: Single stage detector, YOLO, SSD, Face Detection</i>|우태강|Lecture|✖️|[📋][CV-13]|16|04.11|
-|14|<b>멀리 있는 사람도 스티커를 붙여주자</b><hr><i>#Tags: </i>|-|**Project**|-|[📋][CV-14]|17|04.18|
+|14|<b>멀리 있는 사람도 스티커를 붙여주자</b><hr><i>#Tags: Face Detection, SSD, NMS</i>|우태강|**Project**|-|[📋][CV-14]|17|04.18|
 |15|<b>사람의 몸짓을 읽어보자</b><hr><i>#Tags: </i>|-|Lecture|✖️|[📋][CV-15]|17|04.19|
 |16|<b>행동 스티커 만들기</b><hr><i>#Tags: </i>|-|**Project**|-|[📋][CV-16]|17|04.21|
 
@@ -62,7 +62,7 @@
 [CV-07]: Node_07/README.md
 [CV-08]: Node_08/%5BCV-08%5D%20Object_Detection_with_RetinaNet.ipynb
 [CV-09]: Node_09/README.md
-[CV-10]: Node_10/%5BCV-10%5D%20U-Net_vs_U-Net++_in_Semantic_Segmentation.ipynb
+[CV-10]: Node_10/%5BCV-10%5D%20U-Net_vs_U-Net%2B%2B_in_Semantic_Segmentation.ipynb
 [CV-11]: Node_11/README.md
 [CV-12]: Node_12/%5BCV-12%5D%20Recognition_CRNN_of_Keras_OCR.ipynb
 [CV-13]: Node_13/README.md
@@ -89,7 +89,7 @@
 |11|<b>OCR 기술의 개요</b>|강상권|이미지 속 글자를 읽어보는 OCR 기술을 구성하는 Text detection과 Text recognition에 대해 알아본다.|
 |12|<b>직접 만들어보는 OCR</b>|강상권|Text recognition 모델을 구현, 학습하고 Text detection 모델과 연결하여 OCR을 구현한다.|
 |13|<b>멀리 있지만 괜찮아</b>|우태강|카메라 스티커앱의 Face Detection을 더욱 가볍고 빠르고 정확하게 개선할 수 있는 딥러닝 모델에 대해 자세히 알아본다.|
-|14|<b>멀리 있는 사람도 스티커를 붙여주자</b>|-|SSD 모델을 이용하여 이전 카메라 스티커 앱을 개선해보는 프로젝트|
+|14|<b>멀리 있는 사람도 스티커를 붙여주자</b>|우태강|이미지에 사람 얼굴이 다수 포함된 경우에도 빠르게 이를 인식할 수 있는 SSD 모델을 구현, 학습해 보고 이를 이용해 카메라 스티커 앱을 개선해 본다.|
 |15|<b>사람의 몸짓을 읽어보자</b>|-|Human Pose Estimation 관련 논문 학습|
 |16|<b>행동 스티커 만들기</b>|-|Simplebaseline 모델을 활용하여 Human Pose Estimation 구현|
 
