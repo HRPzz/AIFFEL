@@ -4,7 +4,7 @@
 
 ---
 
-[➡ [CV-10] U-Net_vs_U-Net++_in_Semantic_Segmentation.ipynb with nbviewer](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_10/%5BCV-10%5D%20U-Net_vs_U-Net++_in_Semantic_Segmentation.ipynb)
+[➡ [CV-10] U-Net_vs_U-Net++_in_Semantic_Segmentation.ipynb with nbviewer](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_10/%5BCV-10%5D%20U-Net_vs_U-Net%2B%2B_in_Semantic_Segmentation.ipynb)
 
 ---
 
@@ -48,3 +48,9 @@
 >|1|U-Net을 통한 세그멘테이션 작업이 정상적으로 진행되었는가?|KITTI 데이터셋 구성, U-Net 모델 훈련, 결과물 시각화의 한 사이클이 정상 수행되어 세그멘테이션 결과 이미지를 제출하였다.|-|
 >|2|U-Net++ 모델이 성공적으로 구현되었는가?|U-Net++ 모델을 스스로 구현하여 학습 진행 후 세그멘테이션 결과까지 정상 진행되었다.|-|
 >|3|U-Net과 U-Net++ 두 모델의 성능이 정량적/정성적으로 잘 비교되었는가?|U-Net++ 의 세그멘테이션 결과 사진과 IoU 계산치를 U-Net과 비교하여 우월함을 확인하였다.|-|
+
+---
+
+## 노드 내용
+
+
