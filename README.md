@@ -350,7 +350,7 @@
 [CV-07]: GOING_DEEPER_CV/Node_07/README.md
 [CV-08]: GOING_DEEPER_CV/Node_08/%5BCV-08%5D%20Object_Detection_with_RetinaNet.ipynb
 [CV-09]: GOING_DEEPER_CV/Node_09/README.md
-[CV-10]: GOING_DEEPER_CV/Node_10/%5BCV-10%5D%20U-Net_vs_U-Net%2B%2B_in_Semantic_Segmentation.ipynb
+[CV-10]: GOING_DEEPER_CV/Node_10/%5BCV-10%5D%20U-Net_vs_U-Net-pp_in_Semantic_Segmentation.ipynb
 [CV-11]: GOING_DEEPER_CV/Node_11/README.md
 [CV-12]: GOING_DEEPER_CV/Node_12/%5BCV-12%5D%20Recognition_CRNN_of_Keras_OCR.ipynb
 [CV-13]: GOING_DEEPER_CV/Node_13/README.md
