@@ -88,7 +88,7 @@
   │&emsp;&emsp;│&emsp;&emsp;├── [CV-04] CutMix_vs_Mixup.ipynb<br>
   │&emsp;&emsp;│&emsp;&emsp;├── [CV-06] CAM_vs_Grad_CAM.ipynb<br>
   │&emsp;&emsp;│&emsp;&emsp;├── [CV-08] Object_Detection_with_RetinaNet.ipynb<br>
-  │&emsp;&emsp;│&emsp;&emsp;├── [CV-10] U-Net_vs_U-Net_pp_in_Semantic_Segmentation.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;├── [CV-10] U-Net_vs_U-Net-pp_in_Semantic_Segmentation.ipynb<br>
   │&emsp;&emsp;│&emsp;&emsp;├── [CV-12] Recognition_CRNN_of_Keras_OCR.ipynb<br>
   │&emsp;&emsp;│&emsp;&emsp;├── [CV-14] Camera_Sticker_App_with_SSD.ipynb<br>
   │&emsp;&emsp;│&emsp;&emsp;└── [CV-16] -.ipynb<br>
@@ -216,7 +216,7 @@
 >| **5** | **24** | **25** | **26** | **27** | **28** | **29** | **30** |
 >| **To Do** | - | T-01 | T-01 | T-01<br>FL-04 | T-01 | [T-01][T-01] | - |
 
-[GD-10]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_10/%5BCV-10%5D%20U-Net_vs_U-Net_pp_in_Semantic_Segmentation.ipynb
+[GD-10]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_10/%5BCV-10%5D%20U-Net_vs_U-Net-pp_in_Semantic_Segmentation.ipynb
 [GD-12]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_12/%5BCV-12%5D%20Recognition_CRNN_of_Keras_OCR.ipynb
 [GD-14]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_14/%5BCV-14%5D%20Camera_Sticker_App_with_SSD.ipynb
 [GD-16]: README.md

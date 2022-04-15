@@ -4,7 +4,7 @@
 
 ---
 
-[➡ [CV-10] U-Net_vs_U-Net_pp_in_Semantic_Segmentation.ipynb with nbviewer](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_10/%5BCV-10%5D%20U-Net_vs_U-Net_pp_in_Semantic_Segmentation.ipynb)
+[➡ [CV-10] U-Net_vs_U-Net-pp_in_Semantic_Segmentation.ipynb with nbviewer](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_10/%5BCV-10%5D%20U-Net_vs_U-Net-pp_in_Semantic_Segmentation.ipynb)
 
 ---
 
