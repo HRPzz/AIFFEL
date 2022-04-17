@@ -338,7 +338,7 @@
 |12|<b><span class="node_title">직접 만들어보는 OCR</span></b><hr><i><span class="node_tags">#Tags: </span> OCR, Text Detection, keras-ocr, Text Recognition, CRNN, CTC</i>|강상권|<b>Project</b>|-|[📋][CV-12]|15|04.07|
 |13|<b><span class="node_title">멀리 있지만 괜찮아</span></b><hr><i><span class="node_tags">#Tags: </span> Single stage detector, YOLO, SSD, Face Detection</i>|우태강|Lecture|✖️|[📋][CV-13]|16|04.11|
 |14|<b><span class="node_title">멀리 있는 사람도 스티커를 붙여주자</span></b><hr><i><span class="node_tags">#Tags: </span> Face Detection, SSD, NMS</i>|우태강|<b>Project</b>|-|[📋][CV-14]|17|04.18|
-|15|<b><span class="node_title">사람의 몸짓을 읽어보자</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|Lecture|✖️|[📋][CV-15]|17|04.19|
+|15|<b><span class="node_title">사람의 몸짓을 읽어보자</span></b><hr><i><span class="node_tags">#Tags: </span> Human Pose Estimation</i>|우태강|Lecture|✖️|[📋][CV-15]|17|04.19|
 |16|<b><span class="node_title">행동 스티커 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|<b>Project</b>|-|[📋][CV-16]|17|04.21|
 
 [CV-01]: GOING_DEEPER_CV/Node_01/README.md
