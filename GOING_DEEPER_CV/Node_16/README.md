@@ -4,6 +4,10 @@
 
 ---
 
+[➡ [CV-16] StackedHourglass_Network_vs_Simplebaseline.ipynb with nbviewer](https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_16/%5BCV-16%5D%20StackedHourglass_Network_vs_Simplebaseline.ipynb)
+
+---
+
 |-|목차|⏲ 400분|
 |:---:|---|:---:|
 |16-1| 데이터셋을 어디에서 구할까? | 10분|
