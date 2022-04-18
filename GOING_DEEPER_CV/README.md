@@ -47,7 +47,7 @@
 |9|<b>물체를 분리하자! - 세그멘테이션 살펴보기</b><hr><i>#Tags: Segmentation, FCN, U-Net, DeepLab</i>|강상권|Lecture|✖️|[📋][CV-09]|14|03.31|
 |10|<b>도로 영역을 찾자! - 세그멘테이션 모델 만들기</b><hr><i>#Tags: Semantic Segmentation, U-Net</i>|강상권|**Project**|⭐⭐⭐|[📋][CV-10]|15|04.04|
 |11|<b>OCR 기술의 개요</b><hr><i>#Tags: OCR, Text Detection, Text Recognition, Attention</i>|강상권|Lecture|✖️|[📋][CV-11]|15|04.05|
-|12|<b>직접 만들어보는 OCR</b><hr><i>#Tags: OCR, Text Detection, keras-ocr, Text Recognition, CRNN, CTC</i>|강상권|**Project**|-|[📋][CV-12]|15|04.07|
+|12|<b>직접 만들어보는 OCR</b><hr><i>#Tags: OCR, Text Detection, keras-ocr, Text Recognition, CRNN, CTC</i>|강상권|**Project**|⭐⭐⭐|[📋][CV-12]|15|04.07|
 |13|<b>멀리 있지만 괜찮아</b><hr><i>#Tags: Single stage detector, YOLO, SSD, Face Detection</i>|우태강|Lecture|✖️|[📋][CV-13]|16|04.11|
 |14|<b>멀리 있는 사람도 스티커를 붙여주자</b><hr><i>#Tags: Face Detection, SSD, NMS</i>|우태강|**Project**|-|[📋][CV-14]|17|04.18|
 |15|<b>사람의 몸짓을 읽어보자</b><hr><i>#Tags: Human Pose Estimation</i>|우태강|Lecture|✖️|[📋][CV-15]|17|04.19|
@@ -66,7 +66,7 @@
 [CV-11]: Node_11/README.md
 [CV-12]: Node_12/%5BCV-12%5D%20Recognition_CRNN_of_Keras_OCR.ipynb
 [CV-13]: Node_13/README.md
-[CV-14]: Node_14/README.md
+[CV-14]: Node_14/%5BCV-14%5D%20Camera_Sticker_App_with_SSD.ipynb
 [CV-15]: Node_15/README.md
 [CV-16]: Node_16/README.md
 
