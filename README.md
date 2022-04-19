@@ -91,7 +91,7 @@
   │&emsp;&emsp;│&emsp;&emsp;├── [CV-10] U-Net_vs_U-Net-pp_in_Semantic_Segmentation.ipynb<br>
   │&emsp;&emsp;│&emsp;&emsp;├── [CV-12] Recognition_CRNN_of_Keras_OCR.ipynb<br>
   │&emsp;&emsp;│&emsp;&emsp;├── [CV-14] Camera_Sticker_App_with_SSD.ipynb<br>
-  │&emsp;&emsp;│&emsp;&emsp;└── [CV-16] -.ipynb<br>
+  │&emsp;&emsp;│&emsp;&emsp;└── [CV-16] StackedHourglass_Network_vs_Simplebaseline.ipynb<br>
   │&emsp;&emsp;└── README.md<br>
   ├── .gitattributes<br>
   ├── .gitignore<br>
@@ -219,7 +219,7 @@
 [GD-10]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_10/%5BCV-10%5D%20U-Net_vs_U-Net-pp_in_Semantic_Segmentation.ipynb
 [GD-12]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_12/%5BCV-12%5D%20Recognition_CRNN_of_Keras_OCR.ipynb
 [GD-14]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_14/%5BCV-14%5D%20Camera_Sticker_App_with_SSD.ipynb
-[GD-16]: README.md
+[GD-16]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_16/%5BCV-16%5D%20StackedHourglass_Network_vs_Simplebaseline.ipynb
 [H-02]: README.md
 [T-01]: README.md
 
@@ -306,10 +306,9 @@
 
 |N|Title|Link|Evaluation|W|Open|Done|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|
-|1|<b><span class="node_title">제 1차 HACKATHON: 데이터톤(DATATHON)</span></b><hr><i><span class="node_tags">#Tags: </span> EDA</i>|[📁Repo][AIFFEL_HACKATHON_1 Repo]<br>[📋ipynb][AIFFEL_HACKATHON_1 ipynb]|2단계<br>통과|11|03.08|03.11|
-|2|-|[📁Repo]()<br>[📋ipynb]()|-|16|04.12|04.15|
-|3|-|[📂Repo]()<br>[📋ipynb]()|-|18|04.25|05.02|
-|4|-|[📂Repo]()<br>[📋ipynb]()|-|19<br>~<br>24|05.03|06.09|
+|1|<b><span class="node_title">제 1차 HACKATHON: 데이터톤(DATATHON)</span></b><hr><i><span class="node_tags">#Tags: </span> HACKATHON, EDA</i>|[📁Repo][AIFFEL_HACKATHON_1 Repo]<br>[📋ipynb][AIFFEL_HACKATHON_1 ipynb]|2단계<br>통과|11|03.08|03.11|
+|2|<b><span class="node_title">제 2차 HACKATHON: PoC Lab</span></b><hr><i><span class="node_tags">#Tags: </span> HACKATHON, PoC Lab</i>|[📁Repo]()<br>[📋ipynb]()|-|16<br>17|04.13<br>04.20|04.15<br>04.22|
+|3|-|[📂Repo]()<br>[📋ipynb]()|-|19<br>~<br>24|05.03|06.09|
 
 [AIFFEL_HACKATHON_1 Repo]: https://github.com/HRPzz/AIFFEL_HACKATHON_1
 [AIFFEL_HACKATHON_1 ipynb]: https://github.com/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb
@@ -337,9 +336,9 @@
 |11|<b><span class="node_title">OCR 기술의 개요</span></b><hr><i><span class="node_tags">#Tags: </span> OCR, Text Detection, Text Recognition, Attention</i>|강상권|Lecture|✖️|[📋][CV-11]|15|04.05|
 |12|<b><span class="node_title">직접 만들어보는 OCR</span></b><hr><i><span class="node_tags">#Tags: </span> OCR, Text Detection, keras-ocr, Text Recognition, CRNN, CTC</i>|강상권|<b>Project</b>|⭐⭐⭐|[📋][CV-12]|15|04.07|
 |13|<b><span class="node_title">멀리 있지만 괜찮아</span></b><hr><i><span class="node_tags">#Tags: </span> Single stage detector, YOLO, SSD, Face Detection</i>|우태강|Lecture|✖️|[📋][CV-13]|16|04.11|
-|14|<b><span class="node_title">멀리 있는 사람도 스티커를 붙여주자</span></b><hr><i><span class="node_tags">#Tags: </span> Face Detection, SSD, NMS</i>|우태강|<b>Project</b>|-|[📋][CV-14]|17|04.18|
-|15|<b><span class="node_title">사람의 몸짓을 읽어보자</span></b><hr><i><span class="node_tags">#Tags: </span> Human Pose Estimation</i>|우태강|Lecture|✖️|[📋][CV-15]|17|04.19|
-|16|<b><span class="node_title">행동 스티커 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> </i>|-|<b>Project</b>|-|[📋][CV-16]|17|04.21|
+|14|<b><span class="node_title">멀리 있는 사람도 스티커를 붙여주자</span></b><hr><i><span class="node_tags">#Tags: </span> Face Detection, SSD, NMS</i>|우태강|<b>Project</b>|-|[📋][CV-14]|17|04.12|
+|15|<b><span class="node_title">사람의 몸짓을 읽어보자</span></b><hr><i><span class="node_tags">#Tags: </span> Human Pose Estimation</i>|우태강|Lecture|✖️|[📋][CV-15]|17|04.18|
+|16|<b><span class="node_title">행동 스티커 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> Human Pose Estimation</i>|우태강|<b>Project</b>|-|[📋][CV-16]|17|04.19|
 
 [CV-01]: GOING_DEEPER_CV/Node_01/README.md
 [CV-02]: GOING_DEEPER_CV/Node_02/%5BCV-02%5D%20ResNet_vs_Plain.ipynb
@@ -356,7 +355,7 @@
 [CV-13]: GOING_DEEPER_CV/Node_13/README.md
 [CV-14]: GOING_DEEPER_CV/Node_14/%5BCV-14%5D%20Camera_Sticker_App_with_SSD.ipynb
 [CV-15]: GOING_DEEPER_CV/Node_15/README.md
-[CV-16]: GOING_DEEPER_CV/Node_16/README.md
+[CV-16]: GOING_DEEPER_CV/Node_16/%5BCV-16%5D%20StackedHourglass_Network_vs_Simplebaseline.ipynb
 
 **[⬆ back to top](#-table-of-contents)**
 
