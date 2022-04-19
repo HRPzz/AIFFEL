@@ -49,9 +49,9 @@
 |11|<b>OCR 기술의 개요</b><hr><i>#Tags: OCR, Text Detection, Text Recognition, Attention</i>|강상권|Lecture|✖️|[📋][CV-11]|15|04.05|
 |12|<b>직접 만들어보는 OCR</b><hr><i>#Tags: OCR, Text Detection, keras-ocr, Text Recognition, CRNN, CTC</i>|강상권|**Project**|⭐⭐⭐|[📋][CV-12]|15|04.07|
 |13|<b>멀리 있지만 괜찮아</b><hr><i>#Tags: Single stage detector, YOLO, SSD, Face Detection</i>|우태강|Lecture|✖️|[📋][CV-13]|16|04.11|
-|14|<b>멀리 있는 사람도 스티커를 붙여주자</b><hr><i>#Tags: Face Detection, SSD, NMS</i>|우태강|**Project**|-|[📋][CV-14]|17|04.18|
-|15|<b>사람의 몸짓을 읽어보자</b><hr><i>#Tags: Human Pose Estimation</i>|우태강|Lecture|✖️|[📋][CV-15]|17|04.19|
-|16|<b>행동 스티커 만들기</b><hr><i>#Tags: </i>|-|**Project**|-|[📋][CV-16]|17|04.21|
+|14|<b>멀리 있는 사람도 스티커를 붙여주자</b><hr><i>#Tags: Face Detection, SSD, NMS</i>|우태강|**Project**|-|[📋][CV-14]|17|04.12|
+|15|<b>사람의 몸짓을 읽어보자</b><hr><i>#Tags: Human Pose Estimation</i>|우태강|Lecture|✖️|[📋][CV-15]|17|04.18|
+|16|<b>행동 스티커 만들기</b><hr><i>#Tags: Human Pose Estimation</i>|우태강|**Project**|-|[📋][CV-16]|17|04.19|
 
 [CV-01]: Node_01/README.md
 [CV-02]: Node_02/%5BCV-02%5D%20ResNet_vs_Plain.ipynb
@@ -68,7 +68,7 @@
 [CV-13]: Node_13/README.md
 [CV-14]: Node_14/%5BCV-14%5D%20Camera_Sticker_App_with_SSD.ipynb
 [CV-15]: Node_15/README.md
-[CV-16]: Node_16/README.md
+[CV-16]: Node_16/%5BCV-16%5D%20StackedHourglass_Network_vs_Simplebaseline.ipynb
 
 **[⬆ back to top](#-table-of-contents)**
 
@@ -91,6 +91,6 @@
 |13|<b>멀리 있지만 괜찮아</b>|우태강|카메라 스티커앱의 Face Detection을 더욱 가볍고 빠르고 정확하게 개선할 수 있는 딥러닝 모델에 대해 자세히 알아본다.|
 |14|<b>멀리 있는 사람도 스티커를 붙여주자</b>|우태강|이미지에 사람 얼굴이 다수 포함된 경우에도 빠르게 이를 인식할 수 있는 SSD 모델을 구현, 학습해 보고 이를 이용해 카메라 스티커 앱을 개선해 본다.|
 |15|<b>사람의 몸짓을 읽어보자</b>|우태강|Human pose estimation에 대해 그동안 발표된 논문을 기반으로 아이디어의 흐름이 발전해 온 내역을 자세히 살펴본다.|
-|16|<b>행동 스티커 만들기</b>|-|Simplebaseline 모델을 활용하여 Human Pose Estimation 구현|
+|16|<b>행동 스티커 만들기</b>|우태강|simplebaseline 모델을 활용하여 실제로 구현을 진행해 보면서 Human Pose Estimation을 좀더 깊이있게 이해해 본다.|
 
 **[⬆ back to top](#-table-of-contents)**
