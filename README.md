@@ -307,7 +307,7 @@
 |N|Title|Link|Evaluation|W|Open|Done|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|
 |1|<b><span class="node_title">제 1차 HACKATHON: 데이터톤(DATATHON)</span></b><hr><i><span class="node_tags">#Tags: </span> EDA</i>|[📁Repo][AIFFEL_HACKATHON_1 Repo]<br>[📋ipynb][AIFFEL_HACKATHON_1 ipynb]|2단계<br>통과|11|03.08|03.11|
-|2|<b><span class="node_title">제 2차 HACKATHON: PoC Lab</span></b><hr><i><span class="node_tags">#Tags: </span> PoC Lab, 개발계획서</i>|[📋개인][AIFFEL_HACKATHON_2 Summary]<br>[📋최종][AIFFEL_HACKATHON_2 Final]|선발<br>-|16<br>17|04.13<br>04.20|04.15<br>04.22|
+|2|<b><span class="node_title">제 2차 HACKATHON: PoC Lab</span></b><hr><i><span class="node_tags">#Tags: </span> PoC Lab, 개발계획서</i>|[📋개인][AIFFEL_HACKATHON_2 Summary]<br><br>[📋최종][AIFFEL_HACKATHON_2 Final]|선발<br><br>-|16<br><br>17|04.13<br><br>04.20|04.15<br><br>04.22|
 |3|<b><span class="node_title">제 3차 HACKATHON: AIFFELTHON</span></b><hr><i><span class="node_tags">#Tags: </span> AIFFELTHON</i>|[📂Repo][AIFFEL_HACKATHON_3 Repo]<br>[📋ipynb][AIFFEL_HACKATHON_3 ipynb]|-|19<br>~<br>24|05.03|06.09|
 
 [AIFFEL_HACKATHON_1 Repo]: https://github.com/HRPzz/AIFFEL_HACKATHON_1
@@ -342,7 +342,7 @@
 |11|<b><span class="node_title">OCR 기술의 개요</span></b><hr><i><span class="node_tags">#Tags: </span> OCR, Text Detection, Text Recognition, Attention</i>|강상권|Lecture|✖️|[📋][CV-11]|15|04.05|
 |12|<b><span class="node_title">직접 만들어보는 OCR</span></b><hr><i><span class="node_tags">#Tags: </span> OCR, Text Detection, keras-ocr, Text Recognition, CRNN, CTC</i>|강상권|<b>Project</b>|⭐⭐⭐|[📋][CV-12]|15|04.07|
 |13|<b><span class="node_title">멀리 있지만 괜찮아</span></b><hr><i><span class="node_tags">#Tags: </span> Single stage detector, YOLO, SSD, Face Detection</i>|우태강|Lecture|✖️|[📋][CV-13]|16|04.11|
-|14|<b><span class="node_title">멀리 있는 사람도 스티커를 붙여주자</span></b><hr><i><span class="node_tags">#Tags: </span> Face Detection, SSD, NMS</i>|우태강|<b>Project</b>|-|[📋][CV-14]|17|04.12|
+|14|<b><span class="node_title">멀리 있는 사람도 스티커를 붙여주자</span></b><hr><i><span class="node_tags">#Tags: </span> Face Detection, SSD, NMS</i>|우태강|<b>Project</b>|⭐⭐⭐|[📋][CV-14]|17|04.12|
 |15|<b><span class="node_title">사람의 몸짓을 읽어보자</span></b><hr><i><span class="node_tags">#Tags: </span> Human Pose Estimation</i>|우태강|Lecture|✖️|[📋][CV-15]|17|04.18|
 |16|<b><span class="node_title">행동 스티커 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> Human Pose Estimation</i>|우태강|<b>Project</b>|-|[📋][CV-16]|17|04.19|
 
