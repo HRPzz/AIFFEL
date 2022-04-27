@@ -273,16 +273,17 @@
 
 ## 💭 FLIPPED LEARNING
 
-|N|Title|Site|Book|PPT|Youtube|
-|:---:|---|:---:|:---:|:---:|:---:|
-|1|<b><span class="node_title">파이썬 코딩 도장</span></b><hr><i><span class="node_tags">#Tags: </span>Python</i>|[➡️][Python Coding Site]|[📚][Python Coding Book]|-|[⏯️][Python Coding Youtube]|
-|2|<b><span class="node_title">- Do it! 딥러닝 교과서<br><br>- CS231n</span></b><hr><i><span class="node_tags">#Tags: </span>AI, ML, DL</i>|-<br><br>[➡️][CS231n Site]|[📚][Do it! DeepLearning Book]<br><br>-|-<br><br>[📄2016][CS231n PPT 2016]<br>[📄2017][CS231n PPT 2017]|-<br><br>[⏯️KOR][CS231n Youtube KOR]<br>[⏯️ENG][CS231n Youtube ENG]|
-|3|<b><span class="node_title">이것이 코딩테스트다 with 파이썬</span></b><hr><i><span class="node_tags">#Tags: </span>Python, Coding Test, Algorithm, Data Structure</i>|-|[📚][This is Coding Test with Python Book]|-|[⏯️][This is Coding Test with Python Youtube]|
-|4|<b><span class="node_title">Django 를 통한 AI API 구축</span></b><hr><i><span class="node_tags">#Tags: </span>Python, Django, Web, Framework, AI, API</i>|[➡️][Django Self Study]|[📚][Do it! Django + Bootstrap]|-|-|
+|N|Title|Site|Book|PPT|Youtube|GitHub|
+|:---:|---|:---:|:---:|:---:|:---:|:---:|
+|1|<b><span class="node_title">파이썬 코딩 도장</span></b><hr><i><span class="node_tags">#Tags: </span>Python</i>|[➡️][Python Coding Site]|[📚][Python Coding Book]|-|[⏯️][Python Coding Youtube]|[🗂][Python Coding GitHub]|
+|2|<b><span class="node_title">- Do it! 딥러닝 교과서<br><br>- CS231n</span></b><hr><i><span class="node_tags">#Tags: </span>AI, ML, DL</i>|-<br><br>[➡️][CS231n Site]|[📚][Do it! DeepLearning Book]<br><br>-|-<br><br>[📄2016][CS231n PPT 2016]<br>[📄2017][CS231n PPT 2017]|-<br><br>[⏯️KOR][CS231n Youtube KOR]<br>[⏯️ENG][CS231n Youtube ENG]|-<br><br>[🗂][CS231n 2017 Korean Translation GitHub]|
+|3|<b><span class="node_title">이것이 코딩테스트다 with 파이썬</span></b><hr><i><span class="node_tags">#Tags: </span>Python, Coding Test, Algorithm, Data Structure</i>|-|[📚][This is Coding Test with Python Book]|-|[⏯️][This is Coding Test with Python Youtube]|[🗂][This is Coding Test with Python GitHub]|
+|4|<b><span class="node_title">Django 를 통한 AI API 구축</span></b><hr><i><span class="node_tags">#Tags: </span>Python, Django, Web, Framework, AI, API</i>|[➡️][Django Self Study]|[📚][Do it! Django + Bootstrap]|-|-|[🗂][My Django Study GitHub]|
 
 [Python Coding Site]: https://dojang.io/course/view.php?id=7
 [Python Coding Book]: https://books.google.co.kr/books?id=G7-CDwAAQBAJ&printsec=frontcover&dq=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EC%BD%94%EB%94%A9+%EB%8F%84%EC%9E%A5&hl=ko&sa=X&redir_esc=y#v=onepage&q=%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%BD%94%EB%94%A9%20%EB%8F%84%EC%9E%A5&f=false
 [Python Coding Youtube]: https://www.youtube.com/playlist?list=PLRtkynNyEsXnEkVCeMo7smzK8lqLNAQWk
+[Python Coding GitHub]: https://github.com/namjaeyoon/python.dojang
 
 [Do it! DeepLearning Book]: https://books.google.co.kr/books?id=K5xNEAAAQBAJ&printsec=frontcover&dq=%EB%94%A5%EB%9F%AC%EB%8B%9D+%EA%B5%90%EA%B3%BC%EC%84%9C&hl=ko&sa=X&redir_esc=y#v=onepage&q=%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B5%90%EA%B3%BC%EC%84%9C&f=false
 
@@ -291,12 +292,15 @@
 [CS231n PPT 2017]: https://drive.google.com/file/d/1VRNhmWaLlBHEXd6PhXRn7NIUyY3mtkn0/view?usp=sharing
 [CS231n Youtube KOR]: https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5
 [CS231n Youtube ENG]: https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
+[CS231n 2017 Korean Translation GitHub]: https://github.com/visionNoob/CS231N_17_KOR_SUB
 
 [This is Coding Test with Python Book]:https://books.google.co.kr/books?id=vBz-DwAAQBAJ&printsec=frontcover&dq=%EC%9D%B4%EA%B2%83%EC%9D%B4+%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4&hl=ko&sa=X&ved=2ahUKEwijqvmrmsD2AhVQx2EKHeosCXcQ6AF6BAgJEAI#v=onepage&q=%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4&f=false
 [This is Coding Test with Python Youtube]: https://www.youtube.com/playlist?list=PLVsNizTWUw7H9_of5YCB0FmsSc-K44y81
+[This is Coding Test with Python GitHub]: https://github.com/ndb796/python-for-coding-test
 
 [Django Self Study]: https://wikidocs.net/book/837
 [Do it! Django + Bootstrap]: https://books.google.co.kr/books?id=T0QqEAAAQBAJ&printsec=frontcover&dq=do+it+%EC%9E%A5%EA%B3%A0&hl=ko&sa=X&redir_esc=y#v=onepage&q=do%20it%20%EC%9E%A5%EA%B3%A0&f=false
+[My Django Study GitHub]: https://github.com/HRPzz/HRP_Django
 
 **[⬆ back to top](#-table-of-contents)**
 
