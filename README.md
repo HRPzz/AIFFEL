@@ -214,7 +214,7 @@
 >| **4** | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
 >| **To Do** | - | GD-15 | [GD-16][GD-16] | H-02<br>FL-04 | H-02 | [H-02][H-02]<br>FL-03 | - |
 >| **5** | **24** | **25** | **26** | **27** | **28** | **29** | **30** |
->| **To Do** | - | T-01 | T-01 | T-01<br>FL-04 | T-01 | [T-01][T-01] | - |
+>| **To Do** | - | T-01 | T-01 | T-01<br>FL-04 | T-01 | T-01 | - |
 
 [GD-10]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_10/%5BCV-10%5D%20U-Net_vs_U-Net-pp_in_Semantic_Segmentation.ipynb
 [GD-12]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_12/%5BCV-12%5D%20Recognition_CRNN_of_Keras_OCR.ipynb
@@ -228,7 +228,7 @@
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 >| **1** | **1** | **2** | **3** | **4** | **5** | **6** | **7** |
->| **To Do** | - | T-01 | T-02 | T-02<br>FL-04 | - | T-02<br>FL-03 | - |
+>| **To Do** | - | [T-01][T-01] | T-02 | T-02<br>FL-04 | - | T-02<br>FL-03 | - |
 >| **2** | **8** | **9** | **10** | **11** | **12** | **13** | **14** |
 >| **To Do** | - | T-02 | T-02 | T-02<br>FL-04 | T-02 | T-02<br>FL-03 | - |
 >| **3** | **15** | **16** | **17** | **18** | **19** | **20** | **21** |
