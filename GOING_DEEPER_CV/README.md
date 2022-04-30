@@ -51,7 +51,7 @@
 |13|<b>멀리 있지만 괜찮아</b><hr><i>#Tags: Single stage detector, YOLO, SSD, Face Detection</i>|우태강|Lecture|✖️|[📋][CV-13]|16|04.11|
 |14|<b>멀리 있는 사람도 스티커를 붙여주자</b><hr><i>#Tags: Face Detection, SSD, NMS</i>|우태강|**Project**|⭐⭐⭐|[📋][CV-14]|17|04.12|
 |15|<b>사람의 몸짓을 읽어보자</b><hr><i>#Tags: Human Pose Estimation</i>|우태강|Lecture|✖️|[📋][CV-15]|17|04.18|
-|16|<b>행동 스티커 만들기</b><hr><i>#Tags: Human Pose Estimation</i>|우태강|**Project**|-|[📋][CV-16]|17|04.19|
+|16|<b>행동 스티커 만들기</b><hr><i>#Tags: Human Pose Estimation</i>|우태강|**Project**|⭐⭐☆|[📋][CV-16]|17|04.19|
 
 [CV-01]: Node_01/README.md
 [CV-02]: Node_02/%5BCV-02%5D%20ResNet_vs_Plain.ipynb
