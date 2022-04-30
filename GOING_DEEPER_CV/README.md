@@ -49,7 +49,7 @@
 |11|<b>OCR 기술의 개요</b><hr><i>#Tags: OCR, Text Detection, Text Recognition, Attention</i>|강상권|Lecture|✖️|[📋][CV-11]|15|04.05|
 |12|<b>직접 만들어보는 OCR</b><hr><i>#Tags: OCR, Text Detection, keras-ocr, Text Recognition, CRNN, CTC</i>|강상권|**Project**|⭐⭐⭐|[📋][CV-12]|15|04.07|
 |13|<b>멀리 있지만 괜찮아</b><hr><i>#Tags: Single stage detector, YOLO, SSD, Face Detection</i>|우태강|Lecture|✖️|[📋][CV-13]|16|04.11|
-|14|<b>멀리 있는 사람도 스티커를 붙여주자</b><hr><i>#Tags: Face Detection, SSD, NMS</i>|우태강|**Project**|⭐⭐⭐|[📋][CV-14]|17|04.12|
+|14|<b>멀리 있는 사람도 스티커를 붙여주자</b><hr><i>#Tags: Face Detection, SSD, NMS</i>|우태강|**Project**|⭐⭐⭐|[📋][CV-14]|16|04.12|
 |15|<b>사람의 몸짓을 읽어보자</b><hr><i>#Tags: Human Pose Estimation</i>|우태강|Lecture|✖️|[📋][CV-15]|17|04.18|
 |16|<b>행동 스티커 만들기</b><hr><i>#Tags: Human Pose Estimation</i>|우태강|**Project**|⭐⭐☆|[📋][CV-16]|17|04.19|
 
