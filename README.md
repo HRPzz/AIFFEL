@@ -212,7 +212,7 @@
 >| **3** | **10** | **11** | **12** | **13** | **14** | **15** | **16** |
 >| **To Do** | - | GD-13 | [GD-14][GD-14] | H-02<br>FL-04 | H-02 | H-02<br>FL-03 | - |
 >| **4** | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
->| **To Do** | - | GD-15 | [GD-16][GD-16] | H-02<br>FL-04 | H-02 | [H-02][H-02]<br>FL-03 | - |
+>| **To Do** | - | GD-15 | [GD-16][GD-16] | H-02<br>FL-04 | H-02 | H-02<br>FL-03 | - |
 >| **5** | **24** | **25** | **26** | **27** | **28** | **29** | **30** |
 >| **To Do** | - | T-01 | T-01 | T-01<br>FL-04 | T-01 | T-01 | - |
 
@@ -220,15 +220,13 @@
 [GD-12]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_12/%5BCV-12%5D%20Recognition_CRNN_of_Keras_OCR.ipynb
 [GD-14]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_14/%5BCV-14%5D%20Camera_Sticker_App_with_SSD.ipynb
 [GD-16]: https://nbviewer.org/github/HRPzz/AIFFEL/blob/main/GOING_DEEPER_CV/Node_16/%5BCV-16%5D%20StackedHourglass_Network_vs_Simplebaseline.ipynb
-[H-02]: README.md
-[T-01]: README.md
 
 ### 🐯 May, 2022  (21 days)
 
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 >| **1** | **1** | **2** | **3** | **4** | **5** | **6** | **7** |
->| **To Do** | - | [T-01][T-01] | T-02 | T-02<br>FL-04 | - | T-02<br>FL-03 | - |
+>| **To Do** | - | T-01 | T-02 | T-02<br>FL-04 | - | T-02<br>FL-03 | - |
 >| **2** | **8** | **9** | **10** | **11** | **12** | **13** | **14** |
 >| **To Do** | - | T-02 | T-02 | T-02<br>FL-04 | T-02 | T-02<br>FL-03 | - |
 >| **3** | **15** | **16** | **17** | **18** | **19** | **20** | **21** |
@@ -243,7 +241,7 @@
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 >| **1** | - | - | - | **1** | **2** | **3** | **4** |
->| **To Do** | - | - | - | T-02 | T-02 | T-02 | - |
+>| **To Do** | - | - | - | - | T-02 | T-02 | - |
 >| **2** | **5** | **6** | **7** | **8** | **9** | **10** | **11** |
 >| **To Do** | - | - | T-02 | T-02 | [T-02][T-02] | END | - |
 >| **3** | **12** | **13** | **14** | **15** | **16** | **17** | **18** |
@@ -253,7 +251,7 @@
 >| **5** | **26** | **27** | **28** | **29** | **30** | **31** | - |
 >| **To Do** | - | - | - | - | - | - | - |
 
-[T-02]: README.md
+[T-02]: https://github.com/AIFFELTHON/Bung_Eo_Lip_Net
 
 </details>
 
@@ -311,17 +309,13 @@
 |N|Title|Link|Evaluation|W|Open|Done|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|
 |1|<b><span class="node_title">제 1차 HACKATHON: 데이터톤(DATATHON)</span></b><hr><i><span class="node_tags">#Tags: </span> EDA</i>|[📁Repo][AIFFEL_HACKATHON_1 Repo]<br>[📋ipynb][AIFFEL_HACKATHON_1 ipynb]|2단계<br>통과|11|03.08|03.11|
-|2|<b><span class="node_title">제 2차 HACKATHON: PoC Lab</span></b><hr><i><span class="node_tags">#Tags: </span> PoC Lab, 개발계획서</i>|[📋개인][AIFFEL_HACKATHON_2 Summary]<br><br>[📋최종][AIFFEL_HACKATHON_2 Final]|선발<br><br>최종|16<br><br>17|04.13<br><br>04.20|04.15<br><br>04.22|
-|3|<b><span class="node_title">제 3차 HACKATHON: AIFFELTHON</span></b><hr><i><span class="node_tags">#Tags: </span> AIFFELTHON</i>|[📂Repo][AIFFEL_HACKATHON_3 Repo]<br>[📋ipynb][AIFFEL_HACKATHON_3 ipynb]|-|19<br>~<br>24|05.03|06.09|
+|2|<b><span class="node_title">제 2차 HACKATHON: PoC Lab</span></b><hr><i><span class="node_tags">#Tags: </span> PoC Lab, 개발계획서</i>|📋개인<br><br>📋최종|선발<br><br>최종|16<br><br>17|04.13<br><br>04.20|04.15<br><br>04.22|
+|3|<b><span class="node_title">제 3차 HACKATHON: AIFFELTHON</span></b><hr><i><span class="node_tags">#Tags: </span> AIFFELTHON, Lipreading, LipNet, ShuffleNet-TCN, CV, NLP</i>|[📂Repo][AIFFEL_HACKATHON_3 Repo]<br>|종료|19<br>~<br>24|05.03|06.09|
 
 [AIFFEL_HACKATHON_1 Repo]: https://github.com/HRPzz/AIFFEL_HACKATHON_1
 [AIFFEL_HACKATHON_1 ipynb]: https://github.com/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb
 
-[AIFFEL_HACKATHON_2 Summary]: README.md
-[AIFFEL_HACKATHON_2 Final]: README.md
-
 [AIFFEL_HACKATHON_3 Repo]: https://github.com/AIFFELTHON/Bung_Eo_Lip_Net
-[AIFFEL_HACKATHON_3 ipynb]: https://github.com/AIFFELTHON/Bung_Eo_Lip_Net/blob/main/Bung_Eo_Lip_Net.ipynb
 
 **[⬆ back to top](#-table-of-contents)**
 
