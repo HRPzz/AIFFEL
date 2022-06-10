@@ -310,7 +310,7 @@
 |:---:|---|:---:|:---:|:---:|:---:|:---:|
 |1|<b><span class="node_title">제 1차 HACKATHON: 데이터톤(DATATHON)</span></b><hr><i><span class="node_tags">#Tags: </span> EDA, H-01</i>|[📁][AIFFEL_HACKATHON_1 Repo], [📋][AIFFEL_HACKATHON_1 ipynb]|2단계<br>통과|11|03.08|03.11|
 |2|<b><span class="node_title">제 2차 HACKATHON: PoC Lab</span></b><hr><i><span class="node_tags">#Tags: </span> PoC Lab, 개발계획서, H-02, T-01</i>|📋개인<br><br>📋최종|선발<br><br>최종|16<br><br>17|04.13<br><br>04.20|04.15<br><br>04.22|
-|3|<b><span class="node_title">제 3차 HACKATHON: AIFFELTHON</span></b><hr><i><span class="node_tags">#Tags: </span> AIFFELTHON, Lipreading, LipNet, ShuffleNet-TCN, CV, NLP, T-02</i>|[📂][AIFFEL_HACKATHON_3 Repo]<br>|종료|19<br>~<br>24|05.03|06.09|
+|3|<b><span class="node_title">제 3차 HACKATHON: AIFFELTHON</span></b><hr><i><span class="node_tags">#Tags: </span> AIFFELTHON, Lipreading, T-02</i>|[📂][AIFFEL_HACKATHON_3 Repo]<br>|종료|19<br>~<br>24|05.03|06.09|
 
 [AIFFEL_HACKATHON_1 Repo]: https://github.com/HRPzz/AIFFEL_HACKATHON_1
 [AIFFEL_HACKATHON_1 ipynb]: https://github.com/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb
