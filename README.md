@@ -27,7 +27,7 @@
 </h3>
 <div align="right">
   <i>
-    인공지능 (AI; Artificial Intelligence), 머신러닝 (ML; Machine Learning), 딥러닝 (DL; Deep Learning),
+    인공지능 (AI; Artificial Intelligence), 머신러닝 (ML; Machine Learning), 딥러닝 (DNN; Deep Learning),
     <br>
     영상 처리 (CV; Computer Vision), 자연어 처리 (NLP; Natural Language Processing),
     <br>
@@ -359,6 +359,46 @@
 [CV-14]: GOING_DEEPER_CV/Node_14/%5BCV-14%5D%20Camera_Sticker_App_with_SSD.ipynb
 [CV-15]: GOING_DEEPER_CV/Node_15/README.md
 [CV-16]: GOING_DEEPER_CV/Node_16/%5BCV-16%5D%20StackedHourglass_Network_vs_Simplebaseline.ipynb
+
+**[⬆ back to top](#-table-of-contents)**
+
+### 🔑 GOING DEEPER NLP [📂](GOING_DEEPER_NLP)
+
+|N|Node Title|Author|Type|Link|W|Open|
+|:---:|---|:---:|:---:|:---:|:---:|:---:|
+|1|<b><span class="node_title">텍스트 데이터 다루기</span></b><hr><i><span class="node_tags">#Tags: </span> Distributed Representation, Tokenization, WPM, BPE, SentencePiece, Word2Vec, FastText, ELMo</i>|문성원|Lecture|[📋][NLP-01]|12|03.15|
+|2|<b><span class="node_title">멋진 단어사전 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> Tokenization, SentencePiece</i>|문성원|<b>Project</b>|[📋][NLP-02]|12|03.16|
+|3|<b><span class="node_title">텍스트의 분포로 벡터화 하기</span></b><hr><i><span class="node_tags">#Tags: </span> BoW, DTM, TF-IDF, LSA, LDA</i>|유원준|Lecture|[📋][NLP-03]|12|03.18|
+|4|<b><span class="node_title">뉴스 카테고리 다중분류</span></b><hr><i><span class="node_tags">#Tags: </span> Precision, Recall, F1 Score, Confusion Matrix, MultinomialNB, CNB</i>|유원준|<b>Project</b>|[📋][NLP-04]|13|03.21|
+|5|<b><span class="node_title">워드 임베딩</span></b><hr><i><span class="node_tags">#Tags: </span> Word Embedding Vector, Word2Vec, FastText, Glove</i>|유원준|Lecture|[📋][NLP-05]|13|03.23|
+|6|<b><span class="node_title">임베딩 내 편향성 알아보기</span></b><hr><i><span class="node_tags">#Tags: </span> Word Embedding, WEAT</i>|박윤진|<b>Project</b>|[📋][NLP-06]|13|03.24|
+|7|<b><span class="node_title">Seq2seq와 Attention</span></b><hr><i><span class="node_tags">#Tags: </span> Seq2Seq, Bahdanau Attention, Luong Attention</i>|문성원|Lecture|[📋][NLP-07]|14|03.28|
+|8|<b><span class="node_title">Seq2seq으로 번역기 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> Seq2Seq, Attention</i>|문성원|<b>Project</b>|[📋][NLP-08]|14|03.29|
+|9|<b><span class="node_title">Transformer가 나오기까지</span></b><hr><i><span class="node_tags">#Tags: </span> Seq2Seq, Attention, Transformer, BERT, GPT</i>|문성원|Lecture|[📋][NLP-09]|14|03.31|
+|10|<b><span class="node_title">Transformer로 번역기 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> Transformer</i>|문성원|<b>Project</b>|[📋][NLP-10]|15|04.04|
+|11|<b><span class="node_title">기계 번역이 걸어온 길</span></b><hr><i><span class="node_tags">#Tags: </span> Greedy Decoding, Beam Search, Sampling, Data Augmentation, Lexical Substitution, Back Translation, Random Noise Injection</i>|문성원|Lecture|[📋][NLP-11]|15|04.05|
+|12|<b><span class="node_title">번역가는 대화에도 능하다</span></b><hr><i><span class="node_tags">#Tags: </span> Transformer, BLEU Score, Beam Search Decoder</i>|문성원|<b>Project</b>|[📋][NLP-12]|15|04.07|
+|13|<b><span class="node_title">modern NLP의 흐름에 올라타보자</span></b><hr><i><span class="node_tags">#Tags: </span> Transformer, ELMO, GPT, BERT, Transformer-XL, XLNet, BART, ALBERT, T5, Switch Transformer, ERNIE</i>|정민지|Lecture|[📋][NLP-13]|16|04.11|
+|14|<b><span class="node_title">BERT pretrained model 제작</span></b><hr><i><span class="node_tags">#Tags: </span> BERT</i>|현청천|<b>Project</b>|[📋][NLP-14]|17|04.12|
+|15|<b><span class="node_title">NLP Framework의 활용</span></b><hr><i><span class="node_tags">#Tags: </span> Hugging Face Transformers</i>|정민지|Lecture|[📋][NLP-15]|17|04.18|
+|16|<b><span class="node_title">HuggingFace 커스텀 프로젝트 만들기</span></b><hr><i><span class="node_tags">>#Tags: </span> Hugging Face Transformers</i>|정민지|<b>Project</b>|[📋][NLP-16]|17|04.19|
+
+[NLP-01]: GOING_DEEPER_NLP/Node_01/README.md
+[NLP-02]: GOING_DEEPER_NLP/Node_02/README.md
+[NLP-03]: GOING_DEEPER_NLP/Node_03/README.md
+[NLP-04]: GOING_DEEPER_NLP/Node_04/README.md
+[NLP-05]: GOING_DEEPER_NLP/Node_05/README.md
+[NLP-06]: GOING_DEEPER_NLP/Node_06/README.md
+[NLP-07]: GOING_DEEPER_NLP/Node_07/README.md
+[NLP-08]: GOING_DEEPER_NLP/Node_08/README.md
+[NLP-09]: GOING_DEEPER_NLP/Node_09/README.md
+[NLP-10]: GOING_DEEPER_NLP/Node_10/README.md
+[NLP-11]: GOING_DEEPER_NLP/Node_11/README.md
+[NLP-12]: GOING_DEEPER_NLP/Node_12/README.md
+[NLP-13]: GOING_DEEPER_NLP/Node_13/README.md
+[NLP-14]: GOING_DEEPER_NLP/Node_14/README.md
+[NLP-15]: GOING_DEEPER_NLP/Node_15/README.md
+[NLP-16]: GOING_DEEPER_NLP/Node_16/README.md
 
 **[⬆ back to top](#-table-of-contents)**
 

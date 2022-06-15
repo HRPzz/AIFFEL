@@ -49,9 +49,9 @@
 |11|<b>기계 번역이 걸어온 길</b><hr><i>#Tags: Greedy Decoding, Beam Search, Sampling, Data Augmentation, Lexical Substitution, Back Translation, Random Noise Injection</i>|문성원|Lecture|[📋][NLP-11]|15|04.05|
 |12|<b>번역가는 대화에도 능하다</b><hr><i>#Tags: Transformer, BLEU Score, Beam Search Decoder</i>|문성원|**Project**|[📋][NLP-12]|15|04.07|
 |13|<b>modern NLP의 흐름에 올라타보자</b><hr><i>#Tags: Transformer, ELMO, GPT, BERT, Transformer-XL, XLNet, BART, ALBERT, T5, Switch Transformer, ERNIE</i>|정민지|Lecture|[📋][NLP-13]|16|04.11|
-|14|<b>BERT pretrained model 제작</b><hr><i>#Tags: BERT</i>|현청천|**Project**|[📋][NLP-14]|17|04.18|
-|15|<b>NLP Framework의 활용</b><hr><i>#Tags: Hugging Face Transformers</i>|정민지|Lecture|[📋][NLP-15]|17|04.19|
-|16|<b>HuggingFace 커스텀 프로젝트 만들기</b><hr><i>#Tags: Hugging Face Transformers</i>|정민지|**Project**|[📋][NLP-16]|17|04.21|
+|14|<b>BERT pretrained model 제작</b><hr><i>#Tags: BERT</i>|현청천|**Project**|[📋][NLP-14]|17|04.12|
+|15|<b>NLP Framework의 활용</b><hr><i>#Tags: Hugging Face Transformers</i>|정민지|Lecture|[📋][NLP-15]|17|04.18|
+|16|<b>HuggingFace 커스텀 프로젝트 만들기</b><hr><i>#Tags: Hugging Face Transformers</i>|정민지|**Project**|[📋][NLP-16]|17|04.19|
 
 [NLP-01]: Node_01/README.md
 [NLP-02]: Node_02/README.md
