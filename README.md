@@ -381,7 +381,7 @@
 |13|<b><span class="node_title">modern NLP의 흐름에 올라타보자</span></b><hr><i><span class="node_tags">#Tags: </span> Transformer, ELMO, GPT, BERT, Transformer-XL, XLNet, BART, ALBERT, T5, Switch Transformer, ERNIE</i>|정민지|Lecture|[📋][NLP-13]|16|04.11|
 |14|<b><span class="node_title">BERT pretrained model 제작</span></b><hr><i><span class="node_tags">#Tags: </span> BERT</i>|현청천|<b>Project</b>|[📋][NLP-14]|17|04.12|
 |15|<b><span class="node_title">NLP Framework의 활용</span></b><hr><i><span class="node_tags">#Tags: </span> Hugging Face Transformers</i>|정민지|Lecture|[📋][NLP-15]|17|04.18|
-|16|<b><span class="node_title">HuggingFace 커스텀 프로젝트 만들기</span></b><hr><i><span class="node_tags">>#Tags: </span> Hugging Face Transformers</i>|정민지|<b>Project</b>|[📋][NLP-16]|17|04.19|
+|16|<b><span class="node_title">HuggingFace 커스텀 프로젝트 만들기</span></b><hr><i><span class="node_tags">#Tags: </span> Hugging Face Transformers</i>|정민지|<b>Project</b>|[📋][NLP-16]|17|04.19|
 
 [NLP-01]: GOING_DEEPER_NLP/Node_01/README.md
 [NLP-02]: GOING_DEEPER_NLP/Node_02/README.md
